@@ -1,9 +1,9 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:07:30 PM 09-06-2026
+#LAST_UPDATE:08:00 PM 09-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:4
+#LIVE_COUNT:5
 #UPCOMING_COUNT:15
 
 #EXTINF:-1 tvg-id="B0GPQF2DT5" tvg-name="Tri Nation A Series in Sri Lanka 2026 - 1st Match - Sri Lanka A vs India A" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.92ad6917-84d1-4be9-91a9-87696e6b538d/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Tri Nation A Series in Sri Lanka 2026 - 1st Match - Sri Lanka A vs India A
@@ -13,19 +13,12 @@
 #KODIPROP:inputstream.adaptive.license_key=01f756322784d8acaeb5c46651ae8879:e42f17fcb3c0f626f5001227e71b7116
 https://a57live-pv-ta-amazon.akamaized.net/pdx-nitro/live/clients/dash/enc/avbmgwfv7q/out/v1/24142820af7447ae86d91022eafe3435/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0GR6F4XJB" tvg-name="Australia tour of Bangladesh 2026 - 1st ODI - Bangladesh vs Australia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3251866f-d2dc-493b-a7bd-c4ad65c93f09/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Australia tour of Bangladesh 2026 - 1st ODI - Bangladesh vs Australia
+#EXTINF:-1 tvg-id="B0GR6F4XJB" tvg-name="Australia tour of Bangladesh 2026 - 1st ODI - Bangladesh vs Australia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3251866f-d2dc-493b-a7bd-c4ad65c93f09/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Australia tour of Bangladesh 2026 - 1st ODI - Bangladesh vs Australia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b16f37636a12cb83d7082e4df2dd39e:36bff5eb3a4f040223460e1aa2f41c3f
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tsw4vdwngu/out/v1/e1a3a734256c498dbd7b01cdaa7c7c8c/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0H3Z31M7Y" tvg-name="EUT20 Belgium 2026 - 7th Match - Liège Red Lions vs Akcel United Brussels" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b0bda084-e008-4722-a50b-23789862466f/6/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",EUT20 Belgium 2026 - 7th Match - Liège Red Lions vs Akcel United Brussels
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=75f00d0a5d9fcfe6e2b6f964b71d1110:fc6d597284466cca728e8f6e4ea56ceb
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hzsqraip9c/out/v1/cd098e946a774cffb52d8d753bd3e7e9/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0H36JM7B3" tvg-name="ICC Women's T20 World Cup Warm-up Matches 2026 - 9th Match - Netherlands Women vs Sri Lanka Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.289ffb58-7a2e-4cf1-b0ab-f63cc6457310/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",ICC Women's T20 World Cup Warm-up Matches 2026 - 9th Match - Netherlands Women vs Sri Lanka Women
 #KODIPROP:inputstream=inputstream.adaptive
@@ -33,4 +26,18 @@ https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e25f71383958e521e5f9785610ac1348:b7c9c1fc1464db109858847a6a395213
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/pfkpm3tldh/out/v1/8241545b9e984998ad3976050251e949/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H2W8MKY4" tvg-name="ICC Women's T20 World Cup Warm-up Matches 2026 - 10th Match - South Africa Women vs New Zealand Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a3369607-953f-4f23-be7b-e050fb4b2e50/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",ICC Women's T20 World Cup Warm-up Matches 2026 - 10th Match - South Africa Women vs New Zealand Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac3f53c24685b4c35057f87494b7752c:9199baa523ff5b378896c2762f1667b3
+https://a57live-pv-ta-amazon.akamaized.net/pdx-nitro/live/clients/dash/enc/qvcuptplyx/out/v1/31ed20e170674f29b46b24facb33ce4d/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0GZHK18QV" tvg-name="EUT20 Belgium 2026 - 8th Match - JB Bruges vs Antwerp Anchors" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1cc9940d-4e5f-42ba-ab82-316d01431f5e/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",EUT20 Belgium 2026 - 8th Match - JB Bruges vs Antwerp Anchors
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=877a99c95e50e46975fbb8e28e827971:8df0bf43515731cac74db2d24bdfb50f
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yoaf2awsmc/out/v1/bc6d6918b8914d23a38ecb2efffa0478/cenc.mpd
 
