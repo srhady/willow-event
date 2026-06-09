@@ -1,8 +1,15 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:02:01 AM 10-06-2026
+#LAST_UPDATE:02:30 AM 10-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:1
 #UPCOMING_COUNT:19
+
+#EXTINF:-1 tvg-id="B0GZD2SZR6" tvg-name="T20 Blast 2026 - Essex vs Kent" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.de6043c4-8a24-464b-b3a1-ce2c84c41450/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",T20 Blast 2026 - Essex vs Kent
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f227dd4841e994bf19edab033ce1327:2137a4788e434591787ba7c892915e73
+https://a57live-pv-ta-amazon.akamaized.net/pdx-nitro/live/clients/dash/enc/aa9aseg7nj/out/v1/62afd00bc6c5481e8de33792c4bc1923/cenc.mpd
 
