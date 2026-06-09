@@ -2,7 +2,6 @@ name: Willow Event Generator
 
 on:
   workflow_dispatch:
-  
 
 jobs:
   generate-playlist:
