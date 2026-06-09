@@ -1,10 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:11:00 PM 09-06-2026
+#LAST_UPDATE:11:30 PM 09-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:3
-#UPCOMING_COUNT:17
+#LIVE_COUNT:4
+#UPCOMING_COUNT:16
 
 #EXTINF:-1 tvg-id="B0H36JM7B3" tvg-name="ICC Women's T20 World Cup Warm-up Matches 2026 - 9th Match - Netherlands Women vs Sri Lanka Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.289ffb58-7a2e-4cf1-b0ab-f63cc6457310/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",ICC Women's T20 World Cup Warm-up Matches 2026 - 9th Match - Netherlands Women vs Sri Lanka Women
 #KODIPROP:inputstream=inputstream.adaptive
@@ -13,7 +13,7 @@
 #KODIPROP:inputstream.adaptive.license_key=e25f71383958e521e5f9785610ac1348:b7c9c1fc1464db109858847a6a395213
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/pfkpm3tldh/out/v1/8241545b9e984998ad3976050251e949/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0H2W8MKY4" tvg-name="ICC Women's T20 World Cup Warm-up Matches 2026 - 10th Match - South Africa Women vs New Zealand Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a3369607-953f-4f23-be7b-e050fb4b2e50/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",ICC Women's T20 World Cup Warm-up Matches 2026 - 10th Match - South Africa Women vs New Zealand Women
+#EXTINF:-1 tvg-id="B0H2W8MKY4" tvg-name="ICC Women's T20 World Cup Warm-up Matches 2026 - 10th Match - South Africa Women vs New Zealand Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a3369607-953f-4f23-be7b-e050fb4b2e50/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",ICC Women's T20 World Cup Warm-up Matches 2026 - 10th Match - South Africa Women vs New Zealand Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -26,4 +26,11 @@ https://a57live-pv-ta-amazon.akamaized.net/pdx-nitro/live/clients/dash/enc/qvcup
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=877a99c95e50e46975fbb8e28e827971:8df0bf43515731cac74db2d24bdfb50f
 https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yoaf2awsmc/out/v1/bc6d6918b8914d23a38ecb2efffa0478/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0GZD2SZR6" tvg-name="T20 Blast 2026 - Essex vs Kent" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.de6043c4-8a24-464b-b3a1-ce2c84c41450/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",T20 Blast 2026 - Essex vs Kent
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f227dd4841e994bf19edab033ce1327:2137a4788e434591787ba7c892915e73
+https://a57live-pv-ta-amazon.akamaized.net/pdx-nitro/live/clients/dash/enc/aa9aseg7nj/out/v1/62afd00bc6c5481e8de33792c4bc1923/cenc.mpd
 
