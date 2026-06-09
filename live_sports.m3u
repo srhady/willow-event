@@ -1,24 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:08:30 PM 09-06-2026
+#LAST_UPDATE:09:08 PM 09-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:5
-#UPCOMING_COUNT:15
-
-#EXTINF:-1 tvg-id="B0GPQF2DT5" tvg-name="Tri Nation A Series in Sri Lanka 2026 - 1st Match - Sri Lanka A vs India A" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.92ad6917-84d1-4be9-91a9-87696e6b538d/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Tri Nation A Series in Sri Lanka 2026 - 1st Match - Sri Lanka A vs India A
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=01f756322784d8acaeb5c46651ae8879:e42f17fcb3c0f626f5001227e71b7116
-https://a57live-pv-ta-amazon.akamaized.net/pdx-nitro/live/clients/dash/enc/avbmgwfv7q/out/v1/24142820af7447ae86d91022eafe3435/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0GR6F4XJB" tvg-name="Australia tour of Bangladesh 2026 - 1st ODI - Bangladesh vs Australia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3251866f-d2dc-493b-a7bd-c4ad65c93f09/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Australia tour of Bangladesh 2026 - 1st ODI - Bangladesh vs Australia
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8b16f37636a12cb83d7082e4df2dd39e:36bff5eb3a4f040223460e1aa2f41c3f
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tsw4vdwngu/out/v1/e1a3a734256c498dbd7b01cdaa7c7c8c/cenc.mpd
+#LIVE_COUNT:3
+#UPCOMING_COUNT:17
 
 #EXTINF:-1 tvg-id="B0H36JM7B3" tvg-name="ICC Women's T20 World Cup Warm-up Matches 2026 - 9th Match - Netherlands Women vs Sri Lanka Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.289ffb58-7a2e-4cf1-b0ab-f63cc6457310/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",ICC Women's T20 World Cup Warm-up Matches 2026 - 9th Match - Netherlands Women vs Sri Lanka Women
 #KODIPROP:inputstream=inputstream.adaptive
