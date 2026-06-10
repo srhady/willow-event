@@ -1,12 +1,12 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:08:00 PM 10-06-2026
+#LAST_UPDATE:08:30 PM 10-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:17
+#LIVE_COUNT:3
+#UPCOMING_COUNT:16
 
-#EXTINF:-1 tvg-id="B0H3VRWX68" tvg-name="EUT20 Belgium 2026 - 10th Match - Antwerp Anchors vs Liège Red Lions" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b8a0633b-90ce-4b64-bd25-e3f657486670/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",EUT20 Belgium 2026 - 10th Match - Antwerp Anchors vs Liège Red Lions
+#EXTINF:-1 tvg-id="B0H3VRWX68" tvg-name="EUT20 Belgium 2026 - 10th Match - Antwerp Anchors vs Liège Red Lions" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b8a0633b-90ce-4b64-bd25-e3f657486670/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",EUT20 Belgium 2026 - 10th Match - Antwerp Anchors vs Liège Red Lions
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -19,4 +19,11 @@ https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=402390e423c778bf9a0cf61485d1188b:123e7efc50b67411a64980aec500d54d
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wb5rrwverb/out/v1/7d659cec19f84403a79adc0a4523a10a/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H4FKHL9D" tvg-name="EUT20 Belgium 2026 - 11th Match - Ghent Gladiators vs Akcel United Brussels" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0c55a4e5-0a00-4d96-9b3e-8bccd92e4732/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",EUT20 Belgium 2026 - 11th Match - Ghent Gladiators vs Akcel United Brussels
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45949ef420df9a369987bb9ada8a7166:faa7ea604451d3faaa86d51923eb414c
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jgrz1iio2k/out/v1/348242c455e44417ad57babf79e641dd/cenc.mpd
 
