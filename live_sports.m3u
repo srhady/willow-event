@@ -1,17 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:08:30 PM 10-06-2026
+#LAST_UPDATE:09:00 PM 10-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:3
+#LIVE_COUNT:2
 #UPCOMING_COUNT:16
-
-#EXTINF:-1 tvg-id="B0H3VRWX68" tvg-name="EUT20 Belgium 2026 - 10th Match - Antwerp Anchors vs Liège Red Lions" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b8a0633b-90ce-4b64-bd25-e3f657486670/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",EUT20 Belgium 2026 - 10th Match - Antwerp Anchors vs Liège Red Lions
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=78fbd05113a8a20471939c4014e891ff:8fbb536a620f4acf1cb8c4e57269a521
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/frib3xh6rm/out/v1/434e45fa7f874a17a10429cb736eb323/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0H1SDYTMG" tvg-name="ICC Womens T20 World Cup Warm-up Matches 2026 - 12th Match - West Indies Women vs Australia Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c9d8746d-7b9e-4210-b42e-cddb0eae37d8/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",ICC Womens T20 World Cup Warm-up Matches 2026 - 12th Match - West Indies Women vs Australia Women
 #KODIPROP:inputstream=inputstream.adaptive
