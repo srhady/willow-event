@@ -6,10 +6,15 @@ on:
 jobs:
   generate-playlist:
     runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout Public Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Checkout Private Repository
         uses: actions/checkout@v4
@@ -39,4 +44,5 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add live_sports.json live_sports.m3u
           git commit -m "Auto-update Willow live events" || echo "No changes to commit"
+          git pull origin main --rebase
           git push origin main
