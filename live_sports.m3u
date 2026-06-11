@@ -1,10 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:03:30 PM 11-06-2026
+#LAST_UPDATE:04:00 PM 11-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:16
+#LIVE_COUNT:3
+#UPCOMING_COUNT:15
 
 #EXTINF:-1 tvg-id="B0H17GTBTP" tvg-name="Tri Nation A Series in Sri Lanka 2026 - 2nd Match - India A vs Afghanistan A" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a4afcf57-237c-495c-b043-5e332554c096/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Tri Nation A Series in Sri Lanka 2026 - 2nd Match - India A vs Afghanistan A
 #KODIPROP:inputstream=inputstream.adaptive
@@ -19,4 +19,11 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ehfibbt64r/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2b04e262f023cf59a2226dff375b3be:5455b5b5f804c34e2324a1bed24f9da0
 https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/jpt6zpxrd8/out/v1/2a70f9d752d245849a8492ad81a8bf3c/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H4H6SGTC" tvg-name="EUT20 Belgium 2026 - 12th Match - Akcel United Brussels vs Antwerp Anchors" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8f4ca9fd-84de-4bb6-8de8-f2dc2c7da8d7/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",EUT20 Belgium 2026 - 12th Match - Akcel United Brussels vs Antwerp Anchors
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10f1ae233d0c71e9e2399260d2e399b6:4f8c997d1458ccb090e37f09e602afb6
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dkdh5uuwob/out/v1/091d8c89f37642aaa7b6105c8fa04721/cenc.mpd
 
