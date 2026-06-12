@@ -1,8 +1,15 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:04:00 PM 12-06-2026
+#LAST_UPDATE:04:30 PM 12-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:1
 #UPCOMING_COUNT:19
+
+#EXTINF:-1 tvg-id="B0H4GJGJN6" tvg-name="EUT20 Belgium 2026 - 14th Match - Akcel United Brussels vs Ghent Gladiators" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e0277ffe-c7eb-4818-9d70-5703c6249e0c/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",EUT20 Belgium 2026 - 14th Match - Akcel United Brussels vs Ghent Gladiators
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a4671f3cad93ace837bd694260c44c1:638cb90c236ea32dd52ba82776255838
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gfttitownb/out/v1/82dc418b859741d19882f1df9604846b/cenc.mpd
 
