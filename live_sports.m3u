@@ -1,9 +1,9 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:10:32 PM 13-06-2026
+#LAST_UPDATE:11:02 PM 13-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:3
+#LIVE_COUNT:2
 #UPCOMING_COUNT:14
 
 #EXTINF:-1 tvg-id="B0GY5L479J" tvg-name="Afghanistan tour of India 2026 - 1st ODI - India vs Afghanistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ec2bca8b-04f5-42ef-b9c6-cdfcdffdd549/7/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Afghanistan tour of India 2026 - 1st ODI - India vs Afghanistan
@@ -13,17 +13,17 @@
 #KODIPROP:inputstream.adaptive.license_key=7e43190efc077a8e34d29efe88667f0d:bdc614e076190e536c7aca7f66ae3f88
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vfumc0t3cc/out/v1/f14dd22c77cb4138b316baf3c970304e/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0H2MWH8ZD" tvg-name="Australia vs. South Africa" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.229e3d91-4210-4712-aa15-7a9d9af4360b/3/BOXART-16X9/en-US._UR1920,1080_.jpg" group-title="Live Sports Cricket",Australia vs. South Africa
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a66095f78e3bd3cfdf04354f9d0619fa:d7e8ea4cf8bcebf30757f251384e7a0c
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dzyb02igop/out/v1/b997f6ddb52f4af88c0db614580fa615/cenc.mpd
-
 #EXTINF:-1 tvg-id="B0H4197X8W" tvg-name="EUT20 Belgium 2026 - 17th Match - Akcel United Brussels vs JB Bruges" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.37690ce7-3863-4bf7-b79b-910835a0b24b/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",EUT20 Belgium 2026 - 17th Match - Akcel United Brussels vs JB Bruges
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=262ae113b3aa5d43bafb04f71bb87dd0:61d2c5dfb070e825adae56e07b7bc57c
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dnms7gm805/out/v1/b063a96f8f524015bf4c8670121900b5/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0GL73R93M" tvg-name="West Indies vs. New Zealand" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1144b92d-fab6-41b5-8e9c-c5b5319b7ca7/3/BOXART-16X9/en-US._UR1920,1080_.jpg" group-title="Live Sports Cricket",West Indies vs. New Zealand
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=311555093f40b2580b055a9e6d8d11c6:748d3c24912ba09c25b798d626f8da53
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/gifknscaoi/out/v1/e0e874a7f498417db7e79810114711ae/cenc.mpd
 
