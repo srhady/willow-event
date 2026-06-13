@@ -1,9 +1,9 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:08:02 PM 13-06-2026
+#LAST_UPDATE:08:32 PM 13-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:4
+#LIVE_COUNT:3
 #UPCOMING_COUNT:14
 
 #EXTINF:-1 tvg-id="B0GY5L479J" tvg-name="Afghanistan tour of India 2026 - 1st ODI - India vs Afghanistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ec2bca8b-04f5-42ef-b9c6-cdfcdffdd549/7/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Afghanistan tour of India 2026 - 1st ODI - India vs Afghanistan
@@ -12,13 +12,6 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e43190efc077a8e34d29efe88667f0d:bdc614e076190e536c7aca7f66ae3f88
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vfumc0t3cc/out/v1/f14dd22c77cb4138b316baf3c970304e/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0GD1M46WR" tvg-name="EUT20 Belgium 2026 - 16th Match - Antwerp Anchors vs Ghent Gladiators" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ee58a9e0-a523-41f0-944a-b26667c28fda/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",EUT20 Belgium 2026 - 16th Match - Antwerp Anchors vs Ghent Gladiators
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3f446aa3045b78a67ad34256dd44d57:6ad5c13d969fd9286acbc16111321c45
-https://a57live-pv-ta-amazon.akamaized.net/pdx-nitro/live/clients/dash/enc/ek256oko2h/out/v1/1a4e80f9cf404cf7bdae61b56141070a/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0H2MWH8ZD" tvg-name="Australia vs. South Africa" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.229e3d91-4210-4712-aa15-7a9d9af4360b/3/BOXART-16X9/en-US._UR1920,1080_.jpg" group-title="Live Sports Cricket",Australia vs. South Africa
 #KODIPROP:inputstream=inputstream.adaptive
