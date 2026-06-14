@@ -1,17 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:11:02 PM 14-06-2026
+#LAST_UPDATE:11:32 PM 14-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:18
-
-#EXTINF:-1 tvg-id="B0H3849T6K" tvg-name="India vs. Pakistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cd2d9845-bfe3-48cf-aca2-468059cdbd8d/5/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",India vs. Pakistan
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=171c4539a8653c515e927b82ecabc2a0:4436fc9a03a14035bb6abccdb3020c94
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oqs1e78oje/out/v1/5fee0665212c492088570362037805bc/cenc.mpd
+#LIVE_COUNT:1
+#UPCOMING_COUNT:19
 
 #EXTINF:-1 tvg-id="B0H55G1L7R" tvg-name="EUT20 Belgium 2026 - Final - Ghent Gladiators vs Antwerp Anchors" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4f92354f-e69b-4723-a25c-c7091e724f50/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",EUT20 Belgium 2026 - Final - Ghent Gladiators vs Antwerp Anchors
 #KODIPROP:inputstream=inputstream.adaptive
