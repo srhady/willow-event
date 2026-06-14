@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:03:32 PM 14-06-2026
+#LAST_UPDATE:04:02 PM 14-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:2
@@ -12,4 +12,11 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c2072eebd0c39d2c984486dce6db1c6:4d559001220025d97bad51b564f5a25b
 https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/chuh09adm3/out/v1/4a3cef726289450fbc48e7dc0147fa0e/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H2J7CMMH" tvg-name="Bangladesh vs. Netherlands" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.33b1143f-f942-4a54-8d4a-659bfaee4f96/7/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Bangladesh vs. Netherlands
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b3eb35da28c14f0aeb6c44541bb08d07:f33db74a71a7bdd226c70974830f946e
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vw4tnp6ap4/out/v1/3f0ac57e65934d909cb934551d087816/cenc.mpd
 
