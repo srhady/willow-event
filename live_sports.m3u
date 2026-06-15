@@ -1,10 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:04:02 PM 15-06-2026
+#LAST_UPDATE:04:32 PM 15-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:18
+#LIVE_COUNT:3
+#UPCOMING_COUNT:17
 
 #EXTINF:-1 tvg-id="B0H3LMPD83" tvg-name="Tri Nation A Series in Sri Lanka 2026 - 4th Match - Sri Lanka A vs India A" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8a328e6c-c58a-4bc6-bf9a-88df09269668/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Tri Nation A Series in Sri Lanka 2026 - 4th Match - Sri Lanka A vs India A
 #KODIPROP:inputstream=inputstream.adaptive
@@ -12,4 +12,11 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3aa6f9df41c299f659aaee15d0067900:0434703fb407fb12980f51944271a1f8
 https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/ldgnvordfu/out/v1/430b37000b9148379747ac5cfb2ada46/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0GZNPF77H" tvg-name="Nordic Smash T20 Cup 2026 - 2nd Match - Stockholm United vs Uppsala Tigers" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f094eafa-b2b9-4347-8e72-56c3c9423701/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Nordic Smash T20 Cup 2026 - 2nd Match - Stockholm United vs Uppsala Tigers
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b1c8978a1400494165fb26d8e59c5aa:715de90734e4568078542ba6b5e1cb7d
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/js1o9enqdf/out/v1/42d3f3ebdf8446048213c1b1b08a3793/cenc.mpd
 
