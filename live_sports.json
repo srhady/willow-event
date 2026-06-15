@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "09:32 AM 15-06-2026",
+    "LastUpdate": "10:02 AM 15-06-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 19
+    "LiveCount": 2,
+    "UpcomingCount": 18
   },
   "Matches": [
     {
@@ -26,13 +26,13 @@
       "match_id": "B0H3LMPD83",
       "title": "Tri Nation A Series in Sri Lanka 2026 - 4th Match - Sri Lanka A vs India A",
       "synopsis": "Tri Nation A Series in Sri Lanka 2026 - 4th Match - Sri Lanka A vs India A",
-      "status": "UPCOMING",
-      "time": "Live at 10:30 AM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8a328e6c-c58a-4bc6-bf9a-88df09269668/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "9:55 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8a328e6c-c58a-4bc6-bf9a-88df09269668/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0H3LMPD83/ref=atv_3p_amz_c_Gu0OSt_2_2?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u",
       "is_free": false,
-      "stream_url": "",
-      "drm_key": ""
+      "stream_url": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/ldgnvordfu/out/v1/430b37000b9148379747ac5cfb2ada46/cenc.mpd",
+      "drm_key": "3aa6f9df41c299f659aaee15d0067900:0434703fb407fb12980f51944271a1f8"
     },
     {
       "match_id": "B0GZ1KSHJD",
