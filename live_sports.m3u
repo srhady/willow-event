@@ -1,8 +1,15 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:06:02 AM 15-06-2026
+#LAST_UPDATE:06:32 AM 15-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:20
+#LIVE_COUNT:1
+#UPCOMING_COUNT:19
+
+#EXTINF:-1 tvg-id="B0GYJPYXDW" tvg-name="Sri Lanka tour of West Indies 2026 - 3rd T20I - West Indies vs Sri Lanka" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.955dc498-388a-4389-8c94-ed965336cd3c/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Sri Lanka tour of West Indies 2026 - 3rd T20I - West Indies vs Sri Lanka
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=024b12ed56ef6d009b165ffa1e026f46:1962fbc99c0922ac1408cd401b3c0851
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cjdpnuswqz/out/v1/ceaca3cd8fb64067a4fc34b99c6dc7d3/cenc.mpd
 
