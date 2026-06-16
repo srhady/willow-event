@@ -1,26 +1,26 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "12:32 PM 16-06-2026",
+    "LastUpdate": "01:02 PM 16-06-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 0,
-    "UpcomingCount": 20
+    "LiveCount": 1,
+    "UpcomingCount": 19
   },
   "Matches": [
     {
       "match_id": "B0H45CC5MZ",
       "title": "Nordic Smash T20 Cup 2026 - 4th Match - Stockholm United vs Gothenburg Phoenix",
       "synopsis": "Nordic Smash T20 Cup 2026 - 4th Match - Stockholm United vs Gothenburg Phoenix",
-      "status": "UPCOMING",
-      "time": "Live at 1 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ab584f82-105b-4c52-9492-363b7c2e1411/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "12:30 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ab584f82-105b-4c52-9492-363b7c2e1411/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0H45CC5MZ/ref=atv_3p_amz_c_Gu0OSt_2_1?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u",
       "is_free": false,
-      "stream_url": "",
-      "drm_key": ""
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0kwstbuia9/out/v1/7becbdbfe8a1457e83b0fde4df437eed/cenc.mpd",
+      "drm_key": "e3ae77411d7cd184cf7e14b8e59d5f72:69258a28d26c8a0a4974e05de93e7e0f"
     },
     {
       "match_id": "B0H3Z2YMHL",

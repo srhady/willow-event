@@ -1,8 +1,15 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:12:32 PM 16-06-2026
+#LAST_UPDATE:01:02 PM 16-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:20
+#LIVE_COUNT:1
+#UPCOMING_COUNT:19
+
+#EXTINF:-1 tvg-id="B0H45CC5MZ" tvg-name="Nordic Smash T20 Cup 2026 - 4th Match - Stockholm United vs Gothenburg Phoenix" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ab584f82-105b-4c52-9492-363b7c2e1411/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Nordic Smash T20 Cup 2026 - 4th Match - Stockholm United vs Gothenburg Phoenix
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3ae77411d7cd184cf7e14b8e59d5f72:69258a28d26c8a0a4974e05de93e7e0f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0kwstbuia9/out/v1/7becbdbfe8a1457e83b0fde4df437eed/cenc.mpd
 
