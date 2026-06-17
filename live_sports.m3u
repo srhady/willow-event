@@ -1,17 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:10:32 PM 17-06-2026
+#LAST_UPDATE:11:32 PM 17-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:4
-#UPCOMING_COUNT:16
-
-#EXTINF:-1 tvg-id="B0GZW669DW" tvg-name="Afghanistan tour of India 2026 - 2nd ODI - India vs Afghanistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dc4c4bab-544d-4d21-aa97-c46626f458ed/6/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Afghanistan tour of India 2026 - 2nd ODI - India vs Afghanistan
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30a1847c675457eeb57a122fa2e57e60:9c794850892dac3f36c0f4f7032b3b8d
-https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/bgnz4efyfv/out/v1/1188790dc6384302b1917ffc948b2e21/cenc.mpd
+#LIVE_COUNT:3
+#UPCOMING_COUNT:17
 
 #EXTINF:-1 tvg-id="B0GW5Y7XDY" tvg-name="England vs. New Zealand" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d4746bf4-f478-4bfd-84b5-b29f7a8138a3/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",England vs. New Zealand
 #KODIPROP:inputstream=inputstream.adaptive
@@ -20,17 +13,17 @@ https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/bgnz4
 #KODIPROP:inputstream.adaptive.license_key=b234524f228acee39ee0520f365b53b9:796e64fdd5fa38817b89f687070e4ecb
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zjj9jidz6n/out/v1/fb55b85aa1fa43ae883adfe34606614c/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0H41SRBCT" tvg-name="India vs. Netherlands" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.19f9ea73-5edb-4331-a48e-f44031c93b87/3/BOXART-16X9/en-US._UR1920,1080_.jpg" group-title="Live Sports Cricket",India vs. Netherlands
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f930e839e54bcf012e1ea679ab3305e:e967ef6bb2f4f0bc815976d60f489d97
-https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/vvdiu7zexg/out/v1/d32dba602fbc4f748445f7fc26fd7b29/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0H55W7T3Y" tvg-name="Nordic Smash T20 Cup 2026 - 9th Match - Stockholm City vs Stockholm United" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0547715d-7a8b-40b1-a5db-4db131e0923b/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Nordic Smash T20 Cup 2026 - 9th Match - Stockholm City vs Stockholm United
+#EXTINF:-1 tvg-id="B0H55W7T3Y" tvg-name="Nordic Smash T20 Cup 2026 - 9th Match - Stockholm City vs Stockholm United" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0547715d-7a8b-40b1-a5db-4db131e0923b/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Nordic Smash T20 Cup 2026 - 9th Match - Stockholm City vs Stockholm United
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c6a6f861fbf53a97e0bf01d591a5f1e:d20df0c970cfbbabf69a83e205442eb9
 https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qeu3uaxp8f/out/v1/4f266a4f510e4309a28d130e8d383113/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H5HK4RP1" tvg-name="South Africa vs. Pakistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5094bd98-2d1a-4655-8eb4-c185d9358228/3/BOXART-16X9/en-US._UR1920,1080_.jpg" group-title="Live Sports Cricket",South Africa vs. Pakistan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3ccac291380a79f116310bb6f16a503:40408c987032f3f5b50675429c770818
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/niwgdo1k8c/out/v1/9ad6b47e0d03436f95d24f8dc04e5c32/cenc.mpd
 
