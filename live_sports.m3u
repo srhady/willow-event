@@ -1,8 +1,36 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:06:02 PM 17-06-2026
+#LAST_UPDATE:06:32 PM 17-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:6
-#UPCOMING_COUNT:14
+#LIVE_COUNT:4
+#UPCOMING_COUNT:16
+
+#EXTINF:-1 tvg-id="B0H3PNV1XT" tvg-name="Tri Nation A Series in Sri Lanka 2026 - 5th Match - India A vs Afghanistan A" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.941f9140-dd12-4f85-89d1-52806cc781b1/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Tri Nation A Series in Sri Lanka 2026 - 5th Match - India A vs Afghanistan A
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1b8627d4ab12c6f6a4e8c8ad0434eb3:4c7504084721bca94d1b2b59d15b580a
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/t9gut468ef/out/v1/5f9c9cc523eb48aa97e1514e2305d89f/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0GZW669DW" tvg-name="Afghanistan tour of India 2026 - 2nd ODI - India vs Afghanistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dc4c4bab-544d-4d21-aa97-c46626f458ed/5/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Afghanistan tour of India 2026 - 2nd ODI - India vs Afghanistan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30a1847c675457eeb57a122fa2e57e60:9c794850892dac3f36c0f4f7032b3b8d
+https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/bgnz4efyfv/out/v1/1188790dc6384302b1917ffc948b2e21/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0GW5Y7XDY" tvg-name="England vs. New Zealand" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d4746bf4-f478-4bfd-84b5-b29f7a8138a3/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",England vs. New Zealand
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b234524f228acee39ee0520f365b53b9:796e64fdd5fa38817b89f687070e4ecb
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zjj9jidz6n/out/v1/fb55b85aa1fa43ae883adfe34606614c/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0GMBVK539" tvg-name="Nordic Smash T20 Cup 2026 - 8th Match - Gothenburg Phoenix vs Uppsala Tigers" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4abff642-dc44-4d6b-8a7e-8c0195d99ae0/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Nordic Smash T20 Cup 2026 - 8th Match - Gothenburg Phoenix vs Uppsala Tigers
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59425c5fb636988bfe6c21d39f7d3632:cb520bf40136990fb4b67c6a7baa019f
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/b7rxmpmlhs/out/v1/52b06410b8484931a0bcef04c6615484/cenc.mpd
 
