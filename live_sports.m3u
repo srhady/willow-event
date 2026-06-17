@@ -1,12 +1,12 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:06:32 PM 17-06-2026
+#LAST_UPDATE:07:02 PM 17-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:4
+#LIVE_COUNT:5
 #UPCOMING_COUNT:16
 
-#EXTINF:-1 tvg-id="B0H3PNV1XT" tvg-name="Tri Nation A Series in Sri Lanka 2026 - 5th Match - India A vs Afghanistan A" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.941f9140-dd12-4f85-89d1-52806cc781b1/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Tri Nation A Series in Sri Lanka 2026 - 5th Match - India A vs Afghanistan A
+#EXTINF:-1 tvg-id="B0H3PNV1XT" tvg-name="Tri Nation A Series in Sri Lanka 2026 - 5th Match - India A vs Afghanistan A" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.941f9140-dd12-4f85-89d1-52806cc781b1/5/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Tri Nation A Series in Sri Lanka 2026 - 5th Match - India A vs Afghanistan A
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -33,4 +33,18 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zjj9jidz6n/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59425c5fb636988bfe6c21d39f7d3632:cb520bf40136990fb4b67c6a7baa019f
 https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/b7rxmpmlhs/out/v1/52b06410b8484931a0bcef04c6615484/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H41SRBCT" tvg-name="India vs. Netherlands" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.19f9ea73-5edb-4331-a48e-f44031c93b87/3/BOXART-16X9/en-US._UR1920,1080_.jpg" group-title="Live Sports Cricket",India vs. Netherlands
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f930e839e54bcf012e1ea679ab3305e:e967ef6bb2f4f0bc815976d60f489d97
+https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/vvdiu7zexg/out/v1/d32dba602fbc4f748445f7fc26fd7b29/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H42L9QLP" tvg-name="Australia vs. Bangladesh" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.92569765-353f-4639-b283-22e8f598902a/5/BOXART-16X9/en-US._UR1920,1080_.jpg" group-title="Live Sports Cricket",Australia vs. Bangladesh
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8367b9a178062e5f3461abec20270c23:4f8aa5e3da322086ea20726f73af91bb
+https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/jqhjnmal8s/out/v1/9c2ac272e2824e80b52688a0997b9682/cenc.mpd
 

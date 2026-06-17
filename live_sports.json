@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "06:32 PM 17-06-2026",
+    "LastUpdate": "07:02 PM 17-06-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 5,
     "UpcomingCount": 16
   },
   "Matches": [
@@ -16,7 +16,7 @@
       "synopsis": "Tri Nation A Series in Sri Lanka 2026 - 5th Match - India A vs Afghanistan A",
       "status": "LIVE",
       "time": "9:55 AM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.941f9140-dd12-4f85-89d1-52806cc781b1/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.941f9140-dd12-4f85-89d1-52806cc781b1/5/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0H3PNV1XT/ref=atv_3p_amz_c_Gu0OSt_2_1?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u",
       "is_free": false,
       "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/t9gut468ef/out/v1/5f9c9cc523eb48aa97e1514e2305d89f/cenc.mpd",
@@ -64,11 +64,11 @@
       "synopsis": "Watch India take on Netherlands in the ICC Women's T20 World Cup - 2026 England & Wales",
       "status": "UPCOMING",
       "time": "Live at 7:30 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.19f9ea73-5edb-4331-a48e-f44031c93b87/2/BOXART-16X9/en-US._UR1920,1080_.jpg",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.19f9ea73-5edb-4331-a48e-f44031c93b87/3/BOXART-16X9/en-US._UR1920,1080_.jpg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0H41SRBCT/ref=atv_3p_amz_c_Gu0OSt_2_5?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u",
       "is_free": true,
-      "stream_url": "",
-      "drm_key": ""
+      "stream_url": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/vvdiu7zexg/out/v1/d32dba602fbc4f748445f7fc26fd7b29/cenc.mpd",
+      "drm_key": "2f930e839e54bcf012e1ea679ab3305e:e967ef6bb2f4f0bc815976d60f489d97"
     },
     {
       "match_id": "B0H55W7T3Y",
@@ -249,6 +249,18 @@
       "is_free": false,
       "stream_url": "",
       "drm_key": ""
+    },
+    {
+      "match_id": "B0H42L9QLP",
+      "title": "Australia vs. Bangladesh",
+      "synopsis": "Watch Australia take on Bangladesh in the ICC Women's T20 World Cup - 2026 England & Wales",
+      "status": "LIVE",
+      "time": "3:30 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.92569765-353f-4639-b283-22e8f598902a/5/BOXART-16X9/en-US._UR1920,1080_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H42L9QLP/ref=atv_3p_amz_c_sWBnqP_3_1?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u",
+      "is_free": true,
+      "stream_url": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/jqhjnmal8s/out/v1/9c2ac272e2824e80b52688a0997b9682/cenc.mpd",
+      "drm_key": "8367b9a178062e5f3461abec20270c23:4f8aa5e3da322086ea20726f73af91bb"
     }
   ]
 }
