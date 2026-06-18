@@ -1,26 +1,26 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "12:02 PM 18-06-2026",
+    "LastUpdate": "12:32 PM 18-06-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 0,
-    "UpcomingCount": 20
+    "LiveCount": 1,
+    "UpcomingCount": 19
   },
   "Matches": [
     {
       "match_id": "B0H2ZVPHZ1",
       "title": "Nordic Smash T20 Cup 2026 - 10th Match - Stockholm City vs Gothenburg Phoenix",
       "synopsis": "Nordic Smash T20 Cup 2026 - 10th Match - Stockholm City vs Gothenburg Phoenix",
-      "status": "UPCOMING",
-      "time": "Live at 1 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ff3c3a17-bbaf-452f-a683-80eb44ecf7e6/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "12:30 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ff3c3a17-bbaf-452f-a683-80eb44ecf7e6/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0H2ZVPHZ1/ref=atv_3p_amz_c_Gu0OSt_2_1?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u",
       "is_free": false,
-      "stream_url": "",
-      "drm_key": ""
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dtfwm7btyc/out/v1/fa92ef4976814094bc8394f9cad77335/cenc.mpd",
+      "drm_key": "15eabb919e6a80ea16f55313c41f893a:74300d4612476bf87cfc6e10e896d852"
     },
     {
       "match_id": "B0GW5Y7XDY",
