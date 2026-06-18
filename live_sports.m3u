@@ -1,10 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:03:32 PM 18-06-2026
+#LAST_UPDATE:04:02 PM 18-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:18
+#LIVE_COUNT:3
+#UPCOMING_COUNT:17
 
 #EXTINF:-1 tvg-id="B0H2ZVPHZ1" tvg-name="Nordic Smash T20 Cup 2026 - 10th Match - Stockholm City vs Gothenburg Phoenix" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ff3c3a17-bbaf-452f-a683-80eb44ecf7e6/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Nordic Smash T20 Cup 2026 - 10th Match - Stockholm City vs Gothenburg Phoenix
 #KODIPROP:inputstream=inputstream.adaptive
@@ -19,4 +19,11 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dtfwm7btyc/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b234524f228acee39ee0520f365b53b9:796e64fdd5fa38817b89f687070e4ecb
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zjj9jidz6n/out/v1/fb55b85aa1fa43ae883adfe34606614c/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H41Z345X" tvg-name="Nordic Smash T20 Cup 2026 - 11th Match - Uppsala Tigers vs Vasteras United" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e3da9e08-edf7-4bd0-82e2-49242b7f644f/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Nordic Smash T20 Cup 2026 - 11th Match - Uppsala Tigers vs Vasteras United
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=97e98a8a05a06318f3cf8966e3f240d8:29cfb9e6da30b6be6585ba9e3983e477
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mk6swunh3t/out/v1/909c81d0dae54df4b88e7d6172077c4f/cenc.mpd
 
