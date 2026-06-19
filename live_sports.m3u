@@ -1,17 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:11:02 AM 19-06-2026
+#LAST_UPDATE:11:32 AM 19-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:18
-
-#EXTINF:-1 tvg-id="B0H5JVVDXT" tvg-name="Major League Cricket 2026 - 1st Match - Texas Super Kings vs Seattle Orcas" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.16db3335-c588-4185-b76a-611e1d07e2e6/5/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Major League Cricket 2026 - 1st Match - Texas Super Kings vs Seattle Orcas
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9d04482a571bd3de3f3a395fb736b248:3927147a8deb5a6ac33eb47b0d7d8966
-https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/wgrmbrvhu8/out/v1/09861970a7a74322aa31ddb10c4b1bce/cenc.mpd
+#LIVE_COUNT:1
+#UPCOMING_COUNT:19
 
 #EXTINF:-1 tvg-id="B0H2YG87NN" tvg-name="Tri Nation A Series in Sri Lanka 2026 - 6th Match - Sri Lanka A vs Afghanistan A" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c48a38d9-f2bf-47f6-a007-8edd4b8b678d/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Tri Nation A Series in Sri Lanka 2026 - 6th Match - Sri Lanka A vs Afghanistan A
 #KODIPROP:inputstream=inputstream.adaptive
