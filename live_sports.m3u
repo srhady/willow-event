@@ -1,17 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:01:02 AM 20-06-2026
+#LAST_UPDATE:02:32 AM 20-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:2
 #UPCOMING_COUNT:18
-
-#EXTINF:-1 tvg-id="B0GW5Y7XDY" tvg-name="New Zealand tour of England 2026 - 2nd Test - England vs New Zealand" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d4746bf4-f478-4bfd-84b5-b29f7a8138a3/7/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",New Zealand tour of England 2026 - 2nd Test - England vs New Zealand
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f46a493ad01c1b237b996f78e96d35c3:271e7552eb45e1ad20b17ad7f0fb2f3e
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7bdy4bcpnx/out/v1/7a73933264244221b1ce3545dfebabc3/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0H3TSMQ8J" tvg-name="New Zealand vs. Ireland" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.60dbb765-f907-4fbd-8d82-97eaa03e0234/3/BOXART-16X9/en-US._UR1920,1080_.jpg" group-title="Live Sports Cricket",New Zealand vs. Ireland
 #KODIPROP:inputstream=inputstream.adaptive
@@ -19,4 +12,11 @@ https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0afe9f50c05f661952ff7e909d94309b:6e0443d0a98cb590f0dac249665deacc
 https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lye3zqw9p9/out/v1/0f6caef5184d4b21b7f81103f6ef5a23/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H55CNW7N" tvg-name="Major League Cricket 2026 - 2nd Match - Los Angeles Knight Riders vs San Francisco Unicorns" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b2f06a90-7bfa-4e41-8ca1-af1e1bd241cf/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Major League Cricket 2026 - 2nd Match - Los Angeles Knight Riders vs San Francisco Unicorns
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a44a95bce19615ad3a641824e353097e:f8e0bdff4dc12ca3ce9b68ae08cb9441
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zmgyzr5xuo/out/v1/93c03a46b4d146e7b642dd62bd3b3216/cenc.mpd
 
