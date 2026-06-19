@@ -1,10 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:07:32 PM 19-06-2026
+#LAST_UPDATE:08:02 PM 19-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:18
+#LIVE_COUNT:3
+#UPCOMING_COUNT:17
 
 #EXTINF:-1 tvg-id="B0GW5Y7XDY" tvg-name="New Zealand tour of England 2026 - 2nd Test - England vs New Zealand" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d4746bf4-f478-4bfd-84b5-b29f7a8138a3/7/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",New Zealand tour of England 2026 - 2nd Test - England vs New Zealand
 #KODIPROP:inputstream=inputstream.adaptive
@@ -13,10 +13,17 @@
 #KODIPROP:inputstream.adaptive.license_key=f46a493ad01c1b237b996f78e96d35c3:271e7552eb45e1ad20b17ad7f0fb2f3e
 https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7bdy4bcpnx/out/v1/7a73933264244221b1ce3545dfebabc3/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0H4V79NCW" tvg-name="Nordic Smash T20 Cup 2026 - 14th Match - Stockholm City vs Uppsala Tigers" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fb81fa6e-32e1-41ed-8729-2c7807407fd4/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Nordic Smash T20 Cup 2026 - 14th Match - Stockholm City vs Uppsala Tigers
+#EXTINF:-1 tvg-id="B0H4V79NCW" tvg-name="Nordic Smash T20 Cup 2026 - 14th Match - Stockholm City vs Uppsala Tigers" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fb81fa6e-32e1-41ed-8729-2c7807407fd4/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Nordic Smash T20 Cup 2026 - 14th Match - Stockholm City vs Uppsala Tigers
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=89e573c0a5ea6bf64fb357ee94063849:a50602781c24ac5bdc15059fd74333b6
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/phy1r5d1xi/out/v1/a00a7728fe7841b094fc5f0657b303fe/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H2Z9QJ3P" tvg-name="Nordic Smash T20 Cup 2026 - 15th Match - Gothenburg Phoenix vs Malmo Mavericks" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4ddd3d99-66ac-426d-8153-3161c0b423b2/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Nordic Smash T20 Cup 2026 - 15th Match - Gothenburg Phoenix vs Malmo Mavericks
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa43e88f53edd54a00e835c12c9ecd0b:d6a12735093c86a35d17ae7a5441d0b5
+https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/gs3kkguncl/out/v1/d178869749c14aeeaefd91c7175b4385/cenc.mpd
 
