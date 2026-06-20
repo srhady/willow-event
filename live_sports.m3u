@@ -1,10 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:03:02 PM 20-06-2026
+#LAST_UPDATE:03:32 PM 20-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:18
+#LIVE_COUNT:3
+#UPCOMING_COUNT:17
 
 #EXTINF:-1 tvg-id="B0H5RLML39" tvg-name="Nordic Smash T20 Cup 2026 - 1st Semi-Final - Stockholm City vs Gothenburg Phoenix" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.17fc9d88-32c2-4bcc-89d0-37676e4167f7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Nordic Smash T20 Cup 2026 - 1st Semi-Final - Stockholm City vs Gothenburg Phoenix
 #KODIPROP:inputstream=inputstream.adaptive
@@ -19,4 +19,11 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cekqsgirpp/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b27756aac13b4118b31213e99cbb272d:ca0ef74a7e6237857cbfbef54cc09322
 https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gzyicjiy44/out/v1/388277c3c7a7495e9a7c48bbb0f639a3/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H58JWS2K" tvg-name="Australia vs. Netherlands" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4b8bfe31-07d8-4dca-ad99-f23f261af7ca/3/BOXART-16X9/en-US._UR1920,1080_.jpg" group-title="Live Sports Cricket",Australia vs. Netherlands
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=36d3c540acc063a248ef7fc725a1b828:ae593b3c9f1c55cf4a819d2409051273
+https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/jzdcmsg42z/out/v1/04ed24f3421745a9ba1838971d36316f/cenc.mpd
 

@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "03:02 PM 20-06-2026",
+    "LastUpdate": "03:32 PM 20-06-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 2,
-    "UpcomingCount": 18
+    "LiveCount": 3,
+    "UpcomingCount": 17
   },
   "Matches": [
     {
@@ -38,13 +38,13 @@
       "match_id": "B0H58JWS2K",
       "title": "Australia vs. Netherlands",
       "synopsis": "Watch Australia take on Netherlands in the ICC Women's T20 World Cup - 2026 England & Wales",
-      "status": "UPCOMING",
-      "time": "Live at 3:30 PM BDT",
+      "status": "LIVE",
+      "time": "3:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4b8bfe31-07d8-4dca-ad99-f23f261af7ca/3/BOXART-16X9/en-US._UR1920,1080_.jpg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0H58JWS2K?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
       "is_free": true,
-      "stream_url": "",
-      "drm_key": ""
+      "stream_url": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/jzdcmsg42z/out/v1/04ed24f3421745a9ba1838971d36316f/cenc.mpd",
+      "drm_key": "36d3c540acc063a248ef7fc725a1b828:ae593b3c9f1c55cf4a819d2409051273"
     },
     {
       "match_id": "B0GW5Y7XDY",
@@ -52,7 +52,7 @@
       "synopsis": "New Zealand tour of England 2026 - 2nd Test - England vs New Zealand",
       "status": "UPCOMING",
       "time": "Live at 4 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d4746bf4-f478-4bfd-84b5-b29f7a8138a3/7/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d4746bf4-f478-4bfd-84b5-b29f7a8138a3/8/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0GW5Y7XDY?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
       "is_free": false,
       "stream_url": "",
