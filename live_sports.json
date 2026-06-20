@@ -1,26 +1,26 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "12:02 PM 20-06-2026",
+    "LastUpdate": "12:32 PM 20-06-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 0,
-    "UpcomingCount": 20
+    "LiveCount": 1,
+    "UpcomingCount": 19
   },
   "Matches": [
     {
       "match_id": "B0H5RLML39",
       "title": "Nordic Smash T20 Cup 2026 - 1st Semi-Final - Stockholm City vs Gothenburg Phoenix",
       "synopsis": "Nordic Smash T20 Cup 2026 - 1st Semi-Final - Stockholm City vs Gothenburg Phoenix",
-      "status": "UPCOMING",
-      "time": "Live at 12:30 PM BDT",
+      "status": "LIVE",
+      "time": "12:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.17fc9d88-32c2-4bcc-89d0-37676e4167f7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0H5RLML39?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
       "is_free": false,
-      "stream_url": "",
-      "drm_key": ""
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cekqsgirpp/out/v1/30fff78887be4ae6b890f35d84884bd9/cenc.mpd",
+      "drm_key": "6cb2bdadbf0c0d70a2e3e39090c0ded8:5709a9808419c89832bb346f01150fa5"
     },
     {
       "match_id": "B0H4PSD2LV",
