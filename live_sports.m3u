@@ -1,17 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:01:02 AM 21-06-2026
+#LAST_UPDATE:02:02 AM 21-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:2
 #UPCOMING_COUNT:18
-
-#EXTINF:-1 tvg-id="B0GW5Y7XDY" tvg-name="New Zealand tour of England 2026 - 2nd Test - England vs New Zealand" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d4746bf4-f478-4bfd-84b5-b29f7a8138a3/8/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",New Zealand tour of England 2026 - 2nd Test - England vs New Zealand
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0e8624c46cedebe34782dd60fdb442ac:74ab991465428992b5043218ca50926c
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6yhaslh2a7/out/v1/e05749a7cc374d5a9b93f2d94f2fdb3e/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0H11KCN29" tvg-name="England vs. Scotland" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.04a0b6a2-0164-4c5e-a78f-118c1b2a7587/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",England vs. Scotland
 #KODIPROP:inputstream=inputstream.adaptive
@@ -19,4 +12,11 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6yhaslh2a7/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6c352b66291d5043225d6a0ff8c8410:8010e9037ac479a73b5d7ecf47a7ab8c
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/po5nmmky0w/out/v1/6e466c179f064cd786fd9bcd0b819176/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H1W4PJGY" tvg-name="Major League Cricket 2026 - 4th Match - Texas Super Kings vs San Francisco Unicorns" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.37895769-7328-4a83-b140-11947758263b/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Major League Cricket 2026 - 4th Match - Texas Super Kings vs San Francisco Unicorns
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a1babdd1c27f1c47f7dffe45dd68f69:9ed1095ebd0b12d8c05480b5a312f624
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ahxrr80pjw/out/v1/dcdacb49d8cb40bc9b21ed25c507c84c/cenc.mpd
 
