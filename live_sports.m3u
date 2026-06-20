@@ -1,10 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:11:02 PM 20-06-2026
+#LAST_UPDATE:11:32 PM 20-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:4
-#UPCOMING_COUNT:16
+#LIVE_COUNT:3
+#UPCOMING_COUNT:17
 
 #EXTINF:-1 tvg-id="B0GW5Y7XDY" tvg-name="New Zealand tour of England 2026 - 2nd Test - England vs New Zealand" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d4746bf4-f478-4bfd-84b5-b29f7a8138a3/8/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",New Zealand tour of England 2026 - 2nd Test - England vs New Zealand
 #KODIPROP:inputstream=inputstream.adaptive
@@ -12,13 +12,6 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e8624c46cedebe34782dd60fdb442ac:74ab991465428992b5043218ca50926c
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6yhaslh2a7/out/v1/e05749a7cc374d5a9b93f2d94f2fdb3e/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0H5WS6PCR" tvg-name="Pakistan vs. Bangladesh" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ed6438c1-948f-42a0-b45d-ac11b4576ead/3/BOXART-16X9/en-US._UR1920,1080_.jpg" group-title="Live Sports Cricket",Pakistan vs. Bangladesh
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=434f07d93d4ba702bed5d41b1cc21d22:065c5585a1b94dc36379421ba923a415
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yuoix8o52c/out/v1/5c380397b3a14f2b94019893c0734d0e/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0H11KCN29" tvg-name="England vs. Scotland" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.04a0b6a2-0164-4c5e-a78f-118c1b2a7587/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",England vs. Scotland
 #KODIPROP:inputstream=inputstream.adaptive
