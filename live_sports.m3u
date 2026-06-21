@@ -1,10 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:01:02 PM 21-06-2026
+#LAST_UPDATE:01:32 PM 21-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:1
-#UPCOMING_COUNT:19
+#LIVE_COUNT:2
+#UPCOMING_COUNT:18
 
 #EXTINF:-1 tvg-id="B0H4QTYP5M" tvg-name="Tri Nation A Series in Sri Lanka 2026 - Final - India A vs Sri Lanka A" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.45d403aa-4756-4ef7-963c-850ec87a1316/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Tri Nation A Series in Sri Lanka 2026 - Final - India A vs Sri Lanka A
 #KODIPROP:inputstream=inputstream.adaptive
@@ -12,4 +12,11 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8094deb4bf11428aa0d663b3168bc69d:da904540e06da7a77270d63422cb0f69
 https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/ty2hlbyyk3/out/v1/0e4990351b97426db382b30cb01cf645/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H56NDV4X" tvg-name="Australia tour of Bangladesh 2026 - 3rd T20I - Bangladesh vs Australia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.91a3bb75-108e-4e96-9220-b02f3ca19638/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Australia tour of Bangladesh 2026 - 3rd T20I - Bangladesh vs Australia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e5d713e767c1a6cffd1881387b207cd:1f97487e54111023d37c80d74cb3bb4c
+https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/zpnqiahxef/out/v1/f5a57dc142584558a8669a44e3b6aa11/cenc.mpd
 
