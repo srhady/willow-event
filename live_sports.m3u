@@ -1,17 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:11:02 AM 21-06-2026
+#LAST_UPDATE:11:32 AM 21-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:18
-
-#EXTINF:-1 tvg-id="B0H56D6VR2" tvg-name="Major League Cricket 2026 - 5th Match - Washington Freedom vs Mi New York" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.388ca0a0-62e0-41a1-870f-9889d665a631/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Major League Cricket 2026 - 5th Match - Washington Freedom vs Mi New York
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f34da68ad4aae9480040ad666342a0eb:4fb1a76606fd6ba34e8b0eef1896a5c3
-https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/gu3yfomqva/out/v1/583855fb8e0f42ac820f8c195ac771fc/cenc.mpd
+#LIVE_COUNT:1
+#UPCOMING_COUNT:19
 
 #EXTINF:-1 tvg-id="B0H4QTYP5M" tvg-name="Tri Nation A Series in Sri Lanka 2026 - Final - India A vs Sri Lanka A" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.45d403aa-4756-4ef7-963c-850ec87a1316/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Tri Nation A Series in Sri Lanka 2026 - Final - India A vs Sri Lanka A
 #KODIPROP:inputstream=inputstream.adaptive
