@@ -1,26 +1,26 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "01:32 AM 22-06-2026",
+    "LastUpdate": "02:02 AM 22-06-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 0,
-    "UpcomingCount": 20
+    "LiveCount": 1,
+    "UpcomingCount": 19
   },
   "Matches": [
     {
       "match_id": "B0H2FDMYC8",
       "title": "Major League Cricket 2026 - 6th Match - Seattle Orcas vs Los Angeles Knight Riders",
       "synopsis": "Major League Cricket 2026 - 6th Match - Seattle Orcas vs Los Angeles Knight Riders",
-      "status": "UPCOMING",
-      "time": "Live at 2:30 AM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e83de133-80f9-4711-951b-068ffa91abfb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "1:55 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e83de133-80f9-4711-951b-068ffa91abfb/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0H2FDMYC8?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
       "is_free": false,
-      "stream_url": "",
-      "drm_key": ""
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/twug1hauhn/out/v1/f779b08445434874bd16d7be36666eb9/cenc.mpd",
+      "drm_key": "55588334195c73f5ddf74f40216a2d89:6de59c86a6afbfec96012045d009a135"
     },
     {
       "match_id": "B0H23FM9YS",
