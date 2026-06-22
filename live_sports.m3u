@@ -1,17 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:06:32 AM 22-06-2026
+#LAST_UPDATE:07:02 AM 22-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:18
-
-#EXTINF:-1 tvg-id="B0H2FDMYC8" tvg-name="Major League Cricket 2026 - 6th Match - Seattle Orcas vs Los Angeles Knight Riders" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e83de133-80f9-4711-951b-068ffa91abfb/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Major League Cricket 2026 - 6th Match - Seattle Orcas vs Los Angeles Knight Riders
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=55588334195c73f5ddf74f40216a2d89:6de59c86a6afbfec96012045d009a135
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/twug1hauhn/out/v1/f779b08445434874bd16d7be36666eb9/cenc.mpd
+#LIVE_COUNT:1
+#UPCOMING_COUNT:19
 
 #EXTINF:-1 tvg-id="B0H23FM9YS" tvg-name="Major League Cricket 2026 - 7th Match - Texas Super Kings vs Mi New York" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.951b564b-39e9-4749-b2ab-5605313ab301/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Sports Cricket",Major League Cricket 2026 - 7th Match - Texas Super Kings vs Mi New York
 #KODIPROP:inputstream=inputstream.adaptive
