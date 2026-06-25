@@ -1,10 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:02:32 AM 26-06-2026
+#LAST_UPDATE:03:02 AM 26-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:3
-#UPCOMING_COUNT:17
+#LIVE_COUNT:2
+#UPCOMING_COUNT:18
 
 #EXTINF:-1 tvg-id="B0H4Y7SXQF" tvg-name="India vs. Bangladesh" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bbf0babb-abc1-4206-ac0f-52ba35c7fe3b/4/BOXART-16X9/en-US._UR1920,1080_.jpg" group-title="Cricket",India vs. Bangladesh
 #KODIPROP:inputstream=inputstream.adaptive
@@ -19,11 +19,4 @@ https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/hmnd2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=13c76e512751a7c64d52540bcf70186e:d91ec76df7fc7b50e22ca599e846f1e2
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pdcl67vbop/out/v1/0d0b81932d164c35af71d6ec4b6f1e86/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0H62ZD3ZQ" tvg-name="South Africa vs. Netherlands" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.05925bf6-5147-4d74-98ae-b0164b2989da/3/BOXART-16X9/en-US._UR1920,1080_.jpg" group-title="Cricket",South Africa vs. Netherlands
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=84719bf3c1f899410a57fcf00a2577be:1a1f22f8044984aa60511cf8771ed65a
-https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/q4mqxqezxl/out/v1/a4cf7232de3f41b89682fdbcdfce733c/cenc.mpd
 
