@@ -1,17 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:11:02 PM 26-06-2026
+#LAST_UPDATE:11:32 PM 26-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:3
 #UPCOMING_COUNT:17
-
-#EXTINF:-1 tvg-id="B0H4Y7SXQF" tvg-name="India vs. Bangladesh" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bbf0babb-abc1-4206-ac0f-52ba35c7fe3b/4/BOXART-16X9/en-US._UR1920,1080_.jpg" group-title="Cricket",India vs. Bangladesh
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2cc8c1b85136caec66e38fe67fa96eb7:6118e9dfbcc8ef7ebbdc16892624ce33
-https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/hmnd2wk12a/out/v1/c1c5dfe36aeb4547b8b50d5ad96c7a7e/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0H3DSRR7D" tvg-name="New Zealand tour of England 2026 - 3rd Test - England vs New Zealand" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.82127ef6-3937-4cc4-8182-b49a86cd7a22/9/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",New Zealand tour of England 2026 - 3rd Test - England vs New Zealand
 #KODIPROP:inputstream=inputstream.adaptive
@@ -19,4 +12,11 @@ https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/hmnd2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a30b4c29151709f4878395d7246a150:825bd600ed2fa677195974879847a11e
 https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/nozef97xag/out/v1/d914986951c04c639cd7a6f67ab27dc5/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H5W1PVP8" tvg-name="Sri Lanka vs. Scotland" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.83341f40-3c2b-4c0d-9793-d574b221c5d9/3/BOXART-16X9/en-US._UR1920,1080_.jpg" group-title="Cricket",Sri Lanka vs. Scotland
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffd953103f67ee3f1dfa7caffaaf0d58:3d59b78680834cee5792572927615709
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oem4ketfif/out/v1/d39d9b1cc8fc425781fb2a8795852c5b/cenc.mpd
 
