@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "06:32 AM 26-06-2026",
+    "LastUpdate": "07:02 AM 26-06-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 19
+    "LiveCount": 2,
+    "UpcomingCount": 18
   },
   "Matches": [
     {
@@ -26,13 +26,13 @@
       "match_id": "B0H339RJ53",
       "title": "Major League Cricket 2026 - 9th Match - Washington Freedom vs Seattle Orcas",
       "synopsis": "Major League Cricket 2026 - 9th Match - Washington Freedom vs Seattle Orcas",
-      "status": "UPCOMING",
-      "time": "Live at 7:30 AM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.55431efa-590f-494e-aedb-4d254650c2bd/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "6:55 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.55431efa-590f-494e-aedb-4d254650c2bd/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0H339RJ53/ref=atv_3p_amz_c_Gu0OSt_2_2?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u",
       "is_free": false,
-      "stream_url": "",
-      "drm_key": ""
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/psnzmzvjd6/out/v1/3ec7fb7607ee461fb70022d64c73319c/cenc.mpd",
+      "drm_key": "d01ca2ae1d3d27ead2ea85fb851259e7:c17e77b2b50977d2d166d581dd151bdd"
     },
     {
       "match_id": "B0H3DSRR7D",

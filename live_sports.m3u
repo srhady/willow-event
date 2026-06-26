@@ -1,10 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:06:32 AM 26-06-2026
+#LAST_UPDATE:07:02 AM 26-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:1
-#UPCOMING_COUNT:19
+#LIVE_COUNT:2
+#UPCOMING_COUNT:18
 
 #EXTINF:-1 tvg-id="B0H4Y7SXQF" tvg-name="India vs. Bangladesh" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bbf0babb-abc1-4206-ac0f-52ba35c7fe3b/4/BOXART-16X9/en-US._UR1920,1080_.jpg" group-title="Cricket",India vs. Bangladesh
 #KODIPROP:inputstream=inputstream.adaptive
@@ -12,4 +12,11 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2cc8c1b85136caec66e38fe67fa96eb7:6118e9dfbcc8ef7ebbdc16892624ce33
 https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/hmnd2wk12a/out/v1/c1c5dfe36aeb4547b8b50d5ad96c7a7e/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H339RJ53" tvg-name="Major League Cricket 2026 - 9th Match - Washington Freedom vs Seattle Orcas" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.55431efa-590f-494e-aedb-4d254650c2bd/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Major League Cricket 2026 - 9th Match - Washington Freedom vs Seattle Orcas
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d01ca2ae1d3d27ead2ea85fb851259e7:c17e77b2b50977d2d166d581dd151bdd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/psnzmzvjd6/out/v1/3ec7fb7607ee461fb70022d64c73319c/cenc.mpd
 
