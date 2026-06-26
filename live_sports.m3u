@@ -1,17 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:03:02 AM 27-06-2026
+#LAST_UPDATE:03:32 AM 27-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:3
 #UPCOMING_COUNT:17
-
-#EXTINF:-1 tvg-id="B0H5W1PVP8" tvg-name="Sri Lanka vs. Scotland" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.83341f40-3c2b-4c0d-9793-d574b221c5d9/3/BOXART-16X9/en-US._UR1920,1080_.jpg" group-title="Cricket",Sri Lanka vs. Scotland
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ffd953103f67ee3f1dfa7caffaaf0d58:3d59b78680834cee5792572927615709
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oem4ketfif/out/v1/d39d9b1cc8fc425781fb2a8795852c5b/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0H3ZGSVHG" tvg-name="T20 Blast 2026 - Kent vs Nottinghamshire" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bab3cc8b-51e9-456f-a3c9-2967b7d3dbed/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",T20 Blast 2026 - Kent vs Nottinghamshire
 #KODIPROP:inputstream=inputstream.adaptive
@@ -19,4 +12,11 @@ https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6754e804c707c6df87c1352704766a6:3c33f7faf1a0ebb20f2fdf744d15ebe1
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nfiuspvxu2/out/v1/3537dbcd2a854e91aa9a02c00da7c9a6/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H5KN89J6" tvg-name="Major League Cricket 2026 - 10th Match - Mi New York vs Texas Super Kings" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.379524f1-9429-4dc4-8582-70f3585812f4/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Major League Cricket 2026 - 10th Match - Mi New York vs Texas Super Kings
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09a7add5a258a5dc5db5aba58a5b8bf2:a9175d99a11e7ccf3d98917f6eec9472
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pvls9poj3v/out/v1/141fa43a270a4d87bf00e1b0bd5bac99/cenc.mpd
 
