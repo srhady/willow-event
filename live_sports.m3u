@@ -1,10 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:11:32 PM 26-06-2026
+#LAST_UPDATE:12:02 AM 27-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:3
-#UPCOMING_COUNT:17
+#LIVE_COUNT:4
+#UPCOMING_COUNT:16
 
 #EXTINF:-1 tvg-id="B0H3DSRR7D" tvg-name="New Zealand tour of England 2026 - 3rd Test - England vs New Zealand" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.82127ef6-3937-4cc4-8182-b49a86cd7a22/9/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",New Zealand tour of England 2026 - 3rd Test - England vs New Zealand
 #KODIPROP:inputstream=inputstream.adaptive
@@ -19,4 +19,11 @@ https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/nozef
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ffd953103f67ee3f1dfa7caffaaf0d58:3d59b78680834cee5792572927615709
 https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oem4ketfif/out/v1/d39d9b1cc8fc425781fb2a8795852c5b/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H3ZGSVHG" tvg-name="T20 Blast 2026 - Kent vs Nottinghamshire" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bab3cc8b-51e9-456f-a3c9-2967b7d3dbed/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",T20 Blast 2026 - Kent vs Nottinghamshire
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6754e804c707c6df87c1352704766a6:3c33f7faf1a0ebb20f2fdf744d15ebe1
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nfiuspvxu2/out/v1/3537dbcd2a854e91aa9a02c00da7c9a6/cenc.mpd
 
