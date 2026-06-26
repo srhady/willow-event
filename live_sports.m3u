@@ -1,10 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:05:32 PM 26-06-2026
+#LAST_UPDATE:06:02 PM 26-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:18
+#LIVE_COUNT:3
+#UPCOMING_COUNT:17
 
 #EXTINF:-1 tvg-id="B0H4Y7SXQF" tvg-name="India vs. Bangladesh" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bbf0babb-abc1-4206-ac0f-52ba35c7fe3b/4/BOXART-16X9/en-US._UR1920,1080_.jpg" group-title="Cricket",India vs. Bangladesh
 #KODIPROP:inputstream=inputstream.adaptive
@@ -19,4 +19,11 @@ https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/hmnd2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a30b4c29151709f4878395d7246a150:825bd600ed2fa677195974879847a11e
 https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/nozef97xag/out/v1/d914986951c04c639cd7a6f67ab27dc5/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H55XB1WR" tvg-name="India tour of Ireland 2026 - 1st T20I - Ireland vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.95b3d965-0adf-4825-a702-aee43a3555a5/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",India tour of Ireland 2026 - 1st T20I - Ireland vs India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fff0c88530698729506de226786a0ce2:473273ba6a5323ff4174a55ab2e3dfca
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wkyr0oiayl/out/v1/ab6df1604fe34712a1a5bc16cc8489c3/cenc.mpd
 
