@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "07:02 PM 27-06-2026",
+    "LastUpdate": "07:32 PM 27-06-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 19
+    "LiveCount": 2,
+    "UpcomingCount": 18
   },
   "Matches": [
     {
@@ -26,13 +26,13 @@
       "match_id": "B0FWJ4KDX8",
       "title": "West Indies vs. Ireland",
       "synopsis": "Watch West Indies take on Ireland in the ICC Women's T20 World Cup - 2026 England & Wales",
-      "status": "UPCOMING",
-      "time": "Live at 7:30 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e55196ed-f457-4751-9271-753a8690347d/2/BOXART-16X9/en-US._UR1920,1080_.jpg",
+      "status": "LIVE",
+      "time": "7:30 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e55196ed-f457-4751-9271-753a8690347d/3/BOXART-16X9/en-US._UR1920,1080_.jpg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0FWJ4KDX8/ref=atv_3p_amz_c_Gu0OSt_2_2?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u",
       "is_free": true,
-      "stream_url": "",
-      "drm_key": ""
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nsy1o0arb3/out/v1/c75901ad633e4c4b97712bfdd4251c9a/cenc.mpd",
+      "drm_key": "ba814c82a2b000ea5fb210d2d6258942:3fc1f6f9c9135906d176b2b6e49590a9"
     },
     {
       "match_id": "B0H2NMNR7C",
