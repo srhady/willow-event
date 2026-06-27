@@ -1,10 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:10:32 PM 27-06-2026
+#LAST_UPDATE:11:02 PM 27-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:3
-#UPCOMING_COUNT:17
+#LIVE_COUNT:2
+#UPCOMING_COUNT:18
 
 #EXTINF:-1 tvg-id="B0H3DSRR7D" tvg-name="New Zealand tour of England 2026 - 3rd Test - England vs New Zealand" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.82127ef6-3937-4cc4-8182-b49a86cd7a22/9/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",New Zealand tour of England 2026 - 3rd Test - England vs New Zealand
 #KODIPROP:inputstream=inputstream.adaptive
@@ -12,11 +12,4 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a58eaea09c8159c8e4a3bea3064dfa3c:56b318070e628a9e3e7501392ef472a5
 https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h6yoxnltlz/out/v1/f8e35f2f8441467fafd4a5398a71ecbe/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0FWJ4KDX8" tvg-name="West Indies vs. Ireland" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e55196ed-f457-4751-9271-753a8690347d/3/BOXART-16X9/en-US._UR1920,1080_.jpg" group-title="Cricket",West Indies vs. Ireland
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba814c82a2b000ea5fb210d2d6258942:3fc1f6f9c9135906d176b2b6e49590a9
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nsy1o0arb3/out/v1/c75901ad633e4c4b97712bfdd4251c9a/cenc.mpd
 
