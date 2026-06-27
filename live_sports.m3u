@@ -1,10 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:02:32 AM 28-06-2026
+#LAST_UPDATE:03:02 AM 28-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:18
+#LIVE_COUNT:3
+#UPCOMING_COUNT:17
 
 #EXTINF:-1 tvg-id="B0H61ZCXVD" tvg-name="England vs. New Zealand" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cfc3402c-ce62-4ea8-8c65-82b091d9b714/3/BOXART-16X9/en-US._UR1920,1080_.jpg" group-title="Cricket",England vs. New Zealand
 #KODIPROP:inputstream=inputstream.adaptive
@@ -12,4 +12,11 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5f1cc0a032196b308b0a54f1a32ef10b:08d8911aead804e7417da0b280e1110c
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nycwhuave7/out/v1/051d0b0ae17442c4b5636fc1c96b8e2f/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H58WM34N" tvg-name="Major League Cricket 2026 - 12th Match - Mi New York vs Los Angeles Knight Riders" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4c692b4d-7873-49f6-8356-0ae0e2b7986e/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Major League Cricket 2026 - 12th Match - Mi New York vs Los Angeles Knight Riders
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4efe3974fd23018c815a14d12fb03980:5b0bbfdae1b6245ea22653c34fa75471
+https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/naw2ujp0kp/out/v1/3860c899aeff494eaa813614df1382ce/cenc.mpd
 
