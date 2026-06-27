@@ -1,17 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:12:02 AM 28-06-2026
+#LAST_UPDATE:01:02 AM 28-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:3
-#UPCOMING_COUNT:17
-
-#EXTINF:-1 tvg-id="B0H3DSRR7D" tvg-name="New Zealand tour of England 2026 - 3rd Test - England vs New Zealand" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.82127ef6-3937-4cc4-8182-b49a86cd7a22/10/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",New Zealand tour of England 2026 - 3rd Test - England vs New Zealand
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a58eaea09c8159c8e4a3bea3064dfa3c:56b318070e628a9e3e7501392ef472a5
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h6yoxnltlz/out/v1/f8e35f2f8441467fafd4a5398a71ecbe/cenc.mpd
+#LIVE_COUNT:2
+#UPCOMING_COUNT:18
 
 #EXTINF:-1 tvg-id="B0H61ZCXVD" tvg-name="England vs. New Zealand" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cfc3402c-ce62-4ea8-8c65-82b091d9b714/3/BOXART-16X9/en-US._UR1920,1080_.jpg" group-title="Cricket",England vs. New Zealand
 #KODIPROP:inputstream=inputstream.adaptive
