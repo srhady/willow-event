@@ -1,22 +1,15 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:11:02 PM 28-06-2026
+#LAST_UPDATE:11:32 PM 28-06-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:4
-#UPCOMING_COUNT:16
+#LIVE_COUNT:3
+#UPCOMING_COUNT:17
 
-#EXTINF:-1 tvg-id="B0H3FG7X6P" tvg-name="India tour of Ireland 2026 - 2nd T20I - Ireland vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e1361b59-5b92-40ae-8739-dfaacbb8f54b/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",India tour of Ireland 2026 - 2nd T20I - Ireland vs India
+#EXTINF:-1 tvg-id="B0H3FG7X6P" tvg-name="India tour of Ireland 2026 - 2nd T20I - Ireland vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e1361b59-5b92-40ae-8739-dfaacbb8f54b/5/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",India tour of Ireland 2026 - 2nd T20I - Ireland vs India
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a2433a92dedb0c0c1d7cdc1b5bd8d1b:b78e03fc79ff67f1d68d34a1f0d161b9
 https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/j9ltx4zek5/out/v1/5bb73ac9fa904dcfafc4972c496d831b/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0H4YYWYJY" tvg-name="Australia vs. India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bc554821-c9e0-40aa-894a-997ff6d0f0ed/3/BOXART-16X9/en-US._UR1920,1080_.jpg" group-title="Cricket",Australia vs. India
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=72d7ef3f0057150c0dca2cd74dbfd8bf:1dfdf16e3e483ea953cadb74d48de95a
-https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/9zm2lgklpu/out/v1/260e09111f1c41f2a985c96787453c78/cenc.mpd
 
