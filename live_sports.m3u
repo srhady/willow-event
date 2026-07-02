@@ -1,8 +1,15 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:07:02 AM 02-07-2026
+#LAST_UPDATE:07:32 AM 02-07-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:20
+#LIVE_COUNT:1
+#UPCOMING_COUNT:19
+
+#EXTINF:-1 tvg-id="B0H2BJKJJY" tvg-name="Major League Cricket 2026 - 16th Match - Los Angeles Knight Riders vs Washington Freedom" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.eda4a4d2-c72a-4efe-9f40-813b620f6c4c/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Major League Cricket 2026 - 16th Match - Los Angeles Knight Riders vs Washington Freedom
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a445b299311555ab106e6332d300c0de:e50269ebb380c00186b07fcfed0adb00
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8uje9qedxo/out/v1/211d62684601493ca85da522b5022450/cenc.mpd
 
