@@ -1,8 +1,15 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:07:02 PM 04-07-2026
+#LAST_UPDATE:07:32 PM 04-07-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:1
 #UPCOMING_COUNT:19
+
+#EXTINF:-1 tvg-id="B0H6R2T9P8" tvg-name="India tour of England 2026 - 2nd T20I - England vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9f2ea2cd-053c-43e2-8c0a-5d6d61410725/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",India tour of England 2026 - 2nd T20I - England vs India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3340fb32568e2b78910762e4d7454993:1c3bf53d188425d2e105e8b1df15236b
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qtq2yrmgxq/out/v1/c9f90a4d66634748a5345d9f418680d2/cenc.mpd
 
