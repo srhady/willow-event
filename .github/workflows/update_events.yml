@@ -1,4 +1,4 @@
-name: Willow Event Generator
+name: Live Sports Event Generator
 
 on:
   workflow_dispatch:
@@ -33,17 +33,19 @@ jobs:
           python -m pip install --upgrade pip
           pip install curl_cffi pywidevine requests typing_extensions
 
-      - name: Run Generator Script
+      - name: Run Generator Scripts
         run: |
           cp private_repo/willow_generator.py .
+          cp private_repo/primevideo_sports.py .
           cp private_repo/device.wvd .
           python willow_generator.py
+          python primevideo_sports.py
 
       - name: Commit and Push Changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add live_sports.json live_sports.m3u
-          git commit -m "Auto-update Willow live events" || echo "No changes to commit"
+          git add live_sports.json live_sports.m3u primevideo_sports.json primevideo_sports.m3u
+          git commit -m "Auto-update Willow and Prime Video live events" || echo "No changes to commit"
           git pull origin main --rebase
           git push origin main
