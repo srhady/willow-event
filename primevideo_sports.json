@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "12:02 AM 03-08-2026",
+    "LastUpdate": "12:32 AM 03-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 18,
+    "LiveCount": 8,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -29,20 +29,6 @@
       "drm_key": "d6b2a631aa11e559d6afff25aceb1a92:46850a955085e407041827e8fa127f20"
     },
     {
-      "match_id": "B0H7N6XVZZ",
-      "title": "Jacksonville Waves at Charlotte Crown",
-      "synopsis": "Jacksonville Waves at Charlotte Crown",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.df244045-72cd-47c5-878b-4e9e9bcb9a2b/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H7N6XVZZ",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a51aivottevtad-a.akamaihd.net/PDX/d5235c9d3a0c42a98044c4dd0d517149/v1/dash/159325541587/imdb_wurl_amzn1_dv_live_csid_5c285884-a6fc-4ed6-a2cb-758a01301136_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ynrmbzlz9u/out/v1/0a93294385c14668baeba1b60de9f791/8326f3d9-5a25-44d4-9704-043db190b8ed-cenc.mpd"
-      },
-      "drm_key": "ad6e7091d1d36a16d5475bdb2d900888:8c67e6b1e4bcf1ee1f12167526ef2503"
-    },
-    {
       "match_id": "B0H87D16H1",
       "title": "2026 Predator Pro Billiard Series: Rome",
       "synopsis": "2026 Predator Pro Billiard Series: Rome",
@@ -61,22 +47,36 @@
       "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
     },
     {
-      "match_id": "B0GZ8F476B",
-      "title": "UK's Strongest Man 2026: Day 2",
-      "synopsis": "UK's Strongest Man 2026: Day 2",
+      "match_id": "B0H7N6XVZZ",
+      "title": "Jacksonville Waves at Charlotte Crown",
+      "synopsis": "Jacksonville Waves at Charlotte Crown",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.672f6016-e7e0-4353-88be-074569d5514d/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0GZ8F476B",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.df244045-72cd-47c5-878b-4e9e9bcb9a2b/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H7N6XVZZ",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
-        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
-        "Cloudfront Server 1": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
-        "Cloudfront Server 2": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd"
+        "Original Server": "https://a51aivottevtad-a.akamaihd.net/PDX/d5235c9d3a0c42a98044c4dd0d517149/v1/dash/159325541587/imdb_wurl_amzn1_dv_live_csid_5c285884-a6fc-4ed6-a2cb-758a01301136_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ynrmbzlz9u/out/v1/0a93294385c14668baeba1b60de9f791/8326f3d9-5a25-44d4-9704-043db190b8ed-cenc.mpd"
       },
-      "drm_key": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681"
+      "drm_key": "ad6e7091d1d36a16d5475bdb2d900888:8c67e6b1e4bcf1ee1f12167526ef2503"
+    },
+    {
+      "match_id": "B0GSZ3W42X",
+      "title": "MLP Orlando: Sunday",
+      "synopsis": "MLP Orlando: Sunday",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f3be07ef-1d48-4b61-83c6-3b49672d1c7a/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0GSZ3W42X",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd",
+        "Cloudfront Server 1": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd",
+        "Cloudfront Server 2": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd"
+      },
+      "drm_key": "2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72"
     },
     {
       "match_id": "B0HBRC86BR",
@@ -133,24 +133,6 @@
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
     },
     {
-      "match_id": "B0GSZ3W42X",
-      "title": "MLP Orlando: Sunday",
-      "synopsis": "MLP Orlando: Sunday",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f3be07ef-1d48-4b61-83c6-3b49672d1c7a/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0GSZ3W42X",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd",
-        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd",
-        "Cloudfront Server 1": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd",
-        "Cloudfront Server 2": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd"
-      },
-      "drm_key": "2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72"
-    },
-    {
       "match_id": "B0H74RPRB1",
       "title": "Aug 2 - PTT Cordoba Men",
       "synopsis": "Aug 2 - PTT Cordoba Men",
@@ -163,114 +145,6 @@
         "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/rjyhdxzgjo/out/v1/c5fd011b15114b9891902efd0540948a/3e863653-bca1-4552-abdf-5f580a55674e-cenc.mpd"
       },
       "drm_key": "1758db6147ec9c080f8f3a425f88578f:510e9449c8c3bdd9b7254584c2e7188c"
-    },
-    {
-      "match_id": "B0GS9Z2SVD",
-      "title": "EWC - Overwatch: Day 5",
-      "synopsis": "EWC - Overwatch: Day 5",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.64a17c56-dcf5-4961-87b7-5bc43c177412/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/daznus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvbcd97f893803fef6b3e0a8611b0f2220_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0GS9Z2SVD",
-      "is_free": false,
-      "stream_url": "",
-      "drm_key": ""
-    },
-    {
-      "match_id": "B0H78R6P83",
-      "title": "Pakistan tour of West Indies 2026 - 2nd Test - West Indies vs Pakistan",
-      "synopsis": "Pakistan tour of West Indies 2026 - 2nd Test - West Indies vs Pakistan",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.14b0d3fe-a2ae-4fa9-a6b3-caeec734927f/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H78R6P83",
-      "is_free": false,
-      "stream_url": "",
-      "drm_key": ""
-    },
-    {
-      "match_id": "B0H73XJL4G",
-      "title": "IMSA Motul Road America 6 Hr",
-      "synopsis": "IMSA Motul Road America 6 Hr",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0cd08710-1bcd-42d7-82f8-c6943de1c358/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/channel-id/amzn1-dv-channel-b3f37c55-59d4-46fc-872a-cbcc430b45b4/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1384,885,457,117_kvad90d4ad690f8dcb665cd45077a47704_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H73XJL4G",
-      "is_free": false,
-      "stream_url": "",
-      "drm_key": ""
-    },
-    {
-      "match_id": "B0H14MFNN3",
-      "title": "AIG Women's Open: Rd. 4",
-      "synopsis": "AIG Women's Open: Rd. 4",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ccd5a171-724f-4d84-85d2-e1eb5680c8f0/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/channel-id/amzn1-dv-channel-b3f37c55-59d4-46fc-872a-cbcc430b45b4/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1384,885,457,117_kvad90d4ad690f8dcb665cd45077a47704_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H14MFNN3",
-      "is_free": false,
-      "stream_url": "",
-      "drm_key": ""
-    },
-    {
-      "match_id": "B0H6KN1M3V",
-      "title": "Center Court Live-Washington D.C. - ATP/WTA Singles Finals; ATP Doubles Final",
-      "synopsis": "Center Court Live-Washington D.C. - ATP/WTA Singles Finals; ATP Doubles Final",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.df6e81aa-2465-45a5-9ccf-e6183ceb934b/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/channel-id/amzn1-dv-channel-559dd141-27da-d08e-eac5-031e051bdc54/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1430,885,411,117_kvd1a934c46c65f07a597aee208aaa7c55_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H6KN1M3V",
-      "is_free": false,
-      "stream_url": "",
-      "drm_key": ""
-    },
-    {
-      "match_id": "B0H9DTJM9V",
-      "title": "MLP Orlando: Sunday",
-      "synopsis": "MLP Orlando: Sunday",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.827016be-144c-4975-b05c-88820c4dac51/41/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/channel-id/amzn1-dv-channel-121bdcb8-f1e4-c190-37cb-4981ca84b93e/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1485,924,356,78_kv859bdab5c70945898d30185f7de00c19_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H9DTJM9V",
-      "is_free": false,
-      "stream_url": "",
-      "drm_key": ""
-    },
-    {
-      "match_id": "B0GW2M9LKL",
-      "title": "The Hundred Mens Competition 2026 - 18th Match - Mi London vs Manchester Super Giants",
-      "synopsis": "The Hundred Mens Competition 2026 - 18th Match - Mi London vs Manchester Super Giants",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.442a2bd2-a9bc-4fd6-b078-fc892e16109d/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0GW2M9LKL",
-      "is_free": false,
-      "stream_url": "",
-      "drm_key": ""
-    },
-    {
-      "match_id": "B0GJK752P7",
-      "title": "Duckworth vs. O'Connell",
-      "synopsis": "Duckworth vs. O'Connell",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cd1c78b3-5426-4660-8748-c0927ffb4077/15/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/channel-id/amzn1-dv-channel-559dd141-27da-d08e-eac5-031e051bdc54/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1430,885,411,117_kvd1a934c46c65f07a597aee208aaa7c55_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0GJK752P7",
-      "is_free": false,
-      "stream_url": "",
-      "drm_key": ""
-    },
-    {
-      "match_id": "B0H96815FH",
-      "title": "Saratoga Live",
-      "synopsis": "Saratoga Live",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7d9d8058-8096-4df7-8b34-6d1ce7526104/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/channel-id/amzn1-dv-channel-121bdcb8-f1e4-c190-37cb-4981ca84b93e/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1485,924,356,78_kv859bdab5c70945898d30185f7de00c19_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H96815FH",
-      "is_free": false,
-      "stream_url": "",
-      "drm_key": ""
     }
   ]
 }
