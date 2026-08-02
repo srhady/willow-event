@@ -36,7 +36,7 @@ jobs:
       - name: Run Generator Script
         run: |
           cp private_repo/willow_generator.py .
-          cp private_repo/device.wvd
+          cp private_repo/device.wvd .
           python willow_generator.py
 
       - name: Commit and Push Changes
