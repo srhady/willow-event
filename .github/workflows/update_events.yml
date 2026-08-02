@@ -31,7 +31,7 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install curl_cffi pywidevine requests
+          pip install curl_cffi pywidevine requests typing_extensions
 
       - name: Run Generator Script
         run: |
