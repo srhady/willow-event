@@ -1,40 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "05:02 AM 04-08-2026",
+    "LastUpdate": "05:32 AM 04-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 19
+    "LiveCount": 0,
+    "UpcomingCount": 20
   },
   "Matches": [
-    {
-      "match_id": "B0H78R6P83",
-      "title": "Pakistan tour of West Indies 2026 - 2nd Test - West Indies vs Pakistan",
-      "synopsis": "Pakistan tour of West Indies 2026 - 2nd Test - West Indies vs Pakistan",
-      "status": "LIVE",
-      "time": "7 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.14b0d3fe-a2ae-4fa9-a6b3-caeec734927f/9/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H78R6P83?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
-      "is_free": false,
-      "stream_url_alpha": {
-        "Amazon Server 1": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/54xvj77jse/out/v1/3a5f4414cdd545839f98cc93b790af70/cenc.mpd",
-        "Amazon Server 2": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/54xvj77jse/out/v1/3a5f4414cdd545839f98cc93b790af70/cenc.mpd",
-        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/54xvj77jse/out/v1/3a5f4414cdd545839f98cc93b790af70/cenc.mpd",
-        "Cloudfront Server 1": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/54xvj77jse/out/v1/3a5f4414cdd545839f98cc93b790af70/cenc.mpd",
-        "Cloudfront Server 2": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/54xvj77jse/out/v1/3a5f4414cdd545839f98cc93b790af70/cenc.mpd"
-      },
-      "stream_url_bravo": {
-        "Amazon Server 1": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vzpd1i8ghk/out/v1/23c8061cf11e46578d837d0abc87c7b9/cenc.mpd",
-        "Amazon Server 2": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vzpd1i8ghk/out/v1/23c8061cf11e46578d837d0abc87c7b9/cenc.mpd",
-        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/vzpd1i8ghk/out/v1/23c8061cf11e46578d837d0abc87c7b9/cenc.mpd",
-        "Cloudfront Server 1": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vzpd1i8ghk/out/v1/23c8061cf11e46578d837d0abc87c7b9/cenc.mpd",
-        "Cloudfront Server 2": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vzpd1i8ghk/out/v1/23c8061cf11e46578d837d0abc87c7b9/cenc.mpd"
-      },
-      "drm_key": "ac2311e52a567706a77f5e2eeb75e707:518aff73a8da4c8b84fbe711505aabc8"
-    },
     {
       "match_id": "B0H8MT29DZ",
       "title": "Global e-Cricket Premier League 2026 - 22nd Match - Chennai Falcons vs Mumbai Grizzlies",
@@ -42,7 +17,7 @@
       "status": "UPCOMING",
       "time": "Live at 4:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c3f2ad8b-ff85-432a-8833-7ecd5bad98e6/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H8MT29DZ?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H8MT29DZ?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -54,7 +29,7 @@
       "status": "UPCOMING",
       "time": "Live at 5:20 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b26e2fc8-2f2a-46c1-ae94-8f5df8e619a1/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H8D5CWCZ?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H8D5CWCZ?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -66,7 +41,7 @@
       "status": "UPCOMING",
       "time": "Live at 6:10 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3f194d9f-b21d-47e0-a9c0-61d98a84442c/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HBBJ7CK2?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HBBJ7CK2?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -78,7 +53,7 @@
       "status": "UPCOMING",
       "time": "Live at 7 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0120612c-3305-437f-a93a-07776f350cc1/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HC72TYDT?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_5",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HC72TYDT?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -90,7 +65,19 @@
       "status": "UPCOMING",
       "time": "Live at 7:50 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6ff7e315-0a72-41c6-99bf-52b01fcc6946/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HC7PKBT5?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_6",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HC7PKBT5?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_5",
+      "is_free": false,
+      "stream_url_alpha": "",
+      "drm_key": ""
+    },
+    {
+      "match_id": "B0H78R6P83",
+      "title": "Pakistan tour of West Indies 2026 - 2nd Test - West Indies vs Pakistan",
+      "synopsis": "Pakistan tour of West Indies 2026 - 2nd Test - West Indies vs Pakistan",
+      "status": "UPCOMING",
+      "time": "Live at 8 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.14b0d3fe-a2ae-4fa9-a6b3-caeec734927f/9/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H78R6P83?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_6",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
