@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "09:02 PM 03-08-2026",
+    "LastUpdate": "09:04 PM 03-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -94,8 +94,21 @@
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1b8b7179-b641-4afa-9e2c-5d15588259b6/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HBWJ3KG5?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Amazon Server 1": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lvq6tecc9s/out/v1/bbfaeaf1b491481e9599a4f17ae7b476/cenc.mpd",
+        "Amazon Server 2": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lvq6tecc9s/out/v1/bbfaeaf1b491481e9599a4f17ae7b476/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/lvq6tecc9s/out/v1/bbfaeaf1b491481e9599a4f17ae7b476/cenc.mpd",
+        "Cloudfront Server 1": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lvq6tecc9s/out/v1/bbfaeaf1b491481e9599a4f17ae7b476/cenc.mpd",
+        "Cloudfront Server 2": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lvq6tecc9s/out/v1/bbfaeaf1b491481e9599a4f17ae7b476/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Amazon Server 1": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/hejhyqms6t/out/v1/d9ecc41f8b824d438438c514f779e876/cenc.mpd",
+        "Amazon Server 2": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/hejhyqms6t/out/v1/d9ecc41f8b824d438438c514f779e876/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/hejhyqms6t/out/v1/d9ecc41f8b824d438438c514f779e876/cenc.mpd",
+        "Cloudfront Server 1": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/hejhyqms6t/out/v1/d9ecc41f8b824d438438c514f779e876/cenc.mpd",
+        "Cloudfront Server 2": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/hejhyqms6t/out/v1/d9ecc41f8b824d438438c514f779e876/cenc.mpd"
+      },
+      "drm_key": "05af04f5002f70948dc2fb499188ff13:d365f75ec5b892bb16643e992b09fe8e"
     },
     {
       "match_id": "B0H945GP9V",
