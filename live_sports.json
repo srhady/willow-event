@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "09:04 PM 03-08-2026",
+    "LastUpdate": "09:32 PM 03-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
-    "UpcomingCount": 16
+    "LiveCount": 5,
+    "UpcomingCount": 15
   },
   "Matches": [
     {
@@ -114,13 +114,26 @@
       "match_id": "B0H945GP9V",
       "title": "Global e-Cricket Premier League 2026 - 21st Match - Kolkata Hawks vs Pune Stallions",
       "synopsis": "Global e-Cricket Premier League 2026 - 21st Match - Kolkata Hawks vs Pune Stallions",
-      "status": "UPCOMING",
-      "time": "Live at 9:30 PM BDT",
+      "status": "LIVE",
+      "time": "9:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.43497f45-135c-4657-b31b-0ca61e38dc19/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0H945GP9V?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_5",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Amazon Server 1": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/je0v8ewe3r/out/v1/60ddcf1d376144e79b472c215af47df2/cenc.mpd",
+        "Amazon Server 2": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/je0v8ewe3r/out/v1/60ddcf1d376144e79b472c215af47df2/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/je0v8ewe3r/out/v1/60ddcf1d376144e79b472c215af47df2/cenc.mpd",
+        "Cloudfront Server 1": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/je0v8ewe3r/out/v1/60ddcf1d376144e79b472c215af47df2/cenc.mpd",
+        "Cloudfront Server 2": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/je0v8ewe3r/out/v1/60ddcf1d376144e79b472c215af47df2/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Amazon Server 1": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5nkw7wx5du/out/v1/b69894547a5544969eed3a5a92e0cc03/cenc.mpd",
+        "Amazon Server 2": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5nkw7wx5du/out/v1/b69894547a5544969eed3a5a92e0cc03/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5nkw7wx5du/out/v1/b69894547a5544969eed3a5a92e0cc03/cenc.mpd",
+        "Cloudfront Server 1": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5nkw7wx5du/out/v1/b69894547a5544969eed3a5a92e0cc03/cenc.mpd",
+        "Cloudfront Server 2": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5nkw7wx5du/out/v1/b69894547a5544969eed3a5a92e0cc03/cenc.mpd"
+      },
+      "drm_key": "8e0cd2804bbd898f2c19045a9296f813:df56c538c1f6e744d0fce304d34880e1"
     },
     {
       "match_id": "B0H8NX69HW",
