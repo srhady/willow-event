@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "05:02 PM 03-08-2026",
+    "LastUpdate": "05:32 PM 03-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 19
+    "LiveCount": 2,
+    "UpcomingCount": 18
   },
   "Matches": [
     {
@@ -26,26 +26,39 @@
         "Cloudfront Server 1": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/chaojmsate/out/v1/6695227a4ff24cde8619068eaf079be9/cenc.mpd",
         "Cloudfront Server 2": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/chaojmsate/out/v1/6695227a4ff24cde8619068eaf079be9/cenc.mpd"
       },
-      "drm_key": "1883244cdf59eb690ebe9f6c86e37fd8:5e8cc17242d119ec6a6c805c42422ae5",
       "stream_url_bravo": {
         "Amazon Server 1": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gemjf6pi7r/out/v1/239fba9e24f1404292fbdc8fa91b272a/cenc.mpd",
         "Amazon Server 2": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gemjf6pi7r/out/v1/239fba9e24f1404292fbdc8fa91b272a/cenc.mpd",
         "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/gemjf6pi7r/out/v1/239fba9e24f1404292fbdc8fa91b272a/cenc.mpd",
         "Cloudfront Server 1": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gemjf6pi7r/out/v1/239fba9e24f1404292fbdc8fa91b272a/cenc.mpd",
         "Cloudfront Server 2": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gemjf6pi7r/out/v1/239fba9e24f1404292fbdc8fa91b272a/cenc.mpd"
-      }
+      },
+      "drm_key": "1883244cdf59eb690ebe9f6c86e37fd8:5e8cc17242d119ec6a6c805c42422ae5"
     },
     {
       "match_id": "B0H9H2MN1C",
       "title": "Global e-Cricket Premier League 2026 - 16th Match - Gujarat Wolves vs Hyderabad Rhinos",
       "synopsis": "Global e-Cricket Premier League 2026 - 16th Match - Gujarat Wolves vs Hyderabad Rhinos",
-      "status": "UPCOMING",
-      "time": "Live at 5:20 PM BDT",
+      "status": "LIVE",
+      "time": "5:20 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e823b466-589a-44d1-bb64-96b397b32dea/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0H9H2MN1C?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Amazon Server 1": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g2gs4wj51q/out/v1/005b31e434924e32b06498398c8c0f8a/cenc.mpd",
+        "Amazon Server 2": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g2gs4wj51q/out/v1/005b31e434924e32b06498398c8c0f8a/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/g2gs4wj51q/out/v1/005b31e434924e32b06498398c8c0f8a/cenc.mpd",
+        "Cloudfront Server 1": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g2gs4wj51q/out/v1/005b31e434924e32b06498398c8c0f8a/cenc.mpd",
+        "Cloudfront Server 2": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g2gs4wj51q/out/v1/005b31e434924e32b06498398c8c0f8a/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Amazon Server 1": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/gpmf9hxgr1/out/v1/24db23ef6a034a4c998b956447df9f0b/cenc.mpd",
+        "Amazon Server 2": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/gpmf9hxgr1/out/v1/24db23ef6a034a4c998b956447df9f0b/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/gpmf9hxgr1/out/v1/24db23ef6a034a4c998b956447df9f0b/cenc.mpd",
+        "Cloudfront Server 1": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/gpmf9hxgr1/out/v1/24db23ef6a034a4c998b956447df9f0b/cenc.mpd",
+        "Cloudfront Server 2": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/gpmf9hxgr1/out/v1/24db23ef6a034a4c998b956447df9f0b/cenc.mpd"
+      },
+      "drm_key": "49b375a989e9aaaf62f83b575e85da00:c841066c37aec20bc92e85ec2ce9515c"
     },
     {
       "match_id": "B0H9ZNQC5T",
