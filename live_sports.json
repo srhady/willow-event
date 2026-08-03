@@ -19,14 +19,8 @@
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1dadaa90-fdf4-486c-ae99-208864b3817b/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HBZ93J6S?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
       "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/chaojmsate/out/v1/6695227a4ff24cde8619068eaf079be9/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/chaojmsate/out/v1/6695227a4ff24cde8619068eaf079be9/cenc.mpd",
-        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/chaojmsate/out/v1/6695227a4ff24cde8619068eaf079be9/cenc.mpd",
-        "Cloudfront Server 1": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/chaojmsate/out/v1/6695227a4ff24cde8619068eaf079be9/cenc.mpd",
-        "Cloudfront Server 2": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/chaojmsate/out/v1/6695227a4ff24cde8619068eaf079be9/cenc.mpd"
-      },
-      "drm_key": "1883244cdf59eb690ebe9f6c86e37fd8:5e8cc17242d119ec6a6c805c42422ae5"
+      "stream_url": "",
+      "drm_key": ""
     },
     {
       "match_id": "B0H9H2MN1C",
