@@ -1,22 +1,36 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:06:32 PM 04-08-2026
+#LAST_UPDATE:07:02 PM 04-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:18
+#LIVE_COUNT:4
+#UPCOMING_COUNT:16
 
 #EXTINF:-1 tvg-id="B0H8D5CWCZ" tvg-name="Global e-Cricket Premier League 2026 - 23rd Match - Pune Stallions vs Bengaluru Badgers" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b26e2fc8-2f2a-46c1-ae94-8f5df8e619a1/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - 23rd Match - Pune Stallions vs Bengaluru Badgers
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba0e6c04e2ba88e1c1093ec4dcefbf15:0ce346b079c161193e88833c98ecea17
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ftcr4wrdrk/out/v1/91628c934d89418bbff116a1c964d10e/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ftcr4wrdrk/out/v1/91628c934d89418bbff116a1c964d10e/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HBBJ7CK2" tvg-name="Global e-Cricket Premier League 2026 - 24th Match - Mumbai Grizzlies vs Hyderabad Rhinos" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3f194d9f-b21d-47e0-a9c0-61d98a84442c/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - 24th Match - Mumbai Grizzlies vs Hyderabad Rhinos
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4935aa08d7fbfd706f258d04809fab10:3df85e8f32fbf9eb3274950813017cf0
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/pwjwxaxe6o/out/v1/cc4bd9287ab341b18a69e1f84cbc7b95/cenc.mpd
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/pwjwxaxe6o/out/v1/cc4bd9287ab341b18a69e1f84cbc7b95/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HC72TYDT" tvg-name="Global e-Cricket Premier League 2026 - 25th Match - Gujarat Wolves vs Delhi Sharks" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0120612c-3305-437f-a93a-07776f350cc1/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - 25th Match - Gujarat Wolves vs Delhi Sharks
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f70f3e8b80ea09094e1b3d7795df7a9:e0df704595b3c040f195b4936c245a0f
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tmxlp2orvh/out/v1/fd9d69e86c53489aaca5031ff2e62389/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H78R6P83" tvg-name="Pakistan tour of West Indies 2026 - 2nd Test - West Indies vs Pakistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.14b0d3fe-a2ae-4fa9-a6b3-caeec734927f/10/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Pakistan tour of West Indies 2026 - 2nd Test - West Indies vs Pakistan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae4d308848c3fa0e2f6e9e57cae1bffb:12fdaa10a7f4dd536e9c121dc08a72b3
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rppouzsbk7/out/v1/f51c2e9845e24c8c959e0725614aaf61/cenc.mpd
 
