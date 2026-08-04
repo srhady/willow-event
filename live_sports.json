@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "11:02 PM 04-08-2026",
+    "LastUpdate": "11:32 PM 04-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
-    "UpcomingCount": 16
+    "LiveCount": 5,
+    "UpcomingCount": 15
   },
   "Matches": [
     {
@@ -41,7 +41,7 @@
       "synopsis": "The Hundred Womens Competition 2026 - 20th Match - Sunrisers Leeds Women vs London Spirit Women",
       "status": "LIVE",
       "time": "7 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a6891cc9-cfa4-4cbb-bcc9-26952e26cf81/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a6891cc9-cfa4-4cbb-bcc9-26952e26cf81/5/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0H5N598GS?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
       "is_free": false,
       "stream_url_alpha": {
@@ -91,7 +91,7 @@
       "synopsis": "Global e-Cricket Premier League 2026 - 28th Match - Kolkata Hawks vs Delhi Sharks",
       "status": "LIVE",
       "time": "10 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3916b4ec-b172-4ab2-8151-22efe3a99987/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3916b4ec-b172-4ab2-8151-22efe3a99987/5/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HCCR158H?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
       "is_free": false,
       "stream_url_alpha": {
@@ -114,13 +114,26 @@
       "match_id": "B0H8N5898K",
       "title": "The Hundred Mens Competition 2026 - 20th Match - Sunrisers Leeds vs London Spirit",
       "synopsis": "The Hundred Mens Competition 2026 - 20th Match - Sunrisers Leeds vs London Spirit",
-      "status": "UPCOMING",
-      "time": "Live at 11:30 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.85fc5a74-c5ce-444e-8943-883b6b5ef27e/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "11 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.85fc5a74-c5ce-444e-8943-883b6b5ef27e/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0H8N5898K?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_5",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Amazon Server 1": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pn1vflywrn/out/v1/98415fdfef234f7dbd877e4eae604121/cenc.mpd",
+        "Amazon Server 2": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pn1vflywrn/out/v1/98415fdfef234f7dbd877e4eae604121/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pn1vflywrn/out/v1/98415fdfef234f7dbd877e4eae604121/cenc.mpd",
+        "Cloudfront Server 1": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pn1vflywrn/out/v1/98415fdfef234f7dbd877e4eae604121/cenc.mpd",
+        "Cloudfront Server 2": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pn1vflywrn/out/v1/98415fdfef234f7dbd877e4eae604121/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Amazon Server 1": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/g4qsi8y3ym/out/v1/47a24c50844d41b6a7e47101d2b38811/cenc.mpd",
+        "Amazon Server 2": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/g4qsi8y3ym/out/v1/47a24c50844d41b6a7e47101d2b38811/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/g4qsi8y3ym/out/v1/47a24c50844d41b6a7e47101d2b38811/cenc.mpd",
+        "Cloudfront Server 1": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/g4qsi8y3ym/out/v1/47a24c50844d41b6a7e47101d2b38811/cenc.mpd",
+        "Cloudfront Server 2": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/g4qsi8y3ym/out/v1/47a24c50844d41b6a7e47101d2b38811/cenc.mpd"
+      },
+      "drm_key": "0c9c4eb9d787e021bc477fc1108716c9:e74a9fd58f3950317920fe21fb823109"
     },
     {
       "match_id": "B0GWQ8FVLC",
