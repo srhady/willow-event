@@ -1,8 +1,15 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:03:32 PM 04-08-2026
+#LAST_UPDATE:04:02 PM 04-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:20
+#LIVE_COUNT:1
+#UPCOMING_COUNT:19
+
+#EXTINF:-1 tvg-id="B0H8MT29DZ" tvg-name="Global e-Cricket Premier League 2026 - 22nd Match - Chennai Falcons vs Mumbai Grizzlies" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c3f2ad8b-ff85-432a-8833-7ecd5bad98e6/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - 22nd Match - Chennai Falcons vs Mumbai Grizzlies
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42a061037f88f2da0fa2b19a1dc20f09:1266d343d125eeed4d099b33f8233dc6
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/upo1nkr2nj/out/v1/fb387702540a42a1865d9934c72e6f2b/cenc.mpd
 
