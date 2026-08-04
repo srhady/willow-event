@@ -1,29 +1,36 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:10:02 PM 04-08-2026
+#LAST_UPDATE:10:32 PM 04-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:3
-#UPCOMING_COUNT:17
+#LIVE_COUNT:4
+#UPCOMING_COUNT:16
 
 #EXTINF:-1 tvg-id="B0H78R6P83" tvg-name="Pakistan tour of West Indies 2026 - 2nd Test - West Indies vs Pakistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.14b0d3fe-a2ae-4fa9-a6b3-caeec734927f/10/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Pakistan tour of West Indies 2026 - 2nd Test - West Indies vs Pakistan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae4d308848c3fa0e2f6e9e57cae1bffb:12fdaa10a7f4dd536e9c121dc08a72b3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rppouzsbk7/out/v1/f51c2e9845e24c8c959e0725614aaf61/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rppouzsbk7/out/v1/f51c2e9845e24c8c959e0725614aaf61/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0H5N598GS" tvg-name="The Hundred Womens Competition 2026 - 20th Match - Sunrisers Leeds Women vs London Spirit Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a6891cc9-cfa4-4cbb-bcc9-26952e26cf81/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",The Hundred Womens Competition 2026 - 20th Match - Sunrisers Leeds Women vs London Spirit Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4342bb871ce6a48b5cb27583003d838:337b1b0f5b2ec3f1180742c0f09f098f
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/behaiysc5j/out/v1/739ec77f50f8457a85734b6a5564fa8c/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/behaiysc5j/out/v1/739ec77f50f8457a85734b6a5564fa8c/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HC9KXW8Q" tvg-name="Global e-Cricket Premier League 2026 - 27th Match - Pune Stallions vs Gujarat Wolves" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.12eeade6-07ed-4ba6-91fb-a5c578818b03/6/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - 27th Match - Pune Stallions vs Gujarat Wolves
+#EXTINF:-1 tvg-id="B0HC9KXW8Q" tvg-name="Global e-Cricket Premier League 2026 - 27th Match - Pune Stallions vs Gujarat Wolves" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.12eeade6-07ed-4ba6-91fb-a5c578818b03/7/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - 27th Match - Pune Stallions vs Gujarat Wolves
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b89071f14cc98c659cfe1d3a82ad1121:99e191562ff26c7f3d2da720f11a658e
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/gywtrvp1rw/out/v1/619435b8b75d41178bb99880387d4a44/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/gywtrvp1rw/out/v1/619435b8b75d41178bb99880387d4a44/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HCCR158H" tvg-name="Global e-Cricket Premier League 2026 - 28th Match - Kolkata Hawks vs Delhi Sharks" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3916b4ec-b172-4ab2-8151-22efe3a99987/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - 28th Match - Kolkata Hawks vs Delhi Sharks
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1da39fc2f2ea2e29f5b572a2edcd0874:781f83fb5c83e6dcc609f8abc1bd2c19
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tguonsmozy/out/v1/d995b66b24c24f38bd0389e90c5ded47/cenc.mpd
 
