@@ -1,40 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "07:36 PM 04-08-2026",
+    "LastUpdate": "08:02 PM 04-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 3,
-    "UpcomingCount": 17
+    "LiveCount": 4,
+    "UpcomingCount": 16
   },
   "Matches": [
-    {
-      "match_id": "B0HBBJ7CK2",
-      "title": "Global e-Cricket Premier League 2026 - 24th Match - Mumbai Grizzlies vs Hyderabad Rhinos",
-      "synopsis": "Global e-Cricket Premier League 2026 - 24th Match - Mumbai Grizzlies vs Hyderabad Rhinos",
-      "status": "LIVE",
-      "time": "6:10 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3f194d9f-b21d-47e0-a9c0-61d98a84442c/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HBBJ7CK2?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
-      "is_free": false,
-      "stream_url_alpha": {
-        "Amazon Server 1": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/pwjwxaxe6o/out/v1/cc4bd9287ab341b18a69e1f84cbc7b95/cenc.mpd",
-        "Amazon Server 2": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/pwjwxaxe6o/out/v1/cc4bd9287ab341b18a69e1f84cbc7b95/cenc.mpd",
-        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/pwjwxaxe6o/out/v1/cc4bd9287ab341b18a69e1f84cbc7b95/cenc.mpd",
-        "Cloudfront Server 1": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/pwjwxaxe6o/out/v1/cc4bd9287ab341b18a69e1f84cbc7b95/cenc.mpd",
-        "Cloudfront Server 2": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/pwjwxaxe6o/out/v1/cc4bd9287ab341b18a69e1f84cbc7b95/cenc.mpd"
-      },
-      "stream_url_bravo": {
-        "Amazon Server 1": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tlebifdlo0/out/v1/5267572f8dd74093a0d7ba4ccce0a1ff/cenc.mpd",
-        "Amazon Server 2": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tlebifdlo0/out/v1/5267572f8dd74093a0d7ba4ccce0a1ff/cenc.mpd",
-        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/tlebifdlo0/out/v1/5267572f8dd74093a0d7ba4ccce0a1ff/cenc.mpd",
-        "Cloudfront Server 1": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tlebifdlo0/out/v1/5267572f8dd74093a0d7ba4ccce0a1ff/cenc.mpd",
-        "Cloudfront Server 2": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tlebifdlo0/out/v1/5267572f8dd74093a0d7ba4ccce0a1ff/cenc.mpd"
-      },
-      "drm_key": "4935aa08d7fbfd706f258d04809fab10:3df85e8f32fbf9eb3274950813017cf0"
-    },
     {
       "match_id": "B0HC72TYDT",
       "title": "Global e-Cricket Premier League 2026 - 25th Match - Gujarat Wolves vs Delhi Sharks",
@@ -42,7 +17,7 @@
       "status": "LIVE",
       "time": "7 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0120612c-3305-437f-a93a-07776f350cc1/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HC72TYDT?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HC72TYDT?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
       "is_free": false,
       "stream_url_alpha": {
         "Amazon Server 1": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tmxlp2orvh/out/v1/fd9d69e86c53489aaca5031ff2e62389/cenc.mpd",
@@ -67,7 +42,7 @@
       "status": "LIVE",
       "time": "7 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.14b0d3fe-a2ae-4fa9-a6b3-caeec734927f/10/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H78R6P83?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H78R6P83?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
       "is_free": false,
       "stream_url_alpha": {
         "Amazon Server 1": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rppouzsbk7/out/v1/f51c2e9845e24c8c959e0725614aaf61/cenc.mpd",
@@ -89,25 +64,51 @@
       "match_id": "B0HC7PKBT5",
       "title": "Global e-Cricket Premier League 2026 - 26th Match - Bengaluru Badgers vs Kolkata Hawks",
       "synopsis": "Global e-Cricket Premier League 2026 - 26th Match - Bengaluru Badgers vs Kolkata Hawks",
-      "status": "UPCOMING",
-      "time": "Live at 7:50 PM BDT",
+      "status": "LIVE",
+      "time": "7:50 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6ff7e315-0a72-41c6-99bf-52b01fcc6946/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HC7PKBT5?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HC7PKBT5?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Amazon Server 1": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qhiwbtgdfn/out/v1/62d768427c1d4b56bc39a1eb4a792d40/cenc.mpd",
+        "Amazon Server 2": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qhiwbtgdfn/out/v1/62d768427c1d4b56bc39a1eb4a792d40/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/qhiwbtgdfn/out/v1/62d768427c1d4b56bc39a1eb4a792d40/cenc.mpd",
+        "Cloudfront Server 1": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qhiwbtgdfn/out/v1/62d768427c1d4b56bc39a1eb4a792d40/cenc.mpd",
+        "Cloudfront Server 2": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qhiwbtgdfn/out/v1/62d768427c1d4b56bc39a1eb4a792d40/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Amazon Server 1": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vk3h1x3aq8/out/v1/16a175c8fb8d4244a9389e711488e32c/cenc.mpd",
+        "Amazon Server 2": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vk3h1x3aq8/out/v1/16a175c8fb8d4244a9389e711488e32c/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/vk3h1x3aq8/out/v1/16a175c8fb8d4244a9389e711488e32c/cenc.mpd",
+        "Cloudfront Server 1": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vk3h1x3aq8/out/v1/16a175c8fb8d4244a9389e711488e32c/cenc.mpd",
+        "Cloudfront Server 2": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vk3h1x3aq8/out/v1/16a175c8fb8d4244a9389e711488e32c/cenc.mpd"
+      },
+      "drm_key": "61467097c4c70c65f40223cbcde45a62:66cc100488c84b2227dd5f9ab298c2c1"
     },
     {
       "match_id": "B0H5N598GS",
       "title": "The Hundred Womens Competition 2026 - 20th Match - Sunrisers Leeds Women vs London Spirit Women",
       "synopsis": "The Hundred Womens Competition 2026 - 20th Match - Sunrisers Leeds Women vs London Spirit Women",
-      "status": "UPCOMING",
-      "time": "Live at 8 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a6891cc9-cfa4-4cbb-bcc9-26952e26cf81/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H5N598GS?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_5",
+      "status": "LIVE",
+      "time": "7 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a6891cc9-cfa4-4cbb-bcc9-26952e26cf81/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H5N598GS?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Amazon Server 1": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/behaiysc5j/out/v1/739ec77f50f8457a85734b6a5564fa8c/cenc.mpd",
+        "Amazon Server 2": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/behaiysc5j/out/v1/739ec77f50f8457a85734b6a5564fa8c/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/behaiysc5j/out/v1/739ec77f50f8457a85734b6a5564fa8c/cenc.mpd",
+        "Cloudfront Server 1": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/behaiysc5j/out/v1/739ec77f50f8457a85734b6a5564fa8c/cenc.mpd",
+        "Cloudfront Server 2": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/behaiysc5j/out/v1/739ec77f50f8457a85734b6a5564fa8c/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Amazon Server 1": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/y33nu8ijh3/out/v1/321e553de76e47a193740a2f81ea515f/cenc.mpd",
+        "Amazon Server 2": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/y33nu8ijh3/out/v1/321e553de76e47a193740a2f81ea515f/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/y33nu8ijh3/out/v1/321e553de76e47a193740a2f81ea515f/cenc.mpd",
+        "Cloudfront Server 1": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/y33nu8ijh3/out/v1/321e553de76e47a193740a2f81ea515f/cenc.mpd",
+        "Cloudfront Server 2": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/y33nu8ijh3/out/v1/321e553de76e47a193740a2f81ea515f/cenc.mpd"
+      },
+      "drm_key": "b4342bb871ce6a48b5cb27583003d838:337b1b0f5b2ec3f1180742c0f09f098f"
     },
     {
       "match_id": "B0HC9KXW8Q",
@@ -116,7 +117,7 @@
       "status": "UPCOMING",
       "time": "Live at 8:40 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.12eeade6-07ed-4ba6-91fb-a5c578818b03/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HC9KXW8Q?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_6",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HC9KXW8Q?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_5",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -128,7 +129,7 @@
       "status": "UPCOMING",
       "time": "Live at 9:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3916b4ec-b172-4ab2-8151-22efe3a99987/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HCCR158H?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_7",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HCCR158H?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_6",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -140,7 +141,7 @@
       "status": "UPCOMING",
       "time": "Live at 11:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.85fc5a74-c5ce-444e-8943-883b6b5ef27e/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H8N5898K?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_8",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H8N5898K?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_7",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -152,7 +153,19 @@
       "status": "UPCOMING",
       "time": "Tomorrow 3:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.23233ae6-9671-499a-87a6-a7d26f9983be/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0GWQ8FVLC?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_9",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0GWQ8FVLC?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_8",
+      "is_free": false,
+      "stream_url_alpha": "",
+      "drm_key": ""
+    },
+    {
+      "match_id": "B0HCVXD3R2",
+      "title": "Afghanistan tour of Ireland 2026 - 1st ODI - Ireland vs Afghanistan",
+      "synopsis": "Afghanistan tour of Ireland 2026 - 1st ODI - Ireland vs Afghanistan",
+      "status": "UPCOMING",
+      "time": "Tomorrow 3:45 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e50d4850-37ae-4c70-b247-24dd8533ee40/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HCVXD3R2?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_9",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
