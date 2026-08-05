@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "10:32 PM 05-08-2026",
+    "LastUpdate": "11:02 PM 05-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -74,20 +74,6 @@
         "Original Server": "https://a130aivottepl-a.akamaihd.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/g1wuuuw2ck/out/v1/a26c837957154e63988aec8e763cda8a/e81f182d-af70-4903-b310-0d338d1b03d5-cenc.mpd"
       },
       "drm_key": "14158a517d5c0c71bbf1531b4db6a31c:ecdbf45a2aa0caae8c88b45aade2802c"
-    },
-    {
-      "match_id": "B0HC6CL382",
-      "title": "Aug 5 - PTT Hamburg",
-      "synopsis": "Aug 5 - PTT Hamburg",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.56286739-84ca-4aa2-93c4-759be68a428f/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HC6CL382",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/bonuiz8uqt/out/v1/8fe07ac381ab45b98947467b186ba9e5/2fb994f0-d43d-4fe0-a3b7-203a4fd27239-cenc.mpd"
-      },
-      "drm_key": "d89599e68f47f2b25ab483da0ce3c05d:93f342e454adc2257d39e62d96c245a9"
     }
   ]
 }
