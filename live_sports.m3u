@@ -1,8 +1,36 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:06:32 PM 05-08-2026
+#LAST_UPDATE:06:41 PM 05-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:0
+#LIVE_COUNT:4
+#UPCOMING_COUNT:16
+
+#EXTINF:-1 tvg-id="B0GWQ8FVLC" tvg-name="Lanka Premier League 2026 - Qualifier 1 - Galle Gallants vs Jaffna Kings" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.23233ae6-9671-499a-87a6-a7d26f9983be/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Lanka Premier League 2026 - Qualifier 1 - Galle Gallants vs Jaffna Kings
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=595932d92efbd8423ac32fbffcc78dca:adea3202c6154d11faad1d54b363763c
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/h1kfxvwp9c/out/v1/2899320e61bb4d218ccb5bf704c27cc2/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H8JF71Y7" tvg-name="The Hundred Womens Competition 2026 - 21st Match - Manchester Super Giants Women vs Welsh Fire Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b68ad75f-1041-44da-8fd0-a857faf1f3ee/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",The Hundred Womens Competition 2026 - 21st Match - Manchester Super Giants Women vs Welsh Fire Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a9b18820a750297ec2ba8755b7c3c118:929d7e9e7a87228f7020e12129c5318f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2w3nxw16vx/out/v1/3afccdb73040451ba7269bd9a524dd7f/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HBVYNV9G" tvg-name="Global e-Cricket Premier League 2026 - 30th Match - Mumbai Grizzlies vs Kolkata Hawks" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.edaec644-c218-4332-b9f4-a836f7e5de72/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - 30th Match - Mumbai Grizzlies vs Kolkata Hawks
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b6d6d0bb77e9ac22d53792740e715e6:af80cf5e5637717bee913c8375f62c27
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/j9qfidfciw/out/v1/4e40e76dcba04ea6a2e39c2f406cbb72/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HCCNNTD7" tvg-name="Global e-Cricket Premier League 2026 - 31st Match - Pune Stallions vs Chennai Falcons" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.961b9f86-099b-4e67-b9a7-3a8e3ae8bad9/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - 31st Match - Pune Stallions vs Chennai Falcons
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf67ac35f692968a67568e86af249247:1e349e78ae03a8e48d29cbe9a709cecf
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qxqo4mkb04/out/v1/15762dee8cf74b4da3a96cb1c44a828a/cenc.mpd
 
