@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "07:32 PM 06-08-2026",
+    "LastUpdate": "08:02 PM 06-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -45,18 +45,21 @@
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
-      "match_id": "B0HB54WZRX",
-      "title": "Aug 6 - PTT Hamburg",
-      "synopsis": "Aug 6 - PTT Hamburg",
+      "match_id": "B0HBPRZXT1",
+      "title": "London Spirit vs. MI London",
+      "synopsis": "London Spirit vs. MI London",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bf785272-b42a-4fdb-9c46-59a24b48a263/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HB54WZRX",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b40acc9a-796a-4611-9790-ac0e1a07803f/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HBPRZXT1",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/vtaypmlewy/out/v1/649ec56a412d40029d15b7a573cb2f67/9e454a79-a0a0-49ce-88ae-00c1804fc678-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
       },
-      "drm_key": "2ac53ffee8faaa0d67423f4364d1d0d2:b2024fb86b688e26ff66367f89ce3c69"
+      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
       "match_id": "B0H5R38RJL",
@@ -71,6 +74,20 @@
         "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/kvaprbhtok/out/v1/a45495409e9346f2b3009c5fb097def9/eca0d539-ff29-403a-bc7b-6b631b173397-cenc.mpd"
       },
       "drm_key": "e9ad73072cd8de3ce7b256efc1be1107:1a04edd747bae45a756972e7cb3441d5"
+    },
+    {
+      "match_id": "B0HB54WZRX",
+      "title": "Aug 6 - PTT Hamburg",
+      "synopsis": "Aug 6 - PTT Hamburg",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bf785272-b42a-4fdb-9c46-59a24b48a263/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HB54WZRX",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/vtaypmlewy/out/v1/649ec56a412d40029d15b7a573cb2f67/9e454a79-a0a0-49ce-88ae-00c1804fc678-cenc.mpd"
+      },
+      "drm_key": "2ac53ffee8faaa0d67423f4364d1d0d2:b2024fb86b688e26ff66367f89ce3c69"
     }
   ]
 }
