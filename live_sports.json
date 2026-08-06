@@ -1,26 +1,39 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "03:02 PM 06-08-2026",
+    "LastUpdate": "04:02 PM 06-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 0,
-    "UpcomingCount": 20
+    "LiveCount": 1,
+    "UpcomingCount": 19
   },
   "Matches": [
     {
       "match_id": "B0HC73VR22",
       "title": "Global e-Cricket Premier League 2026 - 36th Match - Gujarat Wolves vs Bengaluru Badgers",
       "synopsis": "Global e-Cricket Premier League 2026 - 36th Match - Gujarat Wolves vs Bengaluru Badgers",
-      "status": "UPCOMING",
-      "time": "Live at 4:30 PM BDT",
+      "status": "LIVE",
+      "time": "4 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f5bd4096-d8ff-489a-bb35-d3d19b7fc5c6/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HC73VR22?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fywf7xoitu/out/v1/0d5141585b79432986561ccb0bc930e0/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fywf7xoitu/out/v1/0d5141585b79432986561ccb0bc930e0/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/fywf7xoitu/out/v1/0d5141585b79432986561ccb0bc930e0/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fywf7xoitu/out/v1/0d5141585b79432986561ccb0bc930e0/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fywf7xoitu/out/v1/0d5141585b79432986561ccb0bc930e0/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/drmlwc8uw1/out/v1/8800bb08ad874a52ba651338c9088948/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/drmlwc8uw1/out/v1/8800bb08ad874a52ba651338c9088948/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/drmlwc8uw1/out/v1/8800bb08ad874a52ba651338c9088948/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/drmlwc8uw1/out/v1/8800bb08ad874a52ba651338c9088948/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/drmlwc8uw1/out/v1/8800bb08ad874a52ba651338c9088948/cenc.mpd"
+      },
+      "drm_key": "c3db4b260ec08ef5c8c3af4f2a0b0806:b89d0e3faae9af922bd169b1ad009b54"
     },
     {
       "match_id": "B0HCCHX96C",
