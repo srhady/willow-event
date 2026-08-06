@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "07:02 PM 06-08-2026",
+    "LastUpdate": "07:32 PM 06-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 19
+    "LiveCount": 3,
+    "UpcomingCount": 17
   },
   "Matches": [
     {
@@ -39,13 +39,51 @@
       "match_id": "B0H78R6P83",
       "title": "Pakistan tour of West Indies 2026 - 2nd Test - West Indies vs Pakistan",
       "synopsis": "Pakistan tour of West Indies 2026 - 2nd Test - West Indies vs Pakistan",
-      "status": "UPCOMING",
-      "time": "Live at 7:15 PM BDT",
+      "status": "LIVE",
+      "time": "7:15 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.14b0d3fe-a2ae-4fa9-a6b3-caeec734927f/12/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0H78R6P83?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lrbanfu1qn/out/v1/359449e458ef4374abfc658ed8d69986/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lrbanfu1qn/out/v1/359449e458ef4374abfc658ed8d69986/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/lrbanfu1qn/out/v1/359449e458ef4374abfc658ed8d69986/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lrbanfu1qn/out/v1/359449e458ef4374abfc658ed8d69986/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lrbanfu1qn/out/v1/359449e458ef4374abfc658ed8d69986/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/gqoryjruhb/out/v1/1ffd0bbb9ed644d1b4b00a2476e032cb/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/gqoryjruhb/out/v1/1ffd0bbb9ed644d1b4b00a2476e032cb/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/gqoryjruhb/out/v1/1ffd0bbb9ed644d1b4b00a2476e032cb/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/gqoryjruhb/out/v1/1ffd0bbb9ed644d1b4b00a2476e032cb/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/gqoryjruhb/out/v1/1ffd0bbb9ed644d1b4b00a2476e032cb/cenc.mpd"
+      },
+      "drm_key": "4ffca0119f9d20fbd9376b7067cdd0c8:09e4be9177a261c0d0ad70a656d3e673"
+    },
+    {
+      "match_id": "B0H86HBMY1",
+      "title": "The Hundred Womens Competition 2026 - 23rd Match - London Spirit Women vs Mi London Women",
+      "synopsis": "The Hundred Womens Competition 2026 - 23rd Match - London Spirit Women vs Mi London Women",
+      "status": "LIVE",
+      "time": "7:30 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f745a6d4-efdd-4af9-a70e-6dc64a0ffe4a/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H86HBMY1?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
+      "is_free": false,
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ckf6fg9kkq/out/v1/9ca7805c1e1f43fd816c16887f56bd6c/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ckf6fg9kkq/out/v1/9ca7805c1e1f43fd816c16887f56bd6c/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ckf6fg9kkq/out/v1/9ca7805c1e1f43fd816c16887f56bd6c/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ckf6fg9kkq/out/v1/9ca7805c1e1f43fd816c16887f56bd6c/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ckf6fg9kkq/out/v1/9ca7805c1e1f43fd816c16887f56bd6c/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aom5odkfja/out/v1/6ee7883d26b84be3b4a1f79a8dbff0bf/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aom5odkfja/out/v1/6ee7883d26b84be3b4a1f79a8dbff0bf/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/aom5odkfja/out/v1/6ee7883d26b84be3b4a1f79a8dbff0bf/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/aom5odkfja/out/v1/6ee7883d26b84be3b4a1f79a8dbff0bf/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/aom5odkfja/out/v1/6ee7883d26b84be3b4a1f79a8dbff0bf/cenc.mpd"
+      },
+      "drm_key": "6818868b06409ee7869850f878c30665:4766f05f2c1de3cd0896ccd99f662fd1"
     },
     {
       "match_id": "B0HC6NVM8H",
@@ -54,19 +92,7 @@
       "status": "UPCOMING",
       "time": "Live at 8 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f16e807d-e5bf-462c-9ae1-c157301de6e6/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HC6NVM8H?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
-      "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
-    },
-    {
-      "match_id": "B0H86HBMY1",
-      "title": "The Hundred Womens Competition 2026 - 23rd Match - London Spirit Women vs Mi London Women",
-      "synopsis": "The Hundred Womens Competition 2026 - 23rd Match - London Spirit Women vs Mi London Women",
-      "status": "UPCOMING",
-      "time": "Live at 8 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f745a6d4-efdd-4af9-a70e-6dc64a0ffe4a/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H86HBMY1?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HC6NVM8H?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
