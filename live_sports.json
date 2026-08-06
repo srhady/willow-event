@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "09:02 PM 06-08-2026",
+    "LastUpdate": "09:32 PM 06-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
-    "UpcomingCount": 16
+    "LiveCount": 5,
+    "UpcomingCount": 15
   },
   "Matches": [
     {
@@ -90,8 +90,8 @@
       "title": "Global e-Cricket Premier League 2026 - 41st Match - Bengaluru Badgers vs Mumbai Grizzlies",
       "synopsis": "Global e-Cricket Premier League 2026 - 41st Match - Bengaluru Badgers vs Mumbai Grizzlies",
       "status": "LIVE",
-      "time": "8:40 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.55f388e9-f7ff-408f-ac83-6469b81565fe/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "time": "9:15 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.55f388e9-f7ff-408f-ac83-6469b81565fe/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0H8J86LWN?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
       "is_free": false,
       "stream_url_alpha": {
@@ -114,13 +114,26 @@
       "match_id": "B0H2W96863",
       "title": "Global e-Cricket Premier League 2026 - 42nd Match - Chennai Falcons vs Delhi Sharks",
       "synopsis": "Global e-Cricket Premier League 2026 - 42nd Match - Chennai Falcons vs Delhi Sharks",
-      "status": "UPCOMING",
-      "time": "Live at 9:30 PM BDT",
+      "status": "LIVE",
+      "time": "9:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.66ce9932-e0b0-4ffd-ae75-267fec5ab76d/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0H2W96863?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_5",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mntf7ns4cv/out/v1/8cb7b647397c484c8a741d7cced9a56f/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mntf7ns4cv/out/v1/8cb7b647397c484c8a741d7cced9a56f/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/mntf7ns4cv/out/v1/8cb7b647397c484c8a741d7cced9a56f/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mntf7ns4cv/out/v1/8cb7b647397c484c8a741d7cced9a56f/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mntf7ns4cv/out/v1/8cb7b647397c484c8a741d7cced9a56f/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tphbyxzhqr/out/v1/479eaea7e5b14d0289b6ae11e348a886/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tphbyxzhqr/out/v1/479eaea7e5b14d0289b6ae11e348a886/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/tphbyxzhqr/out/v1/479eaea7e5b14d0289b6ae11e348a886/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tphbyxzhqr/out/v1/479eaea7e5b14d0289b6ae11e348a886/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tphbyxzhqr/out/v1/479eaea7e5b14d0289b6ae11e348a886/cenc.mpd"
+      },
+      "drm_key": "a0bd0d155b180a6bc7cc53d75fd91085:9ddc5e4838694cf7756831d107933a55"
     },
     {
       "match_id": "B0H72HH6Q7",
