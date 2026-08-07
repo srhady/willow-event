@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "05:02 PM 07-08-2026",
+    "LastUpdate": "05:32 PM 07-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -10,23 +10,6 @@
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HBWZ8G9N",
-      "title": "Phygital Football, Quarterfinal",
-      "synopsis": "Phygital Football, Quarterfinal",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1d933ab0-9582-4747-8f90-6880cb94c20a/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HBWZ8G9N",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd"
-      },
-      "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
-    },
     {
       "match_id": "B0HCC3F4WT",
       "title": "Qatar Airways Grand Prix of Great Britain, Free Practice 1",
@@ -59,6 +42,37 @@
       "drm_key": "2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72"
     },
     {
+      "match_id": "B0HBWZ8G9N",
+      "title": "Phygital Football, Quarterfinal",
+      "synopsis": "Phygital Football, Quarterfinal",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1d933ab0-9582-4747-8f90-6880cb94c20a/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HBWZ8G9N",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd"
+      },
+      "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
+    },
+    {
+      "match_id": "B0H567WFLB",
+      "title": "Aug 7 - PTT Hamburg",
+      "synopsis": "Aug 7 - PTT Hamburg",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d9ac1171-07c0-4ede-a6a8-cbe50b52145b/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H567WFLB",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a81live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqiUmIBhpqdYMIA2Zha2FtYWkCeClzc2lkOjQyZmJjYTZiLTIwMTMtNDU1MS1hZDJlLTYyZjJkYjdiYmYyMBkBOKEFoQJ4My9yaDl0amludXJqL291dC92MS83NGU3NmQwZDMzNmI0N2IxYTcwNDY2M2FkZTQ4NWIyMhkBPIFiVVNYID8yvGQ6VrI012wYTbwryCI4diudFEqjJXff9Lg497cU/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/rh9tjinurj/out/v1/74e76d0d336b47b1a704663ade485b22/e92cac62-fa13-4092-b358-9a0705074dd9-cenc.mpd"
+      },
+      "drm_key": "c6f14e4f95307f18d3a1a7e2aa775f9b:db836f90b033f60af5de1d12a98e6a1f"
+    },
+    {
       "match_id": "B0HBCMMWQ4",
       "title": "Hyderabad Rhinos vs. Mumbai Grizzlies",
       "synopsis": "Hyderabad Rhinos vs. Mumbai Grizzlies",
@@ -74,20 +88,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
       },
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-    },
-    {
-      "match_id": "B0H567WFLB",
-      "title": "Aug 7 - PTT Hamburg",
-      "synopsis": "Aug 7 - PTT Hamburg",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d9ac1171-07c0-4ede-a6a8-cbe50b52145b/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H567WFLB",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a81live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqiUmIBhpqdYMIA2Zha2FtYWkCeClzc2lkOjQyZmJjYTZiLTIwMTMtNDU1MS1hZDJlLTYyZjJkYjdiYmYyMBkBOKEFoQJ4My9yaDl0amludXJqL291dC92MS83NGU3NmQwZDMzNmI0N2IxYTcwNDY2M2FkZTQ4NWIyMhkBPIFiVVNYID8yvGQ6VrI012wYTbwryCI4diudFEqjJXff9Lg497cU/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/rh9tjinurj/out/v1/74e76d0d336b47b1a704663ade485b22/e92cac62-fa13-4092-b358-9a0705074dd9-cenc.mpd"
-      },
-      "drm_key": "c6f14e4f95307f18d3a1a7e2aa775f9b:db836f90b033f60af5de1d12a98e6a1f"
     }
   ]
 }
