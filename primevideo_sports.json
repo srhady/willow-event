@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "03:32 PM 07-08-2026",
+    "LastUpdate": "04:02 PM 07-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 3,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -54,23 +54,6 @@
         "Original Server": "https://a81live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqiUmIBhpqdYMIA2Zha2FtYWkCeClzc2lkOjQyZmJjYTZiLTIwMTMtNDU1MS1hZDJlLTYyZjJkYjdiYmYyMBkBOKEFoQJ4My9yaDl0amludXJqL291dC92MS83NGU3NmQwZDMzNmI0N2IxYTcwNDY2M2FkZTQ4NWIyMhkBPIFiVVNYID8yvGQ6VrI012wYTbwryCI4diudFEqjJXff9Lg497cU/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/rh9tjinurj/out/v1/74e76d0d336b47b1a704663ade485b22/e92cac62-fa13-4092-b358-9a0705074dd9-cenc.mpd"
       },
       "drm_key": "c6f14e4f95307f18d3a1a7e2aa775f9b:db836f90b033f60af5de1d12a98e6a1f"
-    },
-    {
-      "match_id": "B0GWK8WCDZ",
-      "title": "Taranaki v Waikato",
-      "synopsis": "Taranaki v Waikato",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a07fa29b-3a2a-4168-a994-7d1d6d28a008/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0GWK8WCDZ",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd"
-      },
-      "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
     }
   ]
 }
