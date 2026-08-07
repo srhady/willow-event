@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "06:32 PM 07-08-2026",
+    "LastUpdate": "07:02 PM 07-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 3,
-    "UpcomingCount": 17
+    "LiveCount": 4,
+    "UpcomingCount": 16
   },
   "Matches": [
     {
@@ -89,13 +89,26 @@
       "match_id": "B0HB579W55",
       "title": "Global e-Cricket Premier League 2026 - 46th Match - Chennai Falcons vs Bengaluru Badgers",
       "synopsis": "Global e-Cricket Premier League 2026 - 46th Match - Chennai Falcons vs Bengaluru Badgers",
-      "status": "UPCOMING",
-      "time": "Live at 7 PM BDT",
+      "status": "LIVE",
+      "time": "7 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cce917b3-b176-41c4-a3d6-da24aade3c55/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HB579W55?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dnhi5x5nck/out/v1/d5240b46424a4b71a6e1745acd545707/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dnhi5x5nck/out/v1/d5240b46424a4b71a6e1745acd545707/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/dnhi5x5nck/out/v1/d5240b46424a4b71a6e1745acd545707/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/dnhi5x5nck/out/v1/d5240b46424a4b71a6e1745acd545707/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/dnhi5x5nck/out/v1/d5240b46424a4b71a6e1745acd545707/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bsvjs4nb5t/out/v1/8e1abf71dcf5499f9e2a3ead1c30e63d/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bsvjs4nb5t/out/v1/8e1abf71dcf5499f9e2a3ead1c30e63d/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/bsvjs4nb5t/out/v1/8e1abf71dcf5499f9e2a3ead1c30e63d/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bsvjs4nb5t/out/v1/8e1abf71dcf5499f9e2a3ead1c30e63d/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bsvjs4nb5t/out/v1/8e1abf71dcf5499f9e2a3ead1c30e63d/cenc.mpd"
+      },
+      "drm_key": "78cea43aa32e51512ed800b2a8707f56:0b58a9b05789c73e8c0e0c94baf91e4e"
     },
     {
       "match_id": "B0HCH4XHSW",

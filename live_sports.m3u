@@ -1,29 +1,36 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:06:32 PM 07-08-2026
+#LAST_UPDATE:07:02 PM 07-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:3
-#UPCOMING_COUNT:17
+#LIVE_COUNT:4
+#UPCOMING_COUNT:16
 
 #EXTINF:-1 tvg-id="B0HCL9R674" tvg-name="Afghanistan tour of Ireland 2026 - 2nd ODI - Ireland vs Afghanistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fa0c24e5-e1e3-4036-808f-7943279cda23/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Afghanistan tour of Ireland 2026 - 2nd ODI - Ireland vs Afghanistan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400e3a6fbb3142beda746fc6ab908dbd:596117ca9b94249b73d0fba6060aac8b
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zze2qgnuud/out/v1/7ed0272c46aa4980951173ca02a16033/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/zze2qgnuud/out/v1/7ed0272c46aa4980951173ca02a16033/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0H9J3H2FN" tvg-name="Global e-Cricket Premier League 2026 - 44th Match - Delhi Sharks vs Kolkata Hawks" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e69d9b07-0d5e-4b34-a4ad-4d26a1ce3f62/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - 44th Match - Delhi Sharks vs Kolkata Hawks
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9680249e6ae44fc1fdf0654055598478:17d140afa5cee2215c0fc0b531ebd53a
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k2rfwfpbkd/out/v1/cdb13551280247a1a349af5d0be602e5/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k2rfwfpbkd/out/v1/cdb13551280247a1a349af5d0be602e5/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HCJ7FCYS" tvg-name="Global e-Cricket Premier League 2026 - 45th Match - Gujarat Wolves vs Pune Stallions" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4889cad4-4fc9-4ce1-b8e3-60c9aef49068/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - 45th Match - Gujarat Wolves vs Pune Stallions
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f762f972c6b7dc0424723c8fa9695b97:683e95c9a751bf1b0a798f1ff6bb74f6
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/pt9ccjpxo3/out/v1/f8d1ab83fdee46518fbb4020470fd04e/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/pt9ccjpxo3/out/v1/f8d1ab83fdee46518fbb4020470fd04e/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HB579W55" tvg-name="Global e-Cricket Premier League 2026 - 46th Match - Chennai Falcons vs Bengaluru Badgers" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cce917b3-b176-41c4-a3d6-da24aade3c55/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - 46th Match - Chennai Falcons vs Bengaluru Badgers
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78cea43aa32e51512ed800b2a8707f56:0b58a9b05789c73e8c0e0c94baf91e4e
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/dnhi5x5nck/out/v1/d5240b46424a4b71a6e1745acd545707/cenc.mpd
 
