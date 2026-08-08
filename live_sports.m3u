@@ -1,8 +1,15 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:04:02 AM 09-08-2026
+#LAST_UPDATE:04:32 AM 09-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:20
+#LIVE_COUNT:1
+#UPCOMING_COUNT:19
+
+#EXTINF:-1 tvg-id="B0HCJ9M1DG" tvg-name="Caribbean Premier League 2026 - 2nd Match - St Kitts And Nevis Patriots vs Trinbago Knight Riders" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d7d510cb-1091-4fee-9836-2ea037e41ed8/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Caribbean Premier League 2026 - 2nd Match - St Kitts And Nevis Patriots vs Trinbago Knight Riders
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25cc7ef8a1d473f5efe28b3814739761:c7c71ec098f7d6c73d54f83b51d733ea
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/4ojxdfbnbm/out/v1/54ab8ec44e64451dbb2b61a2846ef9c9/cenc.mpd
 
