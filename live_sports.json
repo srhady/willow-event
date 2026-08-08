@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "10:02 PM 08-08-2026",
+    "LastUpdate": "10:32 PM 08-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
-    "UpcomingCount": 16
+    "LiveCount": 5,
+    "UpcomingCount": 15
   },
   "Matches": [
     {
@@ -41,7 +41,7 @@
       "synopsis": "The Hundred Womens Competition 2026 - 26th Match - Southern Brave Women vs Manchester Super Giants Women",
       "status": "LIVE",
       "time": "7 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6a071365-acc5-4fb6-8020-967ad35e2410/5/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6a071365-acc5-4fb6-8020-967ad35e2410/6/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0H8BH8NDL?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
       "is_free": false,
       "stream_url_alpha": {
@@ -114,13 +114,26 @@
       "match_id": "B0H5WTWRYB",
       "title": "The Hundred Mens Competition 2026 - 26th Match - Southern Brave vs Manchester Super Giants",
       "synopsis": "The Hundred Mens Competition 2026 - 26th Match - Southern Brave vs Manchester Super Giants",
-      "status": "UPCOMING",
-      "time": "Live at 11 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0c1f1dc8-923c-4364-a0a9-6129380c26c4/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "10:25 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0c1f1dc8-923c-4364-a0a9-6129380c26c4/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0H5WTWRYB?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_5",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nfesdcs5tc/out/v1/85db4017bbc34b289c617a86a95f65f5/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nfesdcs5tc/out/v1/85db4017bbc34b289c617a86a95f65f5/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/nfesdcs5tc/out/v1/85db4017bbc34b289c617a86a95f65f5/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nfesdcs5tc/out/v1/85db4017bbc34b289c617a86a95f65f5/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nfesdcs5tc/out/v1/85db4017bbc34b289c617a86a95f65f5/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/d9idic2dih/out/v1/83fe7d454d344bdb80e944fcd0bd9fc8/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/d9idic2dih/out/v1/83fe7d454d344bdb80e944fcd0bd9fc8/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/d9idic2dih/out/v1/83fe7d454d344bdb80e944fcd0bd9fc8/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/d9idic2dih/out/v1/83fe7d454d344bdb80e944fcd0bd9fc8/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/d9idic2dih/out/v1/83fe7d454d344bdb80e944fcd0bd9fc8/cenc.mpd"
+      },
+      "drm_key": "1a1aa496ea9b9e543165f79f1dae396b:cdf81120745cf6cd7ed2a40d134706ea"
     },
     {
       "match_id": "B0HCJ9M1DG",
