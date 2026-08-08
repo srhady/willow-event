@@ -1,22 +1,15 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:01:32 AM 09-08-2026
+#LAST_UPDATE:02:02 AM 09-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:18
-
-#EXTINF:-1 tvg-id="B0H7M46Y2T" tvg-name="Lanka Premier League 2026 - Final - Jaffna Kings vs Galle Gallants" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3ded9236-2021-4f12-bef7-83a84088d957/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Lanka Premier League 2026 - Final - Jaffna Kings vs Galle Gallants
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=68ed4e1c2ffeb7f9133a7624d126c0b1:9772b4fed3a42a93ffb622a8e4367e1b
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xnkbbanemt/out/v1/939193c7b2464f42b913f3b09f8bf604/cenc.mpd
+#LIVE_COUNT:1
+#UPCOMING_COUNT:19
 
 #EXTINF:-1 tvg-id="B0H5WTWRYB" tvg-name="The Hundred Mens Competition 2026 - 26th Match - Southern Brave vs Manchester Super Giants" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0c1f1dc8-923c-4364-a0a9-6129380c26c4/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",The Hundred Mens Competition 2026 - 26th Match - Southern Brave vs Manchester Super Giants
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a1aa496ea9b9e543165f79f1dae396b:cdf81120745cf6cd7ed2a40d134706ea
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nfesdcs5tc/out/v1/85db4017bbc34b289c617a86a95f65f5/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nfesdcs5tc/out/v1/85db4017bbc34b289c617a86a95f65f5/cenc.mpd
 
