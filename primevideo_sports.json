@@ -1,15 +1,32 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "12:32 PM 08-08-2026",
+    "LastUpdate": "01:02 PM 08-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 1,
+    "LiveCount": 3,
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HBX2MD1B",
+      "title": "Hawke's Bay v Tasman",
+      "synopsis": "Hawke's Bay v Tasman",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dc7578f7-283f-4deb-ab35-9e4616b6d273/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HBX2MD1B",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd"
+      },
+      "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
+    },
     {
       "match_id": "B0HCT5WN87",
       "title": "PPA Tour: Asia Ho Chi Minh-Semifinals",
@@ -26,6 +43,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd"
       },
       "drm_key": "2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72"
+    },
+    {
+      "match_id": "B0H8S96TW4",
+      "title": "Aug 8 - PTT Hamburg",
+      "synopsis": "Aug 8 - PTT Hamburg",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9f506e04-edac-409e-8322-fbb431ce1e39/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H8S96TW4",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABKZOFNAAAAAAAAMKO7YIX36J3L72.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqipsIBhpqdtSIA2pjbG91ZGZyb250Angpc3NpZDoyNzYxMzg4ZC1mYzkzLTQxMWItYjkxNC1jZTJkYmQxMmU1NDUZATihBaECeDMvdnVlajRjc2hlcC9vdXQvdjEvOGNhY2VmMDdjNTk5NGUwYTk1MjFlYTJmNjFlZTQwYjcZATyBYlVTWCAu9e5Xn-f0Ze_L_ZR9jfqjx2E4rYqsmjB1Uk0W271XuQ/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/vuej4cshep/out/v1/8cacef07c5994e0a9521ea2f61ee40b7/12ebddb1-e745-4f49-8317-40d84125373e-cenc.mpd"
+      },
+      "drm_key": "59ad533f48b9cc961e989b5dbd1d7da6:5cfddc0595e665797e6cbf2ffdaac16a"
     }
   ]
 }
