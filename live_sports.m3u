@@ -1,15 +1,22 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:03:32 PM 09-08-2026
+#LAST_UPDATE:04:02 PM 09-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:1
-#UPCOMING_COUNT:19
+#LIVE_COUNT:2
+#UPCOMING_COUNT:18
 
 #EXTINF:-1 tvg-id="B0H8459WY1" tvg-name="The Hundred Womens Competition 2026 - 27th Match - Sunrisers Leeds Women vs Welsh Fire Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.715bad42-0608-4d32-9a25-632bad757175/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",The Hundred Womens Competition 2026 - 27th Match - Sunrisers Leeds Women vs Welsh Fire Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa4e1c6e21271c8c2e137768223a996d:696e0a088a59b611f5e1423072b84a53
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/eocxevccof/out/v1/d508e88d5b47494a9f280daa21fc612d/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/eocxevccof/out/v1/d508e88d5b47494a9f280daa21fc612d/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HCTZ13JD" tvg-name="Global e-Cricket Premier League 2026 - Qualifier 1- Delhi Sharks vs Chennai Falcons" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.be72fac0-1119-4ec4-9b51-96584419f396/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - Qualifier 1- Delhi Sharks vs Chennai Falcons
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85fa2b4f54aeee4fdf7bd6cfff8dd4ef:4acd7c5802c96118a29e5d55746a3e0f
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9hvjhmj0rh/out/v1/e83726f955724535a06d40f59371fe7f/cenc.mpd
 
