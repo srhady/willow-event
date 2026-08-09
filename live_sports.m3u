@@ -1,24 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:11:02 PM 09-08-2026
+#LAST_UPDATE:11:32 PM 09-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:3
-#UPCOMING_COUNT:17
-
-#EXTINF:-1 tvg-id="B0H7STHJGG" tvg-name="The Hundred Womens Competition 2026 - 28th Match - London Spirit Women vs Birmingham Phoenix Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e514cda1-0d22-411d-9141-1d235881e842/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",The Hundred Womens Competition 2026 - 28th Match - London Spirit Women vs Birmingham Phoenix Women
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b69fc8e68c1368760c41742219ba95f7:2316ba4fb7fed894fd03d5c934f99f1f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ejjw62psb7/out/v1/e403981503424d49ab125eb87dfe57d2/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0H89M21FD" tvg-name="Global e-Cricket Premier League 2026 - Final 3 - Chennai Falcons vs Mumbai Grizzlies" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b3f2a869-d109-42ab-9fa5-894b065e3eea/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - Final 3 - Chennai Falcons vs Mumbai Grizzlies
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=81361877131e5198c970e4c724a6e550:c755508cb005db6ba6295d8f9770a6e6
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/o3knvvjzes/out/v1/c46a5471e1a1479887dbdf59b36a5666/cenc.mpd
+#LIVE_COUNT:1
+#UPCOMING_COUNT:19
 
 #EXTINF:-1 tvg-id="B0H853JT5V" tvg-name="The Hundred Mens Competition 2026 - 28th Match - London Spirit vs Birmingham Phoenix" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0761c357-1b58-4d5a-a58c-33c8ae8f581c/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",The Hundred Mens Competition 2026 - 28th Match - London Spirit vs Birmingham Phoenix
 #KODIPROP:inputstream=inputstream.adaptive
