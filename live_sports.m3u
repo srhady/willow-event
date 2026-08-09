@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:08:32 PM 09-08-2026
+#LAST_UPDATE:09:02 PM 09-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:4
@@ -11,21 +11,14 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9e55845e8eb687548fa6346e4a8972e:133a091bd544fccdd89614b2edc7bce7
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1yn7rvjila/out/v1/c43622856d7e4ac8996a1770b2f08dd2/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/1yn7rvjila/out/v1/c43622856d7e4ac8996a1770b2f08dd2/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0H7STHJGG" tvg-name="The Hundred Womens Competition 2026 - 28th Match - London Spirit Women vs Birmingham Phoenix Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e514cda1-0d22-411d-9141-1d235881e842/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",The Hundred Womens Competition 2026 - 28th Match - London Spirit Women vs Birmingham Phoenix Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b69fc8e68c1368760c41742219ba95f7:2316ba4fb7fed894fd03d5c934f99f1f
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ejjw62psb7/out/v1/e403981503424d49ab125eb87dfe57d2/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HCLBK265" tvg-name="Global e-Cricket Premier League 2026 - Final 1  - Chennai Falcons vs Mumbai Grizzlies" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1849ab4b-d206-42e9-8b68-d82bd11b6335/6/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - Final 1  - Chennai Falcons vs Mumbai Grizzlies
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfcb8ea480995f2bc494360a691868f5:ad440b382f21497177e8c9f1602acb88
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/lqaikmthlt/out/v1/6627495e26b64b08b23c4e0fa29d459d/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ejjw62psb7/out/v1/e403981503424d49ab125eb87dfe57d2/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0H6BH92KZ" tvg-name="Global e-Cricket Premier League 2026 - Final 2 - Chennai Falcons vs Mumbai Grizzlies" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bceb0964-3873-40f6-aeac-d836ea41c5b6/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - Final 2 - Chennai Falcons vs Mumbai Grizzlies
 #KODIPROP:inputstream=inputstream.adaptive
@@ -33,4 +26,11 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/lqai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c7f5a305125fb94a8355664b394b6d1:af5fb9a373ca9e4d96b26174f1bd53ad
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hq5yzc1tqp/out/v1/276258eba9d948c1b58ede570cd96616/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H89M21FD" tvg-name="Global e-Cricket Premier League 2026 - Final 3 - TBC vs TBC" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b3f2a869-d109-42ab-9fa5-894b065e3eea/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - Final 3 - TBC vs TBC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81361877131e5198c970e4c724a6e550:c755508cb005db6ba6295d8f9770a6e6
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/o3knvvjzes/out/v1/c46a5471e1a1479887dbdf59b36a5666/cenc.mpd
 
