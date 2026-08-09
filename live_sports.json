@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "07:02 PM 09-08-2026",
+    "LastUpdate": "07:32 PM 09-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 6,
-    "UpcomingCount": 14
+    "LiveCount": 5,
+    "UpcomingCount": 15
   },
   "Matches": [
     {
@@ -36,38 +36,13 @@
       "drm_key": "fa4e1c6e21271c8c2e137768223a996d:696e0a088a59b611f5e1423072b84a53"
     },
     {
-      "match_id": "B0HCGP8VXL",
-      "title": "Global e-Cricket Premier League 2026 - Eliminator - Mumbai Grizzlies vs Bengaluru Badgers",
-      "synopsis": "Global e-Cricket Premier League 2026 - Eliminator - Mumbai Grizzlies vs Bengaluru Badgers",
-      "status": "LIVE",
-      "time": "5:20 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4647370f-f217-423c-9ae0-f938f8f04cf6/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HCGP8VXL?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
-      "is_free": false,
-      "stream_url_alpha": {
-        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cyyf60zsoc/out/v1/2248a8f7659e42e8aedee26a6b3dade2/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cyyf60zsoc/out/v1/2248a8f7659e42e8aedee26a6b3dade2/cenc.mpd",
-        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/cyyf60zsoc/out/v1/2248a8f7659e42e8aedee26a6b3dade2/cenc.mpd",
-        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cyyf60zsoc/out/v1/2248a8f7659e42e8aedee26a6b3dade2/cenc.mpd",
-        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cyyf60zsoc/out/v1/2248a8f7659e42e8aedee26a6b3dade2/cenc.mpd"
-      },
-      "stream_url_bravo": {
-        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/r6r0xc45oi/out/v1/d6ba3827ca884bf8bcfdf000d3231680/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/r6r0xc45oi/out/v1/d6ba3827ca884bf8bcfdf000d3231680/cenc.mpd",
-        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/r6r0xc45oi/out/v1/d6ba3827ca884bf8bcfdf000d3231680/cenc.mpd",
-        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/r6r0xc45oi/out/v1/d6ba3827ca884bf8bcfdf000d3231680/cenc.mpd",
-        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/r6r0xc45oi/out/v1/d6ba3827ca884bf8bcfdf000d3231680/cenc.mpd"
-      },
-      "drm_key": "574cbf5aaa84eb3cfa1cce5943d2bc44:de02802ea42d222a349ee195d6447ab0"
-    },
-    {
       "match_id": "B0HCN99491",
       "title": "Global e-Cricket Premier League 2026 - Qualifier 2 - Delhi Sharks vs Mumbai Grizzlies",
       "synopsis": "Global e-Cricket Premier League 2026 - Qualifier 2 - Delhi Sharks vs Mumbai Grizzlies",
       "status": "LIVE",
       "time": "6:20 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f16dfa99-677b-4b1b-948c-470bdd070c94/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HCN99491?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f16dfa99-677b-4b1b-948c-470bdd070c94/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HCN99491?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
       "is_free": false,
       "stream_url_alpha": {
         "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tudvyzu2wr/out/v1/1ca3bd5f216f4bdabdfc4cbad928756b/cenc.mpd",
@@ -92,7 +67,7 @@
       "status": "LIVE",
       "time": "7 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1714665c-8e39-4efd-80ad-5294d83ba16b/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H7Q4J5XL?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H7Q4J5XL?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
       "is_free": false,
       "stream_url_alpha": {
         "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1yn7rvjila/out/v1/c43622856d7e4ac8996a1770b2f08dd2/cenc.mpd",
@@ -117,7 +92,7 @@
       "status": "LIVE",
       "time": "7 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e514cda1-0d22-411d-9141-1d235881e842/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H7STHJGG?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_5",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H7STHJGG?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
       "is_free": false,
       "stream_url_alpha": {
         "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ejjw62psb7/out/v1/e403981503424d49ab125eb87dfe57d2/cenc.mpd",
@@ -140,9 +115,9 @@
       "title": "Global e-Cricket Premier League 2026 - Final 1 - TBC vs TBC",
       "synopsis": "Global e-Cricket Premier League 2026 - Final 1 - TBC vs TBC",
       "status": "LIVE",
-      "time": "7 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1849ab4b-d206-42e9-8b68-d82bd11b6335/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HCLBK265?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_6",
+      "time": "8 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1849ab4b-d206-42e9-8b68-d82bd11b6335/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HCLBK265?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_5",
       "is_free": false,
       "stream_url_alpha": {
         "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lqaikmthlt/out/v1/6627495e26b64b08b23c4e0fa29d459d/cenc.mpd",
@@ -167,7 +142,7 @@
       "status": "UPCOMING",
       "time": "Live at 7:50 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bceb0964-3873-40f6-aeac-d836ea41c5b6/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H6BH92KZ?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_7",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H6BH92KZ?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_6",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -179,7 +154,7 @@
       "status": "UPCOMING",
       "time": "Live at 8:40 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b3f2a869-d109-42ab-9fa5-894b065e3eea/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H89M21FD?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_8",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H89M21FD?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_7",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -191,7 +166,7 @@
       "status": "UPCOMING",
       "time": "Live at 11 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0761c357-1b58-4d5a-a58c-33c8ae8f581c/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H853JT5V?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_9",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H853JT5V?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_8",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -203,7 +178,7 @@
       "status": "UPCOMING",
       "time": "Tomorrow 5 AM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c28b9d19-7582-4752-940c-fb4cbbedfaf0/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HCVBP755?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_10",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HCVBP755?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_9",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -215,7 +190,7 @@
       "status": "UPCOMING",
       "time": "Tomorrow 3:45 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.33a735b4-e330-411c-870a-ce6487621bc4/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HCTYWK8J?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_11",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HCTYWK8J?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_10",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -227,7 +202,7 @@
       "status": "UPCOMING",
       "time": "Tomorrow 8 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2bc05dcc-06c7-44d3-b15b-74599a8a5bec/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H8PQMKMQ?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_12",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H8PQMKMQ?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_11",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -239,7 +214,7 @@
       "status": "UPCOMING",
       "time": "Tomorrow 11:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9cf20c9e-173f-4ceb-92d5-247b0b37ef21/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H8CQYPF5?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_13",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H8CQYPF5?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_12",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -251,7 +226,7 @@
       "status": "UPCOMING",
       "time": "Tue, Aug 11 8 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.63234a37-2840-4d36-9864-0414756c8343/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H56XPKZS?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_14",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H56XPKZS?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_13",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -263,7 +238,7 @@
       "status": "UPCOMING",
       "time": "Tue, Aug 11 11:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a972e796-7cc9-46da-ab17-adc4313f176f/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H8QR3Q3K?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_15",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H8QR3Q3K?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_14",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -275,7 +250,7 @@
       "status": "UPCOMING",
       "time": "Wed, Aug 12 6 AM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c2334a0f-6486-4ae9-b611-eced96d1fe55/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H9GYVK4B?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_16",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H9GYVK4B?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_15",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -287,7 +262,7 @@
       "status": "UPCOMING",
       "time": "Wed, Aug 12 3:45 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.029e327e-765a-4c14-83bf-bb2284bb35ce/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HC7B15PM?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_17",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HC7B15PM?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_16",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -299,7 +274,7 @@
       "status": "UPCOMING",
       "time": "Wed, Aug 12 4:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.acb6a040-b547-4756-a16d-de735f059933/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H8DHB452?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_18",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H8DHB452?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_17",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -311,7 +286,7 @@
       "status": "UPCOMING",
       "time": "Wed, Aug 12 8 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.78b6c9f9-5e21-4aff-8100-440672ec7a6a/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H8SSWJLN?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_19",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H8SSWJLN?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_18",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -323,7 +298,19 @@
       "status": "UPCOMING",
       "time": "Wed, Aug 12 8 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b4431a22-ddf0-40f8-bb4d-648d8ca816e8/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H8DY57M3?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_20",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H8DY57M3?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_19",
+      "is_free": false,
+      "stream_url_alpha": "",
+      "drm_key": ""
+    },
+    {
+      "match_id": "B0H7RV4YL1",
+      "title": "The Hundred Mens Competition 2026 - 32nd Match - Birmingham Phoenix vs Mi London",
+      "synopsis": "The Hundred Mens Competition 2026 - 32nd Match - Birmingham Phoenix vs Mi London",
+      "status": "UPCOMING",
+      "time": "Wed, Aug 12 11:30 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d6293202-12ed-4fcc-90ae-aab6c392dfcd/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H7RV4YL1?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_20",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
