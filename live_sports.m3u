@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:06:02 PM 09-08-2026
+#LAST_UPDATE:06:32 PM 09-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:3
@@ -13,17 +13,17 @@
 #KODIPROP:inputstream.adaptive.license_key=fa4e1c6e21271c8c2e137768223a996d:696e0a088a59b611f5e1423072b84a53
 https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/eocxevccof/out/v1/d508e88d5b47494a9f280daa21fc612d/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HCTZ13JD" tvg-name="Global e-Cricket Premier League 2026 - Qualifier 1- Delhi Sharks vs Chennai Falcons" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.be72fac0-1119-4ec4-9b51-96584419f396/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - Qualifier 1- Delhi Sharks vs Chennai Falcons
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=85fa2b4f54aeee4fdf7bd6cfff8dd4ef:4acd7c5802c96118a29e5d55746a3e0f
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9hvjhmj0rh/out/v1/e83726f955724535a06d40f59371fe7f/cenc.mpd
-
 #EXTINF:-1 tvg-id="B0HCGP8VXL" tvg-name="Global e-Cricket Premier League 2026 - Eliminator - Mumbai Grizzlies vs Bengaluru Badgers" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4647370f-f217-423c-9ae0-f938f8f04cf6/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - Eliminator - Mumbai Grizzlies vs Bengaluru Badgers
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=574cbf5aaa84eb3cfa1cce5943d2bc44:de02802ea42d222a349ee195d6447ab0
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cyyf60zsoc/out/v1/2248a8f7659e42e8aedee26a6b3dade2/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/cyyf60zsoc/out/v1/2248a8f7659e42e8aedee26a6b3dade2/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HCN99491" tvg-name="Global e-Cricket Premier League 2026 - Qualifier 2- TBC vs TBC" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f16dfa99-677b-4b1b-948c-470bdd070c94/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - Qualifier 2- TBC vs TBC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=153611b8dea66fc5a01334e7916b8e1c:acec317aae996f3fa88bbc21fef64296
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tudvyzu2wr/out/v1/1ca3bd5f216f4bdabdfc4cbad928756b/cenc.mpd
 
