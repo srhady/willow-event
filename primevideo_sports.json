@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "09:32 AM 10-08-2026",
+    "LastUpdate": "10:02 AM 10-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -10,6 +10,20 @@
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HCMVZH92",
+      "title": "Aug 10 - PTT Saitama",
+      "synopsis": "Aug 10 - PTT Saitama",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c8e5337f-b0e8-4f37-8f42-60eeb75fd95c/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HCMVZH92",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a182live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqjOKeBhpqeRweA2Zha2FtYWkCeClzc2lkOjQ0MGRkMDdkLTcwMTAtNGFiNy05YjMwLWJjNTIwODg3YzY5YRkBOKEFoQJ4My8zdm0wNWFiejl0L291dC92MS9iZGQ3N2I3ZWQ4MmE0OTFhOTFmZWVmN2Q5YTIzY2RiNxkBPIFiVVNYIGZ0157mrWpvOJe4AcqT1w7NIzHkb_P2SQ2VVao-Fu75/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/3vm05abz9t/out/v1/bdd77b7ed82a491a91feef7d9a23cdb7/cbb408c8-5d76-4417-ad1a-5ec7c1b0450a-cenc.mpd"
+      },
+      "drm_key": "9b7b54112e3e2e65d00fd95d86bc096b:f39bd9e7269fe6ec83a94d9903ada95a"
+    },
     {
       "match_id": "B0HBB8X2NB",
       "title": "Antigua & Barbuda Falcons vs. St. Lucia Kings",
@@ -26,20 +40,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
       },
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-    },
-    {
-      "match_id": "B0HCMVZH92",
-      "title": "Aug 10 - PTT Saitama",
-      "synopsis": "Aug 10 - PTT Saitama",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c8e5337f-b0e8-4f37-8f42-60eeb75fd95c/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HCMVZH92",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a182live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqjOKeBhpqeRweA2Zha2FtYWkCeClzc2lkOjQ0MGRkMDdkLTcwMTAtNGFiNy05YjMwLWJjNTIwODg3YzY5YRkBOKEFoQJ4My8zdm0wNWFiejl0L291dC92MS9iZGQ3N2I3ZWQ4MmE0OTFhOTFmZWVmN2Q5YTIzY2RiNxkBPIFiVVNYIGZ0157mrWpvOJe4AcqT1w7NIzHkb_P2SQ2VVao-Fu75/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/3vm05abz9t/out/v1/bdd77b7ed82a491a91feef7d9a23cdb7/cbb408c8-5d76-4417-ad1a-5ec7c1b0450a-cenc.mpd"
-      },
-      "drm_key": "9b7b54112e3e2e65d00fd95d86bc096b:f39bd9e7269fe6ec83a94d9903ada95a"
     }
   ]
 }
