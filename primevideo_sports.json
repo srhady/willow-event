@@ -1,29 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "08:32 AM 11-08-2026",
+    "LastUpdate": "09:02 AM 11-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0H9FWZFMM",
-      "title": "Sky vs. Storm",
-      "synopsis": "Sky vs. Storm",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.30d620e5-3d55-42df-8176-63e2b1619540/3/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/m-r/Prime/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kvf21cb47db8d34aa971cd86f57a65cf8d_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H9FWZFMM",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqjlBABhpqeonAA2ZmYXN0bHkCeClzc2lkOjc2MTY5YmYxLTZjZDAtNDAyMi1hMzhjLWYxMjE4MjUxOTcyZRkBOKEFoQJ4My9wZXFqc2w2ZGN4L291dC92MS84MDAwZjYyMjVlZDQ0ZDc3YTBjZTQ1MTNkZGVjZmRkMhkBPIFiVVNYIFGBcx1V2V6fgPE8leedhQY4OdaSTTvAMpiP_nEhkEQF/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/peqjsl6dcx/out/v1/8000f6225ed44d77a0ce4513ddecfdd2/e70eceaa-7105-4e57-8fdc-e7b154a9f58f-cenc.mpd"
-      },
-      "drm_key": "c2a236aa1526b322e6fc01a43d092911:09242537e364d7a19d1a5c43e90becf5"
-    },
     {
       "match_id": "B0HCLJT38P",
       "title": "Front Row Challenge at Southern Iowa Speedway",
@@ -59,6 +45,20 @@
       "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
     },
     {
+      "match_id": "B0H2NCTQ1B",
+      "title": "Aug 11 - PTT Saitama",
+      "synopsis": "Aug 11 - PTT Saitama",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.72405b8e-05b9-4901-a0af-64b8b634f102/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H2NCTQ1B",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqjh8GBhpqeliGA2ZmYXN0bHkCeClzc2lkOjIwMzlmYWFiLWQ2OGMtNDY0ZS04MjEyLWU3OGNiN2YyYjY3MxkBOKEFoQJ4My9xaHo0eXY4dHhmL291dC92MS9lMGNhMWJmZGFkMzY0ZjI5OWMzNjE2NTVkNWNlZDU5NRkBPIFiVVNYIKkuxNVoJ7Koy0Io6pHYSAjcrZu6sCwcwLAmb3-AFBOl/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/qhz4yv8txf/out/v1/e0ca1bfdad364f299c361655d5ced595/112d045c-1778-43d1-9a7c-4a4904d510eb-cenc.mpd"
+      },
+      "drm_key": "fae1b4fe85899171e9bc55869f5f6fe9:0b2f3757862f0fb11746af5e2cff0f38"
+    },
+    {
       "match_id": "B0HBL1B5ZH",
       "title": "Atlantic Aces at Western Wolfpack",
       "synopsis": "Atlantic Aces at Western Wolfpack",
@@ -74,20 +74,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd"
       },
       "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
-    },
-    {
-      "match_id": "B0H2NCTQ1B",
-      "title": "Aug 11 - PTT Saitama",
-      "synopsis": "Aug 11 - PTT Saitama",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.72405b8e-05b9-4901-a0af-64b8b634f102/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H2NCTQ1B",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqjh8GBhpqeliGA2ZmYXN0bHkCeClzc2lkOjIwMzlmYWFiLWQ2OGMtNDY0ZS04MjEyLWU3OGNiN2YyYjY3MxkBOKEFoQJ4My9xaHo0eXY4dHhmL291dC92MS9lMGNhMWJmZGFkMzY0ZjI5OWMzNjE2NTVkNWNlZDU5NRkBPIFiVVNYIKkuxNVoJ7Koy0Io6pHYSAjcrZu6sCwcwLAmb3-AFBOl/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/qhz4yv8txf/out/v1/e0ca1bfdad364f299c361655d5ced595/112d045c-1778-43d1-9a7c-4a4904d510eb-cenc.mpd"
-      },
-      "drm_key": "fae1b4fe85899171e9bc55869f5f6fe9:0b2f3757862f0fb11746af5e2cff0f38"
     }
   ]
 }
