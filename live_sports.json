@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "07:09 PM 12-08-2026",
+    "LastUpdate": "07:32 PM 12-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 2,
-    "UpcomingCount": 18
+    "LiveCount": 4,
+    "UpcomingCount": 16
   },
   "Matches": [
     {
@@ -64,25 +64,51 @@
       "match_id": "B0H8SSWJLN",
       "title": "The Hundred Mens Competition 2026 - 31st Match - Welsh Fire vs London Spirit",
       "synopsis": "The Hundred Mens Competition 2026 - 31st Match - Welsh Fire vs London Spirit",
-      "status": "UPCOMING",
-      "time": "Live at 8 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.78b6c9f9-5e21-4aff-8100-440672ec7a6a/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "7:20 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.78b6c9f9-5e21-4aff-8100-440672ec7a6a/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0H8SSWJLN?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1k7b8ve4fi/out/v1/966b697ff71648b0b738313e5ebefa48/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1k7b8ve4fi/out/v1/966b697ff71648b0b738313e5ebefa48/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/1k7b8ve4fi/out/v1/966b697ff71648b0b738313e5ebefa48/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1k7b8ve4fi/out/v1/966b697ff71648b0b738313e5ebefa48/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1k7b8ve4fi/out/v1/966b697ff71648b0b738313e5ebefa48/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/9rokl1wh8s/out/v1/cd3a0fdd2b524f959983860e305bfc62/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/9rokl1wh8s/out/v1/cd3a0fdd2b524f959983860e305bfc62/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/9rokl1wh8s/out/v1/cd3a0fdd2b524f959983860e305bfc62/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/9rokl1wh8s/out/v1/cd3a0fdd2b524f959983860e305bfc62/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/9rokl1wh8s/out/v1/cd3a0fdd2b524f959983860e305bfc62/cenc.mpd"
+      },
+      "drm_key": "4eafd178f8f4fe3ade4b7b4f46f2aa0a:bb2edfa85640210506bb61468a4b3bed"
     },
     {
       "match_id": "B0H8DY57M3",
       "title": "The Hundred Womens Competition 2026 - 32nd Match - Birmingham Phoenix Women vs Mi London Women",
       "synopsis": "The Hundred Womens Competition 2026 - 32nd Match - Birmingham Phoenix Women vs Mi London Women",
-      "status": "UPCOMING",
-      "time": "Live at 8 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b4431a22-ddf0-40f8-bb4d-648d8ca816e8/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "7:20 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b4431a22-ddf0-40f8-bb4d-648d8ca816e8/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0H8DY57M3?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emac4snezd/out/v1/bd3878a014c941fd8a9ba8d80089b064/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emac4snezd/out/v1/bd3878a014c941fd8a9ba8d80089b064/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/emac4snezd/out/v1/bd3878a014c941fd8a9ba8d80089b064/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emac4snezd/out/v1/bd3878a014c941fd8a9ba8d80089b064/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emac4snezd/out/v1/bd3878a014c941fd8a9ba8d80089b064/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5hqyskmg9y/out/v1/84dba1bff3be4096bbb0aed04af0099f/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5hqyskmg9y/out/v1/84dba1bff3be4096bbb0aed04af0099f/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/5hqyskmg9y/out/v1/84dba1bff3be4096bbb0aed04af0099f/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5hqyskmg9y/out/v1/84dba1bff3be4096bbb0aed04af0099f/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5hqyskmg9y/out/v1/84dba1bff3be4096bbb0aed04af0099f/cenc.mpd"
+      },
+      "drm_key": "2bcb40778a4f249ca839de8e6ff54814:c7ea7f7b641534d5cffc858eea927561"
     },
     {
       "match_id": "B0H7RV4YL1",
