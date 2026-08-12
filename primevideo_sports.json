@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "07:32 PM 12-08-2026",
+    "LastUpdate": "08:02 PM 12-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 1,
+    "LiveCount": 2,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -23,6 +23,23 @@
         "Original Server": "https://ABDJLNDAAAAAAAAMHUIXGEA47PPXW.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqj-EGBhpqfBqGA2pjbG91ZGZyb250Angpc3NpZDplNjkwY2YzOS0yNjFiLTQ1M2MtYTcxZS0wNmEzZWEzOGMyYWMZATihBaECeDMvbHlwOGo1cWhtei9vdXQvdjEvMTE0NzRmOWRmZjI2NDQ5ZGI1ZmVhZTFiNGY2ZDNlNWMZATyBYlVTWCArtuOZwyfuEe7xn0_nd-LPbcPoMXHcrtHQfc_sqiQCgQ/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/lyp8j5qhmz/out/v1/11474f9dff26449db5feae1b4f6d3e5c/06a9c9e9-1242-43c4-a6a9-844183f46a20-cenc.mpd"
       },
       "drm_key": "3e16190719787f712b906d0f188261bd:bd7e72e85310466db9485316d2065c19"
+    },
+    {
+      "match_id": "B0HC3XQJFM",
+      "title": "Birmingham Phoenix vs. MI London",
+      "synopsis": "Birmingham Phoenix vs. MI London",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f380939a-ffb7-4c36-8e4b-26ef952b32ea/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HC3XQJFM",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
+      },
+      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     }
   ]
 }
