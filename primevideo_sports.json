@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "10:02 PM 12-08-2026",
+    "LastUpdate": "10:32 PM 12-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -10,6 +10,23 @@
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HC85YD6H",
+      "title": "Newcastle vs. Everton",
+      "synopsis": "Newcastle vs. Everton",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.535f16ba-13ae-4a06-ac01-ed9bacd8f505/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HC85YD6H",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd"
+      },
+      "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+    },
     {
       "match_id": "B0HC6TZR2C",
       "title": "On the Range from the FedEx St. Jude Championship",
@@ -57,20 +74,6 @@
         "Original Server": "https://a76live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqkF-aBhpqfJkaA2Zha2FtYWkCeClzc2lkOmRhZDIyMmI3LWQ4MzEtNDRmMy04ZGI4LTZlNTFjZTVhZWU0YxkBOKEFoQJ4My9nbTcwMG52Y3lyL291dC92MS9jMDVjYjE0MGNkZDg0ZWY0YTVjZjdjOGRmMmYyZmYzNxkBPIFiVVNYIHa6RqpzXyRSw_8mLRzsS4CMegkedjPouczglsJ6GiX4/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/gm700nvcyr/out/v1/c05cb140cdd84ef4a5cf7c8df2f2ff37/5f8472dd-4de9-450a-b32c-e075f9802f78-cenc.mpd"
       },
       "drm_key": "06fdea164ed16e3a2d749954aac0ebce:c11e6a1384c55870fa1b404265ccfa67"
-    },
-    {
-      "match_id": "B0HB9S85FM",
-      "title": "Aug 12 - PTT Arnhem",
-      "synopsis": "Aug 12 - PTT Arnhem",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6e65c533-7c77-4abe-8e02-a4f31aa5769d/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HB9S85FM",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABDJLNDAAAAAAAAMHUIXGEA47PPXW.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqj-EGBhpqfBqGA2pjbG91ZGZyb250Angpc3NpZDplNjkwY2YzOS0yNjFiLTQ1M2MtYTcxZS0wNmEzZWEzOGMyYWMZATihBaECeDMvbHlwOGo1cWhtei9vdXQvdjEvMTE0NzRmOWRmZjI2NDQ5ZGI1ZmVhZTFiNGY2ZDNlNWMZATyBYlVTWCArtuOZwyfuEe7xn0_nd-LPbcPoMXHcrtHQfc_sqiQCgQ/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/lyp8j5qhmz/out/v1/11474f9dff26449db5feae1b4f6d3e5c/06a9c9e9-1242-43c4-a6a9-844183f46a20-cenc.mpd"
-      },
-      "drm_key": "3e16190719787f712b906d0f188261bd:bd7e72e85310466db9485316d2065c19"
     }
   ]
 }
