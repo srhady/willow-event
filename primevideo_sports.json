@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "12:02 PM 13-08-2026",
+    "LastUpdate": "01:02 PM 13-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 1,
+    "LiveCount": 3,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -26,6 +26,37 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
       },
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
+      "match_id": "B0H64F2CMX",
+      "title": "Wellington Lions v North Harbour",
+      "synopsis": "Wellington Lions v North Harbour",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.23dbfc34-2a46-4206-8dd6-ed9ae603e821/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H64F2CMX",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd"
+      },
+      "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
+    },
+    {
+      "match_id": "B0H5VYBB2N",
+      "title": "Aug 13 - PTT Arnhem",
+      "synopsis": "Aug 13 - PTT Arnhem",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b431a863-3468-4cd9-a295-09692788c99a/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H5VYBB2N",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABBJKDVAAAAAAAAMHJOZFWRVZUXYM.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqkTKGBhpqfWwGA2pjbG91ZGZyb250Angpc3NpZDplODJkYWZiNy03YzdhLTQ1ZjktODg2Ni1jYjk1ZTE5Y2I5Y2QZATihBaECeDMveXExcjZlZXFuNC9vdXQvdjEvMmE1Y2JhMmI1NTg1NDBlMDhiMTdiZDFhMTYyMzhhOGMZATyBYlVTWCAsemxrLWncfLYzVsWiVgDH6GZsV28Qt7Kx_XAeWDsUAQ/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/yq1r6eeqn4/out/v1/2a5cba2b558540e08b17bd1a16238a8c/9a10c9cb-f19d-4062-8e66-cddd4ce8e18d-cenc.mpd"
+      },
+      "drm_key": "06e8a85ca073af4e1605c6cdd2d9fef3:f975d563fb86056104880bf2737fa91b"
     }
   ]
 }
