@@ -1,9 +1,9 @@
 #EXTM3U
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:08:02 AM 13-08-2026
+#LAST_UPDATE:08:32 AM 13-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:5
+#LIVE_COUNT:4
 #UPCOMING_COUNT:0
 
 #EXTINF:-1 tvg-id="B0H4WKL689" tvg-name="Motagua vs. Cartaginés" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bf7a35e2-346d-4a07-89af-07654004c503/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Motagua vs. Cartaginés
@@ -11,7 +11,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HC8FCF4V" tvg-name="Australia vs. Bangladesh" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e010ffb6-11cf-4ff0-9fce-d694ed8bd9f1/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Australia vs. Bangladesh
 #KODIPROP:inputstream=inputstream.adaptive
@@ -20,24 +20,17 @@ https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdo
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0GZBCH99Q" tvg-name="Hasty Bake High Limit Room at Knoxville Nationals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0c38a2e5-3554-49dd-b9ef-3f0ca1c0d988/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Hasty Bake High Limit Room at Knoxville Nationals
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd
-
 #EXTINF:-1 tvg-id="B0HC54ZDDC" tvg-name="Sioux City Explorers at Fargo-Moorhead RedHawks" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b31ef268-4f08-45de-aaf6-0902de73dd34/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Sioux City Explorers at Fargo-Moorhead RedHawks
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HCLH8YV3" tvg-name="Southern Stingers at Northern Nighthawks" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6ee8f7c1-c66f-439b-ab3e-57308c324b49/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Southern Stingers at Northern Nighthawks
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
 
