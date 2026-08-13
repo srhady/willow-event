@@ -1,32 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "06:02 AM 13-08-2026",
+    "LastUpdate": "06:32 AM 13-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 7,
+    "LiveCount": 6,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HCXBB4VR",
-      "title": "Jodar vs. Nakashima",
-      "synopsis": "Jodar vs. Nakashima",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9e35e286-2db5-4344-bdc5-7d64c19f4df6/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HCXBB4VR",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd"
-      },
-      "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
-    },
     {
       "match_id": "B0H3FGJ5JC",
       "title": "PONY League World Series - Championship Game - Washington County (PA) v Chinese Taipei",
@@ -59,23 +42,6 @@
       "drm_key": "ad6e7091d1d36a16d5475bdb2d900888:8c67e6b1e4bcf1ee1f12167526ef2503"
     },
     {
-      "match_id": "B0GZBCH99Q",
-      "title": "Hasty Bake High Limit Room at Knoxville Nationals",
-      "synopsis": "Hasty Bake High Limit Room at Knoxville Nationals",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0c38a2e5-3554-49dd-b9ef-3f0ca1c0d988/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0GZBCH99Q",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd"
-      },
-      "drm_key": "2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca"
-    },
-    {
       "match_id": "B0HC54ZDDC",
       "title": "Sioux City Explorers at Fargo-Moorhead RedHawks",
       "synopsis": "Sioux City Explorers at Fargo-Moorhead RedHawks",
@@ -93,6 +59,40 @@
       "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
     },
     {
+      "match_id": "B0HC8FCF4V",
+      "title": "Australia vs. Bangladesh",
+      "synopsis": "Australia vs. Bangladesh",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e010ffb6-11cf-4ff0-9fce-d694ed8bd9f1/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HC8FCF4V",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
+      },
+      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
+      "match_id": "B0GZBCH99Q",
+      "title": "Hasty Bake High Limit Room at Knoxville Nationals",
+      "synopsis": "Hasty Bake High Limit Room at Knoxville Nationals",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0c38a2e5-3554-49dd-b9ef-3f0ca1c0d988/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0GZBCH99Q",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd"
+      },
+      "drm_key": "2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca"
+    },
+    {
       "match_id": "B0HCJSJ2QM",
       "title": "Aug 13 - PTT Saitama",
       "synopsis": "Aug 13 - PTT Saitama",
@@ -105,20 +105,6 @@
         "Original Server": "https://ABCQT7XAAAAAAAAMB2R33JZUKNHHS.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqkNAUBhpqfQmUA2pjbG91ZGZyb250Angpc3NpZDowNDE3ZGNjOS02MWJhLTRiMjAtOWY0OS0zZTUyYTBhYzJjNDAZATihBaECeDMvaTRtM2Z0MDNhZy9vdXQvdjEvNWM3ZmZhMTMwNmEyNDNiOThkMTJjMzRhYjM0NmE1OGUZATyBYlVTWCBetNNvqu40Aplsk-A0lQAwM-qfCZzwm9zofVInj7cAvA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/i4m3ft03ag/out/v1/5c7ffa1306a243b98d12c34ab346a58e/d0071e5e-518b-4d58-b2d6-6ae5fd002126-cenc.mpd"
       },
       "drm_key": "1aa397a3fd5d12c21aff005d6c86dcba:1b063100bcebefce22ed20f20b34ed1b"
-    },
-    {
-      "match_id": "B0HCT8J7L5",
-      "title": "Aug 12 - PTT Tallahassee",
-      "synopsis": "Aug 12 - PTT Tallahassee",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.50ac0005-b0a9-4850-815b-e37633bce4fb/9/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HCT8J7L5",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a76live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqkF-aBhpqfJkaA2Zha2FtYWkCeClzc2lkOmRhZDIyMmI3LWQ4MzEtNDRmMy04ZGI4LTZlNTFjZTVhZWU0YxkBOKEFoQJ4My9nbTcwMG52Y3lyL291dC92MS9jMDVjYjE0MGNkZDg0ZWY0YTVjZjdjOGRmMmYyZmYzNxkBPIFiVVNYIHa6RqpzXyRSw_8mLRzsS4CMegkedjPouczglsJ6GiX4/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/gm700nvcyr/out/v1/c05cb140cdd84ef4a5cf7c8df2f2ff37/5f8472dd-4de9-450a-b32c-e075f9802f78-cenc.mpd"
-      },
-      "drm_key": "06fdea164ed16e3a2d749954aac0ebce:c11e6a1384c55870fa1b404265ccfa67"
     }
   ]
 }
