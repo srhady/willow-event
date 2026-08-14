@@ -1,8 +1,15 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:04:02 AM 15-08-2026
+#LAST_UPDATE:04:32 AM 15-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:20
+#LIVE_COUNT:1
+#UPCOMING_COUNT:19
+
+#EXTINF:-1 tvg-id="B0HBRCZ66X" tvg-name="Caribbean Premier League 2026 - 7th Match - Saint Lucia Kings vs Antigua And Barbuda Falcons" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d8f6c84d-a6ef-48df-bd56-274f79d73106/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Caribbean Premier League 2026 - 7th Match - Saint Lucia Kings vs Antigua And Barbuda Falcons
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=33ce9afd805f457505a17f55f9ca05d7:de955182ae936058856b9b5d6c6a1bf8
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yr07asr2jg/out/v1/6a43c43b2f0a47fdb4122860050c7307/cenc.mpd
 
