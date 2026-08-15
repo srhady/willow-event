@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "06:32 AM 15-08-2026",
+    "LastUpdate": "07:02 AM 15-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -23,6 +23,20 @@
         "Original Server": "https://ABBJIZAAAAAAAAAMEMM5XGR6OSY4I.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqk3MXBhpqf6yXA2pjbG91ZGZyb250Angpc3NpZDpjYWRlNTZiNy1hZjEzLTRhN2MtYWIxZC05NWMzZmU0YTQ4MWIZATihBaECeDMvc2xqY3Q3bHo0cy9vdXQvdjEvYmQ5OWNiYTliYTg2NDI5OTkxOWE3MDZiYjE5OTA0OGMZATyBYlVTWCDCwtx9IIjQqANm_44yfMJrDq0iMLDMWtbor9QS-0wvtw/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/sljct7lz4s/out/v1/bd99cba9ba864299919a706bb199048c/42a9d4d5-5119-4524-a756-32e7d75dff2d-cenc.mpd"
       },
       "drm_key": "bfb4cf45275d75bb380ed3138435d319:9091b381fc796f17ab0c371c549616f6"
+    },
+    {
+      "match_id": "B0GW3THXFB",
+      "title": "Unknown Match",
+      "synopsis": "Unknown Match",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://m.media-amazon.com/images/S/sonata-images-prod/US_SVOD_ONE_Championship_Event46_StandardHero/3bf41f75-c6ff-4917-8be4-0a5d74ae1b10._UR3840,1440_SX2160_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0GW3THXFB",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-emt-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqk4EfBhpqf7qfA2ZmYXN0bHkCeClzc2lkOjJkZjZjZTgzLWNlYzAtNDc4NC1hYzE2LWEzYzEwNzMxNDAxZhkBOKEFoQJ4My91OG9pNG5kNHhyL291dC92MS8zZDM2Y2M3ODAwZTQ0OWNkOTM0ZDQxZTVmMDUxY2U3MRkBPIFiVVNYIDKz5IkdfLkZjVRhMdn2Y9y-6lmX2Awb2cwQDae05zjc/PDX/98fb01dc3c8540dfb85b889ad02a1414/v1/dash/396202602859/onec_amzn1_dv_live_csid_b96fa3e3-3992-4fae-ba37-425406121a35_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/u8oi4nd4xr/out/v1/3d36cc7800e449cd934d41e5f051ce71/e2eff0ed-6786-4c67-900f-e5f69f9279d9-cenc.mpd?aws.sessionId=6e09df18-07f1-40f5-9152-6ace6acb6ae8"
+      },
+      "drm_key": "27309bb0bafbb026aed4353f05ed4957:549339539c91ea5e90ec1d32fce926d0"
     },
     {
       "match_id": "B0HCHF18YZ",
@@ -59,23 +73,6 @@
       "drm_key": "2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca"
     },
     {
-      "match_id": "B0H62QJ5TL",
-      "title": "ATP/WTA: 1st Round",
-      "synopsis": "ATP/WTA: 1st Round",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8a34da7c-a697-494b-8bd8-33d7a6db95a5/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H62QJ5TL",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd"
-      },
-      "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
-    },
-    {
       "match_id": "B0HBJWD1R6",
       "title": "MLP Newport Beach Playoffs: Friday",
       "synopsis": "MLP Newport Beach Playoffs: Friday",
@@ -110,21 +107,21 @@
       "drm_key": "b3c143f76cc86fcaf89268bb8881b23a:f957c339c7098930d2421c15b64b1452"
     },
     {
-      "match_id": "B0H7JYDJDM",
-      "title": "Vegas to Reno, Part 2",
-      "synopsis": "Vegas to Reno, Part 2",
+      "match_id": "B0H62QJ5TL",
+      "title": "ATP/WTA: 1st Round",
+      "synopsis": "ATP/WTA: 1st Round",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a3c850b6-6071-4969-b3e3-bec2b6ed607d/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H7JYDJDM",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8a34da7c-a697-494b-8bd8-33d7a6db95a5/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H62QJ5TL",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1xaj6xdxt8/out/v1/c41d84c72710491b86744e8f21809ee6/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1xaj6xdxt8/out/v1/c41d84c72710491b86744e8f21809ee6/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/1xaj6xdxt8/out/v1/c41d84c72710491b86744e8f21809ee6/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/1xaj6xdxt8/out/v1/c41d84c72710491b86744e8f21809ee6/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd"
       },
-      "drm_key": "b3c143f76cc86fcaf89268bb8881b23a:f957c339c7098930d2421c15b64b1452"
+      "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
     },
     {
       "match_id": "B0HCGRLC98",
