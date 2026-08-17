@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "11:32 PM 17-08-2026",
+    "LastUpdate": "01:02 AM 18-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -28,19 +28,19 @@
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
     },
     {
-      "match_id": "B0HF5C7ZLG",
-      "title": "Pisa vs. Empoli",
-      "synopsis": "Pisa vs. Empoli",
+      "match_id": "B0HF1QDX39",
+      "title": "Cremonese vs. Sampdoria",
+      "synopsis": "Cremonese vs. Sampdoria",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cd7cd40c-b6a7-4d7e-b1f9-127f21a6015b/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HF5C7ZLG",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a844cd92-68d2-421f-9fa0-b23af59308ea/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HF1QDX39",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd"
       },
       "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
     },
@@ -71,20 +71,6 @@
         "Original Server": "https://a50live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqlvcZBhpqgzCZA2Zha2FtYWkCeClzc2lkOjAyMzk5NDU0LTI5YmItNDAwNC04MTRiLTgwYzExYTMwMTdmYxkBOKEFoQJ4My84OHppOGlnaXZxL291dC92MS9iYjg4ZDY5MWM4Njc0ZTFiOTRjMjUwY2FmOWY4YmU1NRkBPIFiVVNYIIfGFM17X78105syc8YaoY6arW2C044T3_IwM6iSfEDq/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/88zi8igivq/out/v1/bb88d691c8674e1b94c250caf9f8be55/d44aee2c-8d55-491a-b801-97efd5084eff-cenc.mpd"
       },
       "drm_key": "8717ef970d4a5df59fa3c5864f942ff6:0a7667639e127d640757df7ba8a19f99"
-    },
-    {
-      "match_id": "B0HF3MC1GH",
-      "title": "Aug 17 - PTT Arnhem",
-      "synopsis": "Aug 17 - PTT Arnhem",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b650f21e-7295-4ad8-9fa9-84e40d372782/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HF3MC1GH",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a166live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqlvcaBhpqgzCaA2Zha2FtYWkCeClzc2lkOjQ1ZTM2ZTc4LTA4YzQtNGRlZC1iOTY4LTRhYTc4MDgzYjRkMxkBOKEFoQJ4My9qeG1xY2RhemdxL291dC92MS8yM2I4N2UzOGY1Yzk0MjhhYjU3NmU3ODZmMWJiM2JlZhkBPIFiVVNYIFrqt7Ahw_YORe1GK8R-SFm0tYmmd2fYGvLjU1ZgU2zP/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/jxmqcdazgq/out/v1/23b87e38f5c9428ab576e786f1bb3bef/16b1516c-a6d3-456f-ba89-8f8542ff5fb1-cenc.mpd"
-      },
-      "drm_key": "7eab5150b9bae16ab4decf5821549e6c:5dd372fb6b8d0ca6f2c9fefcca63edd4"
     }
   ]
 }
