@@ -1,26 +1,39 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "10:02 AM 17-08-2026",
+    "LastUpdate": "10:39 AM 17-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 0,
-    "UpcomingCount": 20
+    "LiveCount": 1,
+    "UpcomingCount": 19
   },
   "Matches": [
     {
       "match_id": "B0HCX5GP83",
       "title": "India tour of Sri Lanka 2026 - 1st Test - Sri Lanka vs India",
       "synopsis": "India tour of Sri Lanka 2026 - 1st Test - Sri Lanka vs India",
-      "status": "UPCOMING",
-      "time": "Live at 10:30 AM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c42ea47f-6199-4d54-bcf4-8cda823b0e00/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "9:30 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c42ea47f-6199-4d54-bcf4-8cda823b0e00/5/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HCX5GP83?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r22z8gwvp7/out/v1/8bbf4f57a4d640f698554e0eb4d20d64/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r22z8gwvp7/out/v1/8bbf4f57a4d640f698554e0eb4d20d64/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/r22z8gwvp7/out/v1/8bbf4f57a4d640f698554e0eb4d20d64/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/r22z8gwvp7/out/v1/8bbf4f57a4d640f698554e0eb4d20d64/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/r22z8gwvp7/out/v1/8bbf4f57a4d640f698554e0eb4d20d64/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wdggyj1wry/out/v1/f08035aac6c94f37ac46fee15415f96f/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wdggyj1wry/out/v1/f08035aac6c94f37ac46fee15415f96f/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/wdggyj1wry/out/v1/f08035aac6c94f37ac46fee15415f96f/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/wdggyj1wry/out/v1/f08035aac6c94f37ac46fee15415f96f/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/wdggyj1wry/out/v1/f08035aac6c94f37ac46fee15415f96f/cenc.mpd"
+      },
+      "drm_key": "26d1e7d0ed8205fd964f87d793ce4681:837e3f6e328319333f8d8cf9ca3ab9ec"
     },
     {
       "match_id": "B0GZ7HDPGB",
