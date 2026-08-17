@@ -1,43 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "12:02 PM 17-08-2026",
+    "LastUpdate": "01:02 PM 17-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 3,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0H9FVRFKD",
-      "title": "MLS Wrap-Up⁩",
-      "synopsis": "MLS Wrap-Up⁩",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e38843fc-c461-4a7a-be6c-bb632aa9b03c/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H9FVRFKD",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a130live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqlmNqBhpqgpzqA2Zha2FtYWkCeClzc2lkOmIwY2QwOTk4LTJmNGYtNGFkOC04ZDc3LWQzYjRjM2YwNTdlNBkBOKEFoQJ4My93MXBzaWVjanBhL291dC92MS8wYTgzOGE4YTM2OTY0NmJhOTc3OWY1MGYyOTA3ZWRhZBkBPIFiVVNYIEKVmbnWEGjfkVGn9A-MyzpxnwdIJkRcfBGpGhcz1MMb/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/w1psiecjpa/out/v1/0a838a8a369646ba9779f50f2907edad/5185fd2e-8578-4069-8542-1a60ee97471e-cenc.mpd"
-      },
-      "drm_key": "953b8a4d6b3d74238927a87f3c0a5ea3:a9b15f8509fdaeabd3b8a9c7968ce576"
-    },
-    {
-      "match_id": "B0H85BBCKB",
-      "title": "MLS El Resumen⁩",
-      "synopsis": "MLS El Resumen⁩",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ad3e866a-a4cb-4351-947d-f1b5f7bfb3ee/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H85BBCKB",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a79live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqlmNrBhpqgpzrA2Zha2FtYWkCeClzc2lkOjc2Yzg1NzZhLTJlZDctNGUxYS1iZDhmLWNkN2Q0NjUyOTUzMhkBOKEFoQJ4My9zdThhemttdW9mL291dC92MS8xYWY4MTM3MmY1MTg0NzFmYTE4NjE5ZWE1Mjc4ZmFhMhkBPIFiVVNYINw49moLNP82V3LIyQKKeLY8t5avcstLWeLkQKxoBa_b/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/su8azkmuof/out/v1/1af81372f518471fa18619ea5278faa2/0506975e-c444-4cea-b855-1beaf780ace9-cenc.mpd"
-      },
-      "drm_key": "e9ea5252fb2f9f6261b82a8100b00d55:17ce56315ee7df223949622a8e5b0bf2"
-    },
     {
       "match_id": "B0HCKWG149",
       "title": "ATP/WTA: 2nd Round",
@@ -68,6 +40,20 @@
         "Original Server": "https://a154live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqlkBABhpqgnnAA2Zha2FtYWkCeClzc2lkOjEwYjEyODk0LWVjMzktNDI5Yi04MTQ0LWI2NzNlOWM0OTEzZRkBOKEFoQJ4My9yeDlueW1oZDBzL291dC92MS8wMDk0Mzg5YzNhYWE0ODE1YjFmZjU3MzZkOTgzNTEzZhkBPIFiVVNYII6dauwRxzC0nJdZeZIEkyBLa5y3Yp_oHOXxEXq66b1v/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/rx9nymhd0s/out/v1/0094389c3aaa4815b1ff5736d983513f/b1cbafff-16ec-4ad3-a4cd-e113db88a736-cenc.mpd"
       },
       "drm_key": "a4ec0f3e8a8fb487a4a3af5fb02635b6:56f70d795a0f324686e0a37cd0f48bd0"
+    },
+    {
+      "match_id": "B0HF3MC1GH",
+      "title": "Aug 17 - PTT Arnhem",
+      "synopsis": "Aug 17 - PTT Arnhem",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b650f21e-7295-4ad8-9fa9-84e40d372782/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HF3MC1GH",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABIJRAGAAAAAAAAMBCCUAEHKZD5GQ.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqlnh_BhpqgrH_A2pjbG91ZGZyb250Angpc3NpZDpjOTUwNGRhNC02NzY2LTRmOGYtYjk0Yy1lMmYzNTgzYmY5NjQZATihBaECeDMvanhtcWNkYXpncS9vdXQvdjEvMjNiODdlMzhmNWM5NDI4YWI1NzZlNzg2ZjFiYjNiZWYZATyBYlVTWCC3Yl4BD4sci7KEnpgh2w_Uc-6CZ_OzVwRzH4vdsZTW_A/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/jxmqcdazgq/out/v1/23b87e38f5c9428ab576e786f1bb3bef/16b1516c-a6d3-456f-ba89-8f8542ff5fb1-cenc.mpd"
+      },
+      "drm_key": "7eab5150b9bae16ab4decf5821549e6c:5dd372fb6b8d0ca6f2c9fefcca63edd4"
     }
   ]
 }
