@@ -1,28 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "04:32 PM 18-08-2026",
+    "LastUpdate": "05:02 PM 18-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 1,
+    "LiveCount": 0,
     "UpcomingCount": 0
   },
-  "Matches": [
-    {
-      "match_id": "B0HF2Z5NT5",
-      "title": "Aug 18 - PTT Bali Men",
-      "synopsis": "Aug 18 - PTT Bali Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f72e0d46-cbbd-40c1-8ebd-a56a958fedee/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HF2Z5NT5",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a31live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpql4OzBhpqg70zA2Zha2FtYWkCeClzc2lkOjExM2VlMzE3LWEzNzItNGJjOS1iNzkyLWQ0ZDZmMzRhZTM4NhkBOKEFoQJ4My9iNjVyY3pkZ3piL291dC92MS9iNGRiZmE5NThkZDc0M2VlOTI1YmVlZDBlNTY4MTYzMhkBPIFiVVNYICcQcOdGioZjA1QdamBlFwfqIwklNUDQXvbbyhpUcwUC/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/b65rczdgzb/out/v1/b4dbfa958dd743ee925beed0e5681632/d4abf63b-b52e-452d-9c9e-fd65cc4a8b49-cenc.mpd"
-      },
-      "drm_key": "116703c22d708d4590cc70c3fbc212c2:13e58ff1e498ceb3ebc570d5205d7d40"
-    }
-  ]
+  "Matches": []
 }
