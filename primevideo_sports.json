@@ -1,35 +1,21 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "03:02 PM 19-08-2026",
+    "LastUpdate": "03:32 PM 19-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
     "LiveCount": 1,
-    "UpcomingCount": 1
+    "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HDW3JY9D",
-      "title": "Aug 19 - PTT Bali Men",
-      "synopsis": "Aug 19 - PTT Bali Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.49fe7db8-2be2-488b-a29c-c6db4c6aeae4/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HDW3JY9D",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABKZOG4AAAAAAAAMA7F23O4PMLC5B.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqmNU1BhpqhQ61A2pjbG91ZGZyb250Angpc3NpZDpjMGI5ZDRhZi1jNjdhLTRkMzgtODMzMi02N2NmYTZjYWI5OGUZATihBaECeDMvNGpsMDloc3l3Zy9vdXQvdjEvMTc4YzYzYzNjNGVhNGJmMzgwZjdiYmUxMDkyYzQyNTQZATyBYlVTWCAmUzUQlk89lXwvDO_ISj_90bOhJsj9sU40K-jcaNy4QA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/4jl09hsywg/out/v1/178c63c3c4ea4bf380f7bbe1092c4254/1c5b9ece-b0f4-48bd-8f9a-ea1940467a96-cenc.mpd"
-      },
-      "drm_key": "123e189519dc778bb98af36310ce154e:8e92acbfa094db0b08b8751c081453b9"
-    },
     {
       "match_id": "B0HDZZ2M85",
       "title": "Aug 19 - PTT Arnhem",
       "synopsis": "Aug 19 - PTT Arnhem",
-      "status": "UPCOMING",
-      "time": "Live at 3:30 PM BDT",
+      "status": "LIVE",
+      "time": "LIVE NOW",
       "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d284531c-29e1-46d7-8b3a-a402b6eadac7/9/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HDZZ2M85",
       "is_free": false,
