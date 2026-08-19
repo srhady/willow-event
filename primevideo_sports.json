@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "12:32 AM 20-08-2026",
+    "LastUpdate": "01:02 AM 20-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -10,6 +10,37 @@
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HFCDMS1H",
+      "title": "MLF LIVE - Team Series Patriot Cup Knockout Round 1",
+      "synopsis": "MLF LIVE - Team Series Patriot Cup Knockout Round 1",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.57420452-3996-419a-8bd8-48fc17e8cc26/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFCDMS1H",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABEJXB5AAAAAAAAMFMRSDPBOA6TIW.ta.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqmcRBBhpqhf3BA2pjbG91ZGZyb250Angpc3NpZDpkODEzMDJmZi0yNjA1LTQ5ZWEtOTAxMS03YTM2MmFiY2E2MmUZATihBaECeDMvZG51ajZiNXpkaC9vdXQvdjEvNmI3MmVjOTZmOWNlNGU4OWE2NzVlMmQzYjY2Njc5OGIZATyBYlVTWCAM2hMkqBppl27Pm7XAAEsozLY8TRjc7eNvSSJWK-FUkQ/IAD/35af5ab120c04930aedbebf579f0b276/v1/dash/159325541587/imdb_amagi_amzn1_dv_live_csid_208d9052-c852-4a59-954a-a06f4279f6fe_us-east-1_iad_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/dnuj6b5zdh/out/v1/6b72ec96f9ce4e89a675e2d3b666798b/d7728fc1-5108-4158-a511-3576ee55aa40-cenc.mpd?aws.sessionId=b47a84bc-8a85-40ec-a26a-92e3777616fd"
+      },
+      "drm_key": "99b9ee4e673c2a5372fc76db8e59f989:98f0d4ac93a419b81489da17aec8a58f"
+    },
+    {
+      "match_id": "B0HC9X6G7J",
+      "title": "Celtic vs. LASK",
+      "synopsis": "Celtic vs. LASK",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e2eca456-f031-4570-9523-4a4d62a5e8ab/6/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HC9X6G7J",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd"
+      },
+      "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+    },
     {
       "match_id": "B0HF8J674T",
       "title": "ATP/WTA: Round of 16, Doubles 2nd Round",
@@ -28,37 +59,6 @@
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
     },
     {
-      "match_id": "B0H74QJJXT",
-      "title": "England vs. Pakistan",
-      "synopsis": "England vs. Pakistan",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cc669f9e-07f5-4f31-9fd7-22fbb87c2c9c/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H74QJJXT",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
-      },
-      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-    },
-    {
-      "match_id": "B0GDQRPJGQ",
-      "title": "Aug 19 - PTT East Lansing",
-      "synopsis": "Aug 19 - PTT East Lansing",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.98efecd1-2790-4b05-ac5f-1f3ac3629129/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0GDQRPJGQ",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a133live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqmX33Bhpqhbd3A2Zha2FtYWkCeClzc2lkOjVhMDdhNDk5LWYxM2YtNDFkZS05MWQ3LTY5NWFlYTk1ZDQ2MhkBOKEFoQJ4My9kaHphbXpmaWVtL291dC92MS9jZjI0ZDg0MzM0ZTY0NzBlYjcyNmU2MzNmNzVkOTcwYRkBPIFiVVNYIFFvwo56X2r7jdYeZEx9X6Ss1GJXoscWRon9SwGRCBq9/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/dhzamzfiem/out/v1/cf24d84334e6470eb726e633f75d970a/5f3016b5-3d3b-443f-989a-4fbc2481b1cc-cenc.mpd"
-      },
-      "drm_key": "4876d1136c215f5fec05a402720231eb:fac8ac6af5dcd20b4bbd1c99be5e7ed6"
-    },
-    {
       "match_id": "B0H8CLHXHT",
       "title": "Aug 19 - PTT Nashville",
       "synopsis": "Aug 19 - PTT Nashville",
@@ -73,18 +73,18 @@
       "drm_key": "fa7fd8d31b74f952552118a3fd7212f8:e3dbf9f9b0863858ee1175f2a52bae09"
     },
     {
-      "match_id": "B0HDZZ2M85",
-      "title": "Aug 19 - PTT Arnhem",
-      "synopsis": "Aug 19 - PTT Arnhem",
+      "match_id": "B0GDQRPJGQ",
+      "title": "Aug 19 - PTT East Lansing",
+      "synopsis": "Aug 19 - PTT East Lansing",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d284531c-29e1-46d7-8b3a-a402b6eadac7/9/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HDZZ2M85",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.98efecd1-2790-4b05-ac5f-1f3ac3629129/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0GDQRPJGQ",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://a26live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqmTekBhpqhXEkA2Zha2FtYWkCeClzc2lkOmUyYzViNWFlLTk0MDQtNGE3MC04ZjkzLWNhNjYwYjNjZGRlYhkBOKEFoQJ4My9kNXN2c2p3c2poL291dC92MS9kOTM1OWFjNmFiZjA0OWZjOWUxZmUyOGRmYzA3YWM4MBkBPIFiVVNYILfLfjVcaYzgzUkxDwZOG2wC0Xd4BLKlMlnBzk05P2iy/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/d5svsjwsjh/out/v1/d9359ac6abf049fc9e1fe28dfc07ac80/56dd7a16-a242-439f-9ed2-927af264b6c0-cenc.mpd"
+        "Original Server": "https://a133live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqmX33Bhpqhbd3A2Zha2FtYWkCeClzc2lkOjVhMDdhNDk5LWYxM2YtNDFkZS05MWQ3LTY5NWFlYTk1ZDQ2MhkBOKEFoQJ4My9kaHphbXpmaWVtL291dC92MS9jZjI0ZDg0MzM0ZTY0NzBlYjcyNmU2MzNmNzVkOTcwYRkBPIFiVVNYIFFvwo56X2r7jdYeZEx9X6Ss1GJXoscWRon9SwGRCBq9/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/dhzamzfiem/out/v1/cf24d84334e6470eb726e633f75d970a/5f3016b5-3d3b-443f-989a-4fbc2481b1cc-cenc.mpd"
       },
-      "drm_key": "bb98b6d582b244b4cc1130dc0638a002:cc79767025b1dbd1cad5b8ffeb211ccf"
+      "drm_key": "4876d1136c215f5fec05a402720231eb:fac8ac6af5dcd20b4bbd1c99be5e7ed6"
     }
   ]
 }
