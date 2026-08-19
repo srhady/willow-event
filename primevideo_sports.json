@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "03:32 PM 19-08-2026",
+    "LastUpdate": "04:02 PM 19-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 1,
+    "LiveCount": 2,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -23,6 +23,23 @@
         "Original Server": "https://a26live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqmTekBhpqhXEkA2Zha2FtYWkCeClzc2lkOmUyYzViNWFlLTk0MDQtNGE3MC04ZjkzLWNhNjYwYjNjZGRlYhkBOKEFoQJ4My9kNXN2c2p3c2poL291dC92MS9kOTM1OWFjNmFiZjA0OWZjOWUxZmUyOGRmYzA3YWM4MBkBPIFiVVNYILfLfjVcaYzgzUkxDwZOG2wC0Xd4BLKlMlnBzk05P2iy/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/d5svsjwsjh/out/v1/d9359ac6abf049fc9e1fe28dfc07ac80/56dd7a16-a242-439f-9ed2-927af264b6c0-cenc.mpd"
       },
       "drm_key": "bb98b6d582b244b4cc1130dc0638a002:cc79767025b1dbd1cad5b8ffeb211ccf"
+    },
+    {
+      "match_id": "B0H74QJJXT",
+      "title": "England vs. Pakistan",
+      "synopsis": "England vs. Pakistan",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cc669f9e-07f5-4f31-9fd7-22fbb87c2c9c/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H74QJJXT",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
+      },
+      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     }
   ]
 }
