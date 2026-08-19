@@ -1,28 +1,31 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "05:02 AM 20-08-2026",
+    "LastUpdate": "05:32 AM 20-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 9,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
     {
-      "match_id": "B0H8HWZGXZ",
-      "title": "MLS La Previa⁩",
-      "synopsis": "MLS La Previa⁩",
+      "match_id": "B0H4W4QL5Y",
+      "title": "FloRacing Night in America at Mason City Motor Speedway",
+      "synopsis": "FloRacing Night in America at Mason City Motor Speedway",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d44fec90-baef-4574-9025-20371cf168a1/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H8HWZGXZ",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e669841d-2386-4463-852e-b3b7013894e4/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H4W4QL5Y",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqmfWHBhpqhi8HA2ZmYXN0bHkCeClzc2lkOjIxOWYyNGYxLTZiYzUtNDg3Yy1iMDQ4LTQ2ZWMwNDQyMjgxYhkBOKEFoQJ4My9uYXJoNnFic2FhL291dC92MS80NzYwZjkyMWZlMTU0ZDk1OWJlODRiMDVmZWFmYmU4YxkBPIFiVVNYIJYkcfH-o5gsN2NWa4K-ZBLwVeQwDXKNIv6IQ4uoo-G7/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/narh6qbsaa/out/v1/4760f921fe154d959be84b05feafbe8c/c072cb28-b424-4940-9686-231254ff7a66-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd"
       },
-      "drm_key": "bcaf81bfe2f97e58b75a0582069b53fb:8094ac063146b4b8d7c37cdf513b5787"
+      "drm_key": "2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca"
     },
     {
       "match_id": "B0HCBZ2DQN",
@@ -42,20 +45,6 @@
       "drm_key": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681"
     },
     {
-      "match_id": "B0H9HQQ4RK",
-      "title": "MLS Countdown",
-      "synopsis": "MLS Countdown",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.926c97de-5235-457d-9ed6-6bab58b52600/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H9HQQ4RK",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABBI5WWAAAAAAAAMLMEWUOSZRF5TG.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqmfWHBhpqhi8HA2pjbG91ZGZyb250Angpc3NpZDpiZDMzZGJiZS0zMGVhLTQ3NzEtOWQ3ZS1mYjExNjRmNjFjZWIZATihBaECeDMveXpyMm95ZnpoaS9vdXQvdjEvNDA5Y2ZlOGVjZWFkNDdhN2FlY2NhYzc5Njc4YWExOTIZATyBYlVTWCCduXmq3k4FdpYdrbe-_iItf--rvZT2JG8LXxfAKQkcfQ/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/yzr2oyfzhi/out/v1/409cfe8ecead47a7aeccac79678aa192/b44ac7cc-bf52-44a3-b8e8-24a2fc40b37a-cenc.mpd"
-      },
-      "drm_key": "f1808452e1c4c5100ed13561e5c46500:b30db4cf8d712677ac9066d4233ad975"
-    },
-    {
       "match_id": "B0HFDY9VMQ",
       "title": "Delfines del Este vs. Violette",
       "synopsis": "Delfines del Este vs. Violette",
@@ -71,40 +60,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd"
       },
       "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
-    },
-    {
-      "match_id": "B0H4W4QL5Y",
-      "title": "FloRacing Night in America at Mason City Motor Speedway",
-      "synopsis": "FloRacing Night in America at Mason City Motor Speedway",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e669841d-2386-4463-852e-b3b7013894e4/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H4W4QL5Y",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd"
-      },
-      "drm_key": "2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca"
-    },
-    {
-      "match_id": "B0HF8J674T",
-      "title": "ATP/WTA: Round of 16, Doubles 2nd Round",
-      "synopsis": "ATP/WTA: Round of 16, Doubles 2nd Round",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9081d63b-3402-4977-98b3-e462f1796bfa/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HF8J674T",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd"
-      },
-      "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
     },
     {
       "match_id": "B0HFD3KH7V",
@@ -139,20 +94,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qy6usrjqzw/out/v1/48d0ffdc0c354fc8bf9b565c245d0f07/cenc.mpd"
       },
       "drm_key": "ad6e7091d1d36a16d5475bdb2d900888:8c67e6b1e4bcf1ee1f12167526ef2503"
-    },
-    {
-      "match_id": "B0GDQRPJGQ",
-      "title": "Aug 19 - PTT East Lansing",
-      "synopsis": "Aug 19 - PTT East Lansing",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.98efecd1-2790-4b05-ac5f-1f3ac3629129/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0GDQRPJGQ",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a133live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqmX33Bhpqhbd3A2Zha2FtYWkCeClzc2lkOjVhMDdhNDk5LWYxM2YtNDFkZS05MWQ3LTY5NWFlYTk1ZDQ2MhkBOKEFoQJ4My9kaHphbXpmaWVtL291dC92MS9jZjI0ZDg0MzM0ZTY0NzBlYjcyNmU2MzNmNzVkOTcwYRkBPIFiVVNYIFFvwo56X2r7jdYeZEx9X6Ss1GJXoscWRon9SwGRCBq9/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/dhzamzfiem/out/v1/cf24d84334e6470eb726e633f75d970a/5f3016b5-3d3b-443f-989a-4fbc2481b1cc-cenc.mpd"
-      },
-      "drm_key": "4876d1136c215f5fec05a402720231eb:fac8ac6af5dcd20b4bbd1c99be5e7ed6"
     }
   ]
 }
