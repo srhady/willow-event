@@ -1,26 +1,39 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "04:02 AM 20-08-2026",
+    "LastUpdate": "04:32 AM 20-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 0,
-    "UpcomingCount": 20
+    "LiveCount": 1,
+    "UpcomingCount": 19
   },
   "Matches": [
     {
       "match_id": "B0HBQ49CT5",
       "title": "Caribbean Premier League 2026 - 11th Match - Saint Lucia Kings vs Guyana Amazon Warriors",
       "synopsis": "Caribbean Premier League 2026 - 11th Match - Saint Lucia Kings vs Guyana Amazon Warriors",
-      "status": "UPCOMING",
-      "time": "Live at 4:30 AM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e8d04b69-8431-45c4-b433-e59e88de3556/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "4:30 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e8d04b69-8431-45c4-b433-e59e88de3556/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HBQ49CT5?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/07ajrbhy12/out/v1/86ff14d1abb34732aeb4fa7f6a133b50/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/07ajrbhy12/out/v1/86ff14d1abb34732aeb4fa7f6a133b50/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/07ajrbhy12/out/v1/86ff14d1abb34732aeb4fa7f6a133b50/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/07ajrbhy12/out/v1/86ff14d1abb34732aeb4fa7f6a133b50/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/07ajrbhy12/out/v1/86ff14d1abb34732aeb4fa7f6a133b50/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jw8rzcb3wx/out/v1/794688c1dc89444496a214782265b9bb/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jw8rzcb3wx/out/v1/794688c1dc89444496a214782265b9bb/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/jw8rzcb3wx/out/v1/794688c1dc89444496a214782265b9bb/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/jw8rzcb3wx/out/v1/794688c1dc89444496a214782265b9bb/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/jw8rzcb3wx/out/v1/794688c1dc89444496a214782265b9bb/cenc.mpd"
+      },
+      "drm_key": "1979511a83b985c6620b404aa518c95a:da8a2b019766c416ebdf2cd9f09cd95e"
     },
     {
       "match_id": "B0HF1RTTDR",
