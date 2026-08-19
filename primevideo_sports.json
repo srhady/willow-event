@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "07:32 PM 19-08-2026",
+    "LastUpdate": "08:02 PM 19-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 3,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -54,6 +54,20 @@
         "Original Server": "https://a26live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqmTekBhpqhXEkA2Zha2FtYWkCeClzc2lkOmUyYzViNWFlLTk0MDQtNGE3MC04ZjkzLWNhNjYwYjNjZGRlYhkBOKEFoQJ4My9kNXN2c2p3c2poL291dC92MS9kOTM1OWFjNmFiZjA0OWZjOWUxZmUyOGRmYzA3YWM4MBkBPIFiVVNYILfLfjVcaYzgzUkxDwZOG2wC0Xd4BLKlMlnBzk05P2iy/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/d5svsjwsjh/out/v1/d9359ac6abf049fc9e1fe28dfc07ac80/56dd7a16-a242-439f-9ed2-927af264b6c0-cenc.mpd"
       },
       "drm_key": "bb98b6d582b244b4cc1130dc0638a002:cc79767025b1dbd1cad5b8ffeb211ccf"
+    },
+    {
+      "match_id": "B0GDQRPJGQ",
+      "title": "Aug 19 - PTT East Lansing",
+      "synopsis": "Aug 19 - PTT East Lansing",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.98efecd1-2790-4b05-ac5f-1f3ac3629129/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0GDQRPJGQ",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a133live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqmX33Bhpqhbd3A2Zha2FtYWkCeClzc2lkOjVhMDdhNDk5LWYxM2YtNDFkZS05MWQ3LTY5NWFlYTk1ZDQ2MhkBOKEFoQJ4My9kaHphbXpmaWVtL291dC92MS9jZjI0ZDg0MzM0ZTY0NzBlYjcyNmU2MzNmNzVkOTcwYRkBPIFiVVNYIFFvwo56X2r7jdYeZEx9X6Ss1GJXoscWRon9SwGRCBq9/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/dhzamzfiem/out/v1/cf24d84334e6470eb726e633f75d970a/5f3016b5-3d3b-443f-989a-4fbc2481b1cc-cenc.mpd"
+      },
+      "drm_key": "4876d1136c215f5fec05a402720231eb:fac8ac6af5dcd20b4bbd1c99be5e7ed6"
     }
   ]
 }
