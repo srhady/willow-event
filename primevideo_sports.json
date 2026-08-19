@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "09:32 PM 19-08-2026",
+    "LastUpdate": "10:02 PM 19-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -10,23 +10,6 @@
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0H74QJJXT",
-      "title": "England vs. Pakistan",
-      "synopsis": "England vs. Pakistan",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cc669f9e-07f5-4f31-9fd7-22fbb87c2c9c/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H74QJJXT",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
-      },
-      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-    },
     {
       "match_id": "B0HF8J674T",
       "title": "ATP/WTA: Round of 16, Doubles 2nd Round",
@@ -45,18 +28,21 @@
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
     },
     {
-      "match_id": "B0H8CLHXHT",
-      "title": "Aug 19 - PTT Nashville",
-      "synopsis": "Aug 19 - PTT Nashville",
+      "match_id": "B0H74QJJXT",
+      "title": "England vs. Pakistan",
+      "synopsis": "England vs. Pakistan",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.163addc2-81ab-4053-a702-e79a2a9a0f79/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H8CLHXHT",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cc669f9e-07f5-4f31-9fd7-22fbb87c2c9c/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H74QJJXT",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://ABGRUIGAAAAAAAAMNA6UWMU4SFXTW.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqmXbtBhpqhbBtA2pjbG91ZGZyb250Angpc3NpZDpkMjc4ZGRkZS03ODlhLTQ1NmQtODEzYy05ZTMxNzcyMDU3OTgZATihBaECeDMvc3B3cWl1aHpzaS9vdXQvdjEvZjdiMmUxY2FiYjk4NDAyM2I1OGViYjc0MDlkNjFjNTUZATyBYlVTWCBgZbb1re56U5hOs54uy2nu6bnVdrVXpfm0pFqAQr4d2g/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/spwqiuhzsi/out/v1/f7b2e1cabb984023b58ebb7409d61c55/3def35cf-8810-490d-b530-b95e01e8a57f-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
       },
-      "drm_key": "fa7fd8d31b74f952552118a3fd7212f8:e3dbf9f9b0863858ee1175f2a52bae09"
+      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
       "match_id": "B0GDQRPJGQ",
@@ -71,6 +57,20 @@
         "Original Server": "https://a133live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqmX33Bhpqhbd3A2Zha2FtYWkCeClzc2lkOjVhMDdhNDk5LWYxM2YtNDFkZS05MWQ3LTY5NWFlYTk1ZDQ2MhkBOKEFoQJ4My9kaHphbXpmaWVtL291dC92MS9jZjI0ZDg0MzM0ZTY0NzBlYjcyNmU2MzNmNzVkOTcwYRkBPIFiVVNYIFFvwo56X2r7jdYeZEx9X6Ss1GJXoscWRon9SwGRCBq9/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/dhzamzfiem/out/v1/cf24d84334e6470eb726e633f75d970a/5f3016b5-3d3b-443f-989a-4fbc2481b1cc-cenc.mpd"
       },
       "drm_key": "4876d1136c215f5fec05a402720231eb:fac8ac6af5dcd20b4bbd1c99be5e7ed6"
+    },
+    {
+      "match_id": "B0H8CLHXHT",
+      "title": "Aug 19 - PTT Nashville",
+      "synopsis": "Aug 19 - PTT Nashville",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.163addc2-81ab-4053-a702-e79a2a9a0f79/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H8CLHXHT",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABGRUIGAAAAAAAAMNA6UWMU4SFXTW.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqmXbtBhpqhbBtA2pjbG91ZGZyb250Angpc3NpZDpkMjc4ZGRkZS03ODlhLTQ1NmQtODEzYy05ZTMxNzcyMDU3OTgZATihBaECeDMvc3B3cWl1aHpzaS9vdXQvdjEvZjdiMmUxY2FiYjk4NDAyM2I1OGViYjc0MDlkNjFjNTUZATyBYlVTWCBgZbb1re56U5hOs54uy2nu6bnVdrVXpfm0pFqAQr4d2g/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/spwqiuhzsi/out/v1/f7b2e1cabb984023b58ebb7409d61c55/3def35cf-8810-490d-b530-b95e01e8a57f-cenc.mpd"
+      },
+      "drm_key": "fa7fd8d31b74f952552118a3fd7212f8:e3dbf9f9b0863858ee1175f2a52bae09"
     },
     {
       "match_id": "B0HDZZ2M85",
