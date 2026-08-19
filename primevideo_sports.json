@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "07:02 PM 19-08-2026",
+    "LastUpdate": "07:32 PM 19-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 2,
+    "LiveCount": 3,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -26,6 +26,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
       },
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
+      "match_id": "B0H8CLHXHT",
+      "title": "Aug 19 - PTT Nashville",
+      "synopsis": "Aug 19 - PTT Nashville",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.163addc2-81ab-4053-a702-e79a2a9a0f79/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H8CLHXHT",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABGRUIGAAAAAAAAMNA6UWMU4SFXTW.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqmXbtBhpqhbBtA2pjbG91ZGZyb250Angpc3NpZDpkMjc4ZGRkZS03ODlhLTQ1NmQtODEzYy05ZTMxNzcyMDU3OTgZATihBaECeDMvc3B3cWl1aHpzaS9vdXQvdjEvZjdiMmUxY2FiYjk4NDAyM2I1OGViYjc0MDlkNjFjNTUZATyBYlVTWCBgZbb1re56U5hOs54uy2nu6bnVdrVXpfm0pFqAQr4d2g/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/spwqiuhzsi/out/v1/f7b2e1cabb984023b58ebb7409d61c55/3def35cf-8810-490d-b530-b95e01e8a57f-cenc.mpd"
+      },
+      "drm_key": "fa7fd8d31b74f952552118a3fd7212f8:e3dbf9f9b0863858ee1175f2a52bae09"
     },
     {
       "match_id": "B0HDZZ2M85",
