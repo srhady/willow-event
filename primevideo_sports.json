@@ -1,29 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "03:02 AM 20-08-2026",
+    "LastUpdate": "03:32 AM 20-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 2,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HFCDMS1H",
-      "title": "MLF LIVE - Team Series Patriot Cup Knockout Round 1",
-      "synopsis": "MLF LIVE - Team Series Patriot Cup Knockout Round 1",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.57420452-3996-419a-8bd8-48fc17e8cc26/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFCDMS1H",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABEJXB5AAAAAAAAMFMRSDPBOA6TIW.ta.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqmcRBBhpqhf3BA2pjbG91ZGZyb250Angpc3NpZDpkODEzMDJmZi0yNjA1LTQ5ZWEtOTAxMS03YTM2MmFiY2E2MmUZATihBaECeDMvZG51ajZiNXpkaC9vdXQvdjEvNmI3MmVjOTZmOWNlNGU4OWE2NzVlMmQzYjY2Njc5OGIZATyBYlVTWCAM2hMkqBppl27Pm7XAAEsozLY8TRjc7eNvSSJWK-FUkQ/IAD/35af5ab120c04930aedbebf579f0b276/v1/dash/159325541587/imdb_amagi_amzn1_dv_live_csid_208d9052-c852-4a59-954a-a06f4279f6fe_us-east-1_iad_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/dnuj6b5zdh/out/v1/6b72ec96f9ce4e89a675e2d3b666798b/d7728fc1-5108-4158-a511-3576ee55aa40-cenc.mpd?aws.sessionId=b47a84bc-8a85-40ec-a26a-92e3777616fd"
-      },
-      "drm_key": "99b9ee4e673c2a5372fc76db8e59f989:98f0d4ac93a419b81489da17aec8a58f"
-    },
     {
       "match_id": "B0HF8J674T",
       "title": "ATP/WTA: Round of 16, Doubles 2nd Round",
@@ -40,20 +26,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd"
       },
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
-    },
-    {
-      "match_id": "B0H8CLHXHT",
-      "title": "Aug 19 - PTT Nashville",
-      "synopsis": "Aug 19 - PTT Nashville",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.163addc2-81ab-4053-a702-e79a2a9a0f79/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H8CLHXHT",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABGRUIGAAAAAAAAMNA6UWMU4SFXTW.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqmXbtBhpqhbBtA2pjbG91ZGZyb250Angpc3NpZDpkMjc4ZGRkZS03ODlhLTQ1NmQtODEzYy05ZTMxNzcyMDU3OTgZATihBaECeDMvc3B3cWl1aHpzaS9vdXQvdjEvZjdiMmUxY2FiYjk4NDAyM2I1OGViYjc0MDlkNjFjNTUZATyBYlVTWCBgZbb1re56U5hOs54uy2nu6bnVdrVXpfm0pFqAQr4d2g/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/spwqiuhzsi/out/v1/f7b2e1cabb984023b58ebb7409d61c55/3def35cf-8810-490d-b530-b95e01e8a57f-cenc.mpd"
-      },
-      "drm_key": "fa7fd8d31b74f952552118a3fd7212f8:e3dbf9f9b0863858ee1175f2a52bae09"
     },
     {
       "match_id": "B0GDQRPJGQ",
