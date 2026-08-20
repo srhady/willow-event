@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "12:02 AM 21-08-2026",
+    "LastUpdate": "12:32 AM 21-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 6,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -43,6 +43,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd"
       },
       "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
+    },
+    {
+      "match_id": "B0HFBK1Y6J",
+      "title": "MLF LIVE - Team Series Patriot Cup Knockout Round�2",
+      "synopsis": "MLF LIVE - Team Series Patriot Cup Knockout Round�2",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.61492810-ebaa-4488-9dca-0dbc3f236a37/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFBK1Y6J",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a99live-emt-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqmw7ABhpqh0hAA2Zha2FtYWkCeClzc2lkOjAwOWZmMTU4LTg5YjYtNGJjNi1hNzhmLTlkYzA4NWU2NTFmMRkBOKEFoQJ4My9ncWV3bmNheGZmL291dC92MS82YjcyZWM5NmY5Y2U0ZTg5YTY3NWUyZDNiNjY2Nzk4YhkBPIFiVVNYIDnJuhjDPHSD65-Ra20yY7p8LAqkc02hORuh63Pg5nT8/IAD/35af5ab120c04930aedbebf579f0b276/v1/dash/159325541587/imdb_amagi_amzn1_dv_live_csid_208d9052-c852-4a59-954a-a06f4279f6fe_us-east-1_iad_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/gqewncaxff/out/v1/6b72ec96f9ce4e89a675e2d3b666798b/18605c16-9a66-4b1e-b7da-ec2d428ac21f-cenc.mpd?aws.sessionId=09381846-7a6d-4997-93b9-7b81afd8090d"
+      },
+      "drm_key": "99b9ee4e673c2a5372fc76db8e59f989:98f0d4ac93a419b81489da17aec8a58f"
     },
     {
       "match_id": "B0H9T1NW9Z",
