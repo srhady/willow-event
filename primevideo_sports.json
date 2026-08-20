@@ -1,28 +1,45 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "12:32 PM 20-08-2026",
+    "LastUpdate": "01:02 PM 20-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 1,
+    "LiveCount": 2,
     "UpcomingCount": 0
   },
   "Matches": [
     {
-      "match_id": "B0HDWCKKC1",
-      "title": "Aug 20 - PTT Bali Men",
-      "synopsis": "Aug 20 - PTT Bali Men",
+      "match_id": "B0HBMRS9GG",
+      "title": "Canterbury v Northland Taniwha",
+      "synopsis": "Canterbury v Northland Taniwha",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1016fc24-0cc6-46b4-a51d-e8054cc23007/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HDWCKKC1",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.87f33ec5-33e1-4868-9aee-97b1bbb6dc83/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HBMRS9GG",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqmkndBhpqhoNdA2ZmYXN0bHkCeClzc2lkOjI3OTE4MzQ3LTQwNzMtNDBlMy1hMzU4LTEwZGRkYmFhYzNjMRkBOKEFoQJ4My8xZnU0bWx3bWF3L291dC92MS82ZmMyMTg5NTM2M2E0Y2Q3YThlOTllZDYyZWJlNGYxOBkBPIFiVVNYIBW_3ExykEqR0cdfGhyiqr3zoZ1zI4bW_9jqnAJfsOjf/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/1fu4mlwmaw/out/v1/6fc21895363a4cd7a8e99ed62ebe4f18/150e063f-bed8-4eb9-83d7-e7ed7631d432-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd"
       },
-      "drm_key": "b2cf3e2d6056d8a17cab6cc2a9793417:0394fff94a3f5d63a4ff7da5aef40eee"
+      "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
+    },
+    {
+      "match_id": "B0HDY5FRDN",
+      "title": "Aug 20 - PTT Arnhem",
+      "synopsis": "Aug 20 - PTT Arnhem",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d316a944-baf8-46cd-aa22-3e6587061fb3/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HDY5FRDN",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABBIUCWAAAAAAAAMMLDJ3PO6CMZVV.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqmm0JBhpqhqaJA2pjbG91ZGZyb250Angpc3NpZDoyYTE1NWQxYi1kZTJiLTQzMDQtYTRiYS1iZjlkOTNjZjMxNTIZATihBaECeDMvdXoxc2Ztam5heS9vdXQvdjEvNmUzMmY3ZTJlZDViNDIyMDk3NzEyMTNiYTA1Y2YwZWIZATyBYlVTWCCY3aAMv3B3kVkCbTnE2Xes4R4WYz_0LyOU1oVLE6UsKA/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/uz1sfmjnay/out/v1/6e32f7e2ed5b42209771213ba05cf0eb/7ce733d1-7d12-432d-9788-dafa9fe94848-cenc.mpd"
+      },
+      "drm_key": "6c2127dd685edfeea872ecdf15fcbb03:8a6a345b360151aec1da69efbbbd077b"
     }
   ]
 }
