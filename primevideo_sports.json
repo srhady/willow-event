@@ -1,31 +1,28 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "06:02 PM 21-08-2026",
+    "LastUpdate": "06:32 PM 21-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
     {
-      "match_id": "B0HFH8C263",
-      "title": "Top End Series: NT Strike vs. Nepal",
-      "synopsis": "Top End Series: NT Strike vs. Nepal",
+      "match_id": "B0GW8L72F1",
+      "title": "Zandvoort, Free Practice",
+      "synopsis": "Zandvoort, Free Practice",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.34a57d70-e1c6-4932-91f8-8a488bc47916/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFH8C263",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5ef6751e-e232-4f2d-980b-bbdc229af18d/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0GW8L72F1",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
+        "Original Server": "https://a196live-emt-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqnATSBhpqiD5SA2Zha2FtYWkCeClzc2lkOmM5M2I2ZjRkLTVhOGYtNGNlZi1hZTU5LWZiODExY2I3MDkzYRkBOKEFoQJ4My9sd3dzcXlqbnJ6L291dC92MS80MGY1M2M3Y2JjOTU0OThkYjNhZmQwODFjMzc3ZDc3NhkBPIFiVVNYIOYijDNhbvBdH5NL4XUGcMS7Hz6QeH7j7Q3ZT3XKgub7/PDX/1776219fd5214a9b8b7911390b010794/v1/dash/159325541587/imdb_amagi_amzn1_dv_live_csid_83a10cd1-8e37-4ec7-845f-bfa744c7c933_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/lwwsqyjnrz/out/v1/40f53c7cbc95498db3afd081c377d776/5a5877e7-da6a-4900-bc8c-c663c7a646c1-cenc.mpd?aws.sessionId=fb4428e5-5987-4e72-973b-57c37122467c"
       },
-      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+      "drm_key": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3"
     },
     {
       "match_id": "B0HFBSVT69",
@@ -60,20 +57,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd"
       },
       "drm_key": "2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72"
-    },
-    {
-      "match_id": "B0GW8L72F1",
-      "title": "Zandvoort, Free Practice",
-      "synopsis": "Zandvoort, Free Practice",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5ef6751e-e232-4f2d-980b-bbdc229af18d/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0GW8L72F1",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a196live-emt-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqnATSBhpqiD5SA2Zha2FtYWkCeClzc2lkOmM5M2I2ZjRkLTVhOGYtNGNlZi1hZTU5LWZiODExY2I3MDkzYRkBOKEFoQJ4My9sd3dzcXlqbnJ6L291dC92MS80MGY1M2M3Y2JjOTU0OThkYjNhZmQwODFjMzc3ZDc3NhkBPIFiVVNYIOYijDNhbvBdH5NL4XUGcMS7Hz6QeH7j7Q3ZT3XKgub7/PDX/1776219fd5214a9b8b7911390b010794/v1/dash/159325541587/imdb_amagi_amzn1_dv_live_csid_83a10cd1-8e37-4ec7-845f-bfa744c7c933_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/lwwsqyjnrz/out/v1/40f53c7cbc95498db3afd081c377d776/5a5877e7-da6a-4900-bc8c-c663c7a646c1-cenc.mpd?aws.sessionId=fb4428e5-5987-4e72-973b-57c37122467c"
-      },
-      "drm_key": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3"
     },
     {
       "match_id": "B0H6G5K3CF",
