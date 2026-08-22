@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "12:32 AM 23-08-2026",
+    "LastUpdate": "01:02 AM 23-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 7,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -26,6 +26,40 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x4krgolcxs/out/v1/747627063afd488fb91e534d92869d45/cenc.mpd"
       },
       "drm_key": "8c8753a34518b7d3093885f956e7afd9:8a4a2f1accb3ac0f42ad1c1502ee833e"
+    },
+    {
+      "match_id": "B0HF785YWZ",
+      "title": "Genoa vs. Napoli",
+      "synopsis": "Genoa vs. Napoli",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.56f45d18-ff6b-496e-814d-d2f3973cded9/6/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HF785YWZ",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd"
+      },
+      "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+    },
+    {
+      "match_id": "B0HFKMVFFM",
+      "title": "Brainerd Nationals",
+      "synopsis": "Brainerd Nationals",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.42885fc5-4615-4176-b59c-b7ce282408ac/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFKMVFFM",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/4z68aa90vc/out/v1/e35b5b6ad34040268614701aa28c1025/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/4z68aa90vc/out/v1/e35b5b6ad34040268614701aa28c1025/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/4z68aa90vc/out/v1/e35b5b6ad34040268614701aa28c1025/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/4z68aa90vc/out/v1/e35b5b6ad34040268614701aa28c1025/cenc.mpd"
+      },
+      "drm_key": "2b5f2f89365bf2c032b8927d0d577653:49d502f7736d6e0406526325957bd8f3"
     },
     {
       "match_id": "B0HFBSVT69",
@@ -62,20 +96,6 @@
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
     },
     {
-      "match_id": "B0HDYS6YXV",
-      "title": "Aug 22 - PTT East Lansing",
-      "synopsis": "Aug 22 - PTT East Lansing",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4aca7993-b346-4198-94ef-4a2b481b9a95/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HDYS6YXV",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABEJXBZAAAAAAAAMFSBO5VGKSJI3T.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqnXJ1Bhpqiav1A2pjbG91ZGZyb250Angpc3NpZDoyNTQ0MDk5ZC05MGRhLTQyMjEtOTZiMS1iOTc2ZTllNzBjM2IZATihBaECeDMvZHV3eHg5Y2Niai9vdXQvdjEvZGM5YzUxNmNkYjQ5NDlhN2I3NWE4NmM5MDZjZTJmNTQZATyBYlVTWCCDZ03d4vcVCAJIOJI0Ms9ccBNnheAK38n3EUBchjcnzA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/duwxx9ccbj/out/v1/dc9c516cdb4949a7b75a86c906ce2f54/00b08140-db90-4431-b92d-8c24b858c8dd-cenc.mpd"
-      },
-      "drm_key": "8aa184d7140286a34a1f6ef6f627c868:d39f307e89a97f26fe192727886c64c2"
-    },
-    {
       "match_id": "B0HB779L9Y",
       "title": "Aug 22 - PTT Nashville",
       "synopsis": "Aug 22 - PTT Nashville",
@@ -88,6 +108,20 @@
         "Original Server": "https://a138live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqnWtuBhpqiaTuA2Zha2FtYWkCeClzc2lkOmY1N2IwMjU4LWU4NjYtNGU5Ni04MWZiLWU3OWYyZDVlZjllNBkBOKEFoQJ4My9hZmo2bHVianF5L291dC92MS8yOTVlNWFiNTA2MzE0NjQ0YjU4YTUxZTljOTdjNTQ4NRkBPIFiVVNYIOjQXld4_VwYrRQaiF4l80nAVVS2ZHRiR6dneHh_nsRB/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/afj6lubjqy/out/v1/295e5ab506314644b58a51e9c97c5485/e29c7bb3-a71b-43fe-a94e-241989f68ac3-cenc.mpd"
       },
       "drm_key": "ff84db4a7d216b102434e8d10888861d:ca2216eb23bc719ff6e79df6426d455a"
+    },
+    {
+      "match_id": "B0HDYS6YXV",
+      "title": "Aug 22 - PTT East Lansing",
+      "synopsis": "Aug 22 - PTT East Lansing",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4aca7993-b346-4198-94ef-4a2b481b9a95/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HDYS6YXV",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABEJXBZAAAAAAAAMFSBO5VGKSJI3T.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqnXJ1Bhpqiav1A2pjbG91ZGZyb250Angpc3NpZDoyNTQ0MDk5ZC05MGRhLTQyMjEtOTZiMS1iOTc2ZTllNzBjM2IZATihBaECeDMvZHV3eHg5Y2Niai9vdXQvdjEvZGM5YzUxNmNkYjQ5NDlhN2I3NWE4NmM5MDZjZTJmNTQZATyBYlVTWCCDZ03d4vcVCAJIOJI0Ms9ccBNnheAK38n3EUBchjcnzA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/duwxx9ccbj/out/v1/dc9c516cdb4949a7b75a86c906ce2f54/00b08140-db90-4431-b92d-8c24b858c8dd-cenc.mpd"
+      },
+      "drm_key": "8aa184d7140286a34a1f6ef6f627c868:d39f307e89a97f26fe192727886c64c2"
     }
   ]
 }
