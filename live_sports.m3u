@@ -1,22 +1,15 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:02:32 PM 22-08-2026
+#LAST_UPDATE:03:02 PM 22-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:18
-
-#EXTINF:-1 tvg-id="B0HFG5D8WP" tvg-name="Top End T20 Series 2026 - 5th Match - Victoria vs HH Kingsmen" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5ae4eca7-c338-4565-baeb-a0621a92bf80/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Top End T20 Series 2026 - 5th Match - Victoria vs HH Kingsmen
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e82d75ac3a646f8de91831df04b2e07:af211d0b99fd3d973aaa6ac7e23a3e01
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/8cmdowyygj/out/v1/0ddc95beeadc4a738fff413339af20d4/cenc.mpd
+#LIVE_COUNT:1
+#UPCOMING_COUNT:19
 
 #EXTINF:-1 tvg-id="B0H237JJ6D" tvg-name="Top End T20 Series 2026 - 6th Match - Nepal vs Bangladesh HP" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9b897fc1-cd67-462a-ae17-d97e1b2611e2/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Top End T20 Series 2026 - 6th Match - Nepal vs Bangladesh HP
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=628e4d3e30759987ca8fca298ec986b7:3e5fb5c2ce0bbc826f5f3b59ed4b5ac9
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/v10nki1baz/out/v1/bfcbde4547ab41b58a23f5042dd0994b/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/v10nki1baz/out/v1/bfcbde4547ab41b58a23f5042dd0994b/cenc.mpd
 
