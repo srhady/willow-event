@@ -1,8 +1,15 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:04:02 AM 23-08-2026
+#LAST_UPDATE:04:32 AM 23-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:20
+#LIVE_COUNT:1
+#UPCOMING_COUNT:19
+
+#EXTINF:-1 tvg-id="B0HCWGZVL4" tvg-name="Caribbean Premier League 2026 - 14th Match - Antigua And Barbuda Falcons vs Trinbago Knight Riders" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.22796087-8c2c-405b-a0f9-418d3862a598/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Caribbean Premier League 2026 - 14th Match - Antigua And Barbuda Falcons vs Trinbago Knight Riders
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=420a02541b220a156ddb135725d34a4c:3118c524b8b750ef584c8b51449d4a0c
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/okfbtyuecp/out/v1/0e389897b69844368a9967b2eeb09c87/cenc.mpd
 
