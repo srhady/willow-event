@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "06:32 PM 22-08-2026",
+    "LastUpdate": "07:02 PM 22-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 3,
-    "UpcomingCount": 1
+    "LiveCount": 5,
+    "UpcomingCount": 0
   },
   "Matches": [
     {
@@ -45,6 +45,37 @@
       "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
     },
     {
+      "match_id": "B0HFBSVT69",
+      "title": "2026 Predator EuroTour Longoni Open",
+      "synopsis": "2026 Predator EuroTour Longoni Open",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.60d302c9-5c17-4ecb-8696-04b1e1e2bd3f/16/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFBSVT69",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd"
+      },
+      "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
+    },
+    {
+      "match_id": "B0H8PF8J56",
+      "title": "Zandvoort, Race 1",
+      "synopsis": "Zandvoort, Race 1",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1445b701-c4ee-495e-9bad-c78e14bc878a/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H8PF8J56",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABDTGQFAAAAAAAAML67RRJFGUCPDF.ta.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqnV1dBhpqiZbdA2pjbG91ZGZyb250Angpc3NpZDoyMmVkMDI0Yi0zZGRmLTRhYzYtYjkxZS03OWMxODQ5OGQ5ZWMZATihBaECeDMvbnA4bHV1dGZjcS9vdXQvdjEvNDBmNTNjN2NiYzk1NDk4ZGIzYWZkMDgxYzM3N2Q3NzYZATyBYlVTWCDWmsCshcLl9kciyR-e-dlEY-vGu1rhyER3vbqbA8AAzw/PDX/1776219fd5214a9b8b7911390b010794/v1/dash/159325541587/imdb_amagi_amzn1_dv_live_csid_83a10cd1-8e37-4ec7-845f-bfa744c7c933_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/np8luutfcq/out/v1/40f53c7cbc95498db3afd081c377d776/721da98d-d713-4cef-8587-436e26a1ce97-cenc.mpd?aws.sessionId=a593fcab-8302-431e-832d-1e3ba20e43c5"
+      },
+      "drm_key": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3"
+    },
+    {
       "match_id": "B0HC432T4Z",
       "title": "Aug 22 - PTT Arnhem",
       "synopsis": "Aug 22 - PTT Arnhem",
@@ -57,20 +88,6 @@
         "Original Server": "https://ABDTF3ZAAAAAAAAMKHVETNCZES63J.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqnRACBhpqiUmCA2pjbG91ZGZyb250Angpc3NpZDpjOWFmYzczMy01YjM2LTQ4OTgtYmRhYy03MGZkZGE1NTM3ZTcZATihBaECeDMvZnUwNXM1ejh3ai9vdXQvdjEvZDFmNzQ5NGI1ODBiNDNiYWEzYjY1ODIyMmQzZGY0MTYZATyBYlVTWCDiYTlS_tUGAQKQUCSsyI197IvpoiZwjpTlS61eaPGh7g/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/fu05s5z8wj/out/v1/d1f7494b580b43baa3b658222d3df416/97376e11-3adb-4c96-b573-d1cbd964bd40-cenc.mpd"
       },
       "drm_key": "0b649a201f3938e7970c9e74c1ed06e1:1c01b1e365e6deca725cbe82978ba562"
-    },
-    {
-      "match_id": "B0H8PF8J56",
-      "title": "Zandvoort, Race 1",
-      "synopsis": "Zandvoort, Race 1",
-      "status": "UPCOMING",
-      "time": "Live at 6:35 PM BDT",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1445b701-c4ee-495e-9bad-c78e14bc878a/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H8PF8J56",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABDTGQFAAAAAAAAML67RRJFGUCPDF.ta.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqnV1dBhpqiZbdA2pjbG91ZGZyb250Angpc3NpZDoyMmVkMDI0Yi0zZGRmLTRhYzYtYjkxZS03OWMxODQ5OGQ5ZWMZATihBaECeDMvbnA4bHV1dGZjcS9vdXQvdjEvNDBmNTNjN2NiYzk1NDk4ZGIzYWZkMDgxYzM3N2Q3NzYZATyBYlVTWCDWmsCshcLl9kciyR-e-dlEY-vGu1rhyER3vbqbA8AAzw/PDX/1776219fd5214a9b8b7911390b010794/v1/dash/159325541587/imdb_amagi_amzn1_dv_live_csid_83a10cd1-8e37-4ec7-845f-bfa744c7c933_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/np8luutfcq/out/v1/40f53c7cbc95498db3afd081c377d776/721da98d-d713-4cef-8587-436e26a1ce97-cenc.mpd?aws.sessionId=a593fcab-8302-431e-832d-1e3ba20e43c5"
-      },
-      "drm_key": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3"
     }
   ]
 }
