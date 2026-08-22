@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "03:02 AM 23-08-2026",
+    "LastUpdate": "03:32 AM 23-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -45,23 +45,6 @@
       "drm_key": "2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca"
     },
     {
-      "match_id": "B0HFBSVT69",
-      "title": "2026 Predator EuroTour Longoni Open",
-      "synopsis": "2026 Predator EuroTour Longoni Open",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.60d302c9-5c17-4ecb-8696-04b1e1e2bd3f/16/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFBSVT69",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd"
-      },
-      "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
-    },
-    {
       "match_id": "B0HCLCD3ZJ",
       "title": "Quebec - Singles Semifinals & Doubles Final",
       "synopsis": "Quebec - Singles Semifinals & Doubles Final",
@@ -91,20 +74,6 @@
         "Original Server": "https://ABEJXBZAAAAAAAAMFSBO5VGKSJI3T.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqnXJ1Bhpqiav1A2pjbG91ZGZyb250Angpc3NpZDoyNTQ0MDk5ZC05MGRhLTQyMjEtOTZiMS1iOTc2ZTllNzBjM2IZATihBaECeDMvZHV3eHg5Y2Niai9vdXQvdjEvZGM5YzUxNmNkYjQ5NDlhN2I3NWE4NmM5MDZjZTJmNTQZATyBYlVTWCCDZ03d4vcVCAJIOJI0Ms9ccBNnheAK38n3EUBchjcnzA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/duwxx9ccbj/out/v1/dc9c516cdb4949a7b75a86c906ce2f54/00b08140-db90-4431-b92d-8c24b858c8dd-cenc.mpd"
       },
       "drm_key": "8aa184d7140286a34a1f6ef6f627c868:d39f307e89a97f26fe192727886c64c2"
-    },
-    {
-      "match_id": "B0HB779L9Y",
-      "title": "Aug 22 - PTT Nashville",
-      "synopsis": "Aug 22 - PTT Nashville",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5faa9327-4c41-4a78-a86f-c2468e98163e/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HB779L9Y",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a138live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqnWtuBhpqiaTuA2Zha2FtYWkCeClzc2lkOmY1N2IwMjU4LWU4NjYtNGU5Ni04MWZiLWU3OWYyZDVlZjllNBkBOKEFoQJ4My9hZmo2bHVianF5L291dC92MS8yOTVlNWFiNTA2MzE0NjQ0YjU4YTUxZTljOTdjNTQ4NRkBPIFiVVNYIOjQXld4_VwYrRQaiF4l80nAVVS2ZHRiR6dneHh_nsRB/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/afj6lubjqy/out/v1/295e5ab506314644b58a51e9c97c5485/e29c7bb3-a71b-43fe-a94e-241989f68ac3-cenc.mpd"
-      },
-      "drm_key": "ff84db4a7d216b102434e8d10888861d:ca2216eb23bc719ff6e79df6426d455a"
     }
   ]
 }
