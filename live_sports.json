@@ -1,40 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "01:32 AM 23-08-2026",
+    "LastUpdate": "02:02 AM 23-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 19
+    "LiveCount": 0,
+    "UpcomingCount": 20
   },
   "Matches": [
-    {
-      "match_id": "B0HF1RTTDR",
-      "title": "Pakistan tour of England 2026 - 1st Test - England vs Pakistan",
-      "synopsis": "Pakistan tour of England 2026 - 1st Test - England vs Pakistan",
-      "status": "LIVE",
-      "time": "3:15 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2b250938-8e36-49e1-80cc-43e7d3cbc329/8/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HF1RTTDR?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
-      "is_free": false,
-      "stream_url_alpha": {
-        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rg8nsgom6a/out/v1/74fe21d7154e4ac9ac03a32e3cca354d/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rg8nsgom6a/out/v1/74fe21d7154e4ac9ac03a32e3cca354d/cenc.mpd",
-        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rg8nsgom6a/out/v1/74fe21d7154e4ac9ac03a32e3cca354d/cenc.mpd",
-        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/rg8nsgom6a/out/v1/74fe21d7154e4ac9ac03a32e3cca354d/cenc.mpd",
-        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/rg8nsgom6a/out/v1/74fe21d7154e4ac9ac03a32e3cca354d/cenc.mpd"
-      },
-      "stream_url_bravo": {
-        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/smvwwjqxzh/out/v1/525a3f9b83c94277977c46c2026f03ad/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/smvwwjqxzh/out/v1/525a3f9b83c94277977c46c2026f03ad/cenc.mpd",
-        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/smvwwjqxzh/out/v1/525a3f9b83c94277977c46c2026f03ad/cenc.mpd",
-        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/smvwwjqxzh/out/v1/525a3f9b83c94277977c46c2026f03ad/cenc.mpd",
-        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/smvwwjqxzh/out/v1/525a3f9b83c94277977c46c2026f03ad/cenc.mpd"
-      },
-      "drm_key": "df690854b7a01c573aa7c3b152bdbd6b:b03b9cb561de53bc81d9f66416cfca82"
-    },
     {
       "match_id": "B0HCWGZVL4",
       "title": "Caribbean Premier League 2026 - 14th Match - Antigua And Barbuda Falcons vs Trinbago Knight Riders",
@@ -42,7 +17,7 @@
       "status": "UPCOMING",
       "time": "Live at 5 AM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.22796087-8c2c-405b-a0f9-418d3862a598/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HCWGZVL4?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HCWGZVL4?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -54,7 +29,7 @@
       "status": "UPCOMING",
       "time": "Live at 6 AM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3e2240b5-2e4f-420b-bc3e-88e26b219b3d/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HBQD6TGZ?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HBQD6TGZ?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -66,7 +41,7 @@
       "status": "UPCOMING",
       "time": "Live at 6:30 AM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f8374585-72b1-4965-97a2-0be61edf739b/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HF8FBWQH?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HF8FBWQH?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -78,7 +53,7 @@
       "status": "UPCOMING",
       "time": "Live at 10:30 AM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.669d70b3-1511-48dc-a605-fb1c6f1e1b26/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H9RCZ1GL?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_5",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H9RCZ1GL?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -90,7 +65,19 @@
       "status": "UPCOMING",
       "time": "Live at 1:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b9bea838-2bb8-4e59-878d-71c8c8e32223/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFQZ6FD5?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_6",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFQZ6FD5?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_5",
+      "is_free": false,
+      "stream_url_alpha": "",
+      "drm_key": ""
+    },
+    {
+      "match_id": "B0HF1RTTDR",
+      "title": "Pakistan tour of England 2026 - 1st Test - England vs Pakistan",
+      "synopsis": "Pakistan tour of England 2026 - 1st Test - England vs Pakistan",
+      "status": "UPCOMING",
+      "time": "Live at 3:15 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2b250938-8e36-49e1-80cc-43e7d3cbc329/8/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HF1RTTDR?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_6",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
