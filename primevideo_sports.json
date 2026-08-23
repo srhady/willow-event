@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "10:02 PM 23-08-2026",
+    "LastUpdate": "10:32 PM 23-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -11,18 +11,21 @@
   },
   "Matches": [
     {
-      "match_id": "B0H7X3NLL2",
-      "title": "Netherlands: Race (Kids)",
-      "synopsis": "Netherlands: Race (Kids)",
+      "match_id": "B0HDW8ZRDK",
+      "title": "Frosinone vs. Juventus",
+      "synopsis": "Frosinone vs. Juventus",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5559d406-e99e-42ff-a2d4-4b071ed61ac6/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H7X3NLL2",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6db08db4-b74c-4b4a-aecf-551d65d76f1a/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HDW8ZRDK",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://a19live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqnrXkBhpqiu9kA2Zha2FtYWkCeClzc2lkOjU0OThhMmFiLTVjMmQtNGU0NC04N2MxLTdiNmFhYzYzOTAxNBkBOKEFoQJ4My9ubHJzbWtqc25lL291dC92MS9mNmUxOWZmN2YyOTM0MGMyYmMzODRjZTAzYWJmZDhjNhkBPIFiVVNYICZF19zdm9mKRpL2FacwaAqSvbXdGT0NUf5hGNTjrhuE/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/nlrsmkjsne/out/v1/f6e19ff7f29340c2bc384ce03abfd8c6/a6ebff2f-977b-408c-a51b-0a8b7fe75054-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd"
       },
-      "drm_key": "28f2955fea249879b0baad04303b771a:13484578ba9992a790cbb8db28b7eedc"
+      "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
     },
     {
       "match_id": "B0HFBSVT69",
@@ -42,20 +45,6 @@
       "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
     },
     {
-      "match_id": "B0HDYKJDTR",
-      "title": "Aug 23 - PTT East Lansing",
-      "synopsis": "Aug 23 - PTT East Lansing",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1f5e71cc-3483-429e-8613-5093c9f3dfa4/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HDYKJDTR",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a204live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqnrXlBhpqiu9lA2Zha2FtYWkCeClzc2lkOmFjNTM3MWNiLTQ1MjctNGVmMy1iNjkzLTI4MGY0OWEwOWRmZBkBOKEFoQJ4My9ya2pueTFrejRjL291dC92MS8zNmE1MmUzNzY4MzY0ODMyODUxZGI5MmYzNGJmYzBkMhkBPIFiVVNYIIAHI5QRcGJYrZGfHs_eFJd-iLiJiNJSxaFYL2t6CxwJ/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/rkjny1kz4c/out/v1/36a52e3768364832851db92f34bfc0d2/9f7f868b-aa98-4ee0-9a44-e52915b63496-cenc.mpd"
-      },
-      "drm_key": "eae092e33d895fc1da47194b0916fd58:719665c0e3032e6e6f46dc01571fdb19"
-    },
-    {
       "match_id": "B0HF16THB8",
       "title": "Aug 23 - PTT Nashville",
       "synopsis": "Aug 23 - PTT Nashville",
@@ -68,6 +57,20 @@
         "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqnsPwBhpqiv1wA2ZmYXN0bHkCeClzc2lkOmU2NTgxNWM5LWJhYzktNGJlMi1iNTdjLTBlZjU0NTg0NjY0ZhkBOKEFoQJ4My9xd2FpYnF0dGJpL291dC92MS9jZmMwZDE0YTMwMWY0NjY2OWFhNzVkYWIxNmQ0MGU4MxkBPIFiVVNYILD48sfgdam13pwnxA-U71ID3O0ylP_LkU_CAAqK-Lj_/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/qwaibqttbi/out/v1/cfc0d14a301f46669aa75dab16d40e83/3655b0a6-dcc4-46a1-91e8-2f8a6f9db914-cenc.mpd"
       },
       "drm_key": "7ebef2cf3f049de18624c83f7e2b6a1b:4a164bec152c57442fc476899d232c87"
+    },
+    {
+      "match_id": "B0HDYKJDTR",
+      "title": "Aug 23 - PTT East Lansing",
+      "synopsis": "Aug 23 - PTT East Lansing",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1f5e71cc-3483-429e-8613-5093c9f3dfa4/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HDYKJDTR",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a204live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqnrXlBhpqiu9lA2Zha2FtYWkCeClzc2lkOmFjNTM3MWNiLTQ1MjctNGVmMy1iNjkzLTI4MGY0OWEwOWRmZBkBOKEFoQJ4My9ya2pueTFrejRjL291dC92MS8zNmE1MmUzNzY4MzY0ODMyODUxZGI5MmYzNGJmYzBkMhkBPIFiVVNYIIAHI5QRcGJYrZGfHs_eFJd-iLiJiNJSxaFYL2t6CxwJ/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/rkjny1kz4c/out/v1/36a52e3768364832851db92f34bfc0d2/9f7f868b-aa98-4ee0-9a44-e52915b63496-cenc.mpd"
+      },
+      "drm_key": "eae092e33d895fc1da47194b0916fd58:719665c0e3032e6e6f46dc01571fdb19"
     }
   ]
 }
