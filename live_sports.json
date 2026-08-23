@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "05:32 AM 23-08-2026",
+    "LastUpdate": "06:02 AM 23-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 19
+    "LiveCount": 3,
+    "UpcomingCount": 17
   },
   "Matches": [
     {
@@ -39,25 +39,51 @@
       "match_id": "B0HBQD6TGZ",
       "title": "Bangladesh tour of Australia 2026 - 2nd Test - Australia vs Bangladesh",
       "synopsis": "Bangladesh tour of Australia 2026 - 2nd Test - Australia vs Bangladesh",
-      "status": "UPCOMING",
-      "time": "Live at 6 AM BDT",
+      "status": "LIVE",
+      "time": "6 AM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3e2240b5-2e4f-420b-bc3e-88e26b219b3d/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HBQD6TGZ?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/phnvnlutln/out/v1/ada030ef3032419194d2af90d7771d62/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/phnvnlutln/out/v1/ada030ef3032419194d2af90d7771d62/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/phnvnlutln/out/v1/ada030ef3032419194d2af90d7771d62/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/phnvnlutln/out/v1/ada030ef3032419194d2af90d7771d62/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/phnvnlutln/out/v1/ada030ef3032419194d2af90d7771d62/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wm7nvzuo81/out/v1/4be515e8c9c3450c9d73b2d2d8c25d46/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wm7nvzuo81/out/v1/4be515e8c9c3450c9d73b2d2d8c25d46/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/wm7nvzuo81/out/v1/4be515e8c9c3450c9d73b2d2d8c25d46/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wm7nvzuo81/out/v1/4be515e8c9c3450c9d73b2d2d8c25d46/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wm7nvzuo81/out/v1/4be515e8c9c3450c9d73b2d2d8c25d46/cenc.mpd"
+      },
+      "drm_key": "f3b91297bf1b32f957b9ad9df063cccf:1dffa592b7bbeeda714ac1ba3b70f04b"
     },
     {
       "match_id": "B0HF8FBWQH",
       "title": "Top End T20 Series 2026 - 7th Match - New Zealand A vs ACT Comets",
       "synopsis": "Top End T20 Series 2026 - 7th Match - New Zealand A vs ACT Comets",
-      "status": "UPCOMING",
-      "time": "Live at 6:30 AM BDT",
+      "status": "LIVE",
+      "time": "6 AM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f8374585-72b1-4965-97a2-0be61edf739b/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HF8FBWQH?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ezr2c1po7a/out/v1/a6096ea9c42f4bd0b61e7c9380c28b67/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ezr2c1po7a/out/v1/a6096ea9c42f4bd0b61e7c9380c28b67/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ezr2c1po7a/out/v1/a6096ea9c42f4bd0b61e7c9380c28b67/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ezr2c1po7a/out/v1/a6096ea9c42f4bd0b61e7c9380c28b67/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ezr2c1po7a/out/v1/a6096ea9c42f4bd0b61e7c9380c28b67/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/34zspthsjx/out/v1/4c5ffaa30915427f936b3aa897da4f7b/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/34zspthsjx/out/v1/4c5ffaa30915427f936b3aa897da4f7b/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/34zspthsjx/out/v1/4c5ffaa30915427f936b3aa897da4f7b/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/34zspthsjx/out/v1/4c5ffaa30915427f936b3aa897da4f7b/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/34zspthsjx/out/v1/4c5ffaa30915427f936b3aa897da4f7b/cenc.mpd"
+      },
+      "drm_key": "7644b0bd567d0adfd6e12ab85c73728c:83c67bcfbb7efb3d133232f5aa8ebe1a"
     },
     {
       "match_id": "B0H9RCZ1GL",
