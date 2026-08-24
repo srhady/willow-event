@@ -1,40 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "06:32 PM 24-08-2026",
+    "LastUpdate": "07:02 PM 24-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 2,
-    "UpcomingCount": 18
+    "LiveCount": 1,
+    "UpcomingCount": 19
   },
   "Matches": [
-    {
-      "match_id": "B0H9RCZ1GL",
-      "title": "India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India",
-      "synopsis": "India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India",
-      "status": "LIVE",
-      "time": "9:30 AM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.669d70b3-1511-48dc-a605-fb1c6f1e1b26/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H9RCZ1GL?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
-      "is_free": false,
-      "stream_url_alpha": {
-        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/r6rpiytfdp/out/v1/a7eb6c5c6a42479c83e0cc569b54731c/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/r6rpiytfdp/out/v1/a7eb6c5c6a42479c83e0cc569b54731c/cenc.mpd",
-        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/r6rpiytfdp/out/v1/a7eb6c5c6a42479c83e0cc569b54731c/cenc.mpd",
-        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/r6rpiytfdp/out/v1/a7eb6c5c6a42479c83e0cc569b54731c/cenc.mpd",
-        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/r6rpiytfdp/out/v1/a7eb6c5c6a42479c83e0cc569b54731c/cenc.mpd"
-      },
-      "stream_url_bravo": {
-        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uouwsfqlxw/out/v1/4b5eadb9eb274d2b917f870bb1ce9375/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uouwsfqlxw/out/v1/4b5eadb9eb274d2b917f870bb1ce9375/cenc.mpd",
-        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/uouwsfqlxw/out/v1/4b5eadb9eb274d2b917f870bb1ce9375/cenc.mpd",
-        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uouwsfqlxw/out/v1/4b5eadb9eb274d2b917f870bb1ce9375/cenc.mpd",
-        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uouwsfqlxw/out/v1/4b5eadb9eb274d2b917f870bb1ce9375/cenc.mpd"
-      },
-      "drm_key": "6f56f327399f2a6f58a875c57fee77f6:a8ba4ecc2bf32075e4d5509b8abc6c12"
-    },
     {
       "match_id": "B0HFBF5Z3D",
       "title": "Top End T20 Series 2026 - 12th Match - Nepal vs Hobart Hurricanes",
@@ -42,7 +17,7 @@
       "status": "LIVE",
       "time": "3 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fd379414-b100-4e8e-b28f-75048687dd58/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFBF5Z3D?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFBF5Z3D?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
       "is_free": false,
       "stream_url_alpha": {
         "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sivtxjxex/out/v1/ccd2772b4ac34b35bdee514bbb5d5b6a/cenc.mpd",
@@ -67,7 +42,7 @@
       "status": "UPCOMING",
       "time": "Tomorrow 6 AM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3e2240b5-2e4f-420b-bc3e-88e26b219b3d/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HBQD6TGZ?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HBQD6TGZ?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -79,7 +54,19 @@
       "status": "UPCOMING",
       "time": "Tomorrow 6:30 AM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.79238516-163d-4a1a-bf3b-c5014bb4884b/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFXJKQFN?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFXJKQFN?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
+      "is_free": false,
+      "stream_url_alpha": "",
+      "drm_key": ""
+    },
+    {
+      "match_id": "B0H9RCZ1GL",
+      "title": "India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India",
+      "synopsis": "India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India",
+      "status": "UPCOMING",
+      "time": "Tomorrow 9 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.669d70b3-1511-48dc-a605-fb1c6f1e1b26/6/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H9RCZ1GL?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
