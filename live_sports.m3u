@@ -1,10 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:05:32 AM 24-08-2026
+#LAST_UPDATE:06:02 AM 24-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:1
-#UPCOMING_COUNT:19
+#LIVE_COUNT:3
+#UPCOMING_COUNT:17
 
 #EXTINF:-1 tvg-id="B0HC2X52PB" tvg-name="Caribbean Premier League 2026 - 15th Match - Antigua And Barbuda Falcons vs Guyana Amazon Warriors" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2705bafd-99dc-47ab-a21f-c023a94a55c9/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Caribbean Premier League 2026 - 15th Match - Antigua And Barbuda Falcons vs Guyana Amazon Warriors
 #KODIPROP:inputstream=inputstream.adaptive
@@ -12,4 +12,18 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2a76d0c7cd3e2d7c37febbe71fdb36a:4e983959b490b7470b71e2ce796be323
 https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/jt0bwlnvii/out/v1/f9d82fbbbb1441398d2e8d719f8f6a13/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HC4KCX9L" tvg-name="Top End T20 Series 2026 - 10th Match - NT Strike vs HH Kingsmen" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1c02b235-6ad5-42eb-84a9-f914adba9a66/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Top End T20 Series 2026 - 10th Match - NT Strike vs HH Kingsmen
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c363b9dd793fe8d953e3d0791191e1d:4bc0ebba6074c80316bbf2cf87f209d6
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u3wied73mq/out/v1/b2d8893784804baa9a09125499d1f8c6/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HBQD6TGZ" tvg-name="Bangladesh tour of Australia 2026 - 2nd Test - Australia vs Bangladesh" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3e2240b5-2e4f-420b-bc3e-88e26b219b3d/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Bangladesh tour of Australia 2026 - 2nd Test - Australia vs Bangladesh
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb4b1c1e672c4723e73e335f58ad3003:b111349e536b08c437e0cc97019652ad
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/yipzmfrlaf/out/v1/f00694148baf463fac79c05ca4ad7c52/cenc.mpd
 
