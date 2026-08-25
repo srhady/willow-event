@@ -1,38 +1,60 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "05:32 AM 25-08-2026",
+    "LastUpdate": "06:02 AM 25-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 0,
-    "UpcomingCount": 20
+    "LiveCount": 2,
+    "UpcomingCount": 18
   },
   "Matches": [
-    {
-      "match_id": "B0HBQD6TGZ",
-      "title": "Bangladesh tour of Australia 2026 - 2nd Test - Australia vs Bangladesh",
-      "synopsis": "Bangladesh tour of Australia 2026 - 2nd Test - Australia vs Bangladesh",
-      "status": "UPCOMING",
-      "time": "Live at 6 AM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3e2240b5-2e4f-420b-bc3e-88e26b219b3d/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HBQD6TGZ?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
-      "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
-    },
     {
       "match_id": "B0HFXJKQFN",
       "title": "Top End T20 Series 2026 - 13th Match - New Zealand A vs HH Kingsmen",
       "synopsis": "Top End T20 Series 2026 - 13th Match - New Zealand A vs HH Kingsmen",
-      "status": "UPCOMING",
-      "time": "Live at 6:30 AM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.79238516-163d-4a1a-bf3b-c5014bb4884b/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFXJKQFN?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
+      "status": "LIVE",
+      "time": "6 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.79238516-163d-4a1a-bf3b-c5014bb4884b/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFXJKQFN?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9ivbq7ejwu/out/v1/c63ce3f0cde54334b2c107c735a77b32/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9ivbq7ejwu/out/v1/c63ce3f0cde54334b2c107c735a77b32/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/9ivbq7ejwu/out/v1/c63ce3f0cde54334b2c107c735a77b32/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9ivbq7ejwu/out/v1/c63ce3f0cde54334b2c107c735a77b32/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9ivbq7ejwu/out/v1/c63ce3f0cde54334b2c107c735a77b32/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/s326pawctl/out/v1/5e80782d370242d1901cd9ce48a6234c/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/s326pawctl/out/v1/5e80782d370242d1901cd9ce48a6234c/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/s326pawctl/out/v1/5e80782d370242d1901cd9ce48a6234c/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/s326pawctl/out/v1/5e80782d370242d1901cd9ce48a6234c/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/s326pawctl/out/v1/5e80782d370242d1901cd9ce48a6234c/cenc.mpd"
+      },
+      "drm_key": "15010fa30093beac2e578df8378772e9:0dac32f908c5058b372ab09fae57b343"
+    },
+    {
+      "match_id": "B0HBQD6TGZ",
+      "title": "Bangladesh tour of Australia 2026 - 2nd Test - Australia vs Bangladesh",
+      "synopsis": "Bangladesh tour of Australia 2026 - 2nd Test - Australia vs Bangladesh",
+      "status": "LIVE",
+      "time": "6 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3e2240b5-2e4f-420b-bc3e-88e26b219b3d/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HBQD6TGZ?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
+      "is_free": false,
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/gybuxvb3bs/out/v1/af10a683e0f742c48833a2b90adcb2d5/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/gybuxvb3bs/out/v1/af10a683e0f742c48833a2b90adcb2d5/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/gybuxvb3bs/out/v1/af10a683e0f742c48833a2b90adcb2d5/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/gybuxvb3bs/out/v1/af10a683e0f742c48833a2b90adcb2d5/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/gybuxvb3bs/out/v1/af10a683e0f742c48833a2b90adcb2d5/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Original Server": "https://ABDJOVOAAAAAAAAMIJBA5G2HSHMW6.ta.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqoKIQBhpqjNuQA2pjbG91ZGZyb250Angpc3NpZDo0NGQ5MjE3Yy05M2EyLTQ4YmUtOGU3MC0wODE3YmFkM2E0MmYZATihBaECeDMvdW1wdHhsbmtmMi9vdXQvdjEvNGRlNzhhNTQyYjU4NGU1OWIwMzc1ZDg5MTJjODE3ZTkZATyBYlVTWCC4qQnqtNqMm6Jv5Xb_Eqpc7ZRTfPevKl7ZBxMTcKeG5Q/IAD/a402d899ba6349bc88e443272e977937/v1/dash/746463508834/willowtvus_live_amzn1_dv_live_csid_060678a6-f508-47b0-ba2b-70cf8bf13552_us-east-1_iad_dash_h264_none_stereo/live/clients/dash/enc/umptxlnkf2/out/v1/4de78a542b584e59b0375d8912c817e9/cenc.mpd?aws.sessionId=a3df4303-2424-4fc9-b1d9-20cf2c971348"
+      },
+      "drm_key": "89d28c553fd71e5e0364915ce4adbf83:618b6485fde0e278606ff61e619cfa02"
     },
     {
       "match_id": "B0H9RCZ1GL",
@@ -51,8 +73,8 @@
       "title": "Top End T20 Series 2026 - 14th Match - NT Strike vs ACT Comets",
       "synopsis": "Top End T20 Series 2026 - 14th Match - NT Strike vs ACT Comets",
       "status": "UPCOMING",
-      "time": "Live at 11 AM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.92fd6680-7576-4c4a-92dc-58403608e51d/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "time": "Live at 10:30 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.92fd6680-7576-4c4a-92dc-58403608e51d/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HFTZVJHZ?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
       "is_free": false,
       "stream_url_alpha": "",
@@ -63,8 +85,8 @@
       "title": "Top End T20 Series 2026 - 15th Match - Adelaide Strikers Academy vs Bangladesh HP",
       "synopsis": "Top End T20 Series 2026 - 15th Match - Adelaide Strikers Academy vs Bangladesh HP",
       "status": "UPCOMING",
-      "time": "Live at 3:30 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.da19826b-2823-42b1-af6d-a78cac5bd2d6/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "time": "Live at 3 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.da19826b-2823-42b1-af6d-a78cac5bd2d6/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HFSN1L9T?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_5",
       "is_free": false,
       "stream_url_alpha": "",
