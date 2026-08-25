@@ -1,28 +1,31 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "10:32 PM 25-08-2026",
+    "LastUpdate": "11:02 PM 25-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 3,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
     {
-      "match_id": "B0GV5YBDZK",
-      "title": "Aug 25 - PTT Glasgow",
-      "synopsis": "Aug 25 - PTT Glasgow",
+      "match_id": "B0HB9RLX1Y",
+      "title": "Fidelity SecureDrive Lions vs. Maori All Blacks",
+      "synopsis": "Fidelity SecureDrive Lions vs. Maori All Blacks",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.67ccf14d-74a4-4ba7-a87c-2da915429e4f/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0GV5YBDZK",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e69a5377-a3ef-4b5a-b606-8e973b932e21/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HB9RLX1Y",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://ABCQVGYAAAAAAAAMBREPY74ZAS6JH.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqoRKRBhpqjUwRA2pjbG91ZGZyb250Angpc3NpZDowYTA3M2M5NS1hOWE4LTRjZDItYjI2MC1iYzc4OWJjNTI2M2EZATihBaECeDMvc2J6ZGIxOHJsei9vdXQvdjEvNmNiMzA2MGQ2NjNmNGRjNmI2NThhMjIyZWUwYTA1N2UZATyBYlVTWCBVbMS2oBnptaKEIACtlwMQgoGg6w9AzqTeflsQE3moqg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/sbzdb18rlz/out/v1/6cb3060d663f4dc6b658a222ee0a057e/9c01068f-14da-4713-a51e-823d1b8ef9a3-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd"
       },
-      "drm_key": "909523419e836800688ceab934bb2c82:a03b552ccd9f03fa64bfdd4e8fc6ad7a"
+      "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
     },
     {
       "match_id": "B0HFLYY2DH",
@@ -51,6 +54,20 @@
         "Original Server": "https://a168live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqoYMUBhpqjbyUA2Zha2FtYWkCeClzc2lkOjFjOGZhNDRlLWRiOGYtNGU0Zi04MmEzLWE1NDE3OWZhNTM2YRkBOKEFoQJ4My8ybGJmMHphdXljL291dC92MS8xZmE5YTZkYjk5MTM0Y2YzOTkyYjIyODgyZjA4MGVmYxkBPIFiVVNYIEwftCyRsupvcXNE3X1faIG4hO0Q22fW-LoV6LsKs2m7/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/2lbf0zauyc/out/v1/1fa9a6db99134cf3992b22882f080efc/f9e04593-7893-4bee-abdd-83b61c71552d-cenc.mpd"
       },
       "drm_key": "a355e90aa9116b8d17426bcccc433d23:ae5214044cca63e99c3de639fbd4b7eb"
+    },
+    {
+      "match_id": "B0GV5YBDZK",
+      "title": "Aug 25 - PTT Glasgow",
+      "synopsis": "Aug 25 - PTT Glasgow",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.67ccf14d-74a4-4ba7-a87c-2da915429e4f/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0GV5YBDZK",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABCQVGYAAAAAAAAMBREPY74ZAS6JH.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqoRKRBhpqjUwRA2pjbG91ZGZyb250Angpc3NpZDowYTA3M2M5NS1hOWE4LTRjZDItYjI2MC1iYzc4OWJjNTI2M2EZATihBaECeDMvc2J6ZGIxOHJsei9vdXQvdjEvNmNiMzA2MGQ2NjNmNGRjNmI2NThhMjIyZWUwYTA1N2UZATyBYlVTWCBVbMS2oBnptaKEIACtlwMQgoGg6w9AzqTeflsQE3moqg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/sbzdb18rlz/out/v1/6cb3060d663f4dc6b658a222ee0a057e/9c01068f-14da-4713-a51e-823d1b8ef9a3-cenc.mpd"
+      },
+      "drm_key": "909523419e836800688ceab934bb2c82:a03b552ccd9f03fa64bfdd4e8fc6ad7a"
     }
   ]
 }
