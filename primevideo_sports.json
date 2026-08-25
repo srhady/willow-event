@@ -1,15 +1,32 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "09:02 PM 25-08-2026",
+    "LastUpdate": "09:32 PM 25-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 3,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HGFDWQ97",
+      "title": "UEFA NATIONS LEAGUE SOCCER : ARMENIA VS LATVIA",
+      "synopsis": "UEFA NATIONS LEAGUE SOCCER : ARMENIA VS LATVIA",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1c8e2280-7cba-42d5-89ab-a39039f6c102/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HGFDWQ97",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd"
+      },
+      "drm_key": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681"
+    },
     {
       "match_id": "B0G93GNFLL",
       "title": "European World Championships, Quarterfinal",
@@ -28,20 +45,6 @@
       "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
     },
     {
-      "match_id": "B0GV5YBDZK",
-      "title": "Aug 25 - PTT Glasgow",
-      "synopsis": "Aug 25 - PTT Glasgow",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.67ccf14d-74a4-4ba7-a87c-2da915429e4f/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0GV5YBDZK",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABCQVGYAAAAAAAAMBREPY74ZAS6JH.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqoRKRBhpqjUwRA2pjbG91ZGZyb250Angpc3NpZDowYTA3M2M5NS1hOWE4LTRjZDItYjI2MC1iYzc4OWJjNTI2M2EZATihBaECeDMvc2J6ZGIxOHJsei9vdXQvdjEvNmNiMzA2MGQ2NjNmNGRjNmI2NThhMjIyZWUwYTA1N2UZATyBYlVTWCBVbMS2oBnptaKEIACtlwMQgoGg6w9AzqTeflsQE3moqg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/sbzdb18rlz/out/v1/6cb3060d663f4dc6b658a222ee0a057e/9c01068f-14da-4713-a51e-823d1b8ef9a3-cenc.mpd"
-      },
-      "drm_key": "909523419e836800688ceab934bb2c82:a03b552ccd9f03fa64bfdd4e8fc6ad7a"
-    },
-    {
       "match_id": "B0HFLYY2DH",
       "title": "Aug 25 - PTT Clemson",
       "synopsis": "Aug 25 - PTT Clemson",
@@ -54,6 +57,20 @@
         "Original Server": "https://a174live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqoXUEBhpqja6EA2Zha2FtYWkCeClzc2lkOmI5OTU3YWJjLTY3Y2MtNGU3ZS04YjVkLTUwZGJhY2FlZjA3ORkBOKEFoQJ4My84cjNiM2F6ZXptL291dC92MS9hNTMyZGQwMWQ1NDM0NmU0YjA3MzRlNjgyYWRhNTU3ORkBPIFiVVNYIP2d7izO7ggjy8MO__yF5oWjBEPIR2MQMtID-Bf6a2eu/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/8r3b3azezm/out/v1/a532dd01d54346e4b0734e682ada5579/4ddbbded-3b1d-4fe7-8695-f338fc6c7887-cenc.mpd"
       },
       "drm_key": "4794ca6d5b24394049d741c7d1c633b5:068e4dcef40ad15b72dbe629ab78aec6"
+    },
+    {
+      "match_id": "B0GV5YBDZK",
+      "title": "Aug 25 - PTT Glasgow",
+      "synopsis": "Aug 25 - PTT Glasgow",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.67ccf14d-74a4-4ba7-a87c-2da915429e4f/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0GV5YBDZK",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABCQVGYAAAAAAAAMBREPY74ZAS6JH.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqoRKRBhpqjUwRA2pjbG91ZGZyb250Angpc3NpZDowYTA3M2M5NS1hOWE4LTRjZDItYjI2MC1iYzc4OWJjNTI2M2EZATihBaECeDMvc2J6ZGIxOHJsei9vdXQvdjEvNmNiMzA2MGQ2NjNmNGRjNmI2NThhMjIyZWUwYTA1N2UZATyBYlVTWCBVbMS2oBnptaKEIACtlwMQgoGg6w9AzqTeflsQE3moqg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/sbzdb18rlz/out/v1/6cb3060d663f4dc6b658a222ee0a057e/9c01068f-14da-4713-a51e-823d1b8ef9a3-cenc.mpd"
+      },
+      "drm_key": "909523419e836800688ceab934bb2c82:a03b552ccd9f03fa64bfdd4e8fc6ad7a"
     }
   ]
 }
