@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "02:02 PM 25-08-2026",
+    "LastUpdate": "02:32 PM 25-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -10,23 +10,6 @@
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HCSLZGCS",
-      "title": "Top End Series: NT Strike vs ACT Comets",
-      "synopsis": "Top End Series: NT Strike vs ACT Comets",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5310fe9b-ee87-4f9c-a95a-218788fb5f29/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HCSLZGCS",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
-      },
-      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-    },
     {
       "match_id": "B0H4FYMKGB",
       "title": "Japan vs. Great Britain",
@@ -45,18 +28,21 @@
       "drm_key": "dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b"
     },
     {
-      "match_id": "B0HFQQFYQ9",
-      "title": "Aug 24 - PTT Newport Beach",
-      "synopsis": "Aug 24 - PTT Newport Beach",
+      "match_id": "B0HCSLZGCS",
+      "title": "Top End Series: NT Strike vs ACT Comets",
+      "synopsis": "Top End Series: NT Strike vs ACT Comets",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1be9c4f7-ea4d-41de-8876-321ed65b19a7/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFQQFYQ9",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5310fe9b-ee87-4f9c-a95a-218788fb5f29/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HCSLZGCS",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://a81live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqoEamBhpqjIAmA2Zha2FtYWkCeClzc2lkOjBiNzE0MjljLWFlOTItNGJjNS1hZTNhLTBlZjM4ZThlNDAzNBkBOKEFoQJ4My9vdjFlYmlyOGZmL291dC92MS9lMmRkZjA2YWVhNjA0MjA4OTUwYWFkYzlhMDBjM2QzZBkBPIFiVVNYIJGlL1su01yjFuzfQXpgfckw8_4JyP9kMnQSDIISaCey/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ov1ebir8ff/out/v1/e2ddf06aea604208950aadc9a00c3d3d/e856d37a-06a1-4c2f-94d4-9abcf3eaf613-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
       },
-      "drm_key": "f0b2fc4e3e9255c8a95b0f735e8542ab:1ab23e4a7821084d436f4b175ae8b00f"
+      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
       "match_id": "B0GV5YBDZK",
@@ -71,6 +57,20 @@
         "Original Server": "https://ABCQVGYAAAAAAAAMBREPY74ZAS6JH.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqoRKRBhpqjUwRA2pjbG91ZGZyb250Angpc3NpZDowYTA3M2M5NS1hOWE4LTRjZDItYjI2MC1iYzc4OWJjNTI2M2EZATihBaECeDMvc2J6ZGIxOHJsei9vdXQvdjEvNmNiMzA2MGQ2NjNmNGRjNmI2NThhMjIyZWUwYTA1N2UZATyBYlVTWCBVbMS2oBnptaKEIACtlwMQgoGg6w9AzqTeflsQE3moqg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/sbzdb18rlz/out/v1/6cb3060d663f4dc6b658a222ee0a057e/9c01068f-14da-4713-a51e-823d1b8ef9a3-cenc.mpd"
       },
       "drm_key": "909523419e836800688ceab934bb2c82:a03b552ccd9f03fa64bfdd4e8fc6ad7a"
+    },
+    {
+      "match_id": "B0HFQQFYQ9",
+      "title": "Aug 24 - PTT Newport Beach",
+      "synopsis": "Aug 24 - PTT Newport Beach",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1be9c4f7-ea4d-41de-8876-321ed65b19a7/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFQQFYQ9",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a81live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqoEamBhpqjIAmA2Zha2FtYWkCeClzc2lkOjBiNzE0MjljLWFlOTItNGJjNS1hZTNhLTBlZjM4ZThlNDAzNBkBOKEFoQJ4My9vdjFlYmlyOGZmL291dC92MS9lMmRkZjA2YWVhNjA0MjA4OTUwYWFkYzlhMDBjM2QzZBkBPIFiVVNYIJGlL1su01yjFuzfQXpgfckw8_4JyP9kMnQSDIISaCey/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ov1ebir8ff/out/v1/e2ddf06aea604208950aadc9a00c3d3d/e856d37a-06a1-4c2f-94d4-9abcf3eaf613-cenc.mpd"
+      },
+      "drm_key": "f0b2fc4e3e9255c8a95b0f735e8542ab:1ab23e4a7821084d436f4b175ae8b00f"
     }
   ]
 }
