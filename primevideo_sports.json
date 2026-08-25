@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "05:02 AM 26-08-2026",
+    "LastUpdate": "05:32 AM 26-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -11,21 +11,32 @@
   },
   "Matches": [
     {
-      "match_id": "B0HDWSNYNN",
-      "title": "The Tee Sheet-TOUR Championship",
-      "synopsis": "The Tee Sheet-TOUR Championship",
+      "match_id": "B0H7PFG674",
+      "title": "Leagues Cup La Previa",
+      "synopsis": "Leagues Cup La Previa",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0386adfb-7a2a-4993-b57d-134bbc61aae1/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HDWSNYNN",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.81c88227-96b9-4e4b-86b0-383e36e930f1/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H7PFG674",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wchmloaa3m/out/v1/ca8e1514683d4a84bbf9c9d285fea568/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wchmloaa3m/out/v1/ca8e1514683d4a84bbf9c9d285fea568/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/wchmloaa3m/out/v1/ca8e1514683d4a84bbf9c9d285fea568/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/wchmloaa3m/out/v1/ca8e1514683d4a84bbf9c9d285fea568/cenc.mpd"
+        "Original Server": "https://ABKZUE6AAAAAAAAMNSQ6ZNDFHIZMT.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqoeyKBhpqjiYKA2pjbG91ZGZyb250Angpc3NpZDpjZGFkMjgyOC00MDMyLTQ3YjEtYjdhMS0zMGY1MTNiNjI5ODgZATihBaECeDMvcmJ6amYzNjBuai9vdXQvdjEvMGNjNTdlY2E1MjYzNDkyZWIyNWM3NjZjOGYzNmJiMGEZATyBYlVTWCCSubtqf1Jzx3azdoHWHB-N6OjuWGNM6Yfaq4BXYawrOA/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/rbzjf360nj/out/v1/0cc57eca5263492eb25c766c8f36bb0a/b32b39f1-d12c-4818-9e50-005e4409fcb9-cenc.mpd"
       },
-      "drm_key": "8c8753a34518b7d3093885f956e7afd9:8a4a2f1accb3ac0f42ad1c1502ee833e"
+      "drm_key": "d2e3c1f0c3fec1274c8526662728d8d2:7c22517d52883b6349d41dfe1d2b7633"
+    },
+    {
+      "match_id": "B0H6FY8PMH",
+      "title": "Leagues Cup Countdown",
+      "synopsis": "Leagues Cup Countdown",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3c16b35b-1e67-484c-a813-e56a3d11fe2c/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H6FY8PMH",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABKZUE6AAAAAAAAMBXEX3OAWV7BCF.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WI2mAWpwcmltZXZpZGVvBBpqoeyLBhpqjiYLA2pjbG91ZGZyb250Angpc3NpZDpiMjgzMmI2Ni1iOGVhLTQ5M2MtODg1NS1hOTQzMmQ2ODJmYWIZATihBaECeDMvbGxuNGdzbmFkdy9vdXQvdjEvYmY2YTYyYjM0MjAxNGFlZWE4ZWEwYjFjMjQ2NmUyMmRYIHdwz2f1Q-gUdAzeB24uvOJISEN1P7wswR_15gQxTtHw/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/lln4gsnadw/out/v1/bf6a62b342014aeea8ea0b1c2466e22d/1a1e5326-f014-46cf-baaf-e8d7f116ac44-cenc.mpd"
+      },
+      "drm_key": "6a9f9d65faa8c20903724a44a1bd3820:0a6bac53c71c19655433e56d6bb39b40"
     },
     {
       "match_id": "B0HFCLGK1B",
@@ -74,20 +85,6 @@
         "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqoZgpBhpqjdGpA2ZmYXN0bHkCeClzc2lkOjEwYWIzZWNjLWIzNWUtNDU4MS1hZDA3LTA3Y2RjYTc3MWI1NBkBOKEFoQJ4My94eGJucmVldzVlL291dC92MS84YzlmYjQxNGY1NTA0MzkxYTczOTA2ZjY5M2Y2ZjVkNRkBPIFiVVNYIDQbulF5fl2gxuUs4KAzgCrf_bdsI-rPRAtmAQ1cXu1n/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/xxbnreew5e/out/v1/8c9fb414f5504391a73906f693f6f5d5/397edd66-8cc9-47a6-b030-64d32806a650-cenc.mpd"
       },
       "drm_key": "8a6fa8922865f3b2164c6691c333f9c4:d0eb36d630a860a8b2649af7cbf3648a"
-    },
-    {
-      "match_id": "B0HFJCYT8X",
-      "title": "Aug 25 - PTT Boise",
-      "synopsis": "Aug 25 - PTT Boise",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f57e762c-7be0-4e51-9152-403c4732365e/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFJCYT8X",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a168live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqoYMUBhpqjbyUA2Zha2FtYWkCeClzc2lkOjFjOGZhNDRlLWRiOGYtNGU0Zi04MmEzLWE1NDE3OWZhNTM2YRkBOKEFoQJ4My8ybGJmMHphdXljL291dC92MS8xZmE5YTZkYjk5MTM0Y2YzOTkyYjIyODgyZjA4MGVmYxkBPIFiVVNYIEwftCyRsupvcXNE3X1faIG4hO0Q22fW-LoV6LsKs2m7/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/2lbf0zauyc/out/v1/1fa9a6db99134cf3992b22882f080efc/f9e04593-7893-4bee-abdd-83b61c71552d-cenc.mpd"
-      },
-      "drm_key": "a355e90aa9116b8d17426bcccc433d23:ae5214044cca63e99c3de639fbd4b7eb"
     }
   ]
 }
