@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "01:02 PM 26-08-2026",
+    "LastUpdate": "01:32 PM 26-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -10,6 +10,20 @@
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0GRJ8QS1Q",
+      "title": "Leagues Cup El Resumen",
+      "synopsis": "Leagues Cup El Resumen",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0cd46451-40da-4129-8440-4a1e61efefdd/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0GRJ8QS1Q",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a209live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WImmAWpwcmltZXZpZGVvBBpqojnhBhpqjnNhA2Zha2FtYWkCeClzc2lkOmI5YTIxZDQ3LTQzZWMtNDE5ZC1iZDhhLTRmNjVmNGJiNDkyNRkBOKEFoQJ4My9pcnVqaWFnZnlrL291dC92MS82NjYyZDBiM2ZmNWI0MTc1YmZmNjY4MzQ3ZWYyYzYzNFggOGJfIviP_3QqC4R-d0Y1fH_OfP82skyBK19WZY_LHmY/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/irujiagfyk/out/v1/6662d0b3ff5b4175bff668347ef2c634/2efc77b0-d4ec-42c7-843f-559507ac97f2-cenc.mpd"
+      },
+      "drm_key": "fe04fb92b22c681a23274f77c34d5889:a781854420d2d921f069451febe73b6c"
+    },
     {
       "match_id": "B0HF8F3NC5",
       "title": "Top End Series: Hobart Hurricanes vs Adelaide Strikers Academy",
@@ -26,20 +40,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
       },
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-    },
-    {
-      "match_id": "B0GRJ8QS1Q",
-      "title": "Leagues Cup El Resumen",
-      "synopsis": "Leagues Cup El Resumen",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0cd46451-40da-4129-8440-4a1e61efefdd/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0GRJ8QS1Q",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a209live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WImmAWpwcmltZXZpZGVvBBpqojnhBhpqjnNhA2Zha2FtYWkCeClzc2lkOmI5YTIxZDQ3LTQzZWMtNDE5ZC1iZDhhLTRmNjVmNGJiNDkyNRkBOKEFoQJ4My9pcnVqaWFnZnlrL291dC92MS82NjYyZDBiM2ZmNWI0MTc1YmZmNjY4MzQ3ZWYyYzYzNFggOGJfIviP_3QqC4R-d0Y1fH_OfP82skyBK19WZY_LHmY/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/irujiagfyk/out/v1/6662d0b3ff5b4175bff668347ef2c634/2efc77b0-d4ec-42c7-843f-559507ac97f2-cenc.mpd"
-      },
-      "drm_key": "fe04fb92b22c681a23274f77c34d5889:a781854420d2d921f069451febe73b6c"
     }
   ]
 }
