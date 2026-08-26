@@ -1,26 +1,39 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "04:02 AM 27-08-2026",
+    "LastUpdate": "04:32 AM 27-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 0,
-    "UpcomingCount": 20
+    "LiveCount": 1,
+    "UpcomingCount": 19
   },
   "Matches": [
     {
       "match_id": "B0H7PFQHM1",
       "title": "Caribbean Premier League 2026 - 17th Match - Trinbago Knight Riders vs Saint Lucia Kings",
       "synopsis": "Caribbean Premier League 2026 - 17th Match - Trinbago Knight Riders vs Saint Lucia Kings",
-      "status": "UPCOMING",
-      "time": "Live at 4:30 AM BDT",
+      "status": "LIVE",
+      "time": "4:30 AM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ebc78902-d8fd-4db4-a747-9fa2ece77dd9/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0H7PFQHM1?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wawbqnxpvj/out/v1/e559c89fb09a4a8faf2ea029fa09db0c/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wawbqnxpvj/out/v1/e559c89fb09a4a8faf2ea029fa09db0c/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/wawbqnxpvj/out/v1/e559c89fb09a4a8faf2ea029fa09db0c/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/wawbqnxpvj/out/v1/e559c89fb09a4a8faf2ea029fa09db0c/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/wawbqnxpvj/out/v1/e559c89fb09a4a8faf2ea029fa09db0c/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8g1owfcjug/out/v1/4ad443df7efc4eca8a8a70ee80303b9e/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8g1owfcjug/out/v1/4ad443df7efc4eca8a8a70ee80303b9e/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/8g1owfcjug/out/v1/4ad443df7efc4eca8a8a70ee80303b9e/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/8g1owfcjug/out/v1/4ad443df7efc4eca8a8a70ee80303b9e/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/8g1owfcjug/out/v1/4ad443df7efc4eca8a8a70ee80303b9e/cenc.mpd"
+      },
+      "drm_key": "3392bec01f8f0563cd54b072f69d237c:6e98470511a0640e71915e27b4e14071"
     },
     {
       "match_id": "B0HFMC1HF3",
