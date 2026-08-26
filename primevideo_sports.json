@@ -1,15 +1,43 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "05:02 AM 27-08-2026",
+    "LastUpdate": "05:32 AM 27-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 2,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HFDQGYWQ",
+      "title": "Leagues Cup La Previa",
+      "synopsis": "Leagues Cup La Previa",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f232ce28-d912-487b-b0f7-09632494fa25/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFDQGYWQ",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABDJJP3AAAAAAAAMICBMCUSMM3PN7.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqoz4HBhpqj3eHA2pjbG91ZGZyb250Angpc3NpZDowM2E5N2IyMy0yZjljLTRmYmYtODJkMC0zYzdjYWU2MDc2NjMZATihBaECeDMvcWtzY2UyamNtcC9vdXQvdjEvYmU4NTVlZWJhY2I5NGQ0ZWJhNjFiOGU5ZWQ0ZDBjYjUZATyBYlVTWCCiyGMDBLKNPKH-PYVOwP14bzFG821A5a0XnYvgZKDNew/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/qksce2jcmp/out/v1/be855eebacb94d4eba61b8e9ed4d0cb5/effdf8d6-c4f2-44ff-981e-7c897c86db50-cenc.mpd"
+      },
+      "drm_key": "3a4bf76e5ec1e5beae2cffd4a95456c7:07a21400f5262b85c84032f54c504244"
+    },
+    {
+      "match_id": "B0H7JFYP51",
+      "title": "Leagues Cup Countdown",
+      "synopsis": "Leagues Cup Countdown",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.15d9b3f6-2a0b-4ade-ad5a-c2d37a2a36ae/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H7JFYP51",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABDJJP3AAAAAAAAMDHLD3AUJ24L7U.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqoz4IBhpqj3eIA2pjbG91ZGZyb250Angpc3NpZDpjNDg3MGE5NS1jZDc3LTQ2MDQtYTM4MS02YTc0ZGViNGVmYTcZATihBaECeDMvNDEyaXQ4Yjhzdy9vdXQvdjEvNmM2OGMyOWIzOWUzNGY0NmE0ZDNjMjcxN2VmOWExMmEZATyBYlVTWCA5WLa7KdsPyBmw1lDiYu3kNI3XueiP0o8JGlD5wxwo7Q/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/412it8b8sw/out/v1/6c68c29b39e34f46a4d3c2717ef9a12a/5e2e2c88-44dd-4592-a241-48689477c64e-cenc.mpd"
+      },
+      "drm_key": "14dc5917a7488a6563d485eb47b87e04:ee06fa98c51dd4bade0f8c71ffb0b783"
+    },
     {
       "match_id": "B0HFF9R5PF",
       "title": "Qualifying 2nd Round",
