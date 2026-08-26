@@ -1,22 +1,22 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:09:02 AM 26-08-2026
+#LAST_UPDATE:09:32 AM 26-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:2
 #UPCOMING_COUNT:18
-
-#EXTINF:-1 tvg-id="B0H6Z9MPGR" tvg-name="Caribbean Premier League 2026 - 16th Match - Antigua And Barbuda Falcons vs Barbados Tridents" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b3c5c711-83cd-4266-880d-4dac78cd1c06/5/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Caribbean Premier League 2026 - 16th Match - Antigua And Barbuda Falcons vs Barbados Tridents
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57df6a4c7b2f3d79491836b1cb164376:d23efbd1cff9e0c5f4d7d8329a16460c
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ympwnwu3du/out/v1/72c7db6ec94b4d3097f546ba657f2e01/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HFCSWQLG" tvg-name="Top End T20 Series 2026 - 16th Match - New Zealand A vs Victoria" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.57e2da55-c27b-487d-b896-00dedc67bcbb/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Top End T20 Series 2026 - 16th Match - New Zealand A vs Victoria
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1490ba3f3331b1e7fea0dfbd1790bdd5:92acc11924510236bf2b78041dd68058
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vbp4lxv0zh/out/v1/156797e66b2046538c4b5f2186b7d711/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vbp4lxv0zh/out/v1/156797e66b2046538c4b5f2186b7d711/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H9RCZ1GL" tvg-name="India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.669d70b3-1511-48dc-a605-fb1c6f1e1b26/6/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a50b3d757cc9e068d2cf40c4d8ac0be:84cb83e63052f5687d43cacec0d26321
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/19klshmltr/out/v1/194eed055f2e4e6c8ff8159d82579bbc/cenc.mpd
 
