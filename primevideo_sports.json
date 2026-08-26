@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "03:02 PM 26-08-2026",
+    "LastUpdate": "03:32 PM 26-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 1,
+    "LiveCount": 2,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -23,6 +23,23 @@
         "Original Server": "https://a119live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WImmAWpwcmltZXZpZGVvBBpqomQRBhpqjp2RA2Zha2FtYWkCeClzc2lkOjUzYWY0MjA5LTliZmEtNDUyOS1hNThiLTYwMzY5YzgxODIyNhkBOKEFoQJ4My9neHdvemcxNXQ2L291dC92MS80ODc4MzRmZDQxY2E0N2IzOWNhMzAzY2Q0ZjMxMmYwY1ggTR0T8HFq3Y5Zy45UpGspzmdzy4nGWX60PJB67GiImWM/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/gxwozg15t6/out/v1/487834fd41ca47b39ca303cd4f312f0c/ebae1f02-5be3-4b69-b6e0-6cdc1c411096-cenc.mpd"
       },
       "drm_key": "34dceb153f89d0afc44a209984c2f03d:d83df3f876513e1ef608ea6dc3b0f7f7"
+    },
+    {
+      "match_id": "B0HG4FN51B",
+      "title": "Top End Series: Nepal vs ACT Comets",
+      "synopsis": "Top End Series: Nepal vs ACT Comets",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ab099980-9645-48f6-aecc-e3f02d4c4327/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HG4FN51B",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
+      },
+      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     }
   ]
 }
