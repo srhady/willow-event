@@ -1,32 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "10:32 PM 26-08-2026",
+    "LastUpdate": "11:02 PM 26-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 3,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HFWZ2C8B",
-      "title": "Rotterdam Dockers vs. Amsterdam Flames",
-      "synopsis": "Rotterdam Dockers vs. Amsterdam Flames",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dae1f16f-c565-4a86-a698-2c0b3d41eec1/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFWZ2C8B",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
-      },
-      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-    },
     {
       "match_id": "B0HFV1T9QT",
       "title": "Aug 26 - PTT Clemson",
@@ -42,6 +25,23 @@
       "drm_key": "594996ce58f231fbe6cfaf4aedbeac7e:f491777a1879a8ded4e666567b608014"
     },
     {
+      "match_id": "B0HFF9R5PF",
+      "title": "Qualifying 2nd Round",
+      "synopsis": "Qualifying 2nd Round",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.da9dadaa-1d10-4431-8295-dc2c7d372c30/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFF9R5PF",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd"
+      },
+      "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
+    },
+    {
       "match_id": "B0HFDZ57QC",
       "title": "Aug 26 - PTT Boise",
       "synopsis": "Aug 26 - PTT Boise",
@@ -54,20 +54,6 @@
         "Original Server": "https://a79live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WImmAWpwcmltZXZpZGVvBBpqosaLBhpqjwALA2Zha2FtYWkCeClzc2lkOjE3NmQ2MmY1LTNmNTMtNGQ5YS1hOGM5LTk5OTFmMTVlZDU2ORkBOKEFoQJ4My9qdnl3NTJtZDQ2L291dC92MS9mZTMzZWY1NWFkMGM0MTRkOWZmNjM4ZDQ0NmQzN2M4Y1gg5yMAmLigm-3elNbyArE5RxeQRwv9u8u6-TmLpbDmfvs/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/jvyw52md46/out/v1/fe33ef55ad0c414d9ff638d446d37c8c/bc2afd1d-9fe8-448c-827f-247bb349b5d5-cenc.mpd"
       },
       "drm_key": "66ab149de6bea5d317922744d7cc47c3:609cc5613f7e2a9bfecb6e60bf20cb04"
-    },
-    {
-      "match_id": "B0HFF1QX1L",
-      "title": "Aug 26 - PTT Glasgow",
-      "synopsis": "Aug 26 - PTT Glasgow",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d5b2e11e-020f-4942-b3d4-eee5bb3729d1/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFF1QX1L",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a119live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WImmAWpwcmltZXZpZGVvBBpqomQRBhpqjp2RA2Zha2FtYWkCeClzc2lkOjUzYWY0MjA5LTliZmEtNDUyOS1hNThiLTYwMzY5YzgxODIyNhkBOKEFoQJ4My9neHdvemcxNXQ2L291dC92MS80ODc4MzRmZDQxY2E0N2IzOWNhMzAzY2Q0ZjMxMmYwY1ggTR0T8HFq3Y5Zy45UpGspzmdzy4nGWX60PJB67GiImWM/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/gxwozg15t6/out/v1/487834fd41ca47b39ca303cd4f312f0c/ebae1f02-5be3-4b69-b6e0-6cdc1c411096-cenc.mpd"
-      },
-      "drm_key": "34dceb153f89d0afc44a209984c2f03d:d83df3f876513e1ef608ea6dc3b0f7f7"
     }
   ]
 }
