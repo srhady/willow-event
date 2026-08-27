@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "11:02 PM 27-08-2026",
+    "LastUpdate": "11:32 PM 27-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -10,23 +10,6 @@
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HG4WWDP1",
-      "title": "LIVE: British Masters Day 1",
-      "synopsis": "LIVE: British Masters Day 1",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ac0c2d5c-a60c-4e4f-a0e1-aef5f03bd9d4/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HG4WWDP1",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd"
-      },
-      "drm_key": "9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb"
-    },
     {
       "match_id": "B0H6RVKB8C",
       "title": "TOURCAST Live From the TOUR Championship-Round 1",
@@ -77,6 +60,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd"
       },
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
+    },
+    {
+      "match_id": "B0HFTQS3MK",
+      "title": "Aug 27 - PTT Newport Beach",
+      "synopsis": "Aug 27 - PTT Newport Beach",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b0aa22ba-36fe-4b44-914a-bcf24284e726/9/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFTQS3MK",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABIJRB6AAAAAAAAMIXZHEVZG2BVJL.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqpDsxBhpqkHSxA2pjbG91ZGZyb250Angpc3NpZDo0OTRhYmU1OC0xMzU3LTQzMmEtYWU1Yi0wYjc0MGNjNzcyZWEZATihBaECeDMvaHJyYnpmY291bS9vdXQvdjEvMGNiZDBiZmVjODdlNGMwMmFiMzE4NmI1ODQyZjg1YjUZATyBYlVTWCADvaVihxBYNVUlTH3jqCyzyic0uuOm1DZ3WclApj_ISg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/hrrbzfcoum/out/v1/0cbd0bfec87e4c02ab3186b5842f85b5/6ffb313b-01cb-4b5f-bae8-c7957bdc8946-cenc.mpd"
+      },
+      "drm_key": "a1d76600ed67b4bf29882eb8bab57753:671247aad1838b92e5e02df544782054"
     },
     {
       "match_id": "B0HFTRPS2Y",
