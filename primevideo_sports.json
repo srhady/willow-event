@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "08:32 PM 27-08-2026",
+    "LastUpdate": "09:02 PM 27-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 7,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -105,6 +105,20 @@
         "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWImmAWpwcmltZXZpZGVvBBpqo7WSBhpqj-8SA2ZmYXN0bHkCeClzc2lkOjE1NDczYTA1LTMxZjUtNGEzMi05ZmI4LTc2M2NiNmMzZTEyNhkBOKEFoQJ4My9qdnNxdDBwa2ZzL291dC92MS82ZDFiY2RiNzY5MWI0YTAzYjY5ZDRjMzQyYWEzNTgxMFggEniw604sWkXV2BCxo6Z6hPn66e3vzXTX5g-IyjC0AAo/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/jvsqt0pkfs/out/v1/6d1bcdb7691b4a03b69d4c342aa35810/bb42605f-6130-443d-9b6e-6993d192e9a7-cenc.mpd"
       },
       "drm_key": "6d7ae4a3f39384daa83842e568c3917c:09d7d399c41e3f29e81b740581d95f81"
+    },
+    {
+      "match_id": "B0HFFXV8SJ",
+      "title": "Aug 27 - PTT Boise",
+      "synopsis": "Aug 27 - PTT Boise",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f5ccf0ff-8073-49f3-aed2-03d4b556fc71/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFFXV8SJ",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a169live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqpBf_BhpqkFF_A2Zha2FtYWkCeClzc2lkOmYzNzgxOTgxLTI4MzYtNDEzZi05Mjk4LTViODBmNTk3NjkyZRkBOKEFoQJ4My9saHFmOWxvdTRvL291dC92MS81NTZjNmMwZDM1MzM0MjliYTlhNjkwY2ViMTVmMGU3OBkBPIFiVVNYIHQf-kS55nra7r5tS3XNQdnZRKNJFi2XTajTf5ZfhaY4/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/lhqf9lou4o/out/v1/556c6c0d3533429ba9a690ceb15f0e78/43ec7849-14ad-4f6b-b727-8e54cefbd5ef-cenc.mpd"
+      },
+      "drm_key": "e02f1bfe3d12735f7492ad606b2f5f57:8d1e9205a50eadd33f3a466a25398fb0"
     }
   ]
 }
