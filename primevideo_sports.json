@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "10:02 PM 27-08-2026",
+    "LastUpdate": "10:32 PM 27-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -28,23 +28,6 @@
       "drm_key": "9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb"
     },
     {
-      "match_id": "B0H6RVKB8C",
-      "title": "TOURCAST Live From the TOUR Championship-Round 1",
-      "synopsis": "TOURCAST Live From the TOUR Championship-Round 1",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9dca8b81-9d9e-4d20-be28-64e8d0d2862b/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H6RVKB8C",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x4krgolcxs/out/v1/747627063afd488fb91e534d92869d45/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x4krgolcxs/out/v1/747627063afd488fb91e534d92869d45/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x4krgolcxs/out/v1/747627063afd488fb91e534d92869d45/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x4krgolcxs/out/v1/747627063afd488fb91e534d92869d45/cenc.mpd"
-      },
-      "drm_key": "8c8753a34518b7d3093885f956e7afd9:8a4a2f1accb3ac0f42ad1c1502ee833e"
-    },
-    {
       "match_id": "B0HBYMD4L7",
       "title": "Itauma vs. Hrgovic: Press Conference",
       "synopsis": "Itauma vs. Hrgovic: Press Conference",
@@ -62,6 +45,23 @@
       "drm_key": "99f2d8b38451875101393cfda6cc5e77:3d32bdfa5fe52cf74567eb20716b5a65"
     },
     {
+      "match_id": "B0H6RVKB8C",
+      "title": "TOURCAST Live From the TOUR Championship-Round 1",
+      "synopsis": "TOURCAST Live From the TOUR Championship-Round 1",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9dca8b81-9d9e-4d20-be28-64e8d0d2862b/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H6RVKB8C",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x4krgolcxs/out/v1/747627063afd488fb91e534d92869d45/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x4krgolcxs/out/v1/747627063afd488fb91e534d92869d45/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x4krgolcxs/out/v1/747627063afd488fb91e534d92869d45/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x4krgolcxs/out/v1/747627063afd488fb91e534d92869d45/cenc.mpd"
+      },
+      "drm_key": "8c8753a34518b7d3093885f956e7afd9:8a4a2f1accb3ac0f42ad1c1502ee833e"
+    },
+    {
       "match_id": "B0HF3NYBF8",
       "title": "European World Championships, FInals",
       "synopsis": "European World Championships, FInals",
@@ -77,6 +77,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd"
       },
       "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
+    },
+    {
+      "match_id": "B0HFTRPS2Y",
+      "title": "Aug 27 - PTT Clemson",
+      "synopsis": "Aug 27 - PTT Clemson",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.002e0354-c923-4e6f-b87e-2d1f6ef2097b/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFTRPS2Y",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABBJIJ2AAAAAAAAMJRT6QMZ4L7VG7.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WI2mAWpwcmltZXZpZGVvBBpqo_viBhpqkDViA2pjbG91ZGZyb250Angpc3NpZDoyOWRjZDkwNi01MjhlLTRhNzctOGY2Zi0xMTAxM2RkZGZkOGUZATihBaECeDMvNmYzY2hhZmRlaC9vdXQvdjEvNGExMTJmZjhkMzZkNGY3ODk1MTc0NTYwMGVlZjAyYTNYIEqo8JgkeaRyrnWllB9GHLO2kW17lw4UiAtoVzChA6GC/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/6f3chafdeh/out/v1/4a112ff8d36d4f78951745600eef02a3/348f08f9-362a-4ee7-866e-cd06a65f669e-cenc.mpd"
+      },
+      "drm_key": "4c55913804c8dc5b46ffc56f053d0e87:0d70a0d7cb50ac0153b3c5dca9976730"
     },
     {
       "match_id": "B0H9YKFMQ5",
@@ -108,20 +122,6 @@
         "Original Server": "https://a169live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqpBf_BhpqkFF_A2Zha2FtYWkCeClzc2lkOmYzNzgxOTgxLTI4MzYtNDEzZi05Mjk4LTViODBmNTk3NjkyZRkBOKEFoQJ4My9saHFmOWxvdTRvL291dC92MS81NTZjNmMwZDM1MzM0MjliYTlhNjkwY2ViMTVmMGU3OBkBPIFiVVNYIHQf-kS55nra7r5tS3XNQdnZRKNJFi2XTajTf5ZfhaY4/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/lhqf9lou4o/out/v1/556c6c0d3533429ba9a690ceb15f0e78/43ec7849-14ad-4f6b-b727-8e54cefbd5ef-cenc.mpd"
       },
       "drm_key": "e02f1bfe3d12735f7492ad606b2f5f57:8d1e9205a50eadd33f3a466a25398fb0"
-    },
-    {
-      "match_id": "B0HFTRPS2Y",
-      "title": "Aug 27 - PTT Clemson",
-      "synopsis": "Aug 27 - PTT Clemson",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.002e0354-c923-4e6f-b87e-2d1f6ef2097b/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFTRPS2Y",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABBJIJ2AAAAAAAAMJRT6QMZ4L7VG7.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WI2mAWpwcmltZXZpZGVvBBpqo_viBhpqkDViA2pjbG91ZGZyb250Angpc3NpZDoyOWRjZDkwNi01MjhlLTRhNzctOGY2Zi0xMTAxM2RkZGZkOGUZATihBaECeDMvNmYzY2hhZmRlaC9vdXQvdjEvNGExMTJmZjhkMzZkNGY3ODk1MTc0NTYwMGVlZjAyYTNYIEqo8JgkeaRyrnWllB9GHLO2kW17lw4UiAtoVzChA6GC/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/6f3chafdeh/out/v1/4a112ff8d36d4f78951745600eef02a3/348f08f9-362a-4ee7-866e-cd06a65f669e-cenc.mpd"
-      },
-      "drm_key": "4c55913804c8dc5b46ffc56f053d0e87:0d70a0d7cb50ac0153b3c5dca9976730"
     },
     {
       "match_id": "B0HFZM3YCG",
