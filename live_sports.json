@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "03:02 PM 27-08-2026",
+    "LastUpdate": "03:32 PM 27-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -66,16 +66,24 @@
       "synopsis": "European T20 Premier League 2026 - 2nd Match - Belfast Wolves vs Dublin Guardians",
       "status": "LIVE",
       "time": "3 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c5d490a7-d491-4b42-82d0-959b0251103e/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c5d490a7-d491-4b42-82d0-959b0251103e/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HFYM9KBT?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
       "is_free": false,
       "stream_url_alpha": {
-        "Original Server": "https://live-emt-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqo8OgBhpqj_0gA2ZmYXN0bHkCeClzc2lkOjIwNzFkZWUzLWIxYTgtNDc4MC1hNjE5LWZjYWRlYzA1NThhZRkBOKEFoQJ4My93Z3ltcmd5a2V4L291dC92MS84OWRlZjgzYTZhZDU0Njg2OGM4NzJjYmJmMDZhN2UxOBkBPIFiVVNYIKLqD0F-gcLUrdESXN8MI7uMCS6KwWY_nJWg39F2chbE/IAD/594524243f644debab2ba7d3427664dd/v1/dash/746463508834/willowtvus_live_amzn1_dv_live_csid_457f6cd6-86d3-4f2e-a284-84b6f05099e4_us-east-1_iad_dash_h264_none_stereo/live/clients/dash/enc/wgymrgykex/out/v1/89def83a6ad546868c872cbbf06a7e18/cenc.mpd?aws.sessionId=cd00dfd9-f3a8-40c7-86ca-d008f506d209"
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/pt9lezlay1/out/v1/c8706722ce834f889c9a4ae26a245d2b/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/pt9lezlay1/out/v1/c8706722ce834f889c9a4ae26a245d2b/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/pt9lezlay1/out/v1/c8706722ce834f889c9a4ae26a245d2b/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/pt9lezlay1/out/v1/c8706722ce834f889c9a4ae26a245d2b/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/pt9lezlay1/out/v1/c8706722ce834f889c9a4ae26a245d2b/cenc.mpd"
       },
       "stream_url_bravo": {
-        "Original Server": "https://live-emt-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqo8OgBhpqj_0gA2ZmYXN0bHkCeClzc2lkOjIwNzFkZWUzLWIxYTgtNDc4MC1hNjE5LWZjYWRlYzA1NThhZRkBOKEFoQJ4My9wdDlsZXpsYXkxL291dC92MS9jODcwNjcyMmNlODM0Zjg4OWM5YTRhZTI2YTI0NWQyYhkBPIFiVVNYIK_xaOTq2acUqdtr_jHmjVepABUGPiKOzK8MWDRIqcom/PDX/386399621b194e84a7083a2473b21ec7/v1/dash/746463508834/willowtvus_live_amzn1_dv_live_csid_457f6cd6-86d3-4f2e-a284-84b6f05099e4_us-west-2_pdx_dash_h264_none_stereo/live/clients/dash/enc/pt9lezlay1/out/v1/c8706722ce834f889c9a4ae26a245d2b/cenc.mpd?aws.sessionId=669e6ce5-1bf8-4e1e-816f-1731e5df4499"
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wgymrgykex/out/v1/89def83a6ad546868c872cbbf06a7e18/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wgymrgykex/out/v1/89def83a6ad546868c872cbbf06a7e18/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/wgymrgykex/out/v1/89def83a6ad546868c872cbbf06a7e18/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wgymrgykex/out/v1/89def83a6ad546868c872cbbf06a7e18/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wgymrgykex/out/v1/89def83a6ad546868c872cbbf06a7e18/cenc.mpd"
       },
-      "drm_key": ""
+      "drm_key": "31704e972fdba30e90f065b9f3bdf56a:2191bff71a0360ba9b6ddde5fc4d0db6"
     },
     {
       "match_id": "B0GFY2D9KZ",
