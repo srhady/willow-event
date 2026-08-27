@@ -1,15 +1,29 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "07:02 AM 27-08-2026",
+    "LastUpdate": "07:32 AM 27-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 7,
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HFDQGYWQ",
+      "title": "Leagues Cup La Previa",
+      "synopsis": "Leagues Cup La Previa",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f232ce28-d912-487b-b0f7-09632494fa25/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFDQGYWQ",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABDJJP3AAAAAAAAMICBMCUSMM3PN7.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqoz4HBhpqj3eHA2pjbG91ZGZyb250Angpc3NpZDowM2E5N2IyMy0yZjljLTRmYmYtODJkMC0zYzdjYWU2MDc2NjMZATihBaECeDMvcWtzY2UyamNtcC9vdXQvdjEvYmU4NTVlZWJhY2I5NGQ0ZWJhNjFiOGU5ZWQ0ZDBjYjUZATyBYlVTWCCiyGMDBLKNPKH-PYVOwP14bzFG821A5a0XnYvgZKDNew/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/qksce2jcmp/out/v1/be855eebacb94d4eba61b8e9ed4d0cb5/effdf8d6-c4f2-44ff-981e-7c897c86db50-cenc.mpd"
+      },
+      "drm_key": "3a4bf76e5ec1e5beae2cffd4a95456c7:07a21400f5262b85c84032f54c504244"
+    },
     {
       "match_id": "B0HG7DGMQK",
       "title": "Marathón vs. Real Estelí",
@@ -28,20 +42,6 @@
       "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
     },
     {
-      "match_id": "B0HFDQGYWQ",
-      "title": "Leagues Cup La Previa",
-      "synopsis": "Leagues Cup La Previa",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f232ce28-d912-487b-b0f7-09632494fa25/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFDQGYWQ",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABDJJP3AAAAAAAAMICBMCUSMM3PN7.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqoz4HBhpqj3eHA2pjbG91ZGZyb250Angpc3NpZDowM2E5N2IyMy0yZjljLTRmYmYtODJkMC0zYzdjYWU2MDc2NjMZATihBaECeDMvcWtzY2UyamNtcC9vdXQvdjEvYmU4NTVlZWJhY2I5NGQ0ZWJhNjFiOGU5ZWQ0ZDBjYjUZATyBYlVTWCCiyGMDBLKNPKH-PYVOwP14bzFG821A5a0XnYvgZKDNew/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/qksce2jcmp/out/v1/be855eebacb94d4eba61b8e9ed4d0cb5/effdf8d6-c4f2-44ff-981e-7c897c86db50-cenc.mpd"
-      },
-      "drm_key": "3a4bf76e5ec1e5beae2cffd4a95456c7:07a21400f5262b85c84032f54c504244"
-    },
-    {
       "match_id": "B0H7JFYP51",
       "title": "Leagues Cup Countdown",
       "synopsis": "Leagues Cup Countdown",
@@ -54,23 +54,6 @@
         "Original Server": "https://ABDJJP3AAAAAAAAMDHLD3AUJ24L7U.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqoz4IBhpqj3eIA2pjbG91ZGZyb250Angpc3NpZDpjNDg3MGE5NS1jZDc3LTQ2MDQtYTM4MS02YTc0ZGViNGVmYTcZATihBaECeDMvNDEyaXQ4Yjhzdy9vdXQvdjEvNmM2OGMyOWIzOWUzNGY0NmE0ZDNjMjcxN2VmOWExMmEZATyBYlVTWCA5WLa7KdsPyBmw1lDiYu3kNI3XueiP0o8JGlD5wxwo7Q/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/412it8b8sw/out/v1/6c68c29b39e34f46a4d3c2717ef9a12a/5e2e2c88-44dd-4592-a241-48689477c64e-cenc.mpd"
       },
       "drm_key": "14dc5917a7488a6563d485eb47b87e04:ee06fa98c51dd4bade0f8c71ffb0b783"
-    },
-    {
-      "match_id": "B0HFF9R5PF",
-      "title": "Qualifying 2nd Round",
-      "synopsis": "Qualifying 2nd Round",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.da9dadaa-1d10-4431-8295-dc2c7d372c30/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFF9R5PF",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd"
-      },
-      "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
     },
     {
       "match_id": "B0HFGS4265",
