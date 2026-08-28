@@ -1,34 +1,47 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "05:02 AM 29-08-2026",
+    "LastUpdate": "05:32 AM 29-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 0,
-    "UpcomingCount": 20
+    "LiveCount": 1,
+    "UpcomingCount": 19
   },
   "Matches": [
     {
       "match_id": "B0H2SBJPS3",
       "title": "Caribbean Premier League 2026 - 19th Match - Trinbago Knight Riders vs Barbados Tridents",
       "synopsis": "Caribbean Premier League 2026 - 19th Match - Trinbago Knight Riders vs Barbados Tridents",
-      "status": "UPCOMING",
-      "time": "Live at 6 AM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c45610ac-9e8d-4a14-bf45-6509fce30eb1/5/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "5:30 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c45610ac-9e8d-4a14-bf45-6509fce30eb1/6/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0H2SBJPS3?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ftbfyuilhj/out/v1/547ff6902c6941b89865a333c60b1a09/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ftbfyuilhj/out/v1/547ff6902c6941b89865a333c60b1a09/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ftbfyuilhj/out/v1/547ff6902c6941b89865a333c60b1a09/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ftbfyuilhj/out/v1/547ff6902c6941b89865a333c60b1a09/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ftbfyuilhj/out/v1/547ff6902c6941b89865a333c60b1a09/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bldiqvqech/out/v1/2bc35cdd5ab047ea8833a8afdb15eed7/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bldiqvqech/out/v1/2bc35cdd5ab047ea8833a8afdb15eed7/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/bldiqvqech/out/v1/2bc35cdd5ab047ea8833a8afdb15eed7/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bldiqvqech/out/v1/2bc35cdd5ab047ea8833a8afdb15eed7/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bldiqvqech/out/v1/2bc35cdd5ab047ea8833a8afdb15eed7/cenc.mpd"
+      },
+      "drm_key": "08bededba73d57019eecdbca2476fc23:7447ad5ccdd221509cad32e2e1dda0cf"
     },
     {
       "match_id": "B0H9KTLL3G",
       "title": "Top End T20 Series 2026 - 25th Match - New Zealand A vs Hobart Hurricanes",
       "synopsis": "Top End T20 Series 2026 - 25th Match - New Zealand A vs Hobart Hurricanes",
       "status": "UPCOMING",
-      "time": "Live at 6:30 AM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d993d7df-5992-441c-b868-f78f4ef45639/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "time": "Live at 6 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d993d7df-5992-441c-b868-f78f4ef45639/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0H9KTLL3G?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
       "is_free": false,
       "stream_url_alpha": "",
@@ -39,8 +52,8 @@
       "title": "Top End T20 Series 2026 - 26th Match - ACT Comets vs Adelaide Strikers Academy",
       "synopsis": "Top End T20 Series 2026 - 26th Match - ACT Comets vs Adelaide Strikers Academy",
       "status": "UPCOMING",
-      "time": "Live at 9:30 AM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c0ab022e-63fd-4e2f-98e6-49625acb5fcb/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "time": "Live at 9 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c0ab022e-63fd-4e2f-98e6-49625acb5fcb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HFKK3H7Z?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
       "is_free": false,
       "stream_url_alpha": "",
@@ -51,8 +64,8 @@
       "title": "Top End T20 Series 2026 - 27th Match - Nepal vs Victoria",
       "synopsis": "Top End T20 Series 2026 - 27th Match - Nepal vs Victoria",
       "status": "UPCOMING",
-      "time": "Live at 1:30 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.da1795d3-8084-4728-bef6-3248d04d5cb2/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "time": "Live at 1 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.da1795d3-8084-4728-bef6-3248d04d5cb2/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HFLW9R9K?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
       "is_free": false,
       "stream_url_alpha": "",
