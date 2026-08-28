@@ -1,29 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "03:02 PM 28-08-2026",
+    "LastUpdate": "03:32 PM 28-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HFMFKYQ4",
-      "title": "Michelin Grand Prix of Aragon, Free Practice 1",
-      "synopsis": "Michelin Grand Prix of Aragon, Free Practice 1",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.19d10a39-be40-4c92-b64c-0f72441f65e9/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFMFKYQ4",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a40live-emt-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqpPkEBhpqkTKEA2Zha2FtYWkCeClzc2lkOjIzZGYwMDAwLTUxNzAtNDRkNy04NjFlLTI5MTI4OTc4MmJmMhkBOKEFoQJ4My9zMDVnaGwyYnplL291dC92MS8zMGYzYWQ5YmEyYzM0MDczOWVhMjk0M2YyOWQ0NGIzMhkBPIFiVVNYILJ6NpO79L3nK059TfPcRGnrS77k7itq2Nq8ElzsLlFR/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/s05ghl2bze/out/v1/30f3ad9ba2c340739ea2943f29d44b32/fc4b2d48-7e13-4cc3-bdde-9a83d219cfb5-cenc.mpd?aws.sessionId=d5920555-de6c-4bf5-9e6e-ad630bc17a30"
-      },
-      "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
-    },
     {
       "match_id": "B0H9YLLSW6",
       "title": "Season 2026",
@@ -42,21 +28,18 @@
       "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
     },
     {
-      "match_id": "B0HFFN1VVQ",
-      "title": "Auckland v Bay of Plenty",
-      "synopsis": "Auckland v Bay of Plenty",
+      "match_id": "B0HFMFKYQ4",
+      "title": "Michelin Grand Prix of Aragon, Free Practice 1",
+      "synopsis": "Michelin Grand Prix of Aragon, Free Practice 1",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1d135498-0d51-43b5-a773-f67d6cbc7def/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFFN1VVQ",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.19d10a39-be40-4c92-b64c-0f72441f65e9/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFMFKYQ4",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd"
+        "Original Server": "https://a40live-emt-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqpPkEBhpqkTKEA2Zha2FtYWkCeClzc2lkOjIzZGYwMDAwLTUxNzAtNDRkNy04NjFlLTI5MTI4OTc4MmJmMhkBOKEFoQJ4My9zMDVnaGwyYnplL291dC92MS8zMGYzYWQ5YmEyYzM0MDczOWVhMjk0M2YyOWQ0NGIzMhkBPIFiVVNYILJ6NpO79L3nK059TfPcRGnrS77k7itq2Nq8ElzsLlFR/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/s05ghl2bze/out/v1/30f3ad9ba2c340739ea2943f29d44b32/fc4b2d48-7e13-4cc3-bdde-9a83d219cfb5-cenc.mpd?aws.sessionId=d5920555-de6c-4bf5-9e6e-ad630bc17a30"
       },
-      "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
+      "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
     },
     {
       "match_id": "B0HFZ9KB4K",
