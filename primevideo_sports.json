@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "01:32 AM 29-08-2026",
+    "LastUpdate": "02:02 AM 29-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -110,20 +110,6 @@
       "drm_key": "5a93ae6b296b70a7c9862ad319534539:751b8053708a764d9aea2e40a92fd48d"
     },
     {
-      "match_id": "B0HFZQYG3K",
-      "title": "Aug 28 - PTT Clemson",
-      "synopsis": "Aug 28 - PTT Clemson",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2fd831c0-d5df-4a6a-8f36-4ba64439db26/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFZQYG3K",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/hp1kqlr6lk/out/v1/24dbe377eef946bcaf4c426de5db04ea/5bbf5ca5-9f3f-40f5-89ea-e05324828980-cenc.mpd"
-      },
-      "drm_key": "aaf77f75a82733372509d0a3b1dcf419:6e167f2703be6cbe8cb345b813924abb"
-    },
-    {
       "match_id": "B0HFX3GYTB",
       "title": "Aug 28 - PTT Boise",
       "synopsis": "Aug 28 - PTT Boise",
@@ -136,6 +122,20 @@
         "Original Server": "https://ABBJIKDAAAAAAAAMLVUQOD75224NT.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WI2mAWpwcmltZXZpZGVvBBpqpWmFBhpqkaMFA2pjbG91ZGZyb250Angpc3NpZDo0MWRiNGU1Mi00ZDcxLTRhZTItOWZlNC1jZjViZjA2MTgyMDQZATihBaECeDMveXB4NTZ0eHJoaS9vdXQvdjEvNDA5NTk5NzQzYTg0NGMzNjhmZmM5YTY1NWNhOTA0YmJYIJMsvmrU3sYIDG3GV8NeajFiyRMGlAEK4yJAa_C-Pg0a/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ypx56txrhi/out/v1/409599743a844c368ffc9a655ca904bb/8988cca0-8cd3-4d6f-b2e0-f446b3a3ed64-cenc.mpd"
       },
       "drm_key": "a1dcace9c651c818e1bb95379605ba0e:9bcfd82c10dd3a0950dd01bfab6646b2"
+    },
+    {
+      "match_id": "B0HFZQYG3K",
+      "title": "Aug 28 - PTT Clemson",
+      "synopsis": "Aug 28 - PTT Clemson",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2fd831c0-d5df-4a6a-8f36-4ba64439db26/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFZQYG3K",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/hp1kqlr6lk/out/v1/24dbe377eef946bcaf4c426de5db04ea/5bbf5ca5-9f3f-40f5-89ea-e05324828980-cenc.mpd"
+      },
+      "drm_key": "aaf77f75a82733372509d0a3b1dcf419:6e167f2703be6cbe8cb345b813924abb"
     }
   ]
 }
