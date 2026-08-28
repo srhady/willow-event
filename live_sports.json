@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "08:32 AM 28-08-2026",
+    "LastUpdate": "09:02 AM 28-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 2,
-    "UpcomingCount": 18
+    "LiveCount": 3,
+    "UpcomingCount": 17
   },
   "Matches": [
     {
@@ -64,13 +64,26 @@
       "match_id": "B0HF7LSW7P",
       "title": "Top End T20 Series 2026 - 23rd Match - HH Kingsmen vs Adelaide Strikers Academy",
       "synopsis": "Top End T20 Series 2026 - 23rd Match - HH Kingsmen vs Adelaide Strikers Academy",
-      "status": "UPCOMING",
-      "time": "Live at 9:30 AM BDT",
+      "status": "LIVE",
+      "time": "9 AM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.49c24ad8-62aa-488a-9bb4-a6fd91aafc35/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HF7LSW7P?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f4q6tstnv4/out/v1/a1b97ed31c744e10b51b6b1891d03fea/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f4q6tstnv4/out/v1/a1b97ed31c744e10b51b6b1891d03fea/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/f4q6tstnv4/out/v1/a1b97ed31c744e10b51b6b1891d03fea/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/f4q6tstnv4/out/v1/a1b97ed31c744e10b51b6b1891d03fea/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/f4q6tstnv4/out/v1/a1b97ed31c744e10b51b6b1891d03fea/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/waxqcv31jc/out/v1/3d3aac5c9c1d431ea732ec5f0c27e946/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/waxqcv31jc/out/v1/3d3aac5c9c1d431ea732ec5f0c27e946/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/waxqcv31jc/out/v1/3d3aac5c9c1d431ea732ec5f0c27e946/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/waxqcv31jc/out/v1/3d3aac5c9c1d431ea732ec5f0c27e946/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/waxqcv31jc/out/v1/3d3aac5c9c1d431ea732ec5f0c27e946/cenc.mpd"
+      },
+      "drm_key": "21e0d81d4f594a530df0ac04fff18f8e:cf4937be963ccf0ac5a101af13df4a3f"
     },
     {
       "match_id": "B0HFVPKP19",
