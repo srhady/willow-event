@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "06:32 PM 28-08-2026",
+    "LastUpdate": "07:02 PM 28-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 19
+    "LiveCount": 2,
+    "UpcomingCount": 18
   },
   "Matches": [
     {
@@ -39,13 +39,26 @@
       "match_id": "B0HGMJFBJ3",
       "title": "European T20 Premier League 2026 - 4th Match - Amsterdam Flames vs Edinburgh Castle Rockers",
       "synopsis": "European T20 Premier League 2026 - 4th Match - Amsterdam Flames vs Edinburgh Castle Rockers",
-      "status": "UPCOMING",
-      "time": "Live at 6:45 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4617f447-0f51-4f6d-90c5-812b7d3d5ca4/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "6:45 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4617f447-0f51-4f6d-90c5-812b7d3d5ca4/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HGMJFBJ3?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/izext8tcfg/out/v1/e98816d3674c46e1906954bc1cee578e/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/izext8tcfg/out/v1/e98816d3674c46e1906954bc1cee578e/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/izext8tcfg/out/v1/e98816d3674c46e1906954bc1cee578e/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/izext8tcfg/out/v1/e98816d3674c46e1906954bc1cee578e/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/izext8tcfg/out/v1/e98816d3674c46e1906954bc1cee578e/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lpubw87xoz/out/v1/a4e30a4405bd4faeaedfd6f114697423/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lpubw87xoz/out/v1/a4e30a4405bd4faeaedfd6f114697423/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/lpubw87xoz/out/v1/a4e30a4405bd4faeaedfd6f114697423/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lpubw87xoz/out/v1/a4e30a4405bd4faeaedfd6f114697423/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lpubw87xoz/out/v1/a4e30a4405bd4faeaedfd6f114697423/cenc.mpd"
+      },
+      "drm_key": "4404976bc861c8adce475c9533921cf3:d1fdc818c29f3c6aa020a4d0eb803957"
     },
     {
       "match_id": "B0HF412NFT",
