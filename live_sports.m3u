@@ -1,8 +1,15 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:12:32 PM 28-08-2026
+#LAST_UPDATE:01:02 PM 28-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:20
+#LIVE_COUNT:1
+#UPCOMING_COUNT:19
+
+#EXTINF:-1 tvg-id="B0HFVPKP19" tvg-name="Top End T20 Series 2026 - 24th Match - NT Strike vs Bangladesh HP" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7c666146-a198-4b8c-b3df-4f0fc012b768/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Top End T20 Series 2026 - 24th Match - NT Strike vs Bangladesh HP
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1542f9e1851830b99ccf70ed1358f5fa:5be3c54b1ce811dcc277faa1e6268472
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h5habjvdfu/out/v1/19ea591ec1ea41fb8bb0ce60f7493a5f/cenc.mpd
 
