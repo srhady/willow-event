@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "01:32 PM 28-08-2026",
+    "LastUpdate": "02:02 PM 28-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 3,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -57,6 +57,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
       },
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
+      "match_id": "B0HFGNKFGP",
+      "title": "Aug 28 - PTT Glasgow",
+      "synopsis": "Aug 28 - PTT Glasgow",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.50c7a5bb-bbf2-418c-9165-a8a04f44fe70/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFGNKFGP",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a108live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WImmAWpwcmltZXZpZGVvBBpqpQcOBhpqkUCOA2Zha2FtYWkCeClzc2lkOmIyMWMyNjFlLWVhYWUtNDZmOC05MWZjLWUzMThlZmMwODdkNhkBOKEFoQJ4My9uOTB6cjc3dmd5L291dC92MS9lMDRjNzMzNTU1YTQ0NjA1OWY5MzVjNTVkNjkzMTIxOFgg860J3h4usR6--Dx7aE_fxMjXf0iPcb1FdwbFhsIfWMI/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/n90zr77vgy/out/v1/e04c733555a446059f935c55d6931218/94653c77-a7b3-4670-9c18-de948c920493-cenc.mpd"
+      },
+      "drm_key": "8ca550e90f2c3fcbd6e55e09418c3806:6eabe4017b64fa9d13ba9e288aead4d9"
     }
   ]
 }
