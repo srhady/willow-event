@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "08:32 PM 28-08-2026",
+    "LastUpdate": "09:02 PM 28-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 7,
+    "LiveCount": 8,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -62,6 +62,23 @@
       "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
     },
     {
+      "match_id": "B0HCXX3JRV",
+      "title": "Qualifying 3rd Round",
+      "synopsis": "Qualifying 3rd Round",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.052eb39a-1362-4afa-bced-d325cf52ef8e/10/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HCXX3JRV",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd"
+      },
+      "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
+    },
+    {
       "match_id": "B0H3436CZ4",
       "title": "Thailand vs. Hong Kong, China",
       "synopsis": "Thailand vs. Hong Kong, China",
@@ -77,20 +94,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
       },
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-    },
-    {
-      "match_id": "B0HCLRXVG1",
-      "title": "Grand Prix of Aragon, Practice",
-      "synopsis": "Grand Prix of Aragon, Practice",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4bc14ba1-1523-4752-8d4c-d91e48a41037/9/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HCLRXVG1",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://emt-fastly.live.pv-cdn.net/IAD/ecb5167adc48418f9e275a06ed14a1f9/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_iad_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/twj4tdhoav/out/v1/8197c8e055c94a868623653ac55c10bf/f7c4c525-983a-4b62-b562-ab756197fdc4-cenc.mpd?aws.sessionId=dc208d31-2698-41ef-a924-15f5eff06268"
-      },
-      "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
     },
     {
       "match_id": "B0HFZQYG3K",
@@ -119,6 +122,20 @@
         "Original Server": "https://a108live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WImmAWpwcmltZXZpZGVvBBpqpQcOBhpqkUCOA2Zha2FtYWkCeClzc2lkOmIyMWMyNjFlLWVhYWUtNDZmOC05MWZjLWUzMThlZmMwODdkNhkBOKEFoQJ4My9uOTB6cjc3dmd5L291dC92MS9lMDRjNzMzNTU1YTQ0NjA1OWY5MzVjNTVkNjkzMTIxOFgg860J3h4usR6--Dx7aE_fxMjXf0iPcb1FdwbFhsIfWMI/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/n90zr77vgy/out/v1/e04c733555a446059f935c55d6931218/94653c77-a7b3-4670-9c18-de948c920493-cenc.mpd"
       },
       "drm_key": "8ca550e90f2c3fcbd6e55e09418c3806:6eabe4017b64fa9d13ba9e288aead4d9"
+    },
+    {
+      "match_id": "B0HFX3GYTB",
+      "title": "Aug 28 - PTT Boise",
+      "synopsis": "Aug 28 - PTT Boise",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.65fcac33-a06c-4a77-a16f-5dfbb74b18b3/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFX3GYTB",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABBJIKDAAAAAAAAMLVUQOD75224NT.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WI2mAWpwcmltZXZpZGVvBBpqpWmFBhpqkaMFA2pjbG91ZGZyb250Angpc3NpZDo0MWRiNGU1Mi00ZDcxLTRhZTItOWZlNC1jZjViZjA2MTgyMDQZATihBaECeDMveXB4NTZ0eHJoaS9vdXQvdjEvNDA5NTk5NzQzYTg0NGMzNjhmZmM5YTY1NWNhOTA0YmJYIJMsvmrU3sYIDG3GV8NeajFiyRMGlAEK4yJAa_C-Pg0a/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ypx56txrhi/out/v1/409599743a844c368ffc9a655ca904bb/8988cca0-8cd3-4d6f-b2e0-f446b3a3ed64-cenc.mpd"
+      },
+      "drm_key": "a1dcace9c651c818e1bb95379605ba0e:9bcfd82c10dd3a0950dd01bfab6646b2"
     }
   ]
 }
