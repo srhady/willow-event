@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "06:32 PM 29-08-2026",
+    "LastUpdate": "07:02 PM 29-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -45,37 +45,6 @@
       "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
     },
     {
-      "match_id": "B0HFTN9S5M",
-      "title": "Michelin Grand Prix of Aragon, Qualifying",
-      "synopsis": "Michelin Grand Prix of Aragon, Qualifying",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2e2db2fe-94c7-47f9-8557-bfc1c19b708d/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFTN9S5M",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a195live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WImmAWpwcmltZXZpZGVvBBpqpnS1Bhpqkq41A2Zha2FtYWkCeClzc2lkOjFiOTE5M2YwLTgxODItNDM5MS1iMTA5LTdiMDAyZjI4MTQxMhkBOKEFoQJ4My81bm1nZWN2ZG10L291dC92MS84MTk3YzhlMDU1Yzk0YTg2ODYyMzY1M2FjNTVjMTBiZlggoUYIkUyu9vjnPwBAU_a8defLW2v572eUc0AVc1YSq0o/IAD/ecb5167adc48418f9e275a06ed14a1f9/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_iad_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/5nmgecvdmt/out/v1/8197c8e055c94a868623653ac55c10bf/cc52c937-24bd-4268-9e57-4c850189df83-cenc.mpd?aws.sessionId=4358a690-bdbd-414e-a52d-1243f4ed5b9c"
-      },
-      "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
-    },
-    {
-      "match_id": "B0GV5QWNQW",
-      "title": "K-1 Challenge: The Road to Tokyo Part II",
-      "synopsis": "K-1 Challenge: The Road to Tokyo Part II",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.85b26bfe-4b08-49c2-9833-45297dfd040c/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0GV5QWNQW",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/youk5yyomc/out/v1/3b2973990a634a328b2426c187cd49be/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/youk5yyomc/out/v1/3b2973990a634a328b2426c187cd49be/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/youk5yyomc/out/v1/3b2973990a634a328b2426c187cd49be/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/youk5yyomc/out/v1/3b2973990a634a328b2426c187cd49be/cenc.mpd"
-      },
-      "drm_key": "1918ddf008413696077e06138983c5f9:2d66e0d80ca9ac6ad8b8c230a97f74b4"
-    },
-    {
       "match_id": "B0HDZSRJHC",
       "title": "World Championships: Amsterdam, Finals",
       "synopsis": "World Championships: Amsterdam, Finals",
@@ -91,6 +60,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd"
       },
       "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
+    },
+    {
+      "match_id": "B0HFZSMR3G",
+      "title": "Aug 29 - PTT Clemson",
+      "synopsis": "Aug 29 - PTT Clemson",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.de5f4ae3-835a-4149-b38f-54ee8ba5d7aa/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFZSMR3G",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a169live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqpp7hBhpqkthhA2Zha2FtYWkCeClzc2lkOmNmNDhiMWQxLTFhZTItNGNjYi04OWIyLWM1YTE4OGMxN2Y4ZBkBOKEFoQJ4My91YWR6czk3ZTR4L291dC92MS85ZmQxMmY0NGU5NTQ0ZmE2YjRhOGJmOWM3ZGIwZDNiNhkBPIFiVVNYIAESUwMasTlYYZeXcxzv1k6foeKJDqUQ6O1_eBCl3AeU/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/uadzs97e4x/out/v1/9fd12f44e9544fa6b4a8bf9c7db0d3b6/99f05c93-a435-4147-8aa0-8dd5eb8d2fcc-cenc.mpd"
+      },
+      "drm_key": "cf9442e73d4fc76f899eec6fce804525:9bbf9f4dd97eba1cd12da77a4f7e3205"
     },
     {
       "match_id": "B0H9F7SY8X",
