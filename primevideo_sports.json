@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "02:32 PM 29-08-2026",
+    "LastUpdate": "03:02 PM 29-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -10,37 +10,6 @@
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0GV5QWNQW",
-      "title": "K-1 Challenge: The Road to Tokyo Part II",
-      "synopsis": "K-1 Challenge: The Road to Tokyo Part II",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.85b26bfe-4b08-49c2-9833-45297dfd040c/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0GV5QWNQW",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/youk5yyomc/out/v1/3b2973990a634a328b2426c187cd49be/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/youk5yyomc/out/v1/3b2973990a634a328b2426c187cd49be/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/youk5yyomc/out/v1/3b2973990a634a328b2426c187cd49be/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/youk5yyomc/out/v1/3b2973990a634a328b2426c187cd49be/cenc.mpd"
-      },
-      "drm_key": "1918ddf008413696077e06138983c5f9:2d66e0d80ca9ac6ad8b8c230a97f74b4"
-    },
-    {
-      "match_id": "B0HFR9FRR6",
-      "title": "Grand Prix of Aragon, Qualifying",
-      "synopsis": "Grand Prix of Aragon, Qualifying",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0f3151ae-7742-425f-9d80-5e8af08c7be8/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFR9FRR6",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABBIA5HAAAAAAAAMMFAWSBQKGCJGI.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WI2mAWpwcmltZXZpZGVvBBpqpkN5Bhpqknz5A2pjbG91ZGZyb250Angpc3NpZDo5NjFkYmU5YS03NTFhLTQzMmEtODU5ZS0yNzY2MDk0ZTIwODcZATihBaECeDMvZzZxdnZ6YmthbC9vdXQvdjEvMzBmM2FkOWJhMmMzNDA3MzllYTI5NDNmMjlkNDRiMzJYIAMvvbx6kD57m6951T7HxPLofIvp5QfhNo2yOXPTiZS2/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/g6qvvzbkal/out/v1/30f3ad9ba2c340739ea2943f29d44b32/977cc6d3-c163-49db-8ab4-6e98a4de979f-cenc.mpd?aws.sessionId=bde3c6d2-b5e4-4ab8-9d0b-f57bbda5d0ea"
-      },
-      "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
-    },
     {
       "match_id": "B0HDZSRJHC",
       "title": "World Championships: Amsterdam, Finals",
@@ -59,21 +28,35 @@
       "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
     },
     {
-      "match_id": "B0HF8FB2VB",
-      "title": "Manawatu v North Harbour",
-      "synopsis": "Manawatu v North Harbour",
+      "match_id": "B0HFR9FRR6",
+      "title": "Grand Prix of Aragon, Qualifying",
+      "synopsis": "Grand Prix of Aragon, Qualifying",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2d98261e-0e47-4386-8b90-e2890d8530cf/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HF8FB2VB",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0f3151ae-7742-425f-9d80-5e8af08c7be8/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFR9FRR6",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd"
+        "Original Server": "https://ABBIA5HAAAAAAAAMMFAWSBQKGCJGI.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WI2mAWpwcmltZXZpZGVvBBpqpkN5Bhpqknz5A2pjbG91ZGZyb250Angpc3NpZDo5NjFkYmU5YS03NTFhLTQzMmEtODU5ZS0yNzY2MDk0ZTIwODcZATihBaECeDMvZzZxdnZ6YmthbC9vdXQvdjEvMzBmM2FkOWJhMmMzNDA3MzllYTI5NDNmMjlkNDRiMzJYIAMvvbx6kD57m6951T7HxPLofIvp5QfhNo2yOXPTiZS2/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/g6qvvzbkal/out/v1/30f3ad9ba2c340739ea2943f29d44b32/977cc6d3-c163-49db-8ab4-6e98a4de979f-cenc.mpd?aws.sessionId=bde3c6d2-b5e4-4ab8-9d0b-f57bbda5d0ea"
       },
-      "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
+      "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
+    },
+    {
+      "match_id": "B0GV5QWNQW",
+      "title": "K-1 Challenge: The Road to Tokyo Part II",
+      "synopsis": "K-1 Challenge: The Road to Tokyo Part II",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.85b26bfe-4b08-49c2-9833-45297dfd040c/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0GV5QWNQW",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/youk5yyomc/out/v1/3b2973990a634a328b2426c187cd49be/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/youk5yyomc/out/v1/3b2973990a634a328b2426c187cd49be/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/youk5yyomc/out/v1/3b2973990a634a328b2426c187cd49be/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/youk5yyomc/out/v1/3b2973990a634a328b2426c187cd49be/cenc.mpd"
+      },
+      "drm_key": "1918ddf008413696077e06138983c5f9:2d66e0d80ca9ac6ad8b8c230a97f74b4"
     },
     {
       "match_id": "B0HCLQTC4Y",
@@ -105,6 +88,23 @@
         "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/kcj018co9k/out/v1/d2508724982a453dba9194ab3fa99b11/796575bc-f18c-4fa0-bb8c-fc6c64d9ed35-cenc.mpd"
       },
       "drm_key": "9745633ca88e7f58b3d1be52fc9b02a9:714235ad17ded01d1a0cc001dd3976ba"
+    },
+    {
+      "match_id": "B0HF8FB2VB",
+      "title": "Manawatu v North Harbour",
+      "synopsis": "Manawatu v North Harbour",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2d98261e-0e47-4386-8b90-e2890d8530cf/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HF8FB2VB",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd"
+      },
+      "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
     }
   ]
 }

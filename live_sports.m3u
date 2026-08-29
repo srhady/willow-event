@@ -1,10 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:02:32 PM 29-08-2026
+#LAST_UPDATE:03:02 PM 29-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:1
-#UPCOMING_COUNT:19
+#LIVE_COUNT:2
+#UPCOMING_COUNT:18
 
 #EXTINF:-1 tvg-id="B0HFLW9R9K" tvg-name="Top End T20 Series 2026 - 27th Match - Nepal vs Victoria" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.da1795d3-8084-4728-bef6-3248d04d5cb2/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Top End T20 Series 2026 - 27th Match - Nepal vs Victoria
 #KODIPROP:inputstream=inputstream.adaptive
@@ -12,4 +12,11 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99e1d49c1d6fb66884e9d3a9a273cc1b:b5f5f8ce01b3a92a07272f90b3dcfd76
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nhdmhpvi3b/out/v1/bc705429eaf94036ab154f1981760316/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0GFY2D9KZ" tvg-name="Pakistan tour of England 2026 - 2nd Test - England vs Pakistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cbf8174b-2255-4e55-bddd-56fdef00143f/7/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Pakistan tour of England 2026 - 2nd Test - England vs Pakistan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bbbc154dd73f9ccee54dd1112458616:20322e913ab288675fc246c1158c8410
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b4ucq4oftf/out/v1/cd942b7b9a8d40d4af75866734dac72a/cenc.mpd
 
