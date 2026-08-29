@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "07:02 AM 29-08-2026",
+    "LastUpdate": "07:32 AM 29-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 6,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -96,23 +96,6 @@
       "drm_key": "2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca"
     },
     {
-      "match_id": "B0HCV27H6L",
-      "title": "Women's First Semifinal",
-      "synopsis": "Women's First Semifinal",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9234596-f378-47ab-9e6b-2985bb610a9d/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HCV27H6L",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd"
-      },
-      "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
-    },
-    {
       "match_id": "B0HFCVGTP5",
       "title": "Aug 28 - PTT Newport Beach",
       "synopsis": "Aug 28 - PTT Newport Beach",
@@ -125,20 +108,6 @@
         "Original Server": "https://ABGRUIFAAAAAAAAMKPUTXW6AL3YQT.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqpYyuBhpqkcYuA2pjbG91ZGZyb250Angpc3NpZDo5YjI2MWVlNS00YzJmLTQ0YjQtYTM2Zi0xMDFlOTZlNzllOGIZATihBaECeDMvbGhwdmVlbXVrdy9vdXQvdjEvODQ0NDE3M2JmYjkzNDNkMWI1OGFkZjMwYTlkZTY5ZmQZATyBYlVTWCAqqTN_9TDkCqOJ0_afG7SLAOXT0wOkZN51uaBBZFYH_Q/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/lhpveemukw/out/v1/8444173bfb9343d1b58adf30a9de69fd/28ee9a4c-21a1-4ed4-a091-cc9692ef8202-cenc.mpd"
       },
       "drm_key": "5a93ae6b296b70a7c9862ad319534539:751b8053708a764d9aea2e40a92fd48d"
-    },
-    {
-      "match_id": "B0HFZQYG3K",
-      "title": "Aug 28 - PTT Clemson",
-      "synopsis": "Aug 28 - PTT Clemson",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2fd831c0-d5df-4a6a-8f36-4ba64439db26/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFZQYG3K",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/hp1kqlr6lk/out/v1/24dbe377eef946bcaf4c426de5db04ea/5bbf5ca5-9f3f-40f5-89ea-e05324828980-cenc.mpd"
-      },
-      "drm_key": "aaf77f75a82733372509d0a3b1dcf419:6e167f2703be6cbe8cb345b813924abb"
     }
   ]
 }
