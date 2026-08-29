@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "03:02 PM 29-08-2026",
+    "LastUpdate": "03:32 PM 29-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 2,
-    "UpcomingCount": 18
+    "LiveCount": 3,
+    "UpcomingCount": 17
   },
   "Matches": [
     {
@@ -64,13 +64,26 @@
       "match_id": "B0HG42WVKG",
       "title": "European T20 Premier League 2026 - 5th Match - Glasgow Cosmics vs Dublin Guardians",
       "synopsis": "European T20 Premier League 2026 - 5th Match - Glasgow Cosmics vs Dublin Guardians",
-      "status": "UPCOMING",
-      "time": "Live at 3:30 PM BDT",
+      "status": "LIVE",
+      "time": "3:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.185fb8d7-bcff-4872-8611-29c0b71ebb56/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HG42WVKG?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gkswvaanl4/out/v1/4a1a46cdef9345a3a047588cfa523b40/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gkswvaanl4/out/v1/4a1a46cdef9345a3a047588cfa523b40/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/gkswvaanl4/out/v1/4a1a46cdef9345a3a047588cfa523b40/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gkswvaanl4/out/v1/4a1a46cdef9345a3a047588cfa523b40/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gkswvaanl4/out/v1/4a1a46cdef9345a3a047588cfa523b40/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/61jrb85xgy/out/v1/8a9bccabdaa74994b954dc966a2c3daf/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/61jrb85xgy/out/v1/8a9bccabdaa74994b954dc966a2c3daf/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/61jrb85xgy/out/v1/8a9bccabdaa74994b954dc966a2c3daf/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/61jrb85xgy/out/v1/8a9bccabdaa74994b954dc966a2c3daf/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/61jrb85xgy/out/v1/8a9bccabdaa74994b954dc966a2c3daf/cenc.mpd"
+      },
+      "drm_key": "29909175882bb66557e51b765266c822:920b51ab82b6b1250aba897885467ca3"
     },
     {
       "match_id": "B0HGLT77DT",
