@@ -1,29 +1,22 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:09:32 AM 30-08-2026
+#LAST_UPDATE:10:02 AM 30-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:3
-#UPCOMING_COUNT:17
-
-#EXTINF:-1 tvg-id="B0HCSVQYFS" tvg-name="Caribbean Premier League 2026 - 20th Match - Trinbago Knight Riders vs Guyana Amazon Warriors" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.603688d9-790e-4509-8124-d370d072550f/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Caribbean Premier League 2026 - 20th Match - Trinbago Knight Riders vs Guyana Amazon Warriors
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6e72d8f2521f9878dc62710c2ff0b57d:0d5b23fec2afcb3a792675f20a1dae48
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/0ly3syp4vu/out/v1/fa5becce41784086ab6db593f98002d2/cenc.mpd
+#LIVE_COUNT:2
+#UPCOMING_COUNT:18
 
 #EXTINF:-1 tvg-id="B0HFV9HWMD" tvg-name="Top End T20 Series 2026 - 1st Semi-Final - Bangladesh HP vs Victoria" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.08a5d67b-0d7a-4425-958f-bcdaffb43106/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Top End T20 Series 2026 - 1st Semi-Final - Bangladesh HP vs Victoria
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e17e6d149ea932864ce6e5d84079f3e:ba5d2b0d3d833f023b2015aa00eeb10d
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/y5no8uudng/out/v1/1bf8185806ba496687c763b70a943664/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/y5no8uudng/out/v1/1bf8185806ba496687c763b70a943664/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HGDDWGFN" tvg-name="Top End T20 Series 2026 - 2nd Semi-Final - Adelaide Strikers Academy vs New Zealand A" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d9aa127e-8dc7-4233-9fea-a554a02d8d81/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Top End T20 Series 2026 - 2nd Semi-Final - Adelaide Strikers Academy vs New Zealand A
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8dbfa5e75324763c430e42c7b7810c6a:ef819f20671c0ee7d12d5fb3b4bfcbcc
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/lyoltjhzxw/out/v1/e590ff964b654e408762d566320f57dd/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lyoltjhzxw/out/v1/e590ff964b654e408762d566320f57dd/cenc.mpd
 
