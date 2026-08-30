@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "03:32 AM 31-08-2026",
+    "LastUpdate": "04:02 AM 31-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -59,20 +59,6 @@
       "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
     },
     {
-      "match_id": "B0HF59LQFW",
-      "title": "Aug 30 - PTT Clemson",
-      "synopsis": "Aug 30 - PTT Clemson",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c73fee6f-c4b9-4e16-b034-9afc7543ff93/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HF59LQFW",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/bffrhhdwf6/out/v1/1575c80b08d6462fac87472d973c253c/6c53982e-a8e9-4464-9ff1-99b0114ca5cf-cenc.mpd"
-      },
-      "drm_key": "3cad245d57e432fe86d1e4068ca751df:eb42a8b2f5c0e9ab35c055e6abc9f353"
-    },
-    {
       "match_id": "B0HFVXV84R",
       "title": "Aug 30 - PTT Boise",
       "synopsis": "Aug 30 - PTT Boise",
@@ -85,6 +71,20 @@
         "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/xcmzb6v9zk/out/v1/0b7a58ea0c1e4c839d005e4a4fe5e162/893de6cf-de7e-4ebf-bcf9-b23f21322379-cenc.mpd"
       },
       "drm_key": "a0abbaf5361972fa91130766a5db9986:a8da19a17804002c5870d2bfe151386e"
+    },
+    {
+      "match_id": "B0HF59LQFW",
+      "title": "Aug 30 - PTT Clemson",
+      "synopsis": "Aug 30 - PTT Clemson",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c73fee6f-c4b9-4e16-b034-9afc7543ff93/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HF59LQFW",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/bffrhhdwf6/out/v1/1575c80b08d6462fac87472d973c253c/6c53982e-a8e9-4464-9ff1-99b0114ca5cf-cenc.mpd"
+      },
+      "drm_key": "3cad245d57e432fe86d1e4068ca751df:eb42a8b2f5c0e9ab35c055e6abc9f353"
     }
   ]
 }
