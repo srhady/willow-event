@@ -1,29 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "10:32 PM 30-08-2026",
+    "LastUpdate": "11:02 PM 30-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 7,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HF4YR5TW",
-      "title": "All In Buy In",
-      "synopsis": "All In Buy In",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.884b41b1-80c1-40ec-9f4a-8d7b1ab6acb2/2/BOXART-16X9/en-US._UR1920,1080_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HF4YR5TW",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABDJIHAAAAAAAAAMC5YW25OJGMW5V.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqqAj8BhpqlEJ8A2pjbG91ZGZyb250Angpc3NpZDo4NGJiOWQxNy0wM2M1LTQ4NjktYTExMi00YjU2NGFiMjQ3YTMZATihBaECeDMvY3VxY3k3dWRjOS9vdXQvdjEvMDUyYmZmNmM4NzgxNDZmNDhlZDI4N2Y3MGQ5MmIxOGUZATyBYlVTWCBoIWzxgf6QRR0ryvoBjDPI3b4aRrc6AFYi5NJq-daSpw/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/cuqcy7udc9/out/v1/052bff6c878146f48ed287f70d92b18e/23727815-2fac-4ea2-99a3-e26c8ab42405-cenc.mpd"
-      },
-      "drm_key": "422211cd6b13e489f4bccb5693eb271e:a98cfe8623b7b7da2c2c6723b71c31ad"
-    },
     {
       "match_id": "B0H7ML96BC",
       "title": "Wichita Regional, Stepladder Finals",
@@ -37,6 +23,23 @@
         "Original Server": "https://a56live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WImmAWpwcmltZXZpZGVvBBpqqAyCBhpqlEYCA2Zha2FtYWkCeClzc2lkOjc1YmUxZTVlLTRiZGEtNGNmMy1iM2VhLTgwMzI5ZTc2OWQzYxkBOKEFoQJ4My8yZThhZXEwemZzL291dC92MS9lODVhODI2MjYyMGM0OGEwYjdjNGIxODVhNTNjMjhlNVgg9hypHpCjVPSB740KcgI0_bERtrycJVweYj-gOUGUskI/CMH/c637e40a93cd4368ae24c85f12da7687/v1/dash/159325541587/imdb_ottera_amzn1_dv_live_csid_610ccc26-479b-4d79-8c18-5ac0e6ceff38_us-east-1_cmh_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-iad-prod/enc/2e8aeq0zfs/out/v1/e85a8262620c48a0b7c4b185a53c28e5/5e234625-62ff-4c9d-a637-e381d2a64f34-cenc.mpd?aws.sessionId=f7c434f5-1cd1-48e5-9759-d8c1e2a20307"
       },
       "drm_key": "08c7d255bdb53b54f38735c2529492f9:7eafb46d7206f2cb19ef0751e3466a5a"
+    },
+    {
+      "match_id": "B0HFJQPTN7",
+      "title": "TOURCAST Live From the TOUR Championship-Round 4",
+      "synopsis": "TOURCAST Live From the TOUR Championship-Round 4",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9981bdf1-ec52-4972-a791-92ec5e694fe6/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFJQPTN7",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wchmloaa3m/out/v1/ca8e1514683d4a84bbf9c9d285fea568/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wchmloaa3m/out/v1/ca8e1514683d4a84bbf9c9d285fea568/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/wchmloaa3m/out/v1/ca8e1514683d4a84bbf9c9d285fea568/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/wchmloaa3m/out/v1/ca8e1514683d4a84bbf9c9d285fea568/cenc.mpd"
+      },
+      "drm_key": "8c8753a34518b7d3093885f956e7afd9:8a4a2f1accb3ac0f42ad1c1502ee833e"
     },
     {
       "match_id": "B0HG9Z56SN",
@@ -73,6 +76,20 @@
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
+      "match_id": "B0HFVXV84R",
+      "title": "Aug 30 - PTT Boise",
+      "synopsis": "Aug 30 - PTT Boise",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ed72f053-0878-4587-ab1e-02987f022b93/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFVXV84R",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/hrr1zgjhyd/out/v1/82520659626d4421a05ce9578700b701/94a2a314-81c5-407d-b4e6-29a21dfde1be-cenc.mpd"
+      },
+      "drm_key": "9e53159c0e20028c8ea0ee2808a3286d:c065ea22b10706c3750efb0a11708e37"
+    },
+    {
       "match_id": "B0HF59LQFW",
       "title": "Aug 30 - PTT Clemson",
       "synopsis": "Aug 30 - PTT Clemson",
@@ -87,18 +104,18 @@
       "drm_key": "b19cbfbbbf2c4f09fde4ce4458058c29:e84fcb373df9ef491de00412bbdd2cef"
     },
     {
-      "match_id": "B0HFVXV84R",
-      "title": "Aug 30 - PTT Boise",
-      "synopsis": "Aug 30 - PTT Boise",
+      "match_id": "B0HFC1ZZJT",
+      "title": "Aug 30 - PTT Newport Beach",
+      "synopsis": "Aug 30 - PTT Newport Beach",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ed72f053-0878-4587-ab1e-02987f022b93/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFVXV84R",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.60b7f13e-4866-4bcc-9193-903b1c94e004/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFC1ZZJT",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/hrr1zgjhyd/out/v1/82520659626d4421a05ce9578700b701/94a2a314-81c5-407d-b4e6-29a21dfde1be-cenc.mpd"
+        "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/uobemxjcur/out/v1/c53ed0a29a0d4c75894437615feb516b/85aed315-ccf9-4f6d-b6cf-373d42df666a-cenc.mpd"
       },
-      "drm_key": "9e53159c0e20028c8ea0ee2808a3286d:c065ea22b10706c3750efb0a11708e37"
+      "drm_key": "ee98d6baf4f08c80266f57a586f455c9:3d9c1e864d35b0f07db72cc1560f7808"
     }
   ]
 }
