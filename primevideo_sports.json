@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "12:02 AM 31-08-2026",
+    "LastUpdate": "12:32 AM 31-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 7,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -76,21 +76,18 @@
       "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
     },
     {
-      "match_id": "B0GXMR3NJ2",
-      "title": "India vs. Thailand",
-      "synopsis": "India vs. Thailand",
+      "match_id": "B0HFVXV84R",
+      "title": "Aug 30 - PTT Boise",
+      "synopsis": "Aug 30 - PTT Boise",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c80f4451-57e4-4432-87b4-dbc47a245216/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0GXMR3NJ2",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ed72f053-0878-4587-ab1e-02987f022b93/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFVXV84R",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
+        "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/hrr1zgjhyd/out/v1/82520659626d4421a05ce9578700b701/94a2a314-81c5-407d-b4e6-29a21dfde1be-cenc.mpd"
       },
-      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+      "drm_key": "9e53159c0e20028c8ea0ee2808a3286d:c065ea22b10706c3750efb0a11708e37"
     },
     {
       "match_id": "B0HFC1ZZJT",
@@ -105,20 +102,6 @@
         "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/uobemxjcur/out/v1/c53ed0a29a0d4c75894437615feb516b/85aed315-ccf9-4f6d-b6cf-373d42df666a-cenc.mpd"
       },
       "drm_key": "ee98d6baf4f08c80266f57a586f455c9:3d9c1e864d35b0f07db72cc1560f7808"
-    },
-    {
-      "match_id": "B0HFVXV84R",
-      "title": "Aug 30 - PTT Boise",
-      "synopsis": "Aug 30 - PTT Boise",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ed72f053-0878-4587-ab1e-02987f022b93/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFVXV84R",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/hrr1zgjhyd/out/v1/82520659626d4421a05ce9578700b701/94a2a314-81c5-407d-b4e6-29a21dfde1be-cenc.mpd"
-      },
-      "drm_key": "9e53159c0e20028c8ea0ee2808a3286d:c065ea22b10706c3750efb0a11708e37"
     },
     {
       "match_id": "B0HF59LQFW",
