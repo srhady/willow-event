@@ -1,48 +1,23 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "11:32 PM 30-08-2026",
+    "LastUpdate": "12:02 AM 31-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 2,
-    "UpcomingCount": 18
+    "LiveCount": 1,
+    "UpcomingCount": 19
   },
   "Matches": [
-    {
-      "match_id": "B0GFY2D9KZ",
-      "title": "Pakistan tour of England 2026 - 2nd Test - England vs Pakistan",
-      "synopsis": "Pakistan tour of England 2026 - 2nd Test - England vs Pakistan",
-      "status": "LIVE",
-      "time": "3 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cbf8174b-2255-4e55-bddd-56fdef00143f/9/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0GFY2D9KZ?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
-      "is_free": false,
-      "stream_url_alpha": {
-        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jy9b0openb/out/v1/674b18b703a04811acc78665e53cdbcb/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jy9b0openb/out/v1/674b18b703a04811acc78665e53cdbcb/cenc.mpd",
-        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/jy9b0openb/out/v1/674b18b703a04811acc78665e53cdbcb/cenc.mpd",
-        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/jy9b0openb/out/v1/674b18b703a04811acc78665e53cdbcb/cenc.mpd",
-        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/jy9b0openb/out/v1/674b18b703a04811acc78665e53cdbcb/cenc.mpd"
-      },
-      "stream_url_bravo": {
-        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gbcn3a1nym/out/v1/273e7a901d7a4e09bf6a1f0d307e3840/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gbcn3a1nym/out/v1/273e7a901d7a4e09bf6a1f0d307e3840/cenc.mpd",
-        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/gbcn3a1nym/out/v1/273e7a901d7a4e09bf6a1f0d307e3840/cenc.mpd",
-        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gbcn3a1nym/out/v1/273e7a901d7a4e09bf6a1f0d307e3840/cenc.mpd",
-        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gbcn3a1nym/out/v1/273e7a901d7a4e09bf6a1f0d307e3840/cenc.mpd"
-      },
-      "drm_key": "9d4ccbb6df9c984e1b8f29a7d8872643:db4f102d7b730b9dac2450c50eb4bd6b"
-    },
     {
       "match_id": "B0HCL9X2KX",
       "title": "Womens Asia Cup 2026 - 3rd Match - India Women vs Thailand Women",
       "synopsis": "Womens Asia Cup 2026 - 3rd Match - India Women vs Thailand Women",
       "status": "LIVE",
       "time": "7:55 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9cf344ae-20ef-4af4-928f-cb2587d719af/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HCL9X2KX?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9cf344ae-20ef-4af4-928f-cb2587d719af/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HCL9X2KX?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
       "is_free": false,
       "stream_url_alpha": {
         "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7hpz2nuaay/out/v1/54335f6493944b3995bb44abc037aaab/cenc.mpd",
@@ -65,9 +40,21 @@
       "title": "Caribbean Premier League 2026 - 21st Match - St Kitts And Nevis Patriots vs Antigua And Barbuda Falcons",
       "synopsis": "Caribbean Premier League 2026 - 21st Match - St Kitts And Nevis Patriots vs Antigua And Barbuda Falcons",
       "status": "UPCOMING",
-      "time": "Tomorrow 5 AM BDT",
+      "time": "Live at 5 AM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6457e427-41e6-451f-bd5e-bfe8179a2245/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HC8FYJB3?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HC8FYJB3?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
+      "is_free": false,
+      "stream_url_alpha": "",
+      "drm_key": ""
+    },
+    {
+      "match_id": "B0GFY2D9KZ",
+      "title": "Pakistan tour of England 2026 - 2nd Test - England vs Pakistan",
+      "synopsis": "Pakistan tour of England 2026 - 2nd Test - England vs Pakistan",
+      "status": "UPCOMING",
+      "time": "Live at 3 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cbf8174b-2255-4e55-bddd-56fdef00143f/9/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0GFY2D9KZ?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -77,7 +64,7 @@
       "title": "Womens Asia Cup 2026 - 4th Match - Bangladesh Women vs Indonesia Women",
       "synopsis": "Womens Asia Cup 2026 - 4th Match - Bangladesh Women vs Indonesia Women",
       "status": "UPCOMING",
-      "time": "Tomorrow 8:30 PM BDT",
+      "time": "Live at 8:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.50ef58ec-487c-4173-981a-ab6eef2cc8e1/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0H68MZLN2?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
       "is_free": false,
@@ -89,7 +76,7 @@
       "title": "Caribbean Premier League 2026 - 22nd Match - Trinbago Knight Riders vs Jamaica Kingsmen",
       "synopsis": "Caribbean Premier League 2026 - 22nd Match - Trinbago Knight Riders vs Jamaica Kingsmen",
       "status": "UPCOMING",
-      "time": "Tue, Sep 1 3 AM BDT",
+      "time": "Tomorrow 3 AM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d81f8e75-1d23-4525-aa48-352f35304ac3/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HC4VFYJH?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_5",
       "is_free": false,
@@ -101,7 +88,7 @@
       "title": "Ireland Women tour of England 2026 - 1st ODI - England Women vs Ireland Women",
       "synopsis": "Ireland Women tour of England 2026 - 1st ODI - England Women vs Ireland Women",
       "status": "UPCOMING",
-      "time": "Tue, Sep 1 6 PM BDT",
+      "time": "Tomorrow 6 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c5540f96-10c1-42a6-882f-04fbaf4d995d/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HH484G7V?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_6",
       "is_free": false,
@@ -113,7 +100,7 @@
       "title": "European T20 Premier League 2026 - 9th Match - Glasgow Cosmics vs Rotterdam Dockers",
       "synopsis": "European T20 Premier League 2026 - 9th Match - Glasgow Cosmics vs Rotterdam Dockers",
       "status": "UPCOMING",
-      "time": "Tue, Sep 1 7:15 PM BDT",
+      "time": "Tomorrow 7:15 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2f4fb4f7-616a-4f36-bcca-ff8bc1883264/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HGYC31ZS?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_7",
       "is_free": false,
@@ -125,7 +112,7 @@
       "title": "Womens Asia Cup 2026 - 5th Match - Pakistan Women vs Thailand Women",
       "synopsis": "Womens Asia Cup 2026 - 5th Match - Pakistan Women vs Thailand Women",
       "status": "UPCOMING",
-      "time": "Tue, Sep 1 8:30 PM BDT",
+      "time": "Tomorrow 8:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c3dac555-2d40-4dd9-b866-f5e632d89b3d/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HCBZL3TL?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_8",
       "is_free": false,
