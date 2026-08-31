@@ -1,22 +1,39 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "12:32 AM 01-09-2026",
+    "LastUpdate": "01:02 AM 01-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 6,
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HFJ6DBT6",
+      "title": "Atalanta vs. Bologna",
+      "synopsis": "Atalanta vs. Bologna",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.139cd1c3-a96c-4620-9151-39180f8e800c/4/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFJ6DBT6",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd"
+      },
+      "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+    },
     {
       "match_id": "B0HG4SHY5N",
       "title": "Lecce vs. Roma",
       "synopsis": "Lecce vs. Roma",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.619f6a48-68d3-414e-ac40-34086d7baffb/4/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.619f6a48-68d3-414e-ac40-34086d7baffb/6/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HG4SHY5N",
       "is_free": false,
       "stream_url": {
@@ -71,6 +88,20 @@
         "Original Server": "https://a209live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqqO2ABhpqlScAA2Zha2FtYWkCeClzc2lkOmNhNGJmNGJkLTRjODItNGY0My04OTZmLTZmNDFiY2JmZDQ4MRkBOKEFoQJ4My9jZGJvaHB1djVoL291dC92MS83MGM0ODc5OTM2YjM0MmI1YjBlYmEwYjA4MjA3OTBlZRkBPIFiVVNYILQsk7jCy7Uy3VSxy6DLsfxZRlb9DUOoFjYUHhBbnS4Q/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/cdbohpuv5h/out/v1/70c4879936b342b5b0eba0b0820790ee/d0b484b5-fa0b-4957-af47-bcdd4b991417-cenc.mpd"
       },
       "drm_key": "21464a54295c2e1e80bb1443448b6dd6:5325d0a116c6515238fc2a2251c3b9b0"
+    },
+    {
+      "match_id": "B0HGKPFW45",
+      "title": "Aug 31 - PTT Waco",
+      "synopsis": "Aug 31 - PTT Waco",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b908f4c7-91cf-4cc2-bd19-8bde0be4f7db/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HGKPFW45",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/l0e9vx4cnt/out/v1/0726f10ed40440c2bbd906f8cc79310c/e68812f2-872e-463a-95e5-3832630683ad-cenc.mpd"
+      },
+      "drm_key": "526a6dd3e202b7e98821e2c05d3936f9:ba452d4510fde2a1f1efb1936d21ed60"
     }
   ]
 }
