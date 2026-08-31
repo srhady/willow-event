@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "03:32 AM 01-09-2026",
+    "LastUpdate": "04:02 AM 01-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -10,20 +10,6 @@
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HGP4L7L1",
-      "title": "Aug 31 - PTT Miami",
-      "synopsis": "Aug 31 - PTT Miami",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5114d085-1ba0-4234-b656-66f36edf6f35/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HGP4L7L1",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ubztsielpg/out/v1/d287f43c8be644a9b6b0cbd0c4fedca4/f07f235c-caf1-4980-83b5-203e7afc40f9-cenc.mpd"
-      },
-      "drm_key": "ed2b33ee2a4d98907f58213d0130815d:1cb77d4b48939c15e85b84143ec3edd8"
-    },
     {
       "match_id": "B0H31YN441",
       "title": "Aug 31 - PTT Waco Men",
@@ -37,6 +23,20 @@
         "Original Server": "https://a130live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqqatlBhpqleTlA2Zha2FtYWkCeClzc2lkOmM1ZTAyMzcxLTA3YjYtNDE1Yy04ZWZkLTRlMWMzZDVkY2FjZRkBOKEFoQJ4My83OHBrMzZ5M2d3L291dC92MS9lYzQ1MzliMDJjNTI0MmJjODE3MTI4MmNhYTQzZjhkZRkBPIFiVVNYIB4Pwskc3a2j8HaFTK33j5UWqf4AHUc1tDT7QRxW1KHS/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/78pk36y3gw/out/v1/ec4539b02c5242bc8171282caa43f8de/6dfcb7ff-d62e-4535-8843-d57b2ec1eae1-cenc.mpd"
       },
       "drm_key": "a4855e7f42c0a5f92646f269f9afb688:db6600689c462c234496f922d41f9489"
+    },
+    {
+      "match_id": "B0HGP4L7L1",
+      "title": "Aug 31 - PTT Miami",
+      "synopsis": "Aug 31 - PTT Miami",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5114d085-1ba0-4234-b656-66f36edf6f35/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HGP4L7L1",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ubztsielpg/out/v1/d287f43c8be644a9b6b0cbd0c4fedca4/f07f235c-caf1-4980-83b5-203e7afc40f9-cenc.mpd"
+      },
+      "drm_key": "ed2b33ee2a4d98907f58213d0130815d:1cb77d4b48939c15e85b84143ec3edd8"
     },
     {
       "match_id": "B0HGKPFW45",
