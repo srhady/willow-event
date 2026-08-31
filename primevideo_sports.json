@@ -1,28 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "09:02 AM 31-08-2026",
+    "LastUpdate": "09:32 AM 31-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 1,
+    "LiveCount": 0,
     "UpcomingCount": 0
   },
-  "Matches": [
-    {
-      "match_id": "B0HFVXV84R",
-      "title": "Aug 30 - PTT Boise",
-      "synopsis": "Aug 30 - PTT Boise",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ed72f053-0878-4587-ab1e-02987f022b93/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFVXV84R",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/xcmzb6v9zk/out/v1/0b7a58ea0c1e4c839d005e4a4fe5e162/893de6cf-de7e-4ebf-bcf9-b23f21322379-cenc.mpd"
-      },
-      "drm_key": "a0abbaf5361972fa91130766a5db9986:a8da19a17804002c5870d2bfe151386e"
-    }
-  ]
+  "Matches": []
 }
