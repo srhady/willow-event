@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "05:02 AM 02-09-2026",
+    "LastUpdate": "05:32 AM 02-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -28,20 +28,6 @@
       "drm_key": "8c8753a34518b7d3093885f956e7afd9:8a4a2f1accb3ac0f42ad1c1502ee833e"
     },
     {
-      "match_id": "B0HGJDZ4VV",
-      "title": "Sep 1 - PTT Waco",
-      "synopsis": "Sep 1 - PTT Waco",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.54269eae-3ed6-4382-ad6f-18f558ce3eba/8/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HGJDZ4VV",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a112live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WImmAWpwcmltZXZpZGVvBBpqqtmyBhpqlxMyA2Zha2FtYWkCeClzc2lkOmZkNDk4Njc5LThhYTUtNGVhMy1hN2MyLTYxMDNjODA4YTA1YRkBOKEFoQJ4My9rbGZma2pmbGhtL291dC92MS83NTM5N2E3NThhZjk0OGRmYjRmOTBhOWE0ODdhYjA1OVgg80DnO8BvUWG63Em8s_sfvcbwNQfrX0SJ2YHfWDDhpnM/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/klffkjflhm/out/v1/75397a758af948dfb4f90a9a487ab059/7f3e64f0-519a-4f2c-bd21-62b813759cca-cenc.mpd"
-      },
-      "drm_key": "5584a416c9f9744547a68eaed0ec92ed:ddb13add4266b7c39abbe95fbbda4889"
-    },
-    {
       "match_id": "B0HGBC7YF5",
       "title": "Defence Force vs. Club Sando",
       "synopsis": "Defence Force vs. Club Sando",
@@ -57,6 +43,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd"
       },
       "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+    },
+    {
+      "match_id": "B0HGJDZ4VV",
+      "title": "Sep 1 - PTT Waco",
+      "synopsis": "Sep 1 - PTT Waco",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.54269eae-3ed6-4382-ad6f-18f558ce3eba/8/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HGJDZ4VV",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a112live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WImmAWpwcmltZXZpZGVvBBpqqtmyBhpqlxMyA2Zha2FtYWkCeClzc2lkOmZkNDk4Njc5LThhYTUtNGVhMy1hN2MyLTYxMDNjODA4YTA1YRkBOKEFoQJ4My9rbGZma2pmbGhtL291dC92MS83NTM5N2E3NThhZjk0OGRmYjRmOTBhOWE0ODdhYjA1OVgg80DnO8BvUWG63Em8s_sfvcbwNQfrX0SJ2YHfWDDhpnM/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/klffkjflhm/out/v1/75397a758af948dfb4f90a9a487ab059/7f3e64f0-519a-4f2c-bd21-62b813759cca-cenc.mpd"
+      },
+      "drm_key": "5584a416c9f9744547a68eaed0ec92ed:ddb13add4266b7c39abbe95fbbda4889"
     },
     {
       "match_id": "B0HH447F69",
