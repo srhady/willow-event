@@ -1,10 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:12:02 AM 02-09-2026
+#LAST_UPDATE:12:32 AM 02-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:3
-#UPCOMING_COUNT:17
+#LIVE_COUNT:2
+#UPCOMING_COUNT:18
 
 #EXTINF:-1 tvg-id="B0HH484G7V" tvg-name="Ireland Women tour of England 2026 - 1st ODI - England Women vs Ireland Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c5540f96-10c1-42a6-882f-04fbaf4d995d/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Ireland Women tour of England 2026 - 1st ODI - England Women vs Ireland Women
 #KODIPROP:inputstream=inputstream.adaptive
@@ -13,17 +13,10 @@
 #KODIPROP:inputstream.adaptive.license_key=2a665d2f84c21a7707dd198b0a7aba9e:59c4e9ff29d18f72ebbac405f6a0ded6
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r5fp18xghb/out/v1/073157e272fe4f18a4f9b74f0d1aaeb8/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HGYC31ZS" tvg-name="European T20 Premier League 2026 - 9th Match - Glasgow Cosmics vs Rotterdam Dockers" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2f4fb4f7-616a-4f36-bcca-ff8bc1883264/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",European T20 Premier League 2026 - 9th Match - Glasgow Cosmics vs Rotterdam Dockers
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=264818e6bc33cab3a8abb362a41b18f3:163ec51316a2bdbfd73c9dc6efb6a41b
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f5xrqckyfz/out/v1/77e4be49e1a94c73a318a808a8121591/cenc.mpd
-
 #EXTINF:-1 tvg-id="B0HCBZL3TL" tvg-name="Womens Asia Cup 2026 - 5th Match - Pakistan Women vs Thailand Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c3dac555-2d40-4dd9-b866-f5e632d89b3d/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Asia Cup 2026 - 5th Match - Pakistan Women vs Thailand Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5c92a6434312eddbd619a7768c6ca83:4beb7aae28de326b77871519453cc8a4
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/izhke9a0pd/out/v1/44eafef0a0d0459e8691134fec46ad9c/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/izhke9a0pd/out/v1/44eafef0a0d0459e8691134fec46ad9c/cenc.mpd
 
