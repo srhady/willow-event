@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "06:32 PM 01-09-2026",
+    "LastUpdate": "07:02 PM 01-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 2,
+    "LiveCount": 3,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -40,6 +40,20 @@
         "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/b09weob82b/out/v1/5d2f0a807eee4008b89120b1704ec1e1/42947e63-6a14-405c-8ff3-eedbe86fc566-cenc.mpd"
       },
       "drm_key": "08ba5cf40c6a9491e2ab84818c43409a:856b724f1987791886f2a94ef796e2e0"
+    },
+    {
+      "match_id": "B0HH447F69",
+      "title": "Sep 1 - PTT Miami",
+      "synopsis": "Sep 1 - PTT Miami",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c355f7c8-dec0-45f3-a5ec-5ffe04f7dcd2/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HH447F69",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABEB3EGAAAAAAAAMEEIUHMNCIZFD2.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WI2mAWpwcmltZXZpZGVvBBpqqpNoBhpqlszoA2pjbG91ZGZyb250Angpc3NpZDo2MjZiYWMyYS01OTc1LTQ4OTgtYmI2OC1lNjg1NGQ5ODRjOTEZATihBaECeDMvYzRscmk3c2xlbC9vdXQvdjEvYWUxYjRmODdhOTFkNDc4ZGE0OWIzNTRjZTBmZmMyMWNYIMrJfMoQBCTK1f1V6lG-qMHnF_OYClJxj-u_QuYrkMGG/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/c4lri7slel/out/v1/ae1b4f87a91d478da49b354ce0ffc21c/c1553ff8-3226-4b17-a76a-5bf0d8f372da-cenc.mpd"
+      },
+      "drm_key": "0ee2eb31c93d9401241347c98073cb14:0172d1b5fe24575f24e082bd3a8732e8"
     }
   ]
 }
