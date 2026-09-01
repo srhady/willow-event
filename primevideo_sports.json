@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "10:32 PM 01-09-2026",
+    "LastUpdate": "11:02 PM 01-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -16,7 +16,7 @@
       "synopsis": "Parma vs. Cremonese",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ab70c526-2497-4bb6-8c10-c5794dce83c8/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ab70c526-2497-4bb6-8c10-c5794dce83c8/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HFJVQXW2",
       "is_free": false,
       "stream_url": {
@@ -74,20 +74,6 @@
         "Original Server": "https://ABEB3EGAAAAAAAAMEEIUHMNCIZFD2.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WI2mAWpwcmltZXZpZGVvBBpqqpNoBhpqlszoA2pjbG91ZGZyb250Angpc3NpZDo2MjZiYWMyYS01OTc1LTQ4OTgtYmI2OC1lNjg1NGQ5ODRjOTEZATihBaECeDMvYzRscmk3c2xlbC9vdXQvdjEvYWUxYjRmODdhOTFkNDc4ZGE0OWIzNTRjZTBmZmMyMWNYIMrJfMoQBCTK1f1V6lG-qMHnF_OYClJxj-u_QuYrkMGG/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/c4lri7slel/out/v1/ae1b4f87a91d478da49b354ce0ffc21c/c1553ff8-3226-4b17-a76a-5bf0d8f372da-cenc.mpd"
       },
       "drm_key": "0ee2eb31c93d9401241347c98073cb14:0172d1b5fe24575f24e082bd3a8732e8"
-    },
-    {
-      "match_id": "B0H3H6CJ7M",
-      "title": "Sep 1 - PTT Frankfurt",
-      "synopsis": "Sep 1 - PTT Frankfurt",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2deeaf04-8ef7-4ccd-8481-646aaf034235/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H3H6CJ7M",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/b09weob82b/out/v1/5d2f0a807eee4008b89120b1704ec1e1/42947e63-6a14-405c-8ff3-eedbe86fc566-cenc.mpd"
-      },
-      "drm_key": "08ba5cf40c6a9491e2ab84818c43409a:856b724f1987791886f2a94ef796e2e0"
     }
   ]
 }
