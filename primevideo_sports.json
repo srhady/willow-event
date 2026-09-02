@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "01:32 PM 02-09-2026",
+    "LastUpdate": "02:02 PM 02-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -10,20 +10,6 @@
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HGJDZ4VV",
-      "title": "Sep 1 - PTT Waco",
-      "synopsis": "Sep 1 - PTT Waco",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.54269eae-3ed6-4382-ad6f-18f558ce3eba/8/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HGJDZ4VV",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a112live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WImmAWpwcmltZXZpZGVvBBpqqtmyBhpqlxMyA2Zha2FtYWkCeClzc2lkOmZkNDk4Njc5LThhYTUtNGVhMy1hN2MyLTYxMDNjODA4YTA1YRkBOKEFoQJ4My9rbGZma2pmbGhtL291dC92MS83NTM5N2E3NThhZjk0OGRmYjRmOTBhOWE0ODdhYjA1OVgg80DnO8BvUWG63Em8s_sfvcbwNQfrX0SJ2YHfWDDhpnM/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/klffkjflhm/out/v1/75397a758af948dfb4f90a9a487ab059/7f3e64f0-519a-4f2c-bd21-62b813759cca-cenc.mpd"
-      },
-      "drm_key": "5584a416c9f9744547a68eaed0ec92ed:ddb13add4266b7c39abbe95fbbda4889"
-    },
     {
       "match_id": "B0HDV1JVGP",
       "title": "Sep 2 - PTT Frankfurt",
@@ -37,6 +23,20 @@
         "Original Server": "https://ABIAGFAAAAAAAAAMNTCLBNZWID5OY.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WI2mAWpwcmltZXZpZGVvBBpqq5CDBhpql8oDA2pjbG91ZGZyb250Angpc3NpZDo0YWU2NmQyZS03YjcyLTRkMmEtYTExYS1iNzU1YTVkOWEyNmQZATihBaECeDMvbzB3dnpzdmtieC9vdXQvdjEvZTZjZDM0ODFlYTIwNDFjODg2NDZjZjdmZDNmOWMzOThYIHuU7CBHnh2dMeRUGr4UjWZH8t4U6S9AUUMo1JIjEdn4/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/o0wvzsvkbx/out/v1/e6cd3481ea2041c88646cf7fd3f9c398/2328d62d-3c1f-4903-8dea-95e268cabe66-cenc.mpd"
       },
       "drm_key": "68f9515addf198735c32efbf6f90b058:ae0711c0da8fb20cf4e750fbd2686f9c"
+    },
+    {
+      "match_id": "B0HGJDZ4VV",
+      "title": "Sep 1 - PTT Waco",
+      "synopsis": "Sep 1 - PTT Waco",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.54269eae-3ed6-4382-ad6f-18f558ce3eba/8/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HGJDZ4VV",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a112live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WImmAWpwcmltZXZpZGVvBBpqqtmyBhpqlxMyA2Zha2FtYWkCeClzc2lkOmZkNDk4Njc5LThhYTUtNGVhMy1hN2MyLTYxMDNjODA4YTA1YRkBOKEFoQJ4My9rbGZma2pmbGhtL291dC92MS83NTM5N2E3NThhZjk0OGRmYjRmOTBhOWE0ODdhYjA1OVgg80DnO8BvUWG63Em8s_sfvcbwNQfrX0SJ2YHfWDDhpnM/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/klffkjflhm/out/v1/75397a758af948dfb4f90a9a487ab059/7f3e64f0-519a-4f2c-bd21-62b813759cca-cenc.mpd"
+      },
+      "drm_key": "5584a416c9f9744547a68eaed0ec92ed:ddb13add4266b7c39abbe95fbbda4889"
     }
   ]
 }
