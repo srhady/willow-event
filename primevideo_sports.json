@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "11:02 PM 02-09-2026",
+    "LastUpdate": "11:32 PM 02-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -62,20 +62,6 @@
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
-      "match_id": "B0HG6F1H15",
-      "title": "Sep 2 - PTT Miami",
-      "synopsis": "Sep 2 - PTT Miami",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bcadc1f9-54b1-4cd0-a807-2558e2a8fa03/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HG6F1H15",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/bai9qdwzq1/out/v1/223284155a4c4b1ba37789688bddaa0e/af1e8d7c-11fe-471b-b4df-bae0abb05baf-cenc.mpd"
-      },
-      "drm_key": "d54c3f9b803e612e727ef848535360c7:bf83048bf3b25d756eb3c427817c7ad1"
-    },
-    {
       "match_id": "B0HC8BP225",
       "title": "Sep 2 - PTT Waco",
       "synopsis": "Sep 2 - PTT Waco",
@@ -88,6 +74,20 @@
         "Original Server": "https://ABDJGZBAAAAAAAAMCEAXBDLYYNR43.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqrB0lBhpqmFalA2pjbG91ZGZyb250Angpc3NpZDpiNDlkOGFlYi0zMjdlLTQ2ZTItOGU5OS02YWU1MzE2ZGY0NGYZATihBaECeDMvZmhuYWhtbXZ0ay9vdXQvdjEvMDY5YjJhMWI5MmQ0NGE3MWIyN2EzODNlYTc0ODFkMTMZATyBYlVTWCAueK1OQgKrrzb6HHM_i1O3EhbwcA--ub6lQ7e6ESj1lw/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/fhnahmmvtk/out/v1/069b2a1b92d44a71b27a383ea7481d13/dee28a98-ba9d-4256-9827-04b8f5e68665-cenc.mpd"
       },
       "drm_key": "58440fc88246d80b859dc6cc96becff3:4054f23d56836bfe773be7c2e61c465e"
+    },
+    {
+      "match_id": "B0HG6F1H15",
+      "title": "Sep 2 - PTT Miami",
+      "synopsis": "Sep 2 - PTT Miami",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bcadc1f9-54b1-4cd0-a807-2558e2a8fa03/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HG6F1H15",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/bai9qdwzq1/out/v1/223284155a4c4b1ba37789688bddaa0e/af1e8d7c-11fe-471b-b4df-bae0abb05baf-cenc.mpd"
+      },
+      "drm_key": "d54c3f9b803e612e727ef848535360c7:bf83048bf3b25d756eb3c427817c7ad1"
     },
     {
       "match_id": "B0HDV1JVGP",
