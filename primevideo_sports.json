@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "10:32 PM 02-09-2026",
+    "LastUpdate": "11:02 PM 02-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 6,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -16,7 +16,7 @@
       "synopsis": "Udinese vs. Venezia",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b685881e-4368-44a3-adb7-bc3bec01ac05/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b685881e-4368-44a3-adb7-bc3bec01ac05/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HFKL3T4F",
       "is_free": false,
       "stream_url": {
@@ -74,6 +74,20 @@
         "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/bai9qdwzq1/out/v1/223284155a4c4b1ba37789688bddaa0e/af1e8d7c-11fe-471b-b4df-bae0abb05baf-cenc.mpd"
       },
       "drm_key": "d54c3f9b803e612e727ef848535360c7:bf83048bf3b25d756eb3c427817c7ad1"
+    },
+    {
+      "match_id": "B0HC8BP225",
+      "title": "Sep 2 - PTT Waco",
+      "synopsis": "Sep 2 - PTT Waco",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.50eaf63c-13c0-4ac7-90b0-e59542deb4c8/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HC8BP225",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABDJGZBAAAAAAAAMCEAXBDLYYNR43.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqrB0lBhpqmFalA2pjbG91ZGZyb250Angpc3NpZDpiNDlkOGFlYi0zMjdlLTQ2ZTItOGU5OS02YWU1MzE2ZGY0NGYZATihBaECeDMvZmhuYWhtbXZ0ay9vdXQvdjEvMDY5YjJhMWI5MmQ0NGE3MWIyN2EzODNlYTc0ODFkMTMZATyBYlVTWCAueK1OQgKrrzb6HHM_i1O3EhbwcA--ub6lQ7e6ESj1lw/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/fhnahmmvtk/out/v1/069b2a1b92d44a71b27a383ea7481d13/dee28a98-ba9d-4256-9827-04b8f5e68665-cenc.mpd"
+      },
+      "drm_key": "58440fc88246d80b859dc6cc96becff3:4054f23d56836bfe773be7c2e61c465e"
     },
     {
       "match_id": "B0HDV1JVGP",
