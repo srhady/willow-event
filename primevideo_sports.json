@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "12:32 PM 03-09-2026",
+    "LastUpdate": "01:03 PM 03-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 2,
+    "LiveCount": 3,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -25,18 +25,35 @@
       "drm_key": "c53dc021be58bf4fb516f4ce7ed786d7:d914011b4f37727818154de2048ff462"
     },
     {
-      "match_id": "B0HC4VN3X4",
-      "title": "Leagues Cup El Resumen",
-      "synopsis": "Leagues Cup El Resumen",
+      "match_id": "B0HFV6GK9Q",
+      "title": "Taranaki v Auckland",
+      "synopsis": "Taranaki v Auckland",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9bcad2b5-119e-4312-a702-a05b7ca81024/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HC4VN3X4",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3e6a0372-f913-48f1-9193-f871284f0a03/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFV6GK9Q",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://ABKZVU3AAAAAAAAMGCEVBZO7KHD7F.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqrNPxBhpqmQ1xA2pjbG91ZGZyb250Angpc3NpZDowY2U4MDc4MC1hZjg1LTQ5ZWYtYjgxZi1mYzNjYTM2YzYzYWUZATihBaECeDMvaDVreXJ5YjZiZi9vdXQvdjEvNGI3MGZjNGFjYmJlNDM0ZTkyOTg4OTk5MzVhZjVlNTAZATyBYlVTWCDsxLeTm6dhJERDsVDx-6WbhBVm3QT76p-3tX-HamLCKA/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/h5kyryb6bf/out/v1/4b70fc4acbbe434e9298899935af5e50/1695d3d1-a287-43ae-b6bc-2111307f5d92-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd"
       },
-      "drm_key": "b279def93e6728cf19a24ade712699ff:dc205e2ef8503612ffe5a93a04c6612a"
+      "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
+    },
+    {
+      "match_id": "B0GSRSGZQ2",
+      "title": "Sep 3 - PTT Frankfurt",
+      "synopsis": "Sep 3 - PTT Frankfurt",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b423a1c6-34a4-4bd2-a884-91524f69ad2d/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0GSRSGZQ2",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a26live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqrOIrBhpqmRurA2Zha2FtYWkCeClzc2lkOjEyN2JmYjExLWY4ZWItNDNjMC05MjkzLWVlYTIxZTI1OWQ1YhkBOKEFoQJ4My95YWZoamxhMmswL291dC92MS8yOTRhYWY1YTRhY2E0ODQwOWFhZjUyZmE1MTIyM2JhZBkBPIFiVVNYII1AalElHBkbmYru_feQODlRhVALnR7bIfav6CGQltlk/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/yafhjla2k0/out/v1/294aaf5a4aca48409aaf52fa51223bad/f67b54b6-5fed-415a-90db-c51054d5f03e-cenc.mpd"
+      },
+      "drm_key": "6a5905b83c5993be480cb21d376007d9:18a3bb073fd1bf67c1edfbedbe8f79b8"
     }
   ]
 }
