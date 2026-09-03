@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "09:02 PM 03-09-2026",
+    "LastUpdate": "09:32 PM 03-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -26,20 +26,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd"
       },
       "drm_key": "2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72"
-    },
-    {
-      "match_id": "B0HC5Z7MZ9",
-      "title": "F1 Weekend Warm-Up",
-      "synopsis": "F1 Weekend Warm-Up",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.a876ab5a-e442-4ee2-a90d-dd5bbcea7a0d/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HC5Z7MZ9",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a88live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqrUt6BhpqmYT6A2Zha2FtYWkCeClzc2lkOjQyYWEzOWVhLWFkYTMtNDY5My05M2I4LTgyMjMwMzAxZmE2MxkBOKEFoQJ4My91bmowcWhubGc2L291dC92MS85MTI5ZmZiZDY0Mjc0NWI1OTg0ZjgyYzk3NTI2NDM2MxkBPIFiVVNYINr9gZikcZtA0vrc4y-TdaFf4Vz9QXrTblRDvBMRFQrY/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/unj0qhnlg6/out/v1/9129ffbd642745b5984f82c975264363/c33c796d-b4ac-4306-a514-7100f020512f-cenc.mpd"
-      },
-      "drm_key": "f80768dc036e7477f4d9929c5f8e733b:6d8be0f685f36b955bf682b167fb2899"
     },
     {
       "match_id": "B0HH13S8H7",
