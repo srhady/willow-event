@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "06:02 PM 03-09-2026",
+    "LastUpdate": "06:32 PM 03-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -28,20 +28,6 @@
       "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
     },
     {
-      "match_id": "B0GSRSGZQ2",
-      "title": "Sep 3 - PTT Frankfurt",
-      "synopsis": "Sep 3 - PTT Frankfurt",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b423a1c6-34a4-4bd2-a884-91524f69ad2d/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0GSRSGZQ2",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a26live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqrOIrBhpqmRurA2Zha2FtYWkCeClzc2lkOjEyN2JmYjExLWY4ZWItNDNjMC05MjkzLWVlYTIxZTI1OWQ1YhkBOKEFoQJ4My95YWZoamxhMmswL291dC92MS8yOTRhYWY1YTRhY2E0ODQwOWFhZjUyZmE1MTIyM2JhZBkBPIFiVVNYII1AalElHBkbmYru_feQODlRhVALnR7bIfav6CGQltlk/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/yafhjla2k0/out/v1/294aaf5a4aca48409aaf52fa51223bad/f67b54b6-5fed-415a-90db-c51054d5f03e-cenc.mpd"
-      },
-      "drm_key": "6a5905b83c5993be480cb21d376007d9:18a3bb073fd1bf67c1edfbedbe8f79b8"
-    },
-    {
       "match_id": "B0HFX44JLX",
       "title": "2nd ODI: England vs Ireland",
       "synopsis": "2nd ODI: England vs Ireland",
@@ -57,6 +43,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
       },
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
+      "match_id": "B0GSRSGZQ2",
+      "title": "Sep 3 - PTT Frankfurt",
+      "synopsis": "Sep 3 - PTT Frankfurt",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b423a1c6-34a4-4bd2-a884-91524f69ad2d/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0GSRSGZQ2",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a26live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqrOIrBhpqmRurA2Zha2FtYWkCeClzc2lkOjEyN2JmYjExLWY4ZWItNDNjMC05MjkzLWVlYTIxZTI1OWQ1YhkBOKEFoQJ4My95YWZoamxhMmswL291dC92MS8yOTRhYWY1YTRhY2E0ODQwOWFhZjUyZmE1MTIyM2JhZBkBPIFiVVNYII1AalElHBkbmYru_feQODlRhVALnR7bIfav6CGQltlk/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/yafhjla2k0/out/v1/294aaf5a4aca48409aaf52fa51223bad/f67b54b6-5fed-415a-90db-c51054d5f03e-cenc.mpd"
+      },
+      "drm_key": "6a5905b83c5993be480cb21d376007d9:18a3bb073fd1bf67c1edfbedbe8f79b8"
     }
   ]
 }
