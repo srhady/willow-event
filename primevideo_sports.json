@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "07:32 PM 03-09-2026",
+    "LastUpdate": "08:02 PM 03-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 3,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -43,6 +43,37 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
       },
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
+      "match_id": "B0HFYJMXLP",
+      "title": "PPA Tour: Cary-Round of 16",
+      "synopsis": "PPA Tour: Cary-Round of 16",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.2a1f8dc1-dd6b-4664-8ccc-e51626f31333/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFYJMXLP",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd"
+      },
+      "drm_key": "2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72"
+    },
+    {
+      "match_id": "B0HFGD2DVC",
+      "title": "Sep 3 - PTT Miami",
+      "synopsis": "Sep 3 - PTT Miami",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.74583b4d-5ec9-4ba1-be36-307262835302/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFGD2DVC",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABIO57LAAAAAAAAMPRLYB3F4A7OAY.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqrUR3BhpqmX33A2pjbG91ZGZyb250Angpc3NpZDo1NTkyZTZlMi05NGYxLTRhN2YtYmJhZC1kZjAxMzZkM2ZhZmIZATihBaECeDMva3I4cnRrN3hyYS9vdXQvdjEvYWNlZTdiNDUyZmQ0NDFmMWE2MTRkZTRjODNlNDlkMjAZATyBYlVTWCBx4I0RFYZeeGGpbYSaeJ5Jvpo-Wh9vvkUi9BDL4xQHig/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/kr8rtk7xra/out/v1/acee7b452fd441f1a614de4c83e49d20/54ae8c30-5a94-4f51-bdfa-c13ece70a809-cenc.mpd"
+      },
+      "drm_key": "eb6b2117317cf30330cd8159ee7abce8:ba8067ebd13f56764e31518225c1efe6"
     },
     {
       "match_id": "B0GSRSGZQ2",
