@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "07:32 PM 04-09-2026",
+    "LastUpdate": "08:02 PM 04-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 19
+    "LiveCount": 2,
+    "UpcomingCount": 18
   },
   "Matches": [
     {
@@ -39,13 +39,26 @@
       "match_id": "B0HGSXJ9YD",
       "title": "Womens Asia Cup 2026 - 8th Match - United Arab Emirates Women vs Indonesia Women",
       "synopsis": "Womens Asia Cup 2026 - 8th Match - United Arab Emirates Women vs Indonesia Women",
-      "status": "UPCOMING",
-      "time": "Live at 7:55 PM BDT",
+      "status": "LIVE",
+      "time": "7:55 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e3215586-84d0-4862-a1da-77a91b7f34c8/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HGSXJ9YD?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m1fnfwm4fe/out/v1/5cf7b4ace31d4cbdae5e00021c0fe6e8/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m1fnfwm4fe/out/v1/5cf7b4ace31d4cbdae5e00021c0fe6e8/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/m1fnfwm4fe/out/v1/5cf7b4ace31d4cbdae5e00021c0fe6e8/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/m1fnfwm4fe/out/v1/5cf7b4ace31d4cbdae5e00021c0fe6e8/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/m1fnfwm4fe/out/v1/5cf7b4ace31d4cbdae5e00021c0fe6e8/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/llm7bx0nly/out/v1/1a697966454b4a3fa149b2815ceecff4/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/llm7bx0nly/out/v1/1a697966454b4a3fa149b2815ceecff4/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/llm7bx0nly/out/v1/1a697966454b4a3fa149b2815ceecff4/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/llm7bx0nly/out/v1/1a697966454b4a3fa149b2815ceecff4/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/llm7bx0nly/out/v1/1a697966454b4a3fa149b2815ceecff4/cenc.mpd"
+      },
+      "drm_key": "709d27a43d7e5336e76d0395ee9b04a8:b109a68de85b07d60fdc13bfbed8f684"
     },
     {
       "match_id": "B0HCTZ4BR6",
