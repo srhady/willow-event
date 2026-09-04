@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "07:02 PM 04-09-2026",
+    "LastUpdate": "07:32 PM 04-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 3,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -28,18 +28,21 @@
       "drm_key": "e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052"
     },
     {
-      "match_id": "B0HFZSLZ4C",
-      "title": "Sep 4 - PTT Frankfurt",
-      "synopsis": "Sep 4 - PTT Frankfurt",
+      "match_id": "B0HGR8F57C",
+      "title": "ONE Friday Fights 169",
+      "synopsis": "ONE Friday Fights 169",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a5caf01a-14bf-4631-bf5a-95c8fe778172/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFZSLZ4C",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.850d00aa-af01-4ba3-80b8-b587d7fe0c1b/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HGR8F57C",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://ABKZNXVAAAAAAAAMEE7BDSIZ46HZP.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqrjOIBhpqmm0IA2pjbG91ZGZyb250Angpc3NpZDoxZTRlYzhlZC1iOTMxLTQ5MmItYTYwYi0zNjI3ZmQ0ZjFmNTcZATihBaECeDMvZmVpYm1yenZ3dS9vdXQvdjEvMjhkODFjYTZmODlmNGY2Mzk1NDQ0NzZhYzk1ODAyZjkZATyBYlVTWCDTUNklPmci6QEE_Igll-sDlAjU35XyQyjJ8N-pZ3q5MA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/feibmrzvwu/out/v1/28d81ca6f89f4f639544476ac95802f9/711a3ac6-11c8-4cd2-9641-de23c81c5f7d-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/glqgccsvmt/out/v1/fe4f9d2a0a86421c8f497c1fefed9fea/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/glqgccsvmt/out/v1/fe4f9d2a0a86421c8f497c1fefed9fea/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/glqgccsvmt/out/v1/fe4f9d2a0a86421c8f497c1fefed9fea/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/glqgccsvmt/out/v1/fe4f9d2a0a86421c8f497c1fefed9fea/cenc.mpd"
       },
-      "drm_key": "f7b2bc21ea3e8dcd74af1c432f3bd4f3:0cfa7d78ca1a45972e586fe0dc0e3b4c"
+      "drm_key": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d"
     },
     {
       "match_id": "B0HGYNDYZB",
@@ -54,6 +57,20 @@
         "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/autgbh9y32/out/v1/c045f5a6fda4443c98ea677986d49b3e/ed8ef55b-1185-4b3c-9657-3bb7cb7e739d-cenc.mpd"
       },
       "drm_key": "8ceba8d4d950fb2a381fd7f3b2de9d25:6d33e69b0aee18e405663b14e88ee94c"
+    },
+    {
+      "match_id": "B0HFZSLZ4C",
+      "title": "Sep 4 - PTT Frankfurt",
+      "synopsis": "Sep 4 - PTT Frankfurt",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a5caf01a-14bf-4631-bf5a-95c8fe778172/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFZSLZ4C",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABKZNXVAAAAAAAAMEE7BDSIZ46HZP.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqrjOIBhpqmm0IA2pjbG91ZGZyb250Angpc3NpZDoxZTRlYzhlZC1iOTMxLTQ5MmItYTYwYi0zNjI3ZmQ0ZjFmNTcZATihBaECeDMvZmVpYm1yenZ3dS9vdXQvdjEvMjhkODFjYTZmODlmNGY2Mzk1NDQ0NzZhYzk1ODAyZjkZATyBYlVTWCDTUNklPmci6QEE_Igll-sDlAjU35XyQyjJ8N-pZ3q5MA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/feibmrzvwu/out/v1/28d81ca6f89f4f639544476ac95802f9/711a3ac6-11c8-4cd2-9641-de23c81c5f7d-cenc.mpd"
+      },
+      "drm_key": "f7b2bc21ea3e8dcd74af1c432f3bd4f3:0cfa7d78ca1a45972e586fe0dc0e3b4c"
     }
   ]
 }
