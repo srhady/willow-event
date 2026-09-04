@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "09:32 PM 04-09-2026",
+    "LastUpdate": "10:02 PM 04-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -10,20 +10,6 @@
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HC6HWS3J",
-      "title": "Italy: Practice 2",
-      "synopsis": "Italy: Practice 2",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.20b0c20a-9cad-410f-954d-582d95a335b6/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HC6HWS3J",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a97live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqrpXyBhpqms9yA2Zha2FtYWkCeClzc2lkOjkxNzFlMDUwLTY4YjEtNDBjNi1hMjhjLWZiNGViMDQ3YzllMRkBOKEFoQJ4My9ramlvZjI3OGhrL291dC92MS9iMjVjMWE1ZDk2NDQ0YjdiYmUyNDQwMDhlMmU1NDkxYhkBPIFiVVNYIG8lG3Qp12iRP-1GeAnrHn4_GxAat6XJJOT8-6g03ZDG/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/kjiof278hk/out/v1/b25c1a5d96444b7bbe244008e2e5491b/f0365b20-0ce9-463d-91d2-7893acbb624c-cenc.mpd"
-      },
-      "drm_key": "245882152a75963fe55c1a3c6a15b87f:5a4494bf9acab8596af1f2f398f6a3c5"
-    },
     {
       "match_id": "B0HGR8F57C",
       "title": "ONE Friday Fights 169",
@@ -88,6 +74,20 @@
         "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/autgbh9y32/out/v1/c045f5a6fda4443c98ea677986d49b3e/ed8ef55b-1185-4b3c-9657-3bb7cb7e739d-cenc.mpd"
       },
       "drm_key": "8ceba8d4d950fb2a381fd7f3b2de9d25:6d33e69b0aee18e405663b14e88ee94c"
+    },
+    {
+      "match_id": "B0HG3PB1DD",
+      "title": "Sep 4 - PTT Waco",
+      "synopsis": "Sep 4 - PTT Waco",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.925ac25b-77b2-4770-a06c-692f885e59f5/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HG3PB1DD",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABAJGSVAAAAAAAAMG4PSD4JV7VBDJ.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WI2mAWpwcmltZXZpZGVvBBpqrrITBhpqmuuTA2pjbG91ZGZyb250Angpc3NpZDplZDY2NjRjNS1kMzlmLTQ5NjQtOGEwOS1lNjg3YWM5YzcyNzcZATihBaECeDMvdWZuYWd2dTF3dC9vdXQvdjEvZTQwYjNiZjY4MTJhNGRkNjlhNDk5NzAwZDA5NTBkN2FYIA6Sc2T4JUyz3Dx8-ThCOlQvljCBCbLadpkKxOsQeQDs/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ufnagvu1wt/out/v1/e40b3bf6812a4dd69a499700d0950d7a/16c7aa07-566e-46d4-99e2-79078932dfef-cenc.mpd"
+      },
+      "drm_key": "56ec06c9f0180ddae02aeda877362f3c:fbf533f8f63b7f6b11b145ae5c3b3882"
     }
   ]
 }
