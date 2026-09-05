@@ -1,15 +1,22 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:07:32 PM 05-09-2026
+#LAST_UPDATE:08:02 PM 05-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:1
-#UPCOMING_COUNT:19
+#LIVE_COUNT:2
+#UPCOMING_COUNT:18
 
 #EXTINF:-1 tvg-id="B0HFRY1PGJ" tvg-name="European T20 Premier League 2026 - 15th Match - Dublin Guardians vs Amsterdam Flames" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cf4dbf3f-d3e1-447b-833b-93a9031dc6fd/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",European T20 Premier League 2026 - 15th Match - Dublin Guardians vs Amsterdam Flames
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f0d01ac1817a13b581b0144822f4818:bb771380eea40f9a03988d3a95ad64e0
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ub8aqevvss/out/v1/2766196ba194474b85344af46b0a8aa7/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ub8aqevvss/out/v1/2766196ba194474b85344af46b0a8aa7/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HGMMXZ7F" tvg-name="Womens Asia Cup 2026 - 9th Match - India Women vs Pakistan Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6d4d2949-8262-4a7d-bb34-8978a7dc51fd/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Asia Cup 2026 - 9th Match - India Women vs Pakistan Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d6a3830c0755c2206c7195dc79e9fab:020e15733b54647987f4d817b83800bb
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zsacoaqe5t/out/v1/55dc11670aaf42e3b714a88842862e82/cenc.mpd
 
