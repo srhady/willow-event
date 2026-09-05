@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "12:32 PM 05-09-2026",
+    "LastUpdate": "01:02 PM 05-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 1,
+    "LiveCount": 3,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -26,6 +26,37 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd"
       },
       "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
+    },
+    {
+      "match_id": "B0HFBB7SS5",
+      "title": "Waikato v Canterbury",
+      "synopsis": "Waikato v Canterbury",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.09adc1bd-aa29-432c-9850-9733db74be0b/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFBB7SS5",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd"
+      },
+      "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
+    },
+    {
+      "match_id": "B0HG78KDTG",
+      "title": "Sep 5 - PTT Frankfurt",
+      "synopsis": "Sep 5 - PTT Frankfurt",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9066fd85-6dd1-4e38-ae71-f0f83318c2e2/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HG78KDTG",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a56live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqr4UCBhpqm76CA2Zha2FtYWkCeClzc2lkOjkzOTE2Y2ZiLTFhMTMtNGFiMi1hNzNiLWJlYmQwYWFhNWE2YRkBOKEFoQJ4My9rZHpmZWNiMnRlL291dC92MS84MTZmNjdkY2NlNmI0OGRmOTc2NDllOGI1MDg2ZjJmOBkBPIFiVVNYIMq8YPndvoNcZPVWMNHP0xxYWCOWtVOvV8-OIrDLHnWP/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/kdzfecb2te/out/v1/816f67dcce6b48df97649e8b5086f2f8/73f611f6-b414-436f-96b5-a6ec877a08e4-cenc.mpd"
+      },
+      "drm_key": "6cc179255fb8a0752f6f79ba8487cad4:b2d03c4b224c13a10fcff1dc2f152173"
     }
   ]
 }
