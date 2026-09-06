@@ -1,26 +1,19 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:12:02 AM 07-09-2026
+#LAST_UPDATE:12:32 AM 07-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:3
-#UPCOMING_COUNT:17
-
-#EXTINF:-1 tvg-id="B0HGVRHLNH" tvg-name="Womens Caribbean Premier League 2026 - 2nd Match - Jamaica Empress Women vs Guyana Amazon Warriors Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.effe4740-0a03-411f-8cb1-41cd38afd286/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Caribbean Premier League 2026 - 2nd Match - Jamaica Empress Women vs Guyana Amazon Warriors Women
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=32eebf5858f0af48f29b6f5ad021dd33:873db6ff3445cb92a5a9090bba44c67e
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/cnydncqk2i/out/v1/8707627b31324816bc153597a1269eb2/cenc.mpd
+#LIVE_COUNT:2
+#UPCOMING_COUNT:18
 
 #EXTINF:-1 tvg-id="B0H4CWWSZY" tvg-name="Womens Asia Cup 2026 - 10th Match - Sri Lanka Women vs Bangladesh Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.546e26ad-4999-44e1-8dfb-d6a0d1dbb9a7/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Asia Cup 2026 - 10th Match - Sri Lanka Women vs Bangladesh Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=35685a3096b1e97a9e94a58fe59e195e:76c135928d6b9bb5d3a492c9ef546958
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dqziy3zhl0/out/v1/3771aa137e904907860eadab578c406d/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dqziy3zhl0/out/v1/3771aa137e904907860eadab578c406d/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HCXKWCQ3" tvg-name="Caribbean Premier League 2026 - 28th Match - Guyana Amazon Warriors vs St Kitts And Nevis Patriots" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.12cc25f7-2cdc-4617-94b7-1042fc0b6d9a/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Caribbean Premier League 2026 - 28th Match - Guyana Amazon Warriors vs St Kitts And Nevis Patriots
+#EXTINF:-1 tvg-id="B0HCXKWCQ3" tvg-name="Caribbean Premier League 2026 - 28th Match - Guyana Amazon Warriors vs St Kitts And Nevis Patriots" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.12cc25f7-2cdc-4617-94b7-1042fc0b6d9a/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Caribbean Premier League 2026 - 28th Match - Guyana Amazon Warriors vs St Kitts And Nevis Patriots
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
