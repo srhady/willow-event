@@ -1,25 +1,30 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "02:32 PM 06-09-2026",
+    "LastUpdate": "03:02 PM 06-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 0,
-    "UpcomingCount": 20
+    "LiveCount": 1,
+    "UpcomingCount": 19
   },
   "Matches": [
     {
       "match_id": "B0HGM11XTY",
       "title": "European T20 Premier League 2026 - 16th Match - Glasgow Cosmics vs Edinburgh Castle Rockers",
       "synopsis": "European T20 Premier League 2026 - 16th Match - Glasgow Cosmics vs Edinburgh Castle Rockers",
-      "status": "UPCOMING",
-      "time": "Live at 3:30 PM BDT",
+      "status": "LIVE",
+      "time": "2:50 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.99c2851d-fd32-4b63-b266-fb5b688d504b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HGM11XTY?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
       "is_free": false,
-      "stream_url_alpha": "",
+      "stream_url_alpha": {
+        "Original Server": "https://a196live-emt-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqsPKfBhpqnSwfA2Zha2FtYWkCeClzc2lkOjgyMzBhZmUwLTIxNWYtNDZhNy1iNGU5LWE0ZDQwMzk2NDY3MhkBOKEFoQJ4My9ucW1oODIzb213L291dC92MS84NDIyMDcxYzE2MjI0ZWVjOWRkNjc4NGExMGZjNGQ1ZhkBPIFiVVNYIMwvdcmcxHuWofZ0pP2d7mrhggucAGcMBbmaCI6L8mAo/IAD/19680cec67744369b9c40cfbd34a141c/v1/dash/746463508834/willowtvus_live_amzn1_dv_live_csid_a8542b17-5103-4775-912d-26fa6d85ee70_us-east-1_iad_dash_h264_none_stereo/live/clients/dash/enc/nqmh823omw/out/v1/8422071c16224eec9dd6784a10fc4d5f/cenc.mpd?aws.sessionId=a08ceec2-3359-4a9f-be0c-4ffff178de3a"
+      },
+      "stream_url_bravo": {
+        "Original Server": "https://emt-fastly.live.pv-cdn.net/PDX/d68395379dba4715b364a51a25364031/v1/dash/746463508834/willowtvus_live_amzn1_dv_live_csid_a8542b17-5103-4775-912d-26fa6d85ee70_us-west-2_pdx_dash_h264_none_stereo/live/clients/dash/enc/seoc0u2gu8/out/v1/d74488f0fe394d33b93f5b753b9dc0a3/cenc.mpd?aws.sessionId=ad4e9ba4-f1dd-4dd9-a406-d670932be471"
+      },
       "drm_key": ""
     },
     {
