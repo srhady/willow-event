@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "07:32 PM 06-09-2026",
+    "LastUpdate": "08:02 PM 06-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 2,
-    "UpcomingCount": 18
+    "LiveCount": 5,
+    "UpcomingCount": 15
   },
   "Matches": [
     {
@@ -61,40 +61,79 @@
       "drm_key": "35b232c321e2f405a140441419ad6bb8:bc22f933ebaca81b34891dc76c5ee815"
     },
     {
-      "match_id": "B0HCXKWCQ3",
-      "title": "Caribbean Premier League 2026 - 28th Match - Guyana Amazon Warriors vs St Kitts And Nevis Patriots",
-      "synopsis": "Caribbean Premier League 2026 - 28th Match - Guyana Amazon Warriors vs St Kitts And Nevis Patriots",
-      "status": "UPCOMING",
-      "time": "Live at 8 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.12cc25f7-2cdc-4617-94b7-1042fc0b6d9a/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HCXKWCQ3?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
-      "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
-    },
-    {
       "match_id": "B0HGVRHLNH",
       "title": "Womens Caribbean Premier League 2026 - 2nd Match - Jamaica Empress Women vs Guyana Amazon Warriors Women",
       "synopsis": "Womens Caribbean Premier League 2026 - 2nd Match - Jamaica Empress Women vs Guyana Amazon Warriors Women",
-      "status": "UPCOMING",
-      "time": "Live at 8 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.effe4740-0a03-411f-8cb1-41cd38afd286/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HGVRHLNH?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
+      "status": "LIVE",
+      "time": "7:30 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.effe4740-0a03-411f-8cb1-41cd38afd286/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HGVRHLNH?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/cnydncqk2i/out/v1/8707627b31324816bc153597a1269eb2/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/cnydncqk2i/out/v1/8707627b31324816bc153597a1269eb2/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/cnydncqk2i/out/v1/8707627b31324816bc153597a1269eb2/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/cnydncqk2i/out/v1/8707627b31324816bc153597a1269eb2/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/cnydncqk2i/out/v1/8707627b31324816bc153597a1269eb2/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/owrjvjtmy0/out/v1/e30ad95444384df6bd0d4acf43068f9e/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/owrjvjtmy0/out/v1/e30ad95444384df6bd0d4acf43068f9e/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/owrjvjtmy0/out/v1/e30ad95444384df6bd0d4acf43068f9e/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/owrjvjtmy0/out/v1/e30ad95444384df6bd0d4acf43068f9e/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/owrjvjtmy0/out/v1/e30ad95444384df6bd0d4acf43068f9e/cenc.mpd"
+      },
+      "drm_key": "32eebf5858f0af48f29b6f5ad021dd33:873db6ff3445cb92a5a9090bba44c67e"
     },
     {
       "match_id": "B0H4CWWSZY",
       "title": "Womens Asia Cup 2026 - 10th Match - Sri Lanka Women vs Bangladesh Women",
       "synopsis": "Womens Asia Cup 2026 - 10th Match - Sri Lanka Women vs Bangladesh Women",
-      "status": "UPCOMING",
-      "time": "Live at 8:30 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.546e26ad-4999-44e1-8dfb-d6a0d1dbb9a7/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H4CWWSZY?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_5",
+      "status": "LIVE",
+      "time": "7:50 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.546e26ad-4999-44e1-8dfb-d6a0d1dbb9a7/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H4CWWSZY?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dqziy3zhl0/out/v1/3771aa137e904907860eadab578c406d/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dqziy3zhl0/out/v1/3771aa137e904907860eadab578c406d/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/dqziy3zhl0/out/v1/3771aa137e904907860eadab578c406d/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dqziy3zhl0/out/v1/3771aa137e904907860eadab578c406d/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dqziy3zhl0/out/v1/3771aa137e904907860eadab578c406d/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ocu0cpb2cs/out/v1/a1f13143a4cd4849a358237ab83e15b7/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ocu0cpb2cs/out/v1/a1f13143a4cd4849a358237ab83e15b7/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ocu0cpb2cs/out/v1/a1f13143a4cd4849a358237ab83e15b7/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ocu0cpb2cs/out/v1/a1f13143a4cd4849a358237ab83e15b7/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ocu0cpb2cs/out/v1/a1f13143a4cd4849a358237ab83e15b7/cenc.mpd"
+      },
+      "drm_key": "35685a3096b1e97a9e94a58fe59e195e:76c135928d6b9bb5d3a492c9ef546958"
+    },
+    {
+      "match_id": "B0HCXKWCQ3",
+      "title": "Caribbean Premier League 2026 - 28th Match - Guyana Amazon Warriors vs St Kitts And Nevis Patriots",
+      "synopsis": "Caribbean Premier League 2026 - 28th Match - Guyana Amazon Warriors vs St Kitts And Nevis Patriots",
+      "status": "LIVE",
+      "time": "8 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.12cc25f7-2cdc-4617-94b7-1042fc0b6d9a/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HCXKWCQ3?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_5",
+      "is_free": false,
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a8w6wgfr5q/out/v1/7a7423fb7cd74c78b45f5f794d977942/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a8w6wgfr5q/out/v1/7a7423fb7cd74c78b45f5f794d977942/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/a8w6wgfr5q/out/v1/7a7423fb7cd74c78b45f5f794d977942/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/a8w6wgfr5q/out/v1/7a7423fb7cd74c78b45f5f794d977942/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/a8w6wgfr5q/out/v1/7a7423fb7cd74c78b45f5f794d977942/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fvd7gcsysl/out/v1/b79b1f7f106f48b4a638d3ed25df2801/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fvd7gcsysl/out/v1/b79b1f7f106f48b4a638d3ed25df2801/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/fvd7gcsysl/out/v1/b79b1f7f106f48b4a638d3ed25df2801/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/fvd7gcsysl/out/v1/b79b1f7f106f48b4a638d3ed25df2801/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/fvd7gcsysl/out/v1/b79b1f7f106f48b4a638d3ed25df2801/cenc.mpd"
+      },
+      "drm_key": "496c0620ac8432f5bb4b5172e5a390ea:95cb4176cfc7f814f15c81f8fde53cb8"
     },
     {
       "match_id": "B0H99D4V72",
