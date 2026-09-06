@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "10:32 PM 06-09-2026",
+    "LastUpdate": "11:02 PM 06-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 7,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -62,23 +62,6 @@
       "drm_key": "2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72"
     },
     {
-      "match_id": "B0HFYPRBHQ",
-      "title": "Men's BMX Final",
-      "synopsis": "Men's BMX Final",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.72c58489-f267-4b4c-bced-3d6b1140e80c/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFYPRBHQ",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd"
-      },
-      "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
-    },
-    {
       "match_id": "B0HGSY3M4C",
       "title": "Bangladesh vs. Sri Lanka",
       "synopsis": "Bangladesh vs. Sri Lanka",
@@ -96,6 +79,20 @@
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
+      "match_id": "B0HFRGXL4N",
+      "title": "Sep 6 - PTT Waco",
+      "synopsis": "Sep 6 - PTT Waco",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.faca96d3-2b33-4019-a134-e05d2220fdfb/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFRGXL4N",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/r2iczhu45h/out/v1/3d77cce4451e457db97c7e2bc80cb2af/21ad4335-8ab1-4818-855f-c446f1edf840-cenc.mpd"
+      },
+      "drm_key": "7992b4275d648be811cfe3a473bd9838:cb8520077db0886a09d487829511604b"
+    },
+    {
       "match_id": "B0HGTMVNJ1",
       "title": "Sep 6 - PTT Miami",
       "synopsis": "Sep 6 - PTT Miami",
@@ -108,20 +105,6 @@
         "Original Server": "https://a208live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqsSrlBhpqnWRlA2Zha2FtYWkCeClzc2lkOmZjYmZiNDMyLWExNzEtNDk3My1hMmVkLWJjMjIzMmM0ZDBjZBkBOKEFoQJ4My95czRyajNpZ3VsL291dC92MS81NDcxYTMxNTUzNDY0NDgyOTFhYjU3Y2UwMmVjODUxMBkBPIFiVVNYIA7zIhr_t2tkqT-PAteAk9STq9XTVywGfTSFsbO34zbT/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ys4rj3igul/out/v1/5471a3155346448291ab57ce02ec8510/0c8b1dac-52a5-4527-ac67-6797e9857569-cenc.mpd"
       },
       "drm_key": "69f1aea13653e972f5000f4a1179dd0c:4766d0ea6ca47f9b18864e9c08a10920"
-    },
-    {
-      "match_id": "B0HFRGXL4N",
-      "title": "Sep 6 - PTT Waco",
-      "synopsis": "Sep 6 - PTT Waco",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.faca96d3-2b33-4019-a134-e05d2220fdfb/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFRGXL4N",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/r2iczhu45h/out/v1/3d77cce4451e457db97c7e2bc80cb2af/21ad4335-8ab1-4818-855f-c446f1edf840-cenc.mpd"
-      },
-      "drm_key": "7992b4275d648be811cfe3a473bd9838:cb8520077db0886a09d487829511604b"
     },
     {
       "match_id": "B0HCZ2BYTG",
