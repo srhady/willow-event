@@ -1,22 +1,15 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:06:32 AM 06-09-2026
+#LAST_UPDATE:07:02 AM 06-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:18
-
-#EXTINF:-1 tvg-id="B0H859Z7N5" tvg-name="Womens Caribbean Premier League 2026 - 1st Match - Barbados Tridents Women vs Trinbago Knight Riders Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8873d1c9-ffb6-41a6-9175-76db2187cc1c/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Caribbean Premier League 2026 - 1st Match - Barbados Tridents Women vs Trinbago Knight Riders Women
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9cbab0068b63b9eacc992be538f5e93c:9f37508ad14dc7250749588d4b42d338
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ffcxmxukky/out/v1/0009229173a84399a4a9b36c5659b5e2/cenc.mpd
+#LIVE_COUNT:1
+#UPCOMING_COUNT:19
 
 #EXTINF:-1 tvg-id="B0H6PN81C2" tvg-name="Caribbean Premier League 2026 - 27th Match - Barbados Tridents vs Trinbago Knight Riders" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b2ceb0b4-9e25-4847-8765-fcd4ee7a01ec/6/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Caribbean Premier League 2026 - 27th Match - Barbados Tridents vs Trinbago Knight Riders
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eddd7bc446b945026204022b6395963f:e75adb7b80da458c13af3a13893bccaa
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/y2ocxvr9hn/out/v1/a33866d566f64f52a9c6d460460e64d3/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/y2ocxvr9hn/out/v1/a33866d566f64f52a9c6d460460e64d3/cenc.mpd
 
