@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "11:32 PM 08-09-2026",
+    "LastUpdate": "12:02 AM 09-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -45,6 +45,20 @@
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
     },
     {
+      "match_id": "B0HH4118BZ",
+      "title": "Sep 8 - PTT Knoxville",
+      "synopsis": "Sep 8 - PTT Knoxville",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a249e510-de9a-4de6-84e2-96b546126f8c/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HH4118BZ",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABDJH7CAAAAAAAAMHYNZTR3NW2G64.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WI2mAWpwcmltZXZpZGVvBBpqtAYjBhpqoD-jA2pjbG91ZGZyb250Angpc3NpZDphMTNhMWRlMS1lZmY2LTQwOGUtYTRiOS1iNGNiNmVkZTIzZWUZATihBaECeDMvZW5kcmZ4ZTM5MC9vdXQvdjEvOGNlMzdlMDBjMDUyNDA2YmE2OWFkYTRlNzM2NmUxY2VYIDn7wOawgvn9r351ybCgWFNb1FC5So00d9YHtFBy8BoU/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/endrfxe390/out/v1/8ce37e00c052406ba69ada4e7366e1ce/ff63a437-d54c-4206-ae0e-8cab71b23060-cenc.mpd"
+      },
+      "drm_key": "374a2aea48f2095179c8cef2dffe2051:2e4773a4e04a74cda82b0e9bb6c8504b"
+    },
+    {
       "match_id": "B0H8XTGBDX",
       "title": "Sep 8 - PTT Tallahassee",
       "synopsis": "Sep 8 - PTT Tallahassee",
@@ -59,18 +73,18 @@
       "drm_key": "f2c180982951dc7774d8f127c3c44e72:a29d1c3ab07d5a8ba3390ba2cb60a463"
     },
     {
-      "match_id": "B0HH4118BZ",
-      "title": "Sep 8 - PTT Knoxville",
-      "synopsis": "Sep 8 - PTT Knoxville",
+      "match_id": "B0HHL5MZY8",
+      "title": "Sep 8 - PTT Newport Beach",
+      "synopsis": "Sep 8 - PTT Newport Beach",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a249e510-de9a-4de6-84e2-96b546126f8c/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HH4118BZ",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6abd96b3-b33b-4611-8dac-94976d88257d/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HHL5MZY8",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://ABDJH7CAAAAAAAAMHYNZTR3NW2G64.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WI2mAWpwcmltZXZpZGVvBBpqtAYjBhpqoD-jA2pjbG91ZGZyb250Angpc3NpZDphMTNhMWRlMS1lZmY2LTQwOGUtYTRiOS1iNGNiNmVkZTIzZWUZATihBaECeDMvZW5kcmZ4ZTM5MC9vdXQvdjEvOGNlMzdlMDBjMDUyNDA2YmE2OWFkYTRlNzM2NmUxY2VYIDn7wOawgvn9r351ybCgWFNb1FC5So00d9YHtFBy8BoU/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/endrfxe390/out/v1/8ce37e00c052406ba69ada4e7366e1ce/ff63a437-d54c-4206-ae0e-8cab71b23060-cenc.mpd"
+        "Original Server": "https://ABKZMTXAAAAAAAAMO4Z3IHTU6RVK6.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqtBQwBhpqoE2wA2pjbG91ZGZyb250Angpc3NpZDo4ZjEzZTkyOS1mMWU1LTRlN2ItYmE3NS0yNDljZjI3ZjVmNGEZATihBaECeDMvYXBmcWtibGR3ay9vdXQvdjEvNTMzOGViZTRjYTAyNDJmOTg0ZWUzMTg4ZWQwZmRjMGUZATyBYlVTWCBZR2lb508vooHRwixrQ8nLBfYIMy-MSuv1XF2tA-dCDQ/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/apfqkbldwk/out/v1/5338ebe4ca0242f984ee3188ed0fdc0e/0445ac52-8f70-4932-ba4a-b9686493cb96-cenc.mpd"
       },
-      "drm_key": "374a2aea48f2095179c8cef2dffe2051:2e4773a4e04a74cda82b0e9bb6c8504b"
+      "drm_key": "c100e01d3e603b86f1bf82e4f9841235:67c77a1b3eb6347677de80d7dd48decf"
     }
   ]
 }
