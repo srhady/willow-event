@@ -1,32 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "06:02 AM 08-09-2026",
+    "LastUpdate": "06:32 AM 08-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 2,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HFWH52T8",
-      "title": "Road to the Dance",
-      "synopsis": "Road to the Dance",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.57569de5-52fa-4788-939b-acfd15abdf93/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFWH52T8",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ac4wkwd8nd/out/v1/67df1a7f8a284bef90b219be4aeec7e8/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ac4wkwd8nd/out/v1/67df1a7f8a284bef90b219be4aeec7e8/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ac4wkwd8nd/out/v1/67df1a7f8a284bef90b219be4aeec7e8/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ac4wkwd8nd/out/v1/67df1a7f8a284bef90b219be4aeec7e8/cenc.mpd"
-      },
-      "drm_key": "b3c143f76cc86fcaf89268bb8881b23a:f957c339c7098930d2421c15b64b1452"
-    },
     {
       "match_id": "B0HG3R49X1",
       "title": "Sep 7 - PTT Newport Beach",
@@ -40,20 +23,6 @@
         "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWImmAWpwcmltZXZpZGVvBBpqswkDBhpqn0KDA2ZmYXN0bHkCeClzc2lkOjU1MWIxOGI3LTI0ZmMtNDRiZS04OTMzLTc1ZDA5MTdlMmQ5NRkBOKEFoQJ4My85dnZvMGM0bnlhL291dC92MS8xNzI0OTJhZmNhNGU0YjlmOTM0Mzc3YmQ3Y2Q1ZjEwY1ggfkFvdzBicdvN3ugL0IXGmp2zRIRLnFM0Z1TDvu8bNcA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/9vvo0c4nya/out/v1/172492afca4e4b9f934377bd7cd5f10c/3945946a-898f-4893-965f-99358ac9ceb0-cenc.mpd"
       },
       "drm_key": "5289f5409ca53681638b2ad60b3f6150:b44354dd9a234bba6cbb4594b5888e62"
-    },
-    {
-      "match_id": "B0HH1F9R9S",
-      "title": "Sep 7 - PTT Knoxville",
-      "synopsis": "Sep 7 - PTT Knoxville",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5add451b-a5b1-40ea-9482-6a75c285c4eb/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HH1F9R9S",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWImmAWpwcmltZXZpZGVvBBpqsp-HBhpqntkHA2ZmYXN0bHkCeClzc2lkOmQ5ZmFhMDRmLWZiMTctNDgwYi04ODRiLWE5ZWFjMDIyMmZjMRkBOKEFoQJ4My9neHdkdjVpNmd4L291dC92MS9kYmE4YWY0NjdlY2Y0MTRkYjVjZTU0YTZhNjQwMzMyY1ggIFVW2Zg0ZmFUXD3enNm04OLv8qivlaij1cWmJhA8jdc/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/gxwdv5i6gx/out/v1/dba8af467ecf414db5ce54a6a640332c/ea646bf8-d8c0-44b2-8d52-6fed43fb4661-cenc.mpd"
-      },
-      "drm_key": "67d8427bb077ef6e028d248de831ae2c:f1fcf3d4a47ec9c0eab487929b0a2ac0"
     },
     {
       "match_id": "B0HHD62M4W",
