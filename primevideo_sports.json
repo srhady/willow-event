@@ -1,15 +1,29 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "03:32 AM 10-09-2026",
+    "LastUpdate": "04:02 AM 10-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 3,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HHNCX8KS",
+      "title": "NFL Daily",
+      "synopsis": "NFL Daily",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.386d763a-fd29-4430-890a-9ac1cb7a2bb0/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HHNCX8KS",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a204live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WImmAWpwcmltZXZpZGVvBBpqtZ38Bhpqodd8A2Zha2FtYWkCeClzc2lkOjBlYjFkMjFhLTIzYmEtNDUwNC1iYWQwLWNmZjhjODI5OTk5ZRkBOKEFoQJ4My9wMWJsazUybGk1L291dC92MS84MjU0MTA0NTM2OTI0YWNkYTVhMTAzYjlkMDkzZDhhNlggQkq5fg1WgUSCFCTRGroHGHS8nbqUI_NqGfxWaB7rMXQ/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/p1blk52li5/out/v1/8254104536924acda5a103b9d093d8a6/390179cd-e7c4-435e-b987-be3046b4c10f-cenc.mpd"
+      },
+      "drm_key": "b6b6164097b8e3b8e66b0a73298839f3:8ff917bbb1136864be35423a5ac1c51d"
+    },
     {
       "match_id": "B0HGX7VYLT",
       "title": "Sep 9 - PTT Tallahassee",
