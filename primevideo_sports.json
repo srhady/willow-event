@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "07:03 PM 09-09-2026",
+    "LastUpdate": "07:32 PM 09-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -77,6 +77,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd"
       },
       "drm_key": "dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b"
+    },
+    {
+      "match_id": "B0HGX7VYLT",
+      "title": "Sep 9 - PTT Tallahassee",
+      "synopsis": "Sep 9 - PTT Tallahassee",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69e48604-b475-468a-9efa-02a8db4f59c7/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HGX7VYLT",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a177live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqtSZvBhpqoV_vA2Zha2FtYWkCeClzc2lkOjNkNzA1YzBlLWUwMGMtNGVkZC04Y2M5LWI0YzMyNTY5OTA1YRkBOKEFoQJ4My91cWZiaHRobDR5L291dC92MS81M2VmNmE2NDc4YTU0MWFkYTM5YzYxZjVjNTZkZWZiZBkBPIFiVVNYIKlvS3r2xgRzkyt4EZEZplHhTsNC1dGLd6GnU2Y5qiyJ/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/uqfbhthl4y/out/v1/53ef6a6478a541ada39c61f5c56defbd/f198a3f7-a162-4517-b3f1-43712246d76b-cenc.mpd"
+      },
+      "drm_key": "9cb5ced28319742bf544d3940ec8af6e:ced6b8c2e6efc12832fc998a64c7a216"
     }
   ]
 }
