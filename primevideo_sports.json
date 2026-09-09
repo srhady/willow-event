@@ -1,76 +1,28 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "06:02 AM 09-09-2026",
+    "LastUpdate": "06:32 AM 09-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 3,
     "UpcomingCount": 0
   },
   "Matches": [
     {
       "match_id": "B0HHSP8GCF",
-      "title": "Unknown Match",
-      "synopsis": "Unknown Match",
+      "title": "Power Rankings",
+      "synopsis": "Power Rankings",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.8c06f84d-64b1-47c5-bcb1-25270b2abcfc/2/CAROUSEL-BACKGROUND-8X3/en-US/3840x1440._UR3840,1440_SX2160_FMjpg_.jpg",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.8c06f84d-64b1-47c5-bcb1-25270b2abcfc/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HHSP8GCF",
       "is_free": false,
       "stream_url": {
         "Original Server": "https://a154live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqtGGMBhpqoJsMA2Zha2FtYWkCeClzc2lkOjQ1ODkyNjhkLTg0ZGItNGE5ZC1hNDJiLTBmM2I3ZDBhYmU4ZhkBOKEFoQJ4My9pYmxzbHVtNTZtL291dC92MS84MjU0MTA0NTM2OTI0YWNkYTVhMTAzYjlkMDkzZDhhNhkBPIFiVVNYIEpZcrpxTJeSVpWOShnDlti6ATsUsHmoSVhybFF8aZ9R/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/iblslum56m/out/v1/8254104536924acda5a103b9d093d8a6/d38c471b-6833-43b1-8596-ccbca9ed127d-cenc.mpd"
       },
       "drm_key": "b6b6164097b8e3b8e66b0a73298839f3:8ff917bbb1136864be35423a5ac1c51d"
-    },
-    {
-      "match_id": "B0HGCDVJ1M",
-      "title": "Ohio Dominican at Fairmont State",
-      "synopsis": "Ohio Dominican at Fairmont State",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.9b86586c-0bdc-42ba-bbab-e03244ac06aa/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HGCDVJ1M",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd"
-      },
-      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
-    },
-    {
-      "match_id": "B0HFWH52T8",
-      "title": "Road to the Dance",
-      "synopsis": "Road to the Dance",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.57569de5-52fa-4788-939b-acfd15abdf93/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFWH52T8",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ac4wkwd8nd/out/v1/67df1a7f8a284bef90b219be4aeec7e8/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ac4wkwd8nd/out/v1/67df1a7f8a284bef90b219be4aeec7e8/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ac4wkwd8nd/out/v1/67df1a7f8a284bef90b219be4aeec7e8/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ac4wkwd8nd/out/v1/67df1a7f8a284bef90b219be4aeec7e8/cenc.mpd"
-      },
-      "drm_key": "b3c143f76cc86fcaf89268bb8881b23a:f957c339c7098930d2421c15b64b1452"
-    },
-    {
-      "match_id": "B0HH4118BZ",
-      "title": "Sep 8 - PTT Knoxville",
-      "synopsis": "Sep 8 - PTT Knoxville",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a249e510-de9a-4de6-84e2-96b546126f8c/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HH4118BZ",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABDJH7CAAAAAAAAMHYNZTR3NW2G64.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WI2mAWpwcmltZXZpZGVvBBpqtAYjBhpqoD-jA2pjbG91ZGZyb250Angpc3NpZDphMTNhMWRlMS1lZmY2LTQwOGUtYTRiOS1iNGNiNmVkZTIzZWUZATihBaECeDMvZW5kcmZ4ZTM5MC9vdXQvdjEvOGNlMzdlMDBjMDUyNDA2YmE2OWFkYTRlNzM2NmUxY2VYIDn7wOawgvn9r351ybCgWFNb1FC5So00d9YHtFBy8BoU/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/endrfxe390/out/v1/8ce37e00c052406ba69ada4e7366e1ce/ff63a437-d54c-4206-ae0e-8cab71b23060-cenc.mpd"
-      },
-      "drm_key": "374a2aea48f2095179c8cef2dffe2051:2e4773a4e04a74cda82b0e9bb6c8504b"
     },
     {
       "match_id": "B0HHL5MZY8",
