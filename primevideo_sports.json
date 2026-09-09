@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "01:02 AM 10-09-2026",
+    "LastUpdate": "01:32 AM 10-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -28,20 +28,6 @@
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
     },
     {
-      "match_id": "B0HFV7TGWX",
-      "title": "Sep 9 - PTT Knoxville",
-      "synopsis": "Sep 9 - PTT Knoxville",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5d8b3b96-51d5-4438-a156-065577b26aeb/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFV7TGWX",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqtUmWBhpqoYMWA2ZmYXN0bHkCeClzc2lkOjYwMzFmMjE1LWZmNGMtNGY4My1hY2ZjLTY1Zjg1YTIxOGM0YxkBOKEFoQJ4My93NXl5eDQxbzMwL291dC92MS84OGNmOWI4Y2RjZjU0YTlhYWY5Njg0YTY2YzViM2NjMRkBPIFiVVNYIBup7uswGvAIsjxuRQqRlVf2WwjRWCQk6zJ483G9I1r4/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/w5yyx41o30/out/v1/88cf9b8cdcf54a9aaf9684a66c5b3cc1/df2a13c8-18e0-459d-ae39-12e95bcadadd-cenc.mpd"
-      },
-      "drm_key": "9c9912554885cb3dd1de180bd7c6845d:8f0ead2ac93d28effa73071679acad36"
-    },
-    {
       "match_id": "B0HF5S437H",
       "title": "Sep 9 - PTT Newport Beach",
       "synopsis": "Sep 9 - PTT Newport Beach",
@@ -54,6 +40,20 @@
         "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWImmAWpwcmltZXZpZGVvBBpqtWW3BhpqoZ83A2ZmYXN0bHkCeClzc2lkOjcxNjJjOTA2LTBiYTItNDc1MS05MGRkLTZlZTczOTFiY2Y1NBkBOKEFoQJ4My93Z3dxbXR0ejF2L291dC92MS81YTMzMTk0ZTgzYjQ0OWJkYWNkZTdjMzMzZWJmNzBhMlggj2av05QZlR2CC_amDFBEOA6ZZTrAkEmNWATrkRNuRVI/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/wgwqmttz1v/out/v1/5a33194e83b449bdacde7c333ebf70a2/abae9f37-a85a-4b2d-a98b-ed5c86394b3d-cenc.mpd"
       },
       "drm_key": "e0129032e90301b36e62e4cd503360fd:f6b309bc9b037c3e6ab498c9a4c2c18b"
+    },
+    {
+      "match_id": "B0HFV7TGWX",
+      "title": "Sep 9 - PTT Knoxville",
+      "synopsis": "Sep 9 - PTT Knoxville",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5d8b3b96-51d5-4438-a156-065577b26aeb/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFV7TGWX",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqtUmWBhpqoYMWA2ZmYXN0bHkCeClzc2lkOjYwMzFmMjE1LWZmNGMtNGY4My1hY2ZjLTY1Zjg1YTIxOGM0YxkBOKEFoQJ4My93NXl5eDQxbzMwL291dC92MS84OGNmOWI4Y2RjZjU0YTlhYWY5Njg0YTY2YzViM2NjMRkBPIFiVVNYIBup7uswGvAIsjxuRQqRlVf2WwjRWCQk6zJ483G9I1r4/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/w5yyx41o30/out/v1/88cf9b8cdcf54a9aaf9684a66c5b3cc1/df2a13c8-18e0-459d-ae39-12e95bcadadd-cenc.mpd"
+      },
+      "drm_key": "9c9912554885cb3dd1de180bd7c6845d:8f0ead2ac93d28effa73071679acad36"
     },
     {
       "match_id": "B0HGX7VYLT",
