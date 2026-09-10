@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "06:32 PM 10-09-2026",
+    "LastUpdate": "07:32 PM 10-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 2,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -43,6 +43,34 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd"
       },
       "drm_key": "e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052"
+    },
+    {
+      "match_id": "B0HC64CLF4",
+      "title": "Sep 10 - PTT Knoxville",
+      "synopsis": "Sep 10 - PTT Knoxville",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d07f8131-8182-4bee-b75f-57577338ee6f/9/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HC64CLF4",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqtnfwBhpqorFwA2ZmYXN0bHkCeClzc2lkOjc0ODE4NWM3LWZhZDMtNDdmYi05MDZkLTZlNDQzMmViMGQxMRkBOKEFoQJ4My9icWNtZ2tkMGY3L291dC92MS82YWExNDZjZGI4ODQ0YTAzOTY3MTBmMmFjYTNhOTYyZRkBPIFiVVNYIIhPAcjOUkAmIiSZ9QXJB3uvfUr7ndMQohQZ2lpbj87N/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/bqcmgkd0f7/out/v1/6aa146cdb8844a0396710f2aca3a962e/196b6305-ff9f-4953-b50f-c9ddaa867c8a-cenc.mpd"
+      },
+      "drm_key": "2ae02b792a29ad71768b9a66a656f6de:d1b9ca79a4dcd008cdf6c75e32e4778a"
+    },
+    {
+      "match_id": "B0HFP6WCCL",
+      "title": "Sep 10 - PTT Tallahassee",
+      "synopsis": "Sep 10 - PTT Tallahassee",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a337d762-22d1-46b7-aa58-681d07af19db/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFP6WCCL",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABIAGFBAAAAAAAAMCJHYVFURADYKR.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqtnfxBhpqorFxA2pjbG91ZGZyb250Angpc3NpZDoyNjIxY2QyMS0xZjAwLTQ5ZDgtOTIwYi1hMTk2OGZlZjM4ODgZATihBaECeDMvZWI4NmVoYnd2Ny9vdXQvdjEvMjZjMzIwOGNhM2U3NGEzMDhjNGExMWRlOGY5YTIzNDUZATyBYlVTWCDc44A75l2gUqo1JaqUCRoZw_X4wUO0gY-Cbb-9zuGJMg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/eb86ehbwv7/out/v1/26c3208ca3e74a308c4a11de8f9a2345/cb203346-991a-4414-9f93-e287ac9c9058-cenc.mpd"
+      },
+      "drm_key": "3d5c833b71dc5badd0765d1ad7485dd9:80784feba5603e754eb414b5b632fa40"
     }
   ]
 }
