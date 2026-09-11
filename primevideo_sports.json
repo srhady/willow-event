@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "11:32 PM 11-09-2026",
+    "LastUpdate": "12:02 AM 12-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 9,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -62,23 +62,6 @@
       "drm_key": "0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd"
     },
     {
-      "match_id": "B0HFF57BL6",
-      "title": "Copa de Europa de Baloncesto 3x3 de la FIBA 2026",
-      "synopsis": "Copa de Europa de Baloncesto 3x3 de la FIBA 2026",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.68ce1af7-cf15-449c-b1bd-0b31b31f7c50/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFF57BL6",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd"
-      },
-      "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
-    },
-    {
       "match_id": "B0HJD2D2BF",
       "title": "ATP Challenger Tour-Seville-ATP Quarterfinals",
       "synopsis": "ATP Challenger Tour-Seville-ATP Quarterfinals",
@@ -96,6 +79,23 @@
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
     },
     {
+      "match_id": "B0HFF57BL6",
+      "title": "Copa de Europa de Baloncesto 3x3 de la FIBA 2026",
+      "synopsis": "Copa de Europa de Baloncesto 3x3 de la FIBA 2026",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.68ce1af7-cf15-449c-b1bd-0b31b31f7c50/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFF57BL6",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd"
+      },
+      "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
+    },
+    {
       "match_id": "B0HG9733Z3",
       "title": "Second Semifinal: India vs. Bangladesh",
       "synopsis": "Second Semifinal: India vs. Bangladesh",
@@ -111,6 +111,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
       },
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
+      "match_id": "B0HGM54BVM",
+      "title": "Sep 11 - PTT Newport Beach",
+      "synopsis": "Sep 11 - PTT Newport Beach",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.06009b57-3b7d-4dc1-9c1b-ca95d02baa52/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HGM54BVM",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a46live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WImmAWpwcmltZXZpZGVvBBpquAiyBhpqpEIyA2Zha2FtYWkCeClzc2lkOjRhOWIzMGNmLTM5YzMtNGYwYy04ZDUzLTYzOGVlOTA0NTY5MxkBOKEFoQJ4My8weHhxY3R3bnZhL291dC92MS8yNTYwZjEyZTBkM2M0YjhiYmZjM2UzMzc2ODUxN2QxY1ggIaQEsNlXYYVahJs9MZ4KjiznXWQU83qBw1xjJbi8fJ4/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/0xxqctwnva/out/v1/2560f12e0d3c4b8bbfc3e33768517d1c/5e8250e5-ae72-4ef4-979d-804722f17a6f-cenc.mpd"
+      },
+      "drm_key": "b34268e42b0adeb1907019d1775090ec:a9aa372236487e68a85347569644f904"
     },
     {
       "match_id": "B0HHDVL344",
