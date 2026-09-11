@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "09:32 PM 11-09-2026",
+    "LastUpdate": "10:02 PM 11-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 9,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -59,6 +59,40 @@
       "drm_key": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d"
     },
     {
+      "match_id": "B0HCNWQN88",
+      "title": "LIVE: Irish Open Day 2 Afternoon",
+      "synopsis": "LIVE: Irish Open Day 2 Afternoon",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.62ce09cc-06b3-4852-8af7-9ff2e2c7938f/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HCNWQN88",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd"
+      },
+      "drm_key": "9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb"
+    },
+    {
+      "match_id": "B0HJD2D2BF",
+      "title": "ATP Challenger Tour-Seville-ATP Quarterfinals",
+      "synopsis": "ATP Challenger Tour-Seville-ATP Quarterfinals",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ee333724-c02a-4d86-89ea-bd4581f74f87/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJD2D2BF",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd"
+      },
+      "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
+    },
+    {
       "match_id": "B0HDXYG5QN",
       "title": "Spain: Practice 2 (Sky Sports)",
       "synopsis": "Spain: Practice 2 (Sky Sports)",
@@ -71,23 +105,6 @@
         "Original Server": "https://a186live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqt96BBhpqpBgBA2Zha2FtYWkCeClzc2lkOjhiNzVmMmIzLWI2N2QtNGU0ZC04NWFjLTBmNjE2MjlmYjQxMBkBOKEFoQJ4My9vcXdsNmh6eWQ0L291dC92MS82MWIwMGZjMTFiODM0NTg5OWExOTE3NzcxZWM4OTlhMBkBPIFiVVNYIAdZiHBDO8tDl5M3ZVe7SFFuojNytJakO4Wp3Yj3JrVU/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/oqwl6hzyd4/out/v1/61b00fc11b8345899a1917771ec899a0/2d71db2c-638e-49ca-8571-794ddc314490-cenc.mpd"
       },
       "drm_key": "679792aee2a28c1726ce39454eb52b84:1794e83eaa1e12241e3c72c019cd761a"
-    },
-    {
-      "match_id": "B0HBZT7T7L",
-      "title": "The Morning Drive",
-      "synopsis": "The Morning Drive",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a3575936-02d7-4599-a3a9-8bae2940cb08/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HBZT7T7L",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd"
-      },
-      "drm_key": "e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052"
     },
     {
       "match_id": "B0HG9733Z3",
