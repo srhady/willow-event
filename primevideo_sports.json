@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "03:02 AM 12-09-2026",
+    "LastUpdate": "03:32 AM 12-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 7,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -62,23 +62,6 @@
       "drm_key": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d"
     },
     {
-      "match_id": "B0HHFYGD6Q",
-      "title": "Venezia vs. Fiorentina",
-      "synopsis": "Venezia vs. Fiorentina",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ced6ffe1-650f-4ce0-b6c0-6eb54df9c3f7/5/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HHFYGD6Q",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd"
-      },
-      "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
-    },
-    {
       "match_id": "B0HHFYT97P",
       "title": "Canadian Women's Pro Championship",
       "synopsis": "Canadian Women's Pro Championship",
@@ -96,20 +79,6 @@
       "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
     },
     {
-      "match_id": "B0HHDVL344",
-      "title": "Sep 11 - PTT Knoxville",
-      "synopsis": "Sep 11 - PTT Knoxville",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ec0fb5b3-ae01-4ee1-a378-800da10f8999/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HHDVL344",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWImmAWpwcmltZXZpZGVvBBpqt96CBhpqpBgCA2ZmYXN0bHkCeClzc2lkOmM0M2MxNmI3LTZjMGYtNGI3Yi05MzAyLWQyNzY0MDQwNmJlMBkBOKEFoQJ4My9xano5Ym91eG53L291dC92MS84YzZhN2I2OWQwYWE0MWVjYTIyZTYyNTViZWQ5ZTJhNVgg9-oXmjYPZXk5P9upoiT3fGCEbLqDkKXXiByWvwMpt3M/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/qjz9bouxnw/out/v1/8c6a7b69d0aa41eca22e6255bed9e2a5/d395fe6a-39bb-4f33-b0e3-adc21e2f7b9e-cenc.mpd"
-      },
-      "drm_key": "dfcc145e2045a276b86aa39a9fa4072c:a65bd5499dfa69e71180fcf50746bdf7"
-    },
-    {
       "match_id": "B0HGM54BVM",
       "title": "Sep 11 - PTT Newport Beach",
       "synopsis": "Sep 11 - PTT Newport Beach",
@@ -122,6 +91,20 @@
         "Original Server": "https://a46live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WImmAWpwcmltZXZpZGVvBBpquAiyBhpqpEIyA2Zha2FtYWkCeClzc2lkOjRhOWIzMGNmLTM5YzMtNGYwYy04ZDUzLTYzOGVlOTA0NTY5MxkBOKEFoQJ4My8weHhxY3R3bnZhL291dC92MS8yNTYwZjEyZTBkM2M0YjhiYmZjM2UzMzc2ODUxN2QxY1ggIaQEsNlXYYVahJs9MZ4KjiznXWQU83qBw1xjJbi8fJ4/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/0xxqctwnva/out/v1/2560f12e0d3c4b8bbfc3e33768517d1c/5e8250e5-ae72-4ef4-979d-804722f17a6f-cenc.mpd"
       },
       "drm_key": "b34268e42b0adeb1907019d1775090ec:a9aa372236487e68a85347569644f904"
+    },
+    {
+      "match_id": "B0HHDVL344",
+      "title": "Sep 11 - PTT Knoxville",
+      "synopsis": "Sep 11 - PTT Knoxville",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ec0fb5b3-ae01-4ee1-a378-800da10f8999/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HHDVL344",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWImmAWpwcmltZXZpZGVvBBpqt96CBhpqpBgCA2ZmYXN0bHkCeClzc2lkOmM0M2MxNmI3LTZjMGYtNGI3Yi05MzAyLWQyNzY0MDQwNmJlMBkBOKEFoQJ4My9xano5Ym91eG53L291dC92MS84YzZhN2I2OWQwYWE0MWVjYTIyZTYyNTViZWQ5ZTJhNVgg9-oXmjYPZXk5P9upoiT3fGCEbLqDkKXXiByWvwMpt3M/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/qjz9bouxnw/out/v1/8c6a7b69d0aa41eca22e6255bed9e2a5/d395fe6a-39bb-4f33-b0e3-adc21e2f7b9e-cenc.mpd"
+      },
+      "drm_key": "dfcc145e2045a276b86aa39a9fa4072c:a65bd5499dfa69e71180fcf50746bdf7"
     },
     {
       "match_id": "B0GYRGYXCP",
