@@ -1,8 +1,15 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:04:32 AM 12-09-2026
+#LAST_UPDATE:05:02 AM 12-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:19
+#LIVE_COUNT:1
+#UPCOMING_COUNT:18
+
+#EXTINF:-1 tvg-id="B0H8HYCZC2" tvg-name="Caribbean Premier League 2026 - 33rd Match - Guyana Amazon Warriors vs Trinbago Knight Riders" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9c7f57e1-13a7-4e9f-943a-2dc816959cd5/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Caribbean Premier League 2026 - 33rd Match - Guyana Amazon Warriors vs Trinbago Knight Riders
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f1c39aa3fab7242ca5f334870ce55b5:6651dbed0adc6a2311fe9875c1f001f1
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/vq1jdgtj3r/out/v1/935e2383b209418d8d764339421c8e12/cenc.mpd
 
