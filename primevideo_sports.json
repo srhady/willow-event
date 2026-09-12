@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "05:32 PM 12-09-2026",
+    "LastUpdate": "06:02 PM 12-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -76,20 +76,6 @@
       "drm_key": "0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd"
     },
     {
-      "match_id": "B0HF34ZB6M",
-      "title": "Spain: Practice 3",
-      "synopsis": "Spain: Practice 3",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.efa3275c-655f-42dc-98ea-ed7b4a10ac8e/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HF34ZB6M",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABDJIJTAAAAAAAAML6FPMANGXPVXA.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpquPC3BhpqpSo3A2pjbG91ZGZyb250Angpc3NpZDphYzc5Yzg2OS1lNWRjLTQ2YTAtYTkxYi01ZjcyYjVjNWVjYWIZATihBaECeDMvYzY2ZGRuaHN0ai9vdXQvdjEvMGJlZmUzODZlMGY2NGE4ZWJlZjQyMjNkNTA5YmEwNDUZATyBYlVTWCB1obW8ne7zGK25FlPr29CSKrrY3TtyUbMgYD9IDLYwMw/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/c66ddnhstj/out/v1/0befe386e0f64a8ebef4223d509ba045/409d03c0-47f8-41ba-9167-cbac4d13d4e3-cenc.mpd"
-      },
-      "drm_key": "ed6ee70b837541ff92855cc88c06fbca:29dca3a808862db581bc42c8f4a2d93e"
-    },
-    {
       "match_id": "B0HG69ZK5M",
       "title": "West Bromwich Albion vs. Queens Park Rangers",
       "synopsis": "West Bromwich Albion vs. Queens Park Rangers",
@@ -105,6 +91,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd"
       },
       "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+    },
+    {
+      "match_id": "B0HF34ZB6M",
+      "title": "Spain: Practice 3",
+      "synopsis": "Spain: Practice 3",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.efa3275c-655f-42dc-98ea-ed7b4a10ac8e/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HF34ZB6M",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABDJIJTAAAAAAAAML6FPMANGXPVXA.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpquPC3BhpqpSo3A2pjbG91ZGZyb250Angpc3NpZDphYzc5Yzg2OS1lNWRjLTQ2YTAtYTkxYi01ZjcyYjVjNWVjYWIZATihBaECeDMvYzY2ZGRuaHN0ai9vdXQvdjEvMGJlZmUzODZlMGY2NGE4ZWJlZjQyMjNkNTA5YmEwNDUZATyBYlVTWCB1obW8ne7zGK25FlPr29CSKrrY3TtyUbMgYD9IDLYwMw/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/c66ddnhstj/out/v1/0befe386e0f64a8ebef4223d509ba045/409d03c0-47f8-41ba-9167-cbac4d13d4e3-cenc.mpd"
+      },
+      "drm_key": "ed6ee70b837541ff92855cc88c06fbca:29dca3a808862db581bc42c8f4a2d93e"
     },
     {
       "match_id": "B0HG2QP2JW",
