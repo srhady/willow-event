@@ -1,10 +1,10 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:05:02 AM 13-09-2026
+#LAST_UPDATE:05:32 AM 13-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:1
-#UPCOMING_COUNT:15
+#LIVE_COUNT:2
+#UPCOMING_COUNT:14
 
 #EXTINF:-1 tvg-id="B0HFJ9WSX2" tvg-name="Womens Caribbean Premier League 2026 - 5th Match - Barbados Tridents Women vs Jamaica Empress Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d88ec327-27a7-4fc8-a410-19af6492e06c/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Caribbean Premier League 2026 - 5th Match - Barbados Tridents Women vs Jamaica Empress Women
 #KODIPROP:inputstream=inputstream.adaptive
@@ -12,4 +12,11 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a661503178d68c007f666b91ec743c88:6315c9513e2d17d59838e56282afdc10
 https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/sbgt1be6li/out/v1/ac277874eb6b4065b8c470378e94a986/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HBPRVJX6" tvg-name="Caribbean Premier League 2026 - 34th Match - Barbados Tridents vs Jamaica Kingsmen" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.50e4990f-5fd8-40f6-9b3a-ed3e7ecfd462/5/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Caribbean Premier League 2026 - 34th Match - Barbados Tridents vs Jamaica Kingsmen
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aef43f383ed631a73e44fcc74a58bc17:310cad89bcaa4ccccc04c08f3a2e75c7
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ir7coqdlye/out/v1/02f61fe1a2714028a9a68858e5cb79de/cenc.mpd
 
