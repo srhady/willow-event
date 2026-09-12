@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "07:02 PM 12-09-2026",
+    "LastUpdate": "07:32 PM 12-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 7,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -26,6 +26,23 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd"
       },
       "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+    },
+    {
+      "match_id": "B0H2PLK6YF",
+      "title": "LIVE: Irish Open Day 3",
+      "synopsis": "LIVE: Irish Open Day 3",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.a650af41-bbbf-49ef-b08a-fa19fb8bf6cf/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H2PLK6YF",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yoaryfkyeh/out/v1/63e8364f9ad047a7bb1c4a9a8d754f42/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yoaryfkyeh/out/v1/63e8364f9ad047a7bb1c4a9a8d754f42/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/yoaryfkyeh/out/v1/63e8364f9ad047a7bb1c4a9a8d754f42/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/yoaryfkyeh/out/v1/63e8364f9ad047a7bb1c4a9a8d754f42/cenc.mpd"
+      },
+      "drm_key": "9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb"
     },
     {
       "match_id": "B0HFF57BL6",
@@ -91,6 +108,20 @@
         "Original Server": "https://a154live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WImmAWpwcmltZXZpZGVvBBpquRPiBhpqpU1iA2Zha2FtYWkCeClzc2lkOjZmMmQ2ZWNhLWU0YTQtNGVkYi05NzZhLWQ4MDhhYmEwNTdjMBkBOKEFoQJ4My9nbnI3OGw2dmJiL291dC92MS81YjVhZGIwNmYzYWM0OTM1OGJhMGVlNWI0OTU4MTU3MVggbo5B_taB5n1myB2jMJT_bWXe5tW4WTWlEwVNM2DJra0/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/gnr78l6vbb/out/v1/5b5adb06f3ac49358ba0ee5b49581571/129a916b-e957-48de-b1a9-25b4c0af3ba9-cenc.mpd"
       },
       "drm_key": "d77978ffa5e13cb06ee3192eae17212a:48225ad1b0e8deff51b03e5438f54783"
+    },
+    {
+      "match_id": "B0HH3TWK2Y",
+      "title": "Sep 12 - PTT Tallahassee",
+      "synopsis": "Sep 12 - PTT Tallahassee",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.764ca4ba-4f92-474a-bd2e-2f4e0a5152e7/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HH3TWK2Y",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpquRruBhpqpVRuA2ZmYXN0bHkCeClzc2lkOjc2YzU5ZjMxLTBiYzAtNGU3MC1hOWI1LTgwMTk4ZGM1Mjc1YRkBOKEFoQJ4My8xYW1qdDFucng3L291dC92MS8yZTc4ZTlhMmQ4MWY0NjFhOTkxMGJhZGY0ZDJmZTg4OBkBPIFiVVNYIJI7uU0EUUNhnJQ6_WixL1Qak5wXG16DlL9ESAImJ89n/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/1amjt1nrx7/out/v1/2e78e9a2d81f461a9910badf4d2fe888/a8e807c3-499f-4b69-9b5e-5a9a9fd66c71-cenc.mpd"
+      },
+      "drm_key": "5a6b02800c9e85719ba982e5ef1d1715:f8f582975daa57fcce6bc39a7f47271e"
     }
   ]
 }
