@@ -1,26 +1,39 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "12:02 AM 13-09-2026",
+    "LastUpdate": "12:32 AM 13-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 0,
-    "UpcomingCount": 15
+    "LiveCount": 1,
+    "UpcomingCount": 14
   },
   "Matches": [
     {
       "match_id": "B0HFJ9WSX2",
       "title": "Womens Caribbean Premier League 2026 - 5th Match - Barbados Tridents Women vs Jamaica Empress Women",
       "synopsis": "Womens Caribbean Premier League 2026 - 5th Match - Barbados Tridents Women vs Jamaica Empress Women",
-      "status": "UPCOMING",
-      "time": "Live at 12:30 AM BDT",
+      "status": "LIVE",
+      "time": "12:30 AM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d88ec327-27a7-4fc8-a410-19af6492e06c/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HFJ9WSX2?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sbgt1be6li/out/v1/ac277874eb6b4065b8c470378e94a986/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sbgt1be6li/out/v1/ac277874eb6b4065b8c470378e94a986/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/sbgt1be6li/out/v1/ac277874eb6b4065b8c470378e94a986/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/sbgt1be6li/out/v1/ac277874eb6b4065b8c470378e94a986/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/sbgt1be6li/out/v1/ac277874eb6b4065b8c470378e94a986/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bpznko6iko/out/v1/85dfd0d7cece4bb0a091fbbfd48f57e8/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bpznko6iko/out/v1/85dfd0d7cece4bb0a091fbbfd48f57e8/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/bpznko6iko/out/v1/85dfd0d7cece4bb0a091fbbfd48f57e8/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bpznko6iko/out/v1/85dfd0d7cece4bb0a091fbbfd48f57e8/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bpznko6iko/out/v1/85dfd0d7cece4bb0a091fbbfd48f57e8/cenc.mpd"
+      },
+      "drm_key": "a661503178d68c007f666b91ec743c88:6315c9513e2d17d59838e56282afdc10"
     },
     {
       "match_id": "B0HBPRVJX6",

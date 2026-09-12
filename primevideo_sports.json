@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "12:02 AM 13-09-2026",
+    "LastUpdate": "12:32 AM 13-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
     "LiveCount": 5,
-    "UpcomingCount": 0
+    "UpcomingCount": 1
   },
   "Matches": [
     {
@@ -16,7 +16,7 @@
       "synopsis": "Albany vs. Long Island Sharks",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.01fb020d-5bc2-4f47-82db-b7f5f5707e71/2/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.01fb020d-5bc2-4f47-82db-b7f5f5707e71/4/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HHS96Z29",
       "is_free": false,
       "stream_url": {
@@ -88,6 +88,23 @@
         "Original Server": "https://a154live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WImmAWpwcmltZXZpZGVvBBpquRPiBhpqpU1iA2Zha2FtYWkCeClzc2lkOjZmMmQ2ZWNhLWU0YTQtNGVkYi05NzZhLWQ4MDhhYmEwNTdjMBkBOKEFoQJ4My9nbnI3OGw2dmJiL291dC92MS81YjVhZGIwNmYzYWM0OTM1OGJhMGVlNWI0OTU4MTU3MVggbo5B_taB5n1myB2jMJT_bWXe5tW4WTWlEwVNM2DJra0/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/gnr78l6vbb/out/v1/5b5adb06f3ac49358ba0ee5b49581571/129a916b-e957-48de-b1a9-25b4c0af3ba9-cenc.mpd"
       },
       "drm_key": "d77978ffa5e13cb06ee3192eae17212a:48225ad1b0e8deff51b03e5438f54783"
+    },
+    {
+      "match_id": "B0HCZ13WWV",
+      "title": "Auxerre vs. Nice",
+      "synopsis": "Auxerre vs. Nice",
+      "status": "UPCOMING",
+      "time": "Live at 12:35 AM BDT",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.94172f12-b320-492a-b2af-a55c6f5172f8/2/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HCZ13WWV",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd"
+      },
+      "drm_key": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681"
     }
   ]
 }
