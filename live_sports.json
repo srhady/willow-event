@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "03:02 PM 12-09-2026",
+    "LastUpdate": "03:32 PM 12-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 17
+    "LiveCount": 2,
+    "UpcomingCount": 16
   },
   "Matches": [
     {
@@ -16,7 +16,7 @@
       "synopsis": "Pakistan tour of England 2026 - 3rd Test - England vs Pakistan",
       "status": "LIVE",
       "time": "3 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9b23088-fada-406a-85e6-7777582d9803/7/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9b23088-fada-406a-85e6-7777582d9803/8/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HFBLHW8K?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
       "is_free": false,
       "stream_url_alpha": {
@@ -39,13 +39,26 @@
       "match_id": "B0HFZTK6P8",
       "title": "European T20 Premier League 2026 - 22nd Match - Belfast Wolves vs Rotterdam Dockers",
       "synopsis": "European T20 Premier League 2026 - 22nd Match - Belfast Wolves vs Rotterdam Dockers",
-      "status": "UPCOMING",
-      "time": "Live at 3:30 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.99f8e838-50fa-4bc8-816b-79a715b81bae/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "3 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.99f8e838-50fa-4bc8-816b-79a715b81bae/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HFZTK6P8?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c0mmtkdirx/out/v1/573a77f5362e4064a3e95d0bd9b9381f/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c0mmtkdirx/out/v1/573a77f5362e4064a3e95d0bd9b9381f/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/c0mmtkdirx/out/v1/573a77f5362e4064a3e95d0bd9b9381f/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/c0mmtkdirx/out/v1/573a77f5362e4064a3e95d0bd9b9381f/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/c0mmtkdirx/out/v1/573a77f5362e4064a3e95d0bd9b9381f/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zybwmiliv8/out/v1/4d20415f335e4283b92e6a62f6967bcd/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zybwmiliv8/out/v1/4d20415f335e4283b92e6a62f6967bcd/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/zybwmiliv8/out/v1/4d20415f335e4283b92e6a62f6967bcd/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/zybwmiliv8/out/v1/4d20415f335e4283b92e6a62f6967bcd/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/zybwmiliv8/out/v1/4d20415f335e4283b92e6a62f6967bcd/cenc.mpd"
+      },
+      "drm_key": "b58270b226e165048628aa8ed0006adc:d4081d990e8eac7ed6b130975bad3df8"
     },
     {
       "match_id": "B0HH562ZJD",
