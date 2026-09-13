@@ -1,32 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "01:32 AM 14-09-2026",
+    "LastUpdate": "02:03 AM 14-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 13,
+    "LiveCount": 12,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HFLSXNF3",
-      "title": "United States vs. Brazil",
-      "synopsis": "United States vs. Brazil",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.91bcbf47-ddc9-4578-962c-4483712fc248/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFLSXNF3",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd"
-      },
-      "drm_key": "dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b"
-    },
     {
       "match_id": "B0HH6Q7RQS",
       "title": "Finals: TBA vs. TBA",
@@ -43,6 +26,23 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd"
       },
       "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
+    },
+    {
+      "match_id": "B0HFLSXNF3",
+      "title": "United States vs. Brazil",
+      "synopsis": "United States vs. Brazil",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.91bcbf47-ddc9-4578-962c-4483712fc248/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFLSXNF3",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd"
+      },
+      "drm_key": "dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b"
     },
     {
       "match_id": "B0HHJLY7KZ",
@@ -93,21 +93,21 @@
       "drm_key": "b3c143f76cc86fcaf89268bb8881b23a:f957c339c7098930d2421c15b64b1452"
     },
     {
-      "match_id": "B0HHWKF1CW",
-      "title": "Diaz Acosta vs. Lajović",
-      "synopsis": "Diaz Acosta vs. Lajović",
+      "match_id": "B0HG6FJBN6",
+      "title": "George Washington at Washington State",
+      "synopsis": "George Washington at Washington State",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.1a0d37af-0c00-4717-bfef-16ed47571394/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HHWKF1CW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.c49f354c-ee9a-43b6-9b70-5705da56c214/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HG6FJBN6",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd"
       },
-      "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
+      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
     },
     {
       "match_id": "B0HGP2QCQX",
@@ -144,23 +144,6 @@
       "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
     },
     {
-      "match_id": "B0HG6FJBN6",
-      "title": "George Washington at Washington State",
-      "synopsis": "George Washington at Washington State",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.c49f354c-ee9a-43b6-9b70-5705da56c214/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HG6FJBN6",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd"
-      },
-      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
-    },
-    {
       "match_id": "B0HJ6F35NF",
       "title": "Superfinal: Spain vs. Poland",
       "synopsis": "Superfinal: Spain vs. Poland",
@@ -192,20 +175,6 @@
       "drm_key": "8b94a47c5b6bfda99d4c219714de809a:6249a41915acb252d6d43d104bba2dca"
     },
     {
-      "match_id": "B0HHCY93GH",
-      "title": "Sep 13 - PTT Knoxville",
-      "synopsis": "Sep 13 - PTT Knoxville",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.776c894b-5a15-4e9f-a4a3-4e39e5fda518/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HHCY93GH",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABKZNXTAAAAAAAAMLFFNBSDSISOQ2.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqumVxBhpqpp7xA2pjbG91ZGZyb250Angpc3NpZDpmOGIyYjI3YS04NjQ5LTQ4NWQtODlmMS05OTAyM2IxZDZmZjYZATihBaECeDMvZGhoYnE2MzVzNS9vdXQvdjEvMzU3NGI5ZTg4NjM1NDkwOTliMjNhMTk1M2IwMjJjYjQZATyBYlVTWCApdkx5Q_8aNhVwbRPmmnoQVYP6EQKBTgoPrne2SFR__g/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/dhhbq635s5/out/v1/3574b9e8863549099b23a1953b022cb4/dcd5ffb2-3287-415a-b206-11bcd001c3fd-cenc.mpd"
-      },
-      "drm_key": "e86bc7deffb32ff2c76a3b30fca3aceb:a7349da29ce39849a103f7cb0814810e"
-    },
-    {
       "match_id": "B0HGTN4JWS",
       "title": "Sep 13 - PTT Tallahassee",
       "synopsis": "Sep 13 - PTT Tallahassee",
@@ -218,6 +187,20 @@
         "Original Server": "https://a175live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WImmAWpwcmltZXZpZGVvBBpqumVwBhpqpp7wA2Zha2FtYWkCeClzc2lkOmQ2OTIzZTExLTA2ZWItNDc2My1iOGUzLTQwZDE0OWI1ZGFjOBkBOKEFoQJ4My9iam5vYnUyNmp1L291dC92MS9jYjczYjk2ZjIxNTA0OGY5OTUxN2E4NjEzNDkwMzFiN1ggfBi0UOfVoUvNvAdkkDNAJMnvl7vb208OZP_nhFFJnAY/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/bjnobu26ju/out/v1/cb73b96f215048f99517a861349031b7/5acc7aa8-42cd-4729-8ed6-b02d0980354f-cenc.mpd"
       },
       "drm_key": "33b26376fba836c7bde4807baadd8cff:5530f781a8ca9303c5941edf3ea2f7f6"
+    },
+    {
+      "match_id": "B0HHCY93GH",
+      "title": "Sep 13 - PTT Knoxville",
+      "synopsis": "Sep 13 - PTT Knoxville",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.776c894b-5a15-4e9f-a4a3-4e39e5fda518/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HHCY93GH",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABKZNXTAAAAAAAAMLFFNBSDSISOQ2.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqumVxBhpqpp7xA2pjbG91ZGZyb250Angpc3NpZDpmOGIyYjI3YS04NjQ5LTQ4NWQtODlmMS05OTAyM2IxZDZmZjYZATihBaECeDMvZGhoYnE2MzVzNS9vdXQvdjEvMzU3NGI5ZTg4NjM1NDkwOTliMjNhMTk1M2IwMjJjYjQZATyBYlVTWCApdkx5Q_8aNhVwbRPmmnoQVYP6EQKBTgoPrne2SFR__g/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/dhhbq635s5/out/v1/3574b9e8863549099b23a1953b022cb4/dcd5ffb2-3287-415a-b206-11bcd001c3fd-cenc.mpd"
+      },
+      "drm_key": "e86bc7deffb32ff2c76a3b30fca3aceb:a7349da29ce39849a103f7cb0814810e"
     }
   ]
 }
