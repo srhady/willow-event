@@ -1,8 +1,15 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:04:02 AM 14-09-2026
+#LAST_UPDATE:04:32 AM 14-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:8
+#LIVE_COUNT:1
+#UPCOMING_COUNT:7
+
+#EXTINF:-1 tvg-id="B0HB8S9KK2" tvg-name="Caribbean Premier League 2026 - 35th Match - Barbados Tridents vs Guyana Amazon Warriors" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.11e4756e-2934-42aa-87f4-e0fe0d446983/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Caribbean Premier League 2026 - 35th Match - Barbados Tridents vs Guyana Amazon Warriors
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78a2ee35ebe3d529889f079d1a9c7eee:ffcd4e609f64e0fdfcfd6192f39b8257
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o8nyyyttqm/out/v1/36b86367be03450fbf4ead4c839b97f3/cenc.mpd
 
