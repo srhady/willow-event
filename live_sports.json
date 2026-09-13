@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "07:32 PM 13-09-2026",
+    "LastUpdate": "08:02 PM 13-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 3,
-    "UpcomingCount": 10
+    "LiveCount": 4,
+    "UpcomingCount": 9
   },
   "Matches": [
     {
@@ -89,13 +89,26 @@
       "match_id": "B0HJM13XXM",
       "title": "Womens Asia Cup 2026 - Final - India Women vs Sri Lanka Women",
       "synopsis": "Womens Asia Cup 2026 - Final - India Women vs Sri Lanka Women",
-      "status": "UPCOMING",
-      "time": "Live at 8:30 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a4cdbea1-8d16-4963-b4e3-f7f434c37927/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "7:45 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a4cdbea1-8d16-4963-b4e3-f7f434c37927/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HJM13XXM?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5s7lqbfiy3/out/v1/fbea2a4c025e469fa355532d5e732958/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5s7lqbfiy3/out/v1/fbea2a4c025e469fa355532d5e732958/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/5s7lqbfiy3/out/v1/fbea2a4c025e469fa355532d5e732958/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5s7lqbfiy3/out/v1/fbea2a4c025e469fa355532d5e732958/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5s7lqbfiy3/out/v1/fbea2a4c025e469fa355532d5e732958/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gmdaariqsc/out/v1/c6c30912e8c34d69990e658646403931/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gmdaariqsc/out/v1/c6c30912e8c34d69990e658646403931/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/gmdaariqsc/out/v1/c6c30912e8c34d69990e658646403931/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gmdaariqsc/out/v1/c6c30912e8c34d69990e658646403931/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gmdaariqsc/out/v1/c6c30912e8c34d69990e658646403931/cenc.mpd"
+      },
+      "drm_key": "65a3c62b676acff463b432c3d09ee266:5436e81a463d838a391634f9552140f2"
     },
     {
       "match_id": "B0HG6G453X",
