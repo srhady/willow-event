@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "11:32 PM 14-09-2026",
+    "LastUpdate": "12:02 AM 15-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -28,13 +28,13 @@
       "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
     },
     {
-      "match_id": "B0HF9QZZTC",
-      "title": "Mexico vs. Brazil",
-      "synopsis": "Mexico vs. Brazil",
+      "match_id": "B0GJP8GVFW",
+      "title": "China vs. Netherlands",
+      "synopsis": "China vs. Netherlands",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.0689a671-2579-4c6d-8b96-47e38962a49a/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HF9QZZTC",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.c18a75a6-a80a-48d3-bee1-3391b230aded/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0GJP8GVFW",
       "is_free": false,
       "stream_url": {
         "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd",
@@ -60,6 +60,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd"
       },
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
+    },
+    {
+      "match_id": "B0HJ7MNK9B",
+      "title": "Sep 14 - PTT Newport Beach",
+      "synopsis": "Sep 14 - PTT Newport Beach",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8604ff06-f60b-4044-8f4d-03aed66a0938/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJ7MNK9B",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a112live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqu_02BhpqqDa2A2Zha2FtYWkCeClzc2lkOmZhMjVlOTE3LTJlYWQtNDg2MC05YjVhLTc2YTA3NGZiN2MxZRkBOKEFoQJ4My9hemRuYm1wdWR2L291dC92MS8zOWIyZGVjN2MwYmU0MTU5YmI0NTQwOGM0YTQyYmJmZRkBPIFiVVNYIC68XdBKgv0p7mZXd-N9hxzP8tKyuZY5RDsQ2ogFDLjk/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/azdnbmpudv/out/v1/39b2dec7c0be4159bb45408c4a42bbfe/952f1919-652b-4821-8b09-ad9f6e72941b-cenc.mpd"
+      },
+      "drm_key": "1c564e4ed8564942c494e81c6ad6cc70:21540da5fdcb02f069b82246154d1a79"
     },
     {
       "match_id": "B0HH41TTSD",
