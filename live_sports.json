@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "11:02 PM 15-09-2026",
+    "LastUpdate": "11:32 PM 15-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 2,
-    "UpcomingCount": 5
+    "LiveCount": 3,
+    "UpcomingCount": 4
   },
   "Matches": [
     {
@@ -64,13 +64,26 @@
       "match_id": "B0HGBDBNS6",
       "title": "Sri Lanka tour of England 2026 - 1st T20I - England vs Sri Lanka",
       "synopsis": "Sri Lanka tour of England 2026 - 1st T20I - England vs Sri Lanka",
-      "status": "UPCOMING",
-      "time": "Live at 11:30 PM BDT",
+      "status": "LIVE",
+      "time": "11:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.78c8516f-ca0d-45ed-b976-b3e7c5745bac/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HGBDBNS6?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/knpjs2062k/out/v1/714e6be7d5d04a4f94852283a743f12a/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/knpjs2062k/out/v1/714e6be7d5d04a4f94852283a743f12a/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/knpjs2062k/out/v1/714e6be7d5d04a4f94852283a743f12a/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/knpjs2062k/out/v1/714e6be7d5d04a4f94852283a743f12a/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/knpjs2062k/out/v1/714e6be7d5d04a4f94852283a743f12a/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ydys5ymnp5/out/v1/be54c704225e4e6292092fc69e61ecb1/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ydys5ymnp5/out/v1/be54c704225e4e6292092fc69e61ecb1/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ydys5ymnp5/out/v1/be54c704225e4e6292092fc69e61ecb1/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ydys5ymnp5/out/v1/be54c704225e4e6292092fc69e61ecb1/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ydys5ymnp5/out/v1/be54c704225e4e6292092fc69e61ecb1/cenc.mpd"
+      },
+      "drm_key": "c759dbe41658ffa70178916dac16af09:20d289ab10af288ff4219c9d0c7a9698"
     },
     {
       "match_id": "B0HGVJ53NQ",
