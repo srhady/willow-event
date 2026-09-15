@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "06:02 PM 15-09-2026",
+    "LastUpdate": "06:32 PM 15-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -62,6 +62,20 @@
       "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
     },
     {
+      "match_id": "B0HHRV5TBV",
+      "title": "Sep 15 - PTT Essen",
+      "synopsis": "Sep 15 - PTT Essen",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8c6dba37-155f-4a81-b93b-d0ecbe7505de/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HHRV5TBV",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWImmAWpwcmltZXZpZGVvBBpqvLQCBhpqqO2CA2ZmYXN0bHkCeClzc2lkOjliZDQwNmIxLWY0OWQtNDVkNi1iYTAzLTEyZTczMmJmMDk3MhkBOKEFoQJ4My93aGdqZW1icWRkL291dC92MS9iMTYwYTE3ZDkzNGU0NDliYmZhZmJkNjU2YWEyNTg3MlggF1Z8u34xqW8KLYzVJ6gOCCkiPC8GchSuTT_-oB9Lhhs/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/whgjembqdd/out/v1/b160a17d934e449bbfafbd656aa25872/955b9f63-4009-45de-9acc-ad124f07851b-cenc.mpd"
+      },
+      "drm_key": "56a51ef740693d32d0a60a9d94ae1564:ab1c5d9dec1b8d41cacba3f4fab552c2"
+    },
+    {
       "match_id": "B0HHNQJSB4",
       "title": "Cricket Highlights-ETPL 2026: Flames vs Guardians - 26th Match",
       "synopsis": "Cricket Highlights-ETPL 2026: Flames vs Guardians - 26th Match",
@@ -77,20 +91,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
       },
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-    },
-    {
-      "match_id": "B0HHRV5TBV",
-      "title": "Sep 15 - PTT Essen",
-      "synopsis": "Sep 15 - PTT Essen",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8c6dba37-155f-4a81-b93b-d0ecbe7505de/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HHRV5TBV",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWImmAWpwcmltZXZpZGVvBBpqvLQCBhpqqO2CA2ZmYXN0bHkCeClzc2lkOjliZDQwNmIxLWY0OWQtNDVkNi1iYTAzLTEyZTczMmJmMDk3MhkBOKEFoQJ4My93aGdqZW1icWRkL291dC92MS9iMTYwYTE3ZDkzNGU0NDliYmZhZmJkNjU2YWEyNTg3MlggF1Z8u34xqW8KLYzVJ6gOCCkiPC8GchSuTT_-oB9Lhhs/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/whgjembqdd/out/v1/b160a17d934e449bbfafbd656aa25872/955b9f63-4009-45de-9acc-ad124f07851b-cenc.mpd"
-      },
-      "drm_key": "56a51ef740693d32d0a60a9d94ae1564:ab1c5d9dec1b8d41cacba3f4fab552c2"
     }
   ]
 }
