@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "09:32 AM 15-09-2026",
+    "LastUpdate": "10:02 AM 15-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -10,20 +10,6 @@
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HJ7MNK9B",
-      "title": "Sep 14 - PTT Newport Beach",
-      "synopsis": "Sep 14 - PTT Newport Beach",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8604ff06-f60b-4044-8f4d-03aed66a0938/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HJ7MNK9B",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a112live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqu_02BhpqqDa2A2Zha2FtYWkCeClzc2lkOmZhMjVlOTE3LTJlYWQtNDg2MC05YjVhLTc2YTA3NGZiN2MxZRkBOKEFoQJ4My9hemRuYm1wdWR2L291dC92MS8zOWIyZGVjN2MwYmU0MTU5YmI0NTQwOGM0YTQyYmJmZRkBPIFiVVNYIC68XdBKgv0p7mZXd-N9hxzP8tKyuZY5RDsQ2ogFDLjk/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/azdnbmpudv/out/v1/39b2dec7c0be4159bb45408c4a42bbfe/952f1919-652b-4821-8b09-ad9f6e72941b-cenc.mpd"
-      },
-      "drm_key": "1c564e4ed8564942c494e81c6ad6cc70:21540da5fdcb02f069b82246154d1a79"
-    },
     {
       "match_id": "B0HJ6MHZKH",
       "title": "Grand Prix of San Marino and the Rimini Riviera",
@@ -54,6 +40,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd"
       },
       "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
+    },
+    {
+      "match_id": "B0HJ7MNK9B",
+      "title": "Sep 14 - PTT Newport Beach",
+      "synopsis": "Sep 14 - PTT Newport Beach",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8604ff06-f60b-4044-8f4d-03aed66a0938/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJ7MNK9B",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a112live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqu_02BhpqqDa2A2Zha2FtYWkCeClzc2lkOmZhMjVlOTE3LTJlYWQtNDg2MC05YjVhLTc2YTA3NGZiN2MxZRkBOKEFoQJ4My9hemRuYm1wdWR2L291dC92MS8zOWIyZGVjN2MwYmU0MTU5YmI0NTQwOGM0YTQyYmJmZRkBPIFiVVNYIC68XdBKgv0p7mZXd-N9hxzP8tKyuZY5RDsQ2ogFDLjk/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/azdnbmpudv/out/v1/39b2dec7c0be4159bb45408c4a42bbfe/952f1919-652b-4821-8b09-ad9f6e72941b-cenc.mpd"
+      },
+      "drm_key": "1c564e4ed8564942c494e81c6ad6cc70:21540da5fdcb02f069b82246154d1a79"
     }
   ]
 }
