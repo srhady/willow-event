@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "06:32 PM 15-09-2026",
+    "LastUpdate": "07:02 PM 15-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 7
+    "LiveCount": 2,
+    "UpcomingCount": 6
   },
   "Matches": [
     {
@@ -36,25 +36,38 @@
       "drm_key": "309e85d6694749978e614aa5926c73a9:116d71ce23ee34ac656af54fb1400ffb"
     },
     {
+      "match_id": "B0HHHWXG6B",
+      "title": "Afghanistan vs India in India 2026 - 2nd T20I - Afghanistan vs India",
+      "synopsis": "Afghanistan vs India in India 2026 - 2nd T20I - Afghanistan vs India",
+      "status": "LIVE",
+      "time": "7:30 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7d963906-b7ec-4422-b07d-2a6eb9193931/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HHHWXG6B?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
+      "is_free": false,
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rg1wbyohtc/out/v1/e3fc25fcd54141b0a1aa39c1b04c0d7b/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rg1wbyohtc/out/v1/e3fc25fcd54141b0a1aa39c1b04c0d7b/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/rg1wbyohtc/out/v1/e3fc25fcd54141b0a1aa39c1b04c0d7b/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rg1wbyohtc/out/v1/e3fc25fcd54141b0a1aa39c1b04c0d7b/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rg1wbyohtc/out/v1/e3fc25fcd54141b0a1aa39c1b04c0d7b/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/8t3oqznxym/out/v1/49c0d8b9b6c5406492957674e591586f/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/8t3oqznxym/out/v1/49c0d8b9b6c5406492957674e591586f/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/8t3oqznxym/out/v1/49c0d8b9b6c5406492957674e591586f/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/8t3oqznxym/out/v1/49c0d8b9b6c5406492957674e591586f/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/8t3oqznxym/out/v1/49c0d8b9b6c5406492957674e591586f/cenc.mpd"
+      },
+      "drm_key": "881660f21b521a54803840a388caaffa:b152a33ccb29c23fc05f8e6379f69551"
+    },
+    {
       "match_id": "B0HF7W3GL3",
       "title": "European T20 Premier League 2026 - 27th Match - Edinburgh Castle Rockers vs Rotterdam Dockers",
       "synopsis": "European T20 Premier League 2026 - 27th Match - Edinburgh Castle Rockers vs Rotterdam Dockers",
       "status": "UPCOMING",
       "time": "Live at 7:15 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bdbca49d-805a-4040-8857-6ae040e7c579/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HF7W3GL3?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
-      "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
-    },
-    {
-      "match_id": "B0HHHWXG6B",
-      "title": "Afghanistan vs India in India 2026 - 2nd T20I - Afghanistan vs India",
-      "synopsis": "Afghanistan vs India in India 2026 - 2nd T20I - Afghanistan vs India",
-      "status": "UPCOMING",
-      "time": "Live at 7:30 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7d963906-b7ec-4422-b07d-2a6eb9193931/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HHHWXG6B?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HF7W3GL3?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""

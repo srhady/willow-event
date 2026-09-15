@@ -1,15 +1,22 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:06:32 PM 15-09-2026
+#LAST_UPDATE:07:02 PM 15-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:1
-#UPCOMING_COUNT:7
+#LIVE_COUNT:2
+#UPCOMING_COUNT:6
 
 #EXTINF:-1 tvg-id="B0H7PD3W98" tvg-name="European T20 Premier League 2026 - 26th Match - Amsterdam Flames vs Dublin Guardians" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.118470e0-9473-4801-988f-907d4b7a1c04/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",European T20 Premier League 2026 - 26th Match - Amsterdam Flames vs Dublin Guardians
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=309e85d6694749978e614aa5926c73a9:116d71ce23ee34ac656af54fb1400ffb
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/0yruzktkji/out/v1/d65aac70c1904c7f8d75cbf959fb2d46/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/0yruzktkji/out/v1/d65aac70c1904c7f8d75cbf959fb2d46/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HHHWXG6B" tvg-name="Afghanistan vs India in India 2026 - 2nd T20I - Afghanistan vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7d963906-b7ec-4422-b07d-2a6eb9193931/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Afghanistan vs India in India 2026 - 2nd T20I - Afghanistan vs India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=881660f21b521a54803840a388caaffa:b152a33ccb29c23fc05f8e6379f69551
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rg1wbyohtc/out/v1/e3fc25fcd54141b0a1aa39c1b04c0d7b/cenc.mpd
 
