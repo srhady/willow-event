@@ -1,8 +1,15 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:04:02 AM 17-09-2026
+#LAST_UPDATE:04:32 AM 17-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:13
+#LIVE_COUNT:1
+#UPCOMING_COUNT:12
+
+#EXTINF:-1 tvg-id="B0HJW4PLMQ" tvg-name="Caribbean Premier League 2026 - Eliminator - Barbados Tridents vs Jamaica Kingsmen" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f79bcf1b-0b8b-4f98-9699-a5da432d6420/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Caribbean Premier League 2026 - Eliminator - Barbados Tridents vs Jamaica Kingsmen
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7d895d5bccb125fbd0034cc7af3b24e:76b51bcfdaf396f17fcec1ba4543f988
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/buawn8tvhe/out/v1/d51b1adb57b249b881666d9e08a8c167/cenc.mpd
 
