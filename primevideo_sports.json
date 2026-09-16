@@ -1,32 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "04:32 AM 17-09-2026",
+    "LastUpdate": "05:02 AM 17-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 3,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HGBHWSRX",
-      "title": "Oklahoma 3rd Place Qualifier",
-      "synopsis": "Oklahoma 3rd Place Qualifier",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.1c06aaba-1e55-4aa6-9e3b-56fcb30804ec/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HGBHWSRX",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd"
-      },
-      "drm_key": "dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b"
-    },
     {
       "match_id": "B0H8YNQ2MD",
       "title": "Tennis Today Live-Tennis Today-Live: Sao Paulo-WTA & Guadalajara-WTA Early Rounds",
@@ -45,6 +28,23 @@
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
     },
     {
+      "match_id": "B0HGBHWSRX",
+      "title": "Oklahoma 3rd Place Qualifier",
+      "synopsis": "Oklahoma 3rd Place Qualifier",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.1c06aaba-1e55-4aa6-9e3b-56fcb30804ec/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HGBHWSRX",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd"
+      },
+      "drm_key": "dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b"
+    },
+    {
       "match_id": "B0HH49116Q",
       "title": "Sep 16 - PTT Newport Beach",
       "synopsis": "Sep 16 - PTT Newport Beach",
@@ -57,20 +57,6 @@
         "Original Server": "https://a117live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WImmAWpwcmltZXZpZGVvBBpqvqA2Bhpqqtm2A2Zha2FtYWkCeClzc2lkOjFhOWJlMTU5LTdjODAtNGZhYy04Mzc4LWJmNjRkNzA3MDFhZRkBOKEFoQJ4My96YzNnZGZ0c2FwL291dC92MS85MWQ2NmE0N2ZmOWU0NGQ0OTdkZDA4NTlhMjE5N2E2Y1ggY2mcAcbYz5IPvkO7VSJD-Bw2ropfZsIUDBVeqO8t4Bg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/zc3gdftsap/out/v1/91d66a47ff9e44d497dd0859a2197a6c/bafaa117-1891-4b65-9e55-2e91aa1cd7ad-cenc.mpd"
       },
       "drm_key": "6b94922ffe78758ff47935b1264f4f8c:75a03fc9097ac0c44917e4a07158468e"
-    },
-    {
-      "match_id": "B0HHWQ678C",
-      "title": "Sep 16 - PTT Chicago",
-      "synopsis": "Sep 16 - PTT Chicago",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ce9f5ebe-bba4-4405-9204-cd6245b744a2/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HHWQ678C",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a30live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WImmAWpwcmltZXZpZGVvBBpqvmf5BhpqqqF5A2Zha2FtYWkCeClzc2lkOmJlZjY3NjIyLTQyNmMtNGZjMC05MWM2LTUzNWZjYzAyZmY1MBkBOKEFoQJ4My93MHVuc3VqZHdlL291dC92MS9jNGFjMzZiYmRjYjA0NzQ5OWZiNzI4NzBhNWFhOWVkOFggySVq0QZzf07OrDra-JD-e1KNCsjsUrrXpOJtkzEc-28/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/w0unsujdwe/out/v1/c4ac36bbdcb047499fb72870a5aa9ed8/cb3825c2-1369-4b26-bf9d-79238f1e2294-cenc.mpd"
-      },
-      "drm_key": "84e421b8189f943738729e59016ad392:fce365236bbd1ba7e6e6ae1750845e31"
     }
   ]
 }
