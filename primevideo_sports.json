@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "06:02 AM 16-09-2026",
+    "LastUpdate": "06:32 AM 16-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -10,6 +10,23 @@
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0H82ZTNRN",
+      "title": "China vs. United States",
+      "synopsis": "China vs. United States",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.5c0c47f2-a367-47e5-966a-0221bf57f5cd/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H82ZTNRN",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd"
+      },
+      "drm_key": "dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b"
+    },
     {
       "match_id": "B0HFTFWN2F",
       "title": "AA BASEBALL G2 - Kansas vs Fargo-Moorhead",
@@ -33,7 +50,7 @@
       "synopsis": "East Division Championship",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.b2d6fa3f-e1e0-4840-80c2-05769a3809a0/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.b2d6fa3f-e1e0-4840-80c2-05769a3809a0/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMjpg_.jpg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HH6K466S",
       "is_free": false,
       "stream_url": {
@@ -43,23 +60,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd"
       },
       "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
-    },
-    {
-      "match_id": "B0H82ZTNRN",
-      "title": "China vs. United States",
-      "synopsis": "China vs. United States",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.5c0c47f2-a367-47e5-966a-0221bf57f5cd/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H82ZTNRN",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd"
-      },
-      "drm_key": "dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b"
     },
     {
       "match_id": "B0H8YNQ2MD",
@@ -79,20 +79,6 @@
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
     },
     {
-      "match_id": "B0H995RX1J",
-      "title": "Sep 15 - PTT Newport Beach",
-      "synopsis": "Sep 15 - PTT Newport Beach",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a868be76-9191-4696-be2f-b8cd6fd827eb/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H995RX1J",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABBI5W5AAAAAAAAMHKAF3PN4RPMYD.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WI2mAWpwcmltZXZpZGVvBBpqvZUNBhpqqc6NA2pjbG91ZGZyb250Angpc3NpZDoyOWJiZGNmZi05ZTkwLTQ3YTQtYTIxMC05NzgxZjM3ZDgzZGMZATihBaECeDMvcmlseXZnYXVkeC9vdXQvdjEvMWExMTMxZjI4NWM1NDc1M2FiY2NkZWY1MjZmYmI5ZmNYINVeskKWOarbXcl46qEZ9aNEnYrlM-0zaOUhDzwL1LhF/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/rilyvgaudx/out/v1/1a1131f285c54753abccdef526fbb9fc/87088b23-56bf-42de-9b18-3bfc49db2c7e-cenc.mpd"
-      },
-      "drm_key": "756bee49dac2d3bb9422d1ba567975fd:d2989c281f29cda5da42154587a1efd6"
-    },
-    {
       "match_id": "B0HJ8JS8WY",
       "title": "Sep 15 - PTT Chicago",
       "synopsis": "Sep 15 - PTT Chicago",
@@ -105,6 +91,20 @@
         "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqvZUMBhpqqc6MA2ZmYXN0bHkCeClzc2lkOjI0YjQyNzMxLTVjYzAtNDI1Yi04YjQxLWE2MmRiMTI1MzUwMRkBOKEFoQJ4My9iY3plZ3B1d3NtL291dC92MS8wY2UwZjY4OGE1Y2U0MDY0ODFhOGYwNzI3M2Y0ZjAwNxkBPIFiVVNYIMhxFstyNMaVbGn7TZA8jpL7WU2LFSkL9gwTjbsABdbC/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/bczegpuwsm/out/v1/0ce0f688a5ce406481a8f07273f4f007/cc78f75b-2669-43a5-ae73-4ee3d2359699-cenc.mpd"
       },
       "drm_key": "8190ede3bf2e368fe038fb180123ec9c:6ecf277615e7f267fbdd793d51777077"
+    },
+    {
+      "match_id": "B0H995RX1J",
+      "title": "Sep 15 - PTT Newport Beach",
+      "synopsis": "Sep 15 - PTT Newport Beach",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a868be76-9191-4696-be2f-b8cd6fd827eb/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H995RX1J",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABBI5W5AAAAAAAAMHKAF3PN4RPMYD.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WI2mAWpwcmltZXZpZGVvBBpqvZUNBhpqqc6NA2pjbG91ZGZyb250Angpc3NpZDoyOWJiZGNmZi05ZTkwLTQ3YTQtYTIxMC05NzgxZjM3ZDgzZGMZATihBaECeDMvcmlseXZnYXVkeC9vdXQvdjEvMWExMTMxZjI4NWM1NDc1M2FiY2NkZWY1MjZmYmI5ZmNYINVeskKWOarbXcl46qEZ9aNEnYrlM-0zaOUhDzwL1LhF/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/rilyvgaudx/out/v1/1a1131f285c54753abccdef526fbb9fc/87088b23-56bf-42de-9b18-3bfc49db2c7e-cenc.mpd"
+      },
+      "drm_key": "756bee49dac2d3bb9422d1ba567975fd:d2989c281f29cda5da42154587a1efd6"
     }
   ]
 }
