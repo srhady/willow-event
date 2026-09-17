@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "07:32 PM 17-09-2026",
+    "LastUpdate": "08:02 PM 17-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -77,6 +77,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
       },
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
+      "match_id": "B0HFNPWM7V",
+      "title": "Sep 17 - PTT Chicago",
+      "synopsis": "Sep 17 - PTT Chicago",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.11e9993c-643a-413e-8a5a-0e8623b3a0e8/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFNPWM7V",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a101live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WImmAWpwcmltZXZpZGVvBBpqv7lvBhpqq_LvA2Zha2FtYWkCeClzc2lkOjQ4MTg1OTRhLTYxOWItNDZlZi1hMDU2LWE5ZjQwZGFiMmY5YhkBOKEFoQJ4My9tbXplbXZpNnByL291dC92MS81MWRlNTE4ODEzN2Q0ZWZmYjNjY2JkMTY0NjEzZmRjOFggKZ4R_6w2S6TQudIy_bKZvZh7HgtHahAs1wJXwvjOaI8/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/mmzemvi6pr/out/v1/51de5188137d4effb3ccbd164613fdc8/94385b07-0b7a-4522-b429-f4c0e86d8a6f-cenc.mpd"
+      },
+      "drm_key": "b8766da7bb3e2690a9ae6034803dcf74:adfc9136426737dd7029e0a3fa73d167"
     }
   ]
 }
