@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "08:02 PM 18-09-2026",
+    "LastUpdate": "08:32 PM 18-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 7,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -16,7 +16,7 @@
       "synopsis": "Qatar Airways Grand Prix of Austria, Practice",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.2befe749-3eb8-4077-8d7e-adc6bc163c32/14/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.2befe749-3eb8-4077-8d7e-adc6bc163c32/15/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HHR3DFXM",
       "is_free": false,
       "stream_url": {
@@ -74,37 +74,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd"
       },
       "drm_key": "2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72"
-    },
-    {
-      "match_id": "B0HJ4375DX",
-      "title": "U23 World Cup: Day 4, Session 5",
-      "synopsis": "U23 World Cup: Day 4, Session 5",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.7185027d-0c9a-4123-914f-734fe06078db/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HJ4375DX",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd"
-      },
-      "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
-    },
-    {
-      "match_id": "B0GMWVSND9",
-      "title": "Sep 18 - PTT Essen",
-      "synopsis": "Sep 18 - PTT Essen",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1a73fc28-2595-4efe-99f5-82984645842b/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0GMWVSND9",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABDGOKTAAAAAAAAMG4TVNOH7JBKAN.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqwKiNBhpqrOINA2pjbG91ZGZyb250Angpc3NpZDpiOTdhMzkyYi0yMzNhLTQ2OGYtODIxYS1hMmVhYjU5MjkwOWYZATihBaECeDMvY2w1MXhqZzJ2cy9vdXQvdjEvZjZlMzNjZDI5M2Q0NDhhYzgxYmMwYWUyMmVlYzBkNWEZATyBYlVTWCAy5LlHlFLxqAdThv0kw7Md_4P5Q_BwKusyTUCCHjiG1w/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/cl51xjg2vs/out/v1/f6e33cd293d448ac81bc0ae22eec0d5a/696c0f04-f1d2-4064-8aa9-c5550fcabcdd-cenc.mpd"
-      },
-      "drm_key": "98b9e2a7398078f3eecdb629796f2b15:53f7f413fddabd3136575c00ba7bfe04"
     },
     {
       "match_id": "B0HJHJ4SRG",
