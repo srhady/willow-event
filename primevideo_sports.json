@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "07:32 PM 18-09-2026",
+    "LastUpdate": "08:02 PM 18-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -25,23 +25,6 @@
       "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
     },
     {
-      "match_id": "B0HH24B8Y4",
-      "title": "The Morning Drive",
-      "synopsis": "The Morning Drive",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.5b06d077-00e5-4eef-93ce-2887a87f43d6/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HH24B8Y4",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd"
-      },
-      "drm_key": "e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052"
-    },
-    {
       "match_id": "B0HG14DN4Z",
       "title": "Green Mountain Championship, Round 2",
       "synopsis": "Green Mountain Championship, Round 2",
@@ -57,6 +40,23 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd"
       },
       "drm_key": "dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b"
+    },
+    {
+      "match_id": "B0HH24B8Y4",
+      "title": "The Morning Drive",
+      "synopsis": "The Morning Drive",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.5b06d077-00e5-4eef-93ce-2887a87f43d6/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HH24B8Y4",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd"
+      },
+      "drm_key": "e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052"
     },
     {
       "match_id": "B0HJNN82QG",
@@ -93,20 +93,6 @@
       "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
     },
     {
-      "match_id": "B0HJHJ4SRG",
-      "title": "Sep 18 - PTT Chicago",
-      "synopsis": "Sep 18 - PTT Chicago",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d2a434e4-d974-4d31-901a-4f26107c8ae1/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HJHJ4SRG",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqwQPsBhpqrT1sA2ZmYXN0bHkCeClzc2lkOjBlY2JhZGQzLTZlMTMtNGJkYy04NDZjLTJkYzM2ZTFkY2M3NhkBOKEFoQJ4My9nbGlsbHVxeG1iL291dC92MS85ZTI0NGVhMTAyYmY0MjlkOWZkMmU0N2FmYjM2MDQzNRkBPIFiVVNYIIRkjiBeUM1gjLotbXmoztEgZgw7x7eifH7bvS6cb_3H/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/glilluqxmb/out/v1/9e244ea102bf429d9fd2e47afb360435/a1cbead0-fae6-4a60-95d3-43fcd4b56983-cenc.mpd"
-      },
-      "drm_key": "5fd6a5801c458393648202140b0d38a2:822ecee2456a47a9d542505cddb8a696"
-    },
-    {
       "match_id": "B0GMWVSND9",
       "title": "Sep 18 - PTT Essen",
       "synopsis": "Sep 18 - PTT Essen",
@@ -119,6 +105,20 @@
         "Original Server": "https://ABDGOKTAAAAAAAAMG4TVNOH7JBKAN.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqwKiNBhpqrOINA2pjbG91ZGZyb250Angpc3NpZDpiOTdhMzkyYi0yMzNhLTQ2OGYtODIxYS1hMmVhYjU5MjkwOWYZATihBaECeDMvY2w1MXhqZzJ2cy9vdXQvdjEvZjZlMzNjZDI5M2Q0NDhhYzgxYmMwYWUyMmVlYzBkNWEZATyBYlVTWCAy5LlHlFLxqAdThv0kw7Md_4P5Q_BwKusyTUCCHjiG1w/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/cl51xjg2vs/out/v1/f6e33cd293d448ac81bc0ae22eec0d5a/696c0f04-f1d2-4064-8aa9-c5550fcabcdd-cenc.mpd"
       },
       "drm_key": "98b9e2a7398078f3eecdb629796f2b15:53f7f413fddabd3136575c00ba7bfe04"
+    },
+    {
+      "match_id": "B0HJHJ4SRG",
+      "title": "Sep 18 - PTT Chicago",
+      "synopsis": "Sep 18 - PTT Chicago",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d2a434e4-d974-4d31-901a-4f26107c8ae1/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJHJ4SRG",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqwQPsBhpqrT1sA2ZmYXN0bHkCeClzc2lkOjBlY2JhZGQzLTZlMTMtNGJkYy04NDZjLTJkYzM2ZTFkY2M3NhkBOKEFoQJ4My9nbGlsbHVxeG1iL291dC92MS85ZTI0NGVhMTAyYmY0MjlkOWZkMmU0N2FmYjM2MDQzNRkBPIFiVVNYIIRkjiBeUM1gjLotbXmoztEgZgw7x7eifH7bvS6cb_3H/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/glilluqxmb/out/v1/9e244ea102bf429d9fd2e47afb360435/a1cbead0-fae6-4a60-95d3-43fcd4b56983-cenc.mpd"
+      },
+      "drm_key": "5fd6a5801c458393648202140b0d38a2:822ecee2456a47a9d542505cddb8a696"
     }
   ]
 }
