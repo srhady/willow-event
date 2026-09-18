@@ -1,26 +1,39 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "10:32 AM 18-09-2026",
+    "LastUpdate": "11:02 AM 18-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 0,
-    "UpcomingCount": 5
+    "LiveCount": 1,
+    "UpcomingCount": 4
   },
   "Matches": [
     {
       "match_id": "B0HJYQ9F3Q",
       "title": "Women's Asian Games 2026 - 4th Quarter-Final - Japan Women vs India Women",
       "synopsis": "Women's Asian Games 2026 - 4th Quarter-Final - Japan Women vs India Women",
-      "status": "UPCOMING",
-      "time": "Live at 11 AM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.700830c1-247c-4a63-be29-ac93e7769418/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "10:30 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.700830c1-247c-4a63-be29-ac93e7769418/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HJYQ9F3Q?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/45rdnte6d6/out/v1/78a278d9350e4c57bc64f1142d08db41/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/45rdnte6d6/out/v1/78a278d9350e4c57bc64f1142d08db41/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/45rdnte6d6/out/v1/78a278d9350e4c57bc64f1142d08db41/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/45rdnte6d6/out/v1/78a278d9350e4c57bc64f1142d08db41/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/45rdnte6d6/out/v1/78a278d9350e4c57bc64f1142d08db41/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h32geqijht/out/v1/62bc855932ed426399912fe1eb3dfff6/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h32geqijht/out/v1/62bc855932ed426399912fe1eb3dfff6/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/h32geqijht/out/v1/62bc855932ed426399912fe1eb3dfff6/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h32geqijht/out/v1/62bc855932ed426399912fe1eb3dfff6/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h32geqijht/out/v1/62bc855932ed426399912fe1eb3dfff6/cenc.mpd"
+      },
+      "drm_key": "07dc2346823644f4fc76855ac0b28934:f390daae70c6db7787471e7790ef55e3"
     },
     {
       "match_id": "B0HK18NQRX",

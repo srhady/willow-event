@@ -1,8 +1,15 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:10:32 AM 18-09-2026
+#LAST_UPDATE:11:02 AM 18-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:5
+#LIVE_COUNT:1
+#UPCOMING_COUNT:4
+
+#EXTINF:-1 tvg-id="B0HJYQ9F3Q" tvg-name="Women's Asian Games 2026 - 4th Quarter-Final - Japan Women vs India Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.700830c1-247c-4a63-be29-ac93e7769418/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Women's Asian Games 2026 - 4th Quarter-Final - Japan Women vs India Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07dc2346823644f4fc76855ac0b28934:f390daae70c6db7787471e7790ef55e3
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/45rdnte6d6/out/v1/78a278d9350e4c57bc64f1142d08db41/cenc.mpd
 
