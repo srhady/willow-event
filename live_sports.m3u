@@ -1,8 +1,15 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:05:02 AM 20-09-2026
+#LAST_UPDATE:05:32 AM 20-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:7
+#LIVE_COUNT:1
+#UPCOMING_COUNT:6
+
+#EXTINF:-1 tvg-id="B0HJZ2L8X9" tvg-name="Womens Asian Games 2026 - 1st Semi-Final - Pakistan Women vs Sri Lanka Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1b78261c-77a1-4184-b141-3a799cfc5184/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Asian Games 2026 - 1st Semi-Final - Pakistan Women vs Sri Lanka Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=630d9cfcc288011decb8f32841f7f7a0:52e742871730efd0e690968f4c999a06
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/m3c3bftznc/out/v1/c9e6e1ffc66b4bd4943aa600ac102b1a/cenc.mpd
 
