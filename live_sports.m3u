@@ -1,8 +1,15 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:06:32 PM 20-09-2026
+#LAST_UPDATE:07:02 PM 20-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:5
+#LIVE_COUNT:1
+#UPCOMING_COUNT:4
+
+#EXTINF:-1 tvg-id="B0HJYBYPW8" tvg-name="European T20 Premier League 2026 - Final - Edinburgh Castle Rockers vs Belfast Wolves" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.16563500-bc72-44f5-9a49-499938411f54/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",European T20 Premier League 2026 - Final - Edinburgh Castle Rockers vs Belfast Wolves
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d8b6d946a51363b9e28958fd78f8ea3:0f0b52979c044b7137f53ede158d885d
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/nybfitjfqd/out/v1/e12cd60d9c3c4fc88817895f8c896d9c/cenc.mpd
 

@@ -1,26 +1,39 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "06:32 PM 20-09-2026",
+    "LastUpdate": "07:02 PM 20-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 0,
-    "UpcomingCount": 5
+    "LiveCount": 1,
+    "UpcomingCount": 4
   },
   "Matches": [
     {
       "match_id": "B0HJYBYPW8",
       "title": "European T20 Premier League 2026 - Final - Edinburgh Castle Rockers vs Belfast Wolves",
       "synopsis": "European T20 Premier League 2026 - Final - Edinburgh Castle Rockers vs Belfast Wolves",
-      "status": "UPCOMING",
-      "time": "Live at 6:45 PM BDT",
+      "status": "LIVE",
+      "time": "6:45 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.16563500-bc72-44f5-9a49-499938411f54/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HJYBYPW8?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nybfitjfqd/out/v1/e12cd60d9c3c4fc88817895f8c896d9c/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nybfitjfqd/out/v1/e12cd60d9c3c4fc88817895f8c896d9c/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/nybfitjfqd/out/v1/e12cd60d9c3c4fc88817895f8c896d9c/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nybfitjfqd/out/v1/e12cd60d9c3c4fc88817895f8c896d9c/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nybfitjfqd/out/v1/e12cd60d9c3c4fc88817895f8c896d9c/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/l8bozkslp6/out/v1/dd2abb1c379b492db9cf6233d878bcca/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/l8bozkslp6/out/v1/dd2abb1c379b492db9cf6233d878bcca/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/l8bozkslp6/out/v1/dd2abb1c379b492db9cf6233d878bcca/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/l8bozkslp6/out/v1/dd2abb1c379b492db9cf6233d878bcca/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/l8bozkslp6/out/v1/dd2abb1c379b492db9cf6233d878bcca/cenc.mpd"
+      },
+      "drm_key": "8d8b6d946a51363b9e28958fd78f8ea3:0f0b52979c044b7137f53ede158d885d"
     },
     {
       "match_id": "B0HH696TQ4",
