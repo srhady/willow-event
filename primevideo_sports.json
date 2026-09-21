@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "12:32 PM 21-09-2026",
+    "LastUpdate": "01:02 PM 21-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -60,6 +60,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd"
       },
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
+    },
+    {
+      "match_id": "B0HJY77JMK",
+      "title": "Sep 21 - PTT Essen",
+      "synopsis": "Sep 21 - PTT Essen",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.245927b9-d5c3-49ed-93ba-907dc7192fd6/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJY77JMK",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a79live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WImmAWpwcmltZXZpZGVvBBpqxJ0CBhpqsNaCA2Zha2FtYWkCeClzc2lkOjI3MWQ0N2IzLWI5YjQtNDRiNS1hN2I5LTY4ZDdmYmNlZmU5YRkBOKEFoQJ4My95cnp5cnN2YXd3L291dC92MS81YjYwOWNkNzJjZWY0OWVlYTJhMjU5MmNmM2Y5ZjQyNVggwNcWx1hVtkgAaw7lB9pjo01AL_Rc7PXM4RWjd19ASr0/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/yrzyrsvaww/out/v1/5b609cd72cef49eea2a2592cf3f9f425/806c973d-946c-4ffd-a058-54ad3ebe1e9b-cenc.mpd"
+      },
+      "drm_key": "1227cacffedbdabaae56c77496f2b5c1:b0d76fefd0c81feb81a2f946165f369b"
     },
     {
       "match_id": "B0HF1Q16LR",
