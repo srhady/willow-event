@@ -1,31 +1,28 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "08:02 AM 21-09-2026",
+    "LastUpdate": "08:32 AM 21-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
     {
-      "match_id": "B0HJNC8CXT",
-      "title": "PPA Tour Arizona Open: Championships",
-      "synopsis": "PPA Tour Arizona Open: Championships",
+      "match_id": "B0HG4TZH27",
+      "title": "MLS Wrap-Up⁩",
+      "synopsis": "MLS Wrap-Up⁩",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.099a0988-3222-482a-853f-23bacfab115a/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HJNC8CXT",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.08cf09b2-c32a-49d3-9cbc-d48f7185f8de/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HG4TZH27",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd"
+        "Original Server": "https://a33live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqxE-nBhpqsIknA2Zha2FtYWkCeClzc2lkOmY4MmVmMjYzLWFhZDMtNDg0Ny1iOTYxLWQ1ZTcwM2VkZmVmMBkBOKEFoQJ4My93MWVwd2RsZGFjL291dC92MS8zOTBmYmY4YWM4Yzk0MGVkOGE4MTg5MDE4NTBhY2ExNBkBPIFiVVNYIENRNqEB8TEburrtubWV7t2RZbuS3TcKf9loircuQ10u/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/w1epwdldac/out/v1/390fbf8ac8c940ed8a818901850aca14/9c52dffc-47ee-48ec-9ef6-98075d555b50-cenc.mpd"
       },
-      "drm_key": "2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72"
+      "drm_key": "48c0705fc4390dbb90129805967ee042:a624fba0123c12193737c3b4e343e4a6"
     },
     {
       "match_id": "B0HK3M7811",
@@ -43,20 +40,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
       },
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-    },
-    {
-      "match_id": "B0HG4TZH27",
-      "title": "MLS Wrap-Up⁩",
-      "synopsis": "MLS Wrap-Up⁩",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.08cf09b2-c32a-49d3-9cbc-d48f7185f8de/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HG4TZH27",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a33live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqxE-nBhpqsIknA2Zha2FtYWkCeClzc2lkOmY4MmVmMjYzLWFhZDMtNDg0Ny1iOTYxLWQ1ZTcwM2VkZmVmMBkBOKEFoQJ4My93MWVwd2RsZGFjL291dC92MS8zOTBmYmY4YWM4Yzk0MGVkOGE4MTg5MDE4NTBhY2ExNBkBPIFiVVNYIENRNqEB8TEburrtubWV7t2RZbuS3TcKf9loircuQ10u/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/w1epwdldac/out/v1/390fbf8ac8c940ed8a818901850aca14/9c52dffc-47ee-48ec-9ef6-98075d555b50-cenc.mpd"
-      },
-      "drm_key": "48c0705fc4390dbb90129805967ee042:a624fba0123c12193737c3b4e343e4a6"
     },
     {
       "match_id": "B0HFTM2YBX",
