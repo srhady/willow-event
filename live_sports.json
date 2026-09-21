@@ -1,34 +1,47 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "05:02 AM 22-09-2026",
+    "LastUpdate": "05:32 AM 22-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 0,
-    "UpcomingCount": 20
+    "LiveCount": 1,
+    "UpcomingCount": 19
   },
   "Matches": [
     {
       "match_id": "B0HJ7VXFVN",
       "title": "Womens Asian Games 2026 - 3rd place play-off - Pakistan Women vs Bangladesh Women",
       "synopsis": "Womens Asian Games 2026 - 3rd place play-off - Pakistan Women vs Bangladesh Women",
-      "status": "UPCOMING",
-      "time": "Live at 6 AM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d81c6dab-53f0-4590-adac-c9338ccfb451/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "5:30 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d81c6dab-53f0-4590-adac-c9338ccfb451/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HJ7VXFVN?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k8bzrz6q6c/out/v1/3271c6590df74153a1e57c50fe47b94b/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k8bzrz6q6c/out/v1/3271c6590df74153a1e57c50fe47b94b/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/k8bzrz6q6c/out/v1/3271c6590df74153a1e57c50fe47b94b/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k8bzrz6q6c/out/v1/3271c6590df74153a1e57c50fe47b94b/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k8bzrz6q6c/out/v1/3271c6590df74153a1e57c50fe47b94b/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mzcublr98r/out/v1/820d3eb679b1409ab7a1ab0939501250/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mzcublr98r/out/v1/820d3eb679b1409ab7a1ab0939501250/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/mzcublr98r/out/v1/820d3eb679b1409ab7a1ab0939501250/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mzcublr98r/out/v1/820d3eb679b1409ab7a1ab0939501250/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mzcublr98r/out/v1/820d3eb679b1409ab7a1ab0939501250/cenc.mpd"
+      },
+      "drm_key": "fffbd595a239d4e97d8f4bc9704a2d76:614232c4a473ebbd72e77c860c03db2f"
     },
     {
       "match_id": "B0HGMS7B1G",
       "title": "Womens Asian Games 2026 - Final - Sri Lanka Women vs India Women",
       "synopsis": "Womens Asian Games 2026 - Final - Sri Lanka Women vs India Women",
       "status": "UPCOMING",
-      "time": "Live at 11 AM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c6e22aba-455e-4748-8387-2a3edfce56e6/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "time": "Live at 10:30 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c6e22aba-455e-4748-8387-2a3edfce56e6/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HGMS7B1G?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
       "is_free": false,
       "stream_url_alpha": "",
