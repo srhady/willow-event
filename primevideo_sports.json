@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "12:32 AM 23-09-2026",
+    "LastUpdate": "01:02 AM 23-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 3,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -28,18 +28,21 @@
       "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
     },
     {
-      "match_id": "B0HJ6V65DY",
-      "title": "Sep 22 - PTT Norfolk",
-      "synopsis": "Sep 22 - PTT Norfolk",
+      "match_id": "B0HKD5VGBG",
+      "title": "Real Madrid CF vs. Paris Saint-Germain FC",
+      "synopsis": "Real Madrid CF vs. Paris Saint-Germain FC",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2d46e9ee-0e91-4ac1-8fd4-cd80acac5f7b/8/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HJ6V65DY",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.b5f86032-2ae5-4d42-9802-76bcce7d2739/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKD5VGBG",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://ABKZMTXAAAAAAAAMEXBH6UHRUSLEO.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqxl8ABhpqspiAA2pjbG91ZGZyb250Angpc3NpZDpmN2IyN2FjZC1hNGI4LTQ4M2ItOGM4OC0zY2NkMzNjYWMxNzkZATihBaECeDMveG1sODNyc3l0bC9vdXQvdjEvMjg2NzQzMDYwMWNlNDA1OTg0ZGJiMmY3ZjU3YTY4ZWQZATyBYlVTWCDPJQIzu7SWXh-eBl1PsWktu9Kesrpwzj_G1PgGV9_oAg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/xml83rsytl/out/v1/2867430601ce405984dbb2f7f57a68ed/551112f9-99d8-4dd9-9e80-6a02fb0ab06e-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd"
       },
-      "drm_key": "67cb3b1e9b88b2648664eb05ade74e8d:b647f73449948c9f271d9780278373f9"
+      "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
     },
     {
       "match_id": "B0HHRRW11Q",
@@ -54,6 +57,20 @@
         "Original Server": "https://a160live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqxlD0Bhpqsop0A2Zha2FtYWkCeClzc2lkOmU2OWJiZjUxLWQwY2UtNDk5ZC1hNDE1LWMyZTQ3Mzk4MGQyOBkBOKEFoQJ4My9nZTJpemgwcnJ3L291dC92MS8yN2VkYzgxMzlkZWE0MTJhYmJiZTY0OTRhYjZiYjQwMxkBPIFiVVNYIMmAljuGJLdHLwEc3KGXySGRi63oV7fiTzwPKo3mam8V/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ge2izh0rrw/out/v1/27edc8139dea412abbbe6494ab6bb403/db95c845-3634-4a4e-9418-5fbc6786ee3d-cenc.mpd"
       },
       "drm_key": "7cd802577f3f0e57b9ac308480ed358b:c855cfff0f7f367d7e647496cb00d016"
+    },
+    {
+      "match_id": "B0HJ6V65DY",
+      "title": "Sep 22 - PTT Norfolk",
+      "synopsis": "Sep 22 - PTT Norfolk",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2d46e9ee-0e91-4ac1-8fd4-cd80acac5f7b/8/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJ6V65DY",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABKZMTXAAAAAAAAMEXBH6UHRUSLEO.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqxl8ABhpqspiAA2pjbG91ZGZyb250Angpc3NpZDpmN2IyN2FjZC1hNGI4LTQ4M2ItOGM4OC0zY2NkMzNjYWMxNzkZATihBaECeDMveG1sODNyc3l0bC9vdXQvdjEvMjg2NzQzMDYwMWNlNDA1OTg0ZGJiMmY3ZjU3YTY4ZWQZATyBYlVTWCDPJQIzu7SWXh-eBl1PsWktu9Kesrpwzj_G1PgGV9_oAg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/xml83rsytl/out/v1/2867430601ce405984dbb2f7f57a68ed/551112f9-99d8-4dd9-9e80-6a02fb0ab06e-cenc.mpd"
+      },
+      "drm_key": "67cb3b1e9b88b2648664eb05ade74e8d:b647f73449948c9f271d9780278373f9"
     }
   ]
 }
