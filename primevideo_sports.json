@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "07:32 PM 22-09-2026",
+    "LastUpdate": "08:02 PM 22-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -60,6 +60,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd"
       },
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
+    },
+    {
+      "match_id": "B0HHRRW11Q",
+      "title": "Sep 22 - PTT College Station",
+      "synopsis": "Sep 22 - PTT College Station",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d8b2edf7-43b7-4190-ab8e-6460d1fe925f/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HHRRW11Q",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a160live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqxlD0Bhpqsop0A2Zha2FtYWkCeClzc2lkOmU2OWJiZjUxLWQwY2UtNDk5ZC1hNDE1LWMyZTQ3Mzk4MGQyOBkBOKEFoQJ4My9nZTJpemgwcnJ3L291dC92MS8yN2VkYzgxMzlkZWE0MTJhYmJiZTY0OTRhYjZiYjQwMxkBPIFiVVNYIMmAljuGJLdHLwEc3KGXySGRi63oV7fiTzwPKo3mam8V/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ge2izh0rrw/out/v1/27edc8139dea412abbbe6494ab6bb403/db95c845-3634-4a4e-9418-5fbc6786ee3d-cenc.mpd"
+      },
+      "drm_key": "7cd802577f3f0e57b9ac308480ed358b:c855cfff0f7f367d7e647496cb00d016"
     },
     {
       "match_id": "B0HK4PH7C5",
