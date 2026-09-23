@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "09:02 PM 23-09-2026",
+    "LastUpdate": "09:32 PM 23-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -10,23 +10,6 @@
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HG6GHJNT",
-      "title": "Tennis Today Live-Singapore-WTA, Seoul-WTA, Chengdu-ATP & Hangzhou-ATP Early Rounds",
-      "synopsis": "Tennis Today Live-Singapore-WTA, Seoul-WTA, Chengdu-ATP & Hangzhou-ATP Early Rounds",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.081b731a-539c-4b6c-add0-745e213fa3e0/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HG6GHJNT",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd"
-      },
-      "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
-    },
     {
       "match_id": "B0HCPMGTCX",
       "title": "The Morning Drive",
@@ -45,18 +28,21 @@
       "drm_key": "e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052"
     },
     {
-      "match_id": "B0HJJL4L2Q",
-      "title": "Sep 23 - PTT College Station",
-      "synopsis": "Sep 23 - PTT College Station",
+      "match_id": "B0HG6GHJNT",
+      "title": "Tennis Today Live-Singapore-WTA, Seoul-WTA, Chengdu-ATP & Hangzhou-ATP Early Rounds",
+      "synopsis": "Tennis Today Live-Singapore-WTA, Seoul-WTA, Chengdu-ATP & Hangzhou-ATP Early Rounds",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bafd5b7f-0258-4a91-a6e3-e269b4d96d07/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HJJL4L2Q",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.081b731a-539c-4b6c-add0-745e213fa3e0/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HG6GHJNT",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqx6JzBhpqs9vzA2ZmYXN0bHkCeClzc2lkOjQxMWQzM2VlLTliOWItNDc2YS04ZDE1LTFmZmUxZWNjNWMwORkBOKEFoQJ4My9rbmF0bjZ6cGU3L291dC92MS8zNWUxNzg3ZDA3NWU0N2RmYTk2MzJiOTMyZDEyMjgzMRkBPIFiVVNYIP7tfLbWJwNFmUyZ9hcMHRwpEBoCBlWXBEwUo5Gst9jg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/knatn6zpe7/out/v1/35e1787d075e47dfa9632b932d122831/30a8854f-4dee-4e7c-b2c7-79450e2f1469-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd"
       },
-      "drm_key": "660b9e6d59601434b97298cf5382e6c8:42a18d310fb3e376711303616a1b8fdd"
+      "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
     },
     {
       "match_id": "B0HHXMDPSC",
@@ -71,6 +57,20 @@
         "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqx6JyBhpqs9vyA2ZmYXN0bHkCeClzc2lkOjE3MjI4YzA4LTkyZjEtNGQyOS1iYTc4LTEzNjE2ZDEyMjI0NRkBOKEFoQJ4My9jazZod2F2d3cxL291dC92MS81NDEwZWEzNzk0Nzg0Y2NjYmRjMjI5NTk1YTg1MWFmMRkBPIFiVVNYIOdj7d2UFy_5A9D1UR-ursvFmqgjSCfxd-qsMbymw0Q7/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ck6hwavww1/out/v1/5410ea3794784cccbdc229595a851af1/2f77d738-309f-4e96-a285-d4b0a727b0cc-cenc.mpd"
       },
       "drm_key": "8cd7a96084cf4b7a63ad40a60870aa94:68f577830270c18de5672de57c5129f3"
+    },
+    {
+      "match_id": "B0HJJL4L2Q",
+      "title": "Sep 23 - PTT College Station",
+      "synopsis": "Sep 23 - PTT College Station",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bafd5b7f-0258-4a91-a6e3-e269b4d96d07/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJJL4L2Q",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqx6JzBhpqs9vzA2ZmYXN0bHkCeClzc2lkOjQxMWQzM2VlLTliOWItNDc2YS04ZDE1LTFmZmUxZWNjNWMwORkBOKEFoQJ4My9rbmF0bjZ6cGU3L291dC92MS8zNWUxNzg3ZDA3NWU0N2RmYTk2MzJiOTMyZDEyMjgzMRkBPIFiVVNYIP7tfLbWJwNFmUyZ9hcMHRwpEBoCBlWXBEwUo5Gst9jg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/knatn6zpe7/out/v1/35e1787d075e47dfa9632b932d122831/30a8854f-4dee-4e7c-b2c7-79450e2f1469-cenc.mpd"
+      },
+      "drm_key": "660b9e6d59601434b97298cf5382e6c8:42a18d310fb3e376711303616a1b8fdd"
     }
   ]
 }
