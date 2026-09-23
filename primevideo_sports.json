@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "07:02 PM 23-09-2026",
+    "LastUpdate": "07:32 PM 23-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -43,37 +43,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd"
       },
       "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
-    },
-    {
-      "match_id": "B0HFLGY293",
-      "title": "F1 Weekend Warm-Up",
-      "synopsis": "F1 Weekend Warm-Up",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.3f0904e8-2f83-4a53-8cf6-b02360d03918/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFLGY293",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqx41gBhpqs8bgA2ZmYXN0bHkCeClzc2lkOjViNTlmMjU0LWM4Y2QtNDE4NC1iNDU3LTZiNGMwZTY4MzRmMBkBOKEFoQJ4My9xdGNvYXA2c3YyL291dC92MS9jMWI3ZjA3YTcyNjI0ZTZhYmZmNzUwZTYxMWE1YmE2OBkBPIFiVVNYIFqjSo076K_qpZZn1iJCSfoF6jGb4rFxT0QjGV0KiBwH/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/qtcoap6sv2/out/v1/c1b7f07a72624e6abff750e611a5ba68/7313bcb4-b05f-4e53-ad73-f332bd8683c5-cenc.mpd"
-      },
-      "drm_key": "d456e3e874b642c9445b82bfed109e19:f5edadd600bb5ea22a2a1fb2b7f55c08"
-    },
-    {
-      "match_id": "B0HG18RRJ9",
-      "title": "International Brawling Championship 5",
-      "synopsis": "International Brawling Championship 5",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.a0ce69b8-99df-4f8a-ad58-2aa8e3c22550/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HG18RRJ9",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd"
-      },
-      "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
     },
     {
       "match_id": "B0HG6GHJNT",
