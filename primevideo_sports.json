@@ -1,15 +1,32 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "12:32 PM 23-09-2026",
+    "LastUpdate": "01:02 PM 23-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 3,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HK36H14L",
+      "title": "Shooting Men",
+      "synopsis": "Shooting Men",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.11e1e294-0d63-45fb-a33d-eac01ba47a26/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HK36H14L",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
+      },
+      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+    },
     {
       "match_id": "B0HFHJZTYX",
       "title": "Predator Pro Billiard Series: Vietnam",
@@ -60,6 +77,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd"
       },
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
+    },
+    {
+      "match_id": "B0HGBTGFV6",
+      "title": "Sep 23 - PTT Essen",
+      "synopsis": "Sep 23 - PTT Essen",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abd38d59-362a-46ef-9003-759bd297e353/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HGBTGFV6",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABAJ3CZAAAAAAAAMLD4OI4BFGLCYV.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqx0AEBhpqs3mEA2pjbG91ZGZyb250Angpc3NpZDpjYTM1YmFiNS1kZjg1LTRmYjItYThhYy1hOTE1MmE2MDhlMDEZATihBaECeDMvZHFsZDJqNWtmeC9vdXQvdjEvMmE1NjQyOTQ3NWQyNGQwN2JmOTVkMDlmZWNlOWViMDMZATyBYlVTWCDCpEJX3_Qq0GQYFD0J8tSwirXsSjjo1ULXSlNBtuk3OA/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/dqld2j5kfx/out/v1/2a56429475d24d07bf95d09fece9eb03/634c7400-9e7e-44ac-b3a7-0d0f83becf52-cenc.mpd"
+      },
+      "drm_key": "e002f5a872c5002ccea079056f74ad05:c964903c04bcdfe91aee7dd76db1cb95"
     }
   ]
 }
