@@ -1,26 +1,39 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "10:02 AM 26-09-2026",
+    "LastUpdate": "10:32 AM 26-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 0,
-    "UpcomingCount": 12
+    "LiveCount": 1,
+    "UpcomingCount": 11
   },
   "Matches": [
     {
       "match_id": "B0HHXDYBND",
       "title": "Asian Games 2026 - 6th Match - Malaysia vs Oman",
       "synopsis": "Asian Games 2026 - 6th Match - Malaysia vs Oman",
-      "status": "UPCOMING",
-      "time": "Live at 10:30 AM BDT",
+      "status": "LIVE",
+      "time": "10:30 AM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.80ec8794-a58f-4dd5-9522-64a7a311779b/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HHXDYBND?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xhys43gbgu/out/v1/ec2d6860db184a459d59d66c5e560b8b/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xhys43gbgu/out/v1/ec2d6860db184a459d59d66c5e560b8b/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/xhys43gbgu/out/v1/ec2d6860db184a459d59d66c5e560b8b/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xhys43gbgu/out/v1/ec2d6860db184a459d59d66c5e560b8b/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xhys43gbgu/out/v1/ec2d6860db184a459d59d66c5e560b8b/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tkvp43tjk4/out/v1/2030b6c3c68d45dcac5ffd6b60ff64ee/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tkvp43tjk4/out/v1/2030b6c3c68d45dcac5ffd6b60ff64ee/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/tkvp43tjk4/out/v1/2030b6c3c68d45dcac5ffd6b60ff64ee/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tkvp43tjk4/out/v1/2030b6c3c68d45dcac5ffd6b60ff64ee/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tkvp43tjk4/out/v1/2030b6c3c68d45dcac5ffd6b60ff64ee/cenc.mpd"
+      },
+      "drm_key": "5aab7e7ac344b32e7e1acea2d92c78f3:d6c5d1c0ed77d1f1a0a87af823591c78"
     },
     {
       "match_id": "B0HKD4JJG8",
