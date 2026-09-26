@@ -1,15 +1,66 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "11:32 PM 26-09-2026",
+    "LastUpdate": "12:02 AM 27-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 9,
+    "LiveCount": 11,
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HJMVFW77",
+      "title": "BKFC 94 Manchester: Till vs. Romero, Prelims",
+      "synopsis": "BKFC 94 Manchester: Till vs. Romero, Prelims",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.9eb11487-769a-4c54-9e18-ad4445d73c0f/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJMVFW77",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hhdwlzlfyp/out/v1/e4254483facf470fa4b47daf8c954e51/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hhdwlzlfyp/out/v1/e4254483facf470fa4b47daf8c954e51/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hhdwlzlfyp/out/v1/e4254483facf470fa4b47daf8c954e51/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hhdwlzlfyp/out/v1/e4254483facf470fa4b47daf8c954e51/cenc.mpd"
+      },
+      "drm_key": "8bbdba18ab0d7703db5f3daf7f63c0d4:126f816b9e3e2784086f5658b2fa2da7"
+    },
+    {
+      "match_id": "B0HG3GYWMF",
+      "title": "LIVE: Open de France Championship Day 3",
+      "synopsis": "LIVE: Open de France Championship Day 3",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.addf42fd-3f0e-4ed4-a75f-6d67a673a228/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HG3GYWMF",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yoaryfkyeh/out/v1/63e8364f9ad047a7bb1c4a9a8d754f42/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yoaryfkyeh/out/v1/63e8364f9ad047a7bb1c4a9a8d754f42/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/yoaryfkyeh/out/v1/63e8364f9ad047a7bb1c4a9a8d754f42/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/yoaryfkyeh/out/v1/63e8364f9ad047a7bb1c4a9a8d754f42/cenc.mpd"
+      },
+      "drm_key": "9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb"
+    },
+    {
+      "match_id": "B0HKNN8XM2",
+      "title": "Warner at Clark Atlanta",
+      "synopsis": "Warner at Clark Atlanta",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.80e561e6-1f4d-4eb4-81a9-202030a77937/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKNN8XM2",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd"
+      },
+      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
+    },
     {
       "match_id": "B0HKK25GCS",
       "title": "New Hampshire vs. Sacred Heart Pioneers",
@@ -60,23 +111,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qkvxe8ubng/out/v1/dcedefedc735415a9f9d36d3d3016629/cenc.mpd"
       },
       "drm_key": "99f2d8b38451875101393cfda6cc5e77:3d32bdfa5fe52cf74567eb20716b5a65"
-    },
-    {
-      "match_id": "B0HG3GYWMF",
-      "title": "LIVE: Open de France Championship Day 3",
-      "synopsis": "LIVE: Open de France Championship Day 3",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.addf42fd-3f0e-4ed4-a75f-6d67a673a228/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HG3GYWMF",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yoaryfkyeh/out/v1/63e8364f9ad047a7bb1c4a9a8d754f42/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yoaryfkyeh/out/v1/63e8364f9ad047a7bb1c4a9a8d754f42/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/yoaryfkyeh/out/v1/63e8364f9ad047a7bb1c4a9a8d754f42/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/yoaryfkyeh/out/v1/63e8364f9ad047a7bb1c4a9a8d754f42/cenc.mpd"
-      },
-      "drm_key": "9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb"
     },
     {
       "match_id": "B0HGMRT1TW",
@@ -130,20 +164,6 @@
       "drm_key": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681"
     },
     {
-      "match_id": "B0HH8L4XK9",
-      "title": "Sep 26 - PTT College Station",
-      "synopsis": "Sep 26 - PTT College Station",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ea0b539d-9edd-449f-a541-92d9b9c1b4a3/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HH8L4XK9",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a18live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqy4_uBhpqt8luA2Zha2FtYWkCeClzc2lkOmIyYzk2YzQwLTYwNTctNDljOC1iNDQyLTViMzM2Y2NiNzI1NRkBOKEFoQJ4My92Z21hZmF3ZWlkL291dC92MS9iNWE0YTdlYzJkNTI0YzQ0OTE2YjdmODYxNzM1NDdhZRkBPIFiVVNYIKXSldfOZxKiwjkLXT1AiB4onR6YjhAkE-T33pc5Bu4U/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/vgmafaweid/out/v1/b5a4a7ec2d524c44916b7f86173547ae/23718e46-a9fb-4f93-a16f-818398904bf9-cenc.mpd"
-      },
-      "drm_key": "fbe776cac4b7df574e19980c167be4ed:5e988246c9c72172a33b7ea3608d64a4"
-    },
-    {
       "match_id": "B0HJD1KR51",
       "title": "Sep 26 - PTT Norfolk",
       "synopsis": "Sep 26 - PTT Norfolk",
@@ -156,6 +176,20 @@
         "Original Server": "https://ABBIN2XAAAAAAAAMN7TVYXGTTXO5G.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqy5bxBhpqt9BxA2pjbG91ZGZyb250Angpc3NpZDpiMjM0YTg0OC1kMmM1LTQ4YWYtYjU3MS0zODc1MmZkZTMwNjYZATihBaECeDMvenpsbW53eGsxYS9vdXQvdjEvN2Q1YzYxNTU2NTU4NDM1YmI4NWQwODkwMjlkOGVhYjMZATyBYlVTWCAKuakqZQUMBgzwPBz0_MYNAd3FhhYKRvBmKXGBlkzQYA/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/zzlmnwxk1a/out/v1/7d5c61556558435bb85d089029d8eab3/fecf8b5e-b83a-4ff2-a79d-fe68d21cc8a4-cenc.mpd"
       },
       "drm_key": "6b38d52c744a0a4b2ef50b6902fc52cc:cd4fa3822dbc1285d5654bef4de2af3e"
+    },
+    {
+      "match_id": "B0HH8L4XK9",
+      "title": "Sep 26 - PTT College Station",
+      "synopsis": "Sep 26 - PTT College Station",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ea0b539d-9edd-449f-a541-92d9b9c1b4a3/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HH8L4XK9",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a18live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqy4_uBhpqt8luA2Zha2FtYWkCeClzc2lkOmIyYzk2YzQwLTYwNTctNDljOC1iNDQyLTViMzM2Y2NiNzI1NRkBOKEFoQJ4My92Z21hZmF3ZWlkL291dC92MS9iNWE0YTdlYzJkNTI0YzQ0OTE2YjdmODYxNzM1NDdhZRkBPIFiVVNYIKXSldfOZxKiwjkLXT1AiB4onR6YjhAkE-T33pc5Bu4U/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/vgmafaweid/out/v1/b5a4a7ec2d524c44916b7f86173547ae/23718e46-a9fb-4f93-a16f-818398904bf9-cenc.mpd"
+      },
+      "drm_key": "fbe776cac4b7df574e19980c167be4ed:5e988246c9c72172a33b7ea3608d64a4"
     }
   ]
 }
