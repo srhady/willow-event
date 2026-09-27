@@ -1,8 +1,22 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:01:02 PM 27-09-2026
+#LAST_UPDATE:02:02 PM 27-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:16
+#LIVE_COUNT:2
+#UPCOMING_COUNT:15
+
+#EXTINF:-1 tvg-id="B0HKD4JJG8" tvg-name="South Africa vs. Australia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.48002730-9044-4596-896f-894146dc2c4f/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",South Africa vs. Australia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6533dcb0dcdfec329a68f177c700810:b6ed085e409ceda3dddfb9b0d1ea8731
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pxbjna1dxy/out/v1/7da1bc4ba0bb40f6b509aada2b491efe/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HCDY7QHC" tvg-name="India vs. West Indies" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.81abe910-3459-40fa-80bb-f9e5b2e25b77/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",India vs. West Indies
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e82afe190e1a2ecc0f3cc2f3e4de056f:fe561b16157b65130a9accb3f8b54e95
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/kokgbqrt6n/out/v1/7d6a6227d1d44ce993e20e600e2bebd4/cenc.mpd
 
