@@ -1,32 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "06:02 PM 27-09-2026",
+    "LastUpdate": "07:32 PM 27-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 7,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HG4TFJF6",
-      "title": "Australia v South Africa",
-      "synopsis": "Australia v South Africa",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.df003b20-09bc-4563-964c-74f6dc1e5d1b/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HG4TFJF6",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd"
-      },
-      "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
-    },
     {
       "match_id": "B0HH9T2ZTM",
       "title": "BJK Cup Finals: Final",
@@ -43,6 +26,40 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd"
       },
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
+    },
+    {
+      "match_id": "B0HL28F4TJ",
+      "title": "Liverpool vs. Everton",
+      "synopsis": "Liverpool vs. Everton",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fc009068-880f-44d9-a379-cbfd4faf2a49/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HL28F4TJ",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd"
+      },
+      "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+    },
+    {
+      "match_id": "B0HGY6Y1HG",
+      "title": "Season 2026",
+      "synopsis": "Season 2026",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26d56a5f-b408-4922-a4f3-7576a7629f15/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HGY6Y1HG",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd"
+      },
+      "drm_key": "dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b"
     },
     {
       "match_id": "B0HKFTP6BZ",
@@ -76,18 +93,32 @@
       "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
     },
     {
-      "match_id": "B0HH1H23XR",
-      "title": "Sep 27 - PTT Essen",
-      "synopsis": "Sep 27 - PTT Essen",
+      "match_id": "B0HHR64VGR",
+      "title": "Sep 27 - PTT College Station",
+      "synopsis": "Sep 27 - PTT College Station",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f265dd15-da57-41a0-bdf3-6e4ad711a50d/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HH1H23XR",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.72102f3b-038e-4234-9322-dc7017635f10/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HHR64VGR",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqzLc-BhpquPC-A2ZmYXN0bHkCeClzc2lkOjc4OGViMzUzLWE1YTEtNDdkNi1iM2M3LTM2MmVkOTc5YWMxYxkBOKEFoQJ4My83aTFxNGRjeWU4L291dC92MS9iMDgwZGQxMTQ5ZmY0MDgwYjYzMjQwZmM3MDQ0MGFhNBkBPIFiVVNYIJdIaXyr7VOJ1x3rxcKXLxv8w63_c8_oUBKHUYUSNqr5/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/7i1q4dcye8/out/v1/b080dd1149ff4080b63240fc70440aa4/9f33849a-1437-4552-902f-ef5f902f46ee-cenc.mpd"
+        "Original Server": "https://a164live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqzOFqBhpquRrqA2Zha2FtYWkCeClzc2lkOjI0Y2QyZDA0LTI2MDAtNGFmZS04NjViLTIwNmFmZjI2ZGRjORkBOKEFoQJ4My90ZGNtOHpnYnM2L291dC92MS81YmNkYmMxYWEzNTE0YTE4OWNiMmEyMGRhNjBkNzE0NRkBPIFiVVNYIAKJ6adq9_iMEOjYtYbmbRrzKVFrexosC1QVbL89VSXJ/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/tdcm8zgbs6/out/v1/5bcdbc1aa3514a189cb2a20da60d7145/75bac7d9-1a38-41ee-bb57-8840c650c84d-cenc.mpd"
       },
-      "drm_key": "f8af98d66e0dc7a94667dd45b3505221:9cae756605e5cc71e040b178634356f3"
+      "drm_key": "bb351da6d1d41d194d035a3640f15f8a:96c54432879408d4f51db58a43ab6e56"
+    },
+    {
+      "match_id": "B0HJZH5PNT",
+      "title": "Sep 27 - PTT Norfolk",
+      "synopsis": "Sep 27 - PTT Norfolk",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.af4e0076-4cd2-4ec8-96bf-0b6c2e89de12/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJZH5PNT",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABBI52OAAAAAAAAMKR5FNLGQ3XTBY.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqzOFrBhpquRrrA2pjbG91ZGZyb250Angpc3NpZDo3MDZlZTY2NC0xNzI4LTRhODUtOTkwZC03NGRiYzA2Zjk3Y2UZATihBaECeDMveHh1ZWl4ZWh4NS9vdXQvdjEvMGMyNDRjNWU0Y2UwNDhlZmJjNjg1NGVjNTIwMTFjYTYZATyBYlVTWCAVOw4M7BkJZaYSMckp1CgKb-wsSQrAFY2ARUSB1aEUSg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/xxueixehx5/out/v1/0c244c5e4ce048efbc6854ec52011ca6/1aaed17b-d612-435c-aaff-da7f87894e89-cenc.mpd"
+      },
+      "drm_key": "e85730e26a635da4aacd6770d6488e77:aa94740daba4bf316ee23de91577b92d"
     }
   ]
 }
