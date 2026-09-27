@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "01:02 AM 28-09-2026",
+    "LastUpdate": "01:32 AM 28-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 3,
-    "UpcomingCount": 1
+    "LiveCount": 2,
+    "UpcomingCount": 0
   },
   "Matches": [
     {
@@ -25,42 +25,11 @@
       "drm_key": "08c7d255bdb53b54f38735c2529492f9:7eafb46d7206f2cb19ef0751e3466a5a"
     },
     {
-      "match_id": "B0HHXQWDL6",
-      "title": "MEAC: South Carolina State at Delaware State",
-      "synopsis": "MEAC: South Carolina State at Delaware State",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c62e38ca-de6d-4c5f-8ddf-6c036da15ed9/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HHXQWDL6",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd"
-      },
-      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
-    },
-    {
-      "match_id": "B0HHR64VGR",
-      "title": "Sep 27 - PTT College Station",
-      "synopsis": "Sep 27 - PTT College Station",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.72102f3b-038e-4234-9322-dc7017635f10/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HHR64VGR",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a164live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqzOFqBhpquRrqA2Zha2FtYWkCeClzc2lkOjI0Y2QyZDA0LTI2MDAtNGFmZS04NjViLTIwNmFmZjI2ZGRjORkBOKEFoQJ4My90ZGNtOHpnYnM2L291dC92MS81YmNkYmMxYWEzNTE0YTE4OWNiMmEyMGRhNjBkNzE0NRkBPIFiVVNYIAKJ6adq9_iMEOjYtYbmbRrzKVFrexosC1QVbL89VSXJ/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/tdcm8zgbs6/out/v1/5bcdbc1aa3514a189cb2a20da60d7145/75bac7d9-1a38-41ee-bb57-8840c650c84d-cenc.mpd"
-      },
-      "drm_key": "bb351da6d1d41d194d035a3640f15f8a:96c54432879408d4f51db58a43ab6e56"
-    },
-    {
       "match_id": "B0HJHPDH7N",
       "title": "Toulouse vs Montpellier - Rugby",
       "synopsis": "Toulouse vs Montpellier - Rugby",
-      "status": "UPCOMING",
-      "time": "Live at 1:05 AM BDT",
+      "status": "LIVE",
+      "time": "LIVE NOW",
       "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0e79f282-8d11-4efc-b5c3-a9215f8866fe/36/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HJHPDH7N",
       "is_free": false,
