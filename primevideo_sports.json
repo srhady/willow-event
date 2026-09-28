@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "11:32 PM 28-09-2026",
+    "LastUpdate": "12:02 AM 29-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 2,
+    "LiveCount": 3,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -40,6 +40,20 @@
         "Original Server": "https://ABIP2HAAAAAAAAAMNTT5TCHJFEHKD.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WI2mAWpwcmltZXZpZGVvBBpqzlYTBhpquo-TA2pjbG91ZGZyb250Angpc3NpZDo1NGQwNWRiYy0xMjExLTQzZGYtOTE1YS05NWQ5ZmI1MWQzZjYZATihBaECeDMvbmE1aDl5Z2N6Yy9vdXQvdjEvNjdkNmU1MzczYjdlNDZkNmFmZmYzZGE3OWI5YTk2M2JYIJgh2LjU_P-2cAF-XjUA4bwfqdRlv3hTh7SVyahN59j1/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/na5h9ygczc/out/v1/67d6e5373b7e46d6afff3da79b9a963b/651ebb1f-c5c3-4d16-999a-d8a5564f9732-cenc.mpd"
       },
       "drm_key": "1196bc585e078ffb283c93f9017933f9:19a904e885c4a450c16b82642bfb258f"
+    },
+    {
+      "match_id": "B0HK4M122L",
+      "title": "Sep 28 - PTT Newport Beach",
+      "synopsis": "Sep 28 - PTT Newport Beach",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.07cc4a97-01ab-49c8-8f0c-67249f46f94f/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HK4M122L",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a83live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqznI0Bhpququ0A2Zha2FtYWkCeClzc2lkOmU5OTk1ODI3LTQ5NGEtNDcxOC1iNmJjLWUzYjViMjA5ZDVmYhkBOKEFoQJ4My82emJzMGM3amd4L291dC92MS9hZmMxNDBjZTJhN2Q0ZmEwYTM2YjRiNmNiNWE4YTQ5MxkBPIFiVVNYIDa-K1IhxQrRX55VF38vSQ6-kfq8Z4rzb3KiVqbwj1ZW/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/6zbs0c7jgx/out/v1/afc140ce2a7d4fa0a36b4b6cb5a8a493/37510184-6c45-4659-a2f6-030e91cb6c2d-cenc.mpd"
+      },
+      "drm_key": "6a99abe3adb5ca21954fb8cec2e5e725:c12d0acfc4c5c09063a39f5ef66025fb"
     }
   ]
 }
