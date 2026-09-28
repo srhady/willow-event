@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "07:02 AM 28-09-2026",
+    "LastUpdate": "07:32 AM 28-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 3,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -28,23 +28,6 @@
       "drm_key": "2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca"
     },
     {
-      "match_id": "B0HFVBSG9N",
-      "title": "Gymreapers Wodapalooza SoCal",
-      "synopsis": "Gymreapers Wodapalooza SoCal",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1cc73568-d2bd-4ef6-ae4b-425196598a9e/39/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFVBSG9N",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd"
-      },
-      "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
-    },
-    {
       "match_id": "B0HFVMCX59",
       "title": "Diving 03 Women",
       "synopsis": "Diving 03 Women",
@@ -60,6 +43,34 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
       },
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
+      "match_id": "B0HGBZJ2NJ",
+      "title": "MLS Wrap-Up⁩",
+      "synopsis": "MLS Wrap-Up⁩",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.87346810-a3e2-48f4-9e3f-612128b57aba/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HGBZJ2NJ",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABDGOKTAAAAAAAAMFTPDPVREKYBHO.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqzYoqBhpqucOqA2pjbG91ZGZyb250Angpc3NpZDpmYzdmNWYyNy0zZWExLTRkMTctYmQ1MS0xMDk4MzdjMGYwZjIZATihBaECeDMvYnVyZmFlZXZkeC9vdXQvdjEvNTk3NzFiZjUwN2UzNDExMDg3YTQ4ODkyZDBiYTY2MDMZATyBYlVTWCCiJuIn1kQHesOYS1Zq8QQD9Qnzb-wBkGfRDrEpiSBR6g/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/burfaeevdx/out/v1/59771bf507e3411087a48892d0ba6603/67542328-91db-4d23-8a63-4e423806c844-cenc.mpd"
+      },
+      "drm_key": "a9df15a99f3f933f700bdaa0f431ccd0:168c4e82c555bf973318554781d4cac8"
+    },
+    {
+      "match_id": "B0HBR7RY9N",
+      "title": "MLS El Resumen⁩",
+      "synopsis": "MLS El Resumen⁩",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.041e87e4-2993-4ef1-a41c-64103a6164d0/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HBR7RY9N",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqzYorBhpqucOrA2ZmYXN0bHkCeClzc2lkOjk3NTM0OWE3LWQ2N2ItNDdhYi04ZmY5LTRlMzg1Yzk1ODI4MRkBOKEFoQJ4My8wOTU0eWFsMWtrL291dC92MS9jYjdiN2YwOWUyMmE0NjRmYTg1ZGY4YmI2NmRhNjBkMBkBPIFiVVNYILqU7Fnl3kez_P1lNlDthjFsnPiW2PTo-GNuhqkGMBNQ/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/0954yal1kk/out/v1/cb7b7f09e22a464fa85df8bb66da60d0/874ec7c3-e383-4142-bff0-ce8391189fa8-cenc.mpd"
+      },
+      "drm_key": "4829feefdf2e94b58448997e78a006a2:3791cd7765bebdb9031ffda1a41c135b"
     }
   ]
 }
