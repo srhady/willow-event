@@ -1,9 +1,9 @@
 #EXTM3U
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:07:32 PM 28-09-2026
+#LAST_UPDATE:08:02 PM 28-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:3
+#LIVE_COUNT:5
 #UPCOMING_COUNT:0
 
 #EXTINF:-1 tvg-id="B0HK312369" tvg-name="Predator Pro Billiard Series: Indonesia-2026 Predator Pro Billiard Series: Indonesia" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.17807db5-4a7d-4133-af1d-83c6c125b0ab/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Predator Pro Billiard Series: Indonesia-2026 Predator Pro Billiard Series: Indonesia
@@ -12,6 +12,13 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H6FLTG6Q" tvg-name="FloWrestling Radio Live - Episode 22" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.70743667-333d-4c3c-9f5a-25bcd98358ec/49/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",FloWrestling Radio Live - Episode 22
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HJNF7ZQ1" tvg-name="Athletics 12" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.93c4bafa-4e81-4bc2-b138-1218d7ac0be4/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Athletics 12
 #KODIPROP:inputstream=inputstream.adaptive
@@ -25,5 +32,5 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
 
