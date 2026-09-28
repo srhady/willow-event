@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "01:02 AM 29-09-2026",
+    "LastUpdate": "01:32 AM 29-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 3,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -26,6 +26,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd"
       },
       "drm_key": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681"
+    },
+    {
+      "match_id": "B0HKJ1QM26",
+      "title": "Sep 28 - PTT Ithaca",
+      "synopsis": "Sep 28 - PTT Ithaca",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.914af9df-2dc1-4ab4-b4a3-f749766fc641/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKJ1QM26",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqzodPBhpqusDPA2ZmYXN0bHkCeClzc2lkOmZkMWFjMGNiLWVmODItNGNiNy1hM2NkLTQwZmI1M2IyYTg2ZRkBOKEFoQJ4My94ZTBzNGEyMXhvL291dC92MS8xMDE3NjUzNDgyYzA0YmVjOGU1YmZiOTg0N2RlYWIwNRkBPIFiVVNYICHMgf6rkxISQVXnj4qKOxDRNFfWALy0ZfWsLjUWgGeh/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/xe0s4a21xo/out/v1/1017653482c04bec8e5bfb9847deab05/02c27224-3f1a-414f-aa15-9e15754d7ac5-cenc.mpd"
+      },
+      "drm_key": "1cfe81f9f9945b0d9dd7c9a394f0224a:7671b93cb898cd6de98866fc9f38d38c"
     },
     {
       "match_id": "B0HK1NTGF5",
