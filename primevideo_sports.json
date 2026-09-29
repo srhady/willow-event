@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "01:02 AM 30-09-2026",
+    "LastUpdate": "01:32 AM 30-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -26,6 +26,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd"
       },
       "drm_key": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681"
+    },
+    {
+      "match_id": "B0HKSFVGW9",
+      "title": "Sep 29 - PTT Lincoln",
+      "synopsis": "Sep 29 - PTT Lincoln",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cf5613bf-1755-4053-b0a6-a33515e192cd/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKSFVGW9",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWImmAWpwcmltZXZpZGVvBBpqz8q4BhpqvAQ4A2ZmYXN0bHkCeClzc2lkOjQ3ZjBhMjk3LWMyNDEtNDBiZS05NWUwLTdlYjA1ZWE3ZmJlNRkBOKEFoQJ4My9yZDFmdXlvd2ZhL291dC92MS9mOTE0OTBjODNkZTI0YTYxYjE2NTg4ODNiOWNjNmM0ZFggEb8E2l0kfweSHZZa0oXUCqBxM6djXOUF53LvKt261uU/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/rd1fuyowfa/out/v1/f91490c83de24a61b1658883b9cc6c4d/ec0876fc-5ce7-4aa8-9091-ea4d29d2fe34-cenc.mpd"
+      },
+      "drm_key": "2bf9fe812db4e8f87d5d83692feab98e:4f1e3619956e1598a459f14cb9259196"
     },
     {
       "match_id": "B0HK4PQS7K",
@@ -54,20 +68,6 @@
         "Original Server": "https://ABEB3GBAAAAAAAAMG6WT6F6D47RMW.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqz8q7BhpqvAQ7A2pjbG91ZGZyb250Angpc3NpZDpkNmY4YTViNC04N2Q3LTQ4YmQtODk1My1jN2JlMjRiYWRmNDMZATihBaECeDMvYnBkdWNqMXF0ai9vdXQvdjEvZTVlY2ZjNzU2NWNkNDQ5ZGFiYTJkMGU4MDg0ODM4YmYZATyBYlVTWCD8Gd5u1iFT8GFA0XZ4zcQQNgyYHIKFbr0b6zKU8afhbg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/bpducj1qtj/out/v1/e5ecfc7565cd449daba2d0e8084838bf/ac8a0bcb-9ac2-4e11-9684-471a015ada66-cenc.mpd"
       },
       "drm_key": "22e5dbe51876ba031b6e297c99411612:768efedf2ca11f33e9deff20f0531c72"
-    },
-    {
-      "match_id": "B0HKSFVGW9",
-      "title": "Sep 29 - PTT Lincoln",
-      "synopsis": "Sep 29 - PTT Lincoln",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cf5613bf-1755-4053-b0a6-a33515e192cd/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKSFVGW9",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWImmAWpwcmltZXZpZGVvBBpqz8q4BhpqvAQ4A2ZmYXN0bHkCeClzc2lkOjQ3ZjBhMjk3LWMyNDEtNDBiZS05NWUwLTdlYjA1ZWE3ZmJlNRkBOKEFoQJ4My9yZDFmdXlvd2ZhL291dC92MS9mOTE0OTBjODNkZTI0YTYxYjE2NTg4ODNiOWNjNmM0ZFggEb8E2l0kfweSHZZa0oXUCqBxM6djXOUF53LvKt261uU/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/rd1fuyowfa/out/v1/f91490c83de24a61b1658883b9cc6c4d/ec0876fc-5ce7-4aa8-9091-ea4d29d2fe34-cenc.mpd"
-      },
-      "drm_key": "2bf9fe812db4e8f87d5d83692feab98e:4f1e3619956e1598a459f14cb9259196"
     }
   ]
 }
