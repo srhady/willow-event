@@ -1,8 +1,15 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:10:02 AM 29-09-2026
+#LAST_UPDATE:10:32 AM 29-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:11
+#LIVE_COUNT:1
+#UPCOMING_COUNT:10
+
+#EXTINF:-1 tvg-id="B0HC74XCJN" tvg-name="Asian Games 2026 - 4th Quarter-Final - Bangladesh vs Malaysia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0d8b2686-e4bb-4abc-ae50-9a2b4f64e44b/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Asian Games 2026 - 4th Quarter-Final - Bangladesh vs Malaysia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2ba1ee0e3b917fd4054198a7d187179:b6fb7761b6389fc298c125310ef98c40
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u4hi06a6nb/out/v1/d22de12519864d528e55abdc1398d5f8/cenc.mpd
 
