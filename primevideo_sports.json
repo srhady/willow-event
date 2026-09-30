@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "05:32 AM 30-09-2026",
+    "LastUpdate": "06:02 AM 30-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 3,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -28,18 +28,21 @@
       "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
     },
     {
-      "match_id": "B0HK4PQS7K",
-      "title": "Sep 29 - PTT Ithaca",
-      "synopsis": "Sep 29 - PTT Ithaca",
+      "match_id": "B0HJM89KNY",
+      "title": "Beach Volleyball, Womens - Quarterfinals",
+      "synopsis": "Beach Volleyball, Womens - Quarterfinals",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0b3faf6a-70c7-4907-838b-00fc8aefdc9e/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HK4PQS7K",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.145e9e81-3ae6-4ad2-9dcf-9cdd9c0b59b7/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJM89KNY",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqz9HEBhpqvAtEA2ZmYXN0bHkCeClzc2lkOmRhNTRmNzMxLTY4M2MtNGE0ZS1iOGU2LWZiMjA2ZWFjZWFhORkBOKEFoQJ4My96d3p2ZW16dnFrL291dC92MS9mYTMyNDY1YjA1ZGE0ZjM0OGM3ZDFjMmQ1MzM2MDQyNhkBPIFiVVNYIJmG76TDK88cjGZvCdFf6cSfXSkx3zadVqOK05_BF_Iu/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/zwzvemzvqk/out/v1/fa32465b05da4f348c7d1c2d53360426/ec6f4b34-4869-45e9-99fb-8cfc295799c7-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
       },
-      "drm_key": "f3b5e54ce4eb570885f3ef4279dea6c8:0dbf6d6b43a8bf8a9b575d60797e6539"
+      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
       "match_id": "B0HFB14JNY",
@@ -54,6 +57,20 @@
         "Original Server": "https://ABEB3GBAAAAAAAAMG6WT6F6D47RMW.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqz8q7BhpqvAQ7A2pjbG91ZGZyb250Angpc3NpZDpkNmY4YTViNC04N2Q3LTQ4YmQtODk1My1jN2JlMjRiYWRmNDMZATihBaECeDMvYnBkdWNqMXF0ai9vdXQvdjEvZTVlY2ZjNzU2NWNkNDQ5ZGFiYTJkMGU4MDg0ODM4YmYZATyBYlVTWCD8Gd5u1iFT8GFA0XZ4zcQQNgyYHIKFbr0b6zKU8afhbg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/bpducj1qtj/out/v1/e5ecfc7565cd449daba2d0e8084838bf/ac8a0bcb-9ac2-4e11-9684-471a015ada66-cenc.mpd"
       },
       "drm_key": "22e5dbe51876ba031b6e297c99411612:768efedf2ca11f33e9deff20f0531c72"
+    },
+    {
+      "match_id": "B0HK4PQS7K",
+      "title": "Sep 29 - PTT Ithaca",
+      "synopsis": "Sep 29 - PTT Ithaca",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0b3faf6a-70c7-4907-838b-00fc8aefdc9e/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HK4PQS7K",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqz9HEBhpqvAtEA2ZmYXN0bHkCeClzc2lkOmRhNTRmNzMxLTY4M2MtNGE0ZS1iOGU2LWZiMjA2ZWFjZWFhORkBOKEFoQJ4My96d3p2ZW16dnFrL291dC92MS9mYTMyNDY1YjA1ZGE0ZjM0OGM3ZDFjMmQ1MzM2MDQyNhkBPIFiVVNYIJmG76TDK88cjGZvCdFf6cSfXSkx3zadVqOK05_BF_Iu/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/zwzvemzvqk/out/v1/fa32465b05da4f348c7d1c2d53360426/ec6f4b34-4869-45e9-99fb-8cfc295799c7-cenc.mpd"
+      },
+      "drm_key": "f3b5e54ce4eb570885f3ef4279dea6c8:0dbf6d6b43a8bf8a9b575d60797e6539"
     }
   ]
 }
