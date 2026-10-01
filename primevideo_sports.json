@@ -1,31 +1,31 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "08:02 AM 01-10-2026",
+    "LastUpdate": "08:32 AM 01-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
     {
-      "match_id": "B0HFJ3159T",
-      "title": "KCAC Southwestern College st Oklahoma Wesleyan University",
-      "synopsis": "KCAC Southwestern College st Oklahoma Wesleyan University",
+      "match_id": "B0HKCXPSVV",
+      "title": "Wrestling - Greco-Roman - Men & Women/Softball Women - China vs Philippines",
+      "synopsis": "Wrestling - Greco-Roman - Men & Women/Softball Women - China vs Philippines",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.00f6c145-01cf-4a02-804b-cfd8b28ee65a/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFJ3159T",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c9f3a99b-a170-4524-8556-5880ec687809/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKCXPSVV",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
       },
-      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
+      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
       "match_id": "B0HK312369",
@@ -43,23 +43,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd"
       },
       "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
-    },
-    {
-      "match_id": "B0HKCXPSVV",
-      "title": "Wrestling - Greco-Roman - Men & Women/Softball Women - China vs Philippines",
-      "synopsis": "Wrestling - Greco-Roman - Men & Women/Softball Women - China vs Philippines",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c9f3a99b-a170-4524-8556-5880ec687809/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKCXPSVV",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
-      },
-      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
       "match_id": "B0HH9ZDHLH",
@@ -88,20 +71,6 @@
         "Original Server": "https://ABBI5WXAAAAAAAAMLS33BFPNEQI4H.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpq0RUvBhpqvU6vA2pjbG91ZGZyb250Angpc3NpZDo2MGZhMzRiOC02MDVkLTRiNGYtYmYxMC02ZTQ0ZDQ0YmU3OGQZATihBaECeDMvNnRjeHJtdm1mby9vdXQvdjEvODAwZjE4ZTk3Y2UyNDQ5ZTk5OWQ0YTVhZjljZjVhMjYZATyBYlVTWCDXl0v8lD7eMZk3qCbrcXxaCbNs0ljQw-VjaWX_yHlaYg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/6tcxrmvmfo/out/v1/800f18e97ce2449e999d4a5af9cf5a26/cbece500-e548-4eb9-962e-d8f408913266-cenc.mpd"
       },
       "drm_key": "3709a88104093016713683d44f6645fb:c8da8fef51e36a87bd55314d6a3a9e71"
-    },
-    {
-      "match_id": "B0HKSYNRMR",
-      "title": "Sep 30 - PTT Lincoln",
-      "synopsis": "Sep 30 - PTT Lincoln",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.25d90b02-8275-4fcf-82cc-87e5706a29b1/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKSYNRMR",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a20live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpq0NzwBhpqvRZwA2Zha2FtYWkCeClzc2lkOjVhYWFiNzJhLTBmYWMtNDdjZi04MGU3LWRhZWM4MjE0YTM3YxkBOKEFoQJ4My90bWttdGJsb2dyL291dC92MS9iYWY5MTgyZmM5MjI0YzJlODY2NzljODczNzQ2YjljNhkBPIFiVVNYIPrIK7MTuQtdMtapAIbPKxYscgYWEuyG84P9qQ-z_UPo/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/tmkmtblogr/out/v1/baf9182fc9224c2e86679c873746b9c6/e6515c87-7bca-4306-ac81-c26b706a8db2-cenc.mpd"
-      },
-      "drm_key": "0771f8439ab85e8ed76405cbf7627dfd:451b217040a99854ffa7fd0ea90a97ae"
     }
   ]
 }
