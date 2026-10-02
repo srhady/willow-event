@@ -1,29 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "11:32 AM 02-10-2026",
+    "LastUpdate": "12:32 PM 02-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HGWXWRJM",
-      "title": "Bahrain: Practice 1",
-      "synopsis": "Bahrain: Practice 1",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f7b17c9f-8d0b-4be3-ad0a-50472871fcef/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HGWXWRJM",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpq0vpXBhpqvzPXA2ZmYXN0bHkCeClzc2lkOmIzNDA5MGFiLTYwZTUtNDk1NS04NmQzLTk3MTA2NTYxMDZiMxkBOKEFoQJ4My9yN2F3Mnhmc29qL291dC92MS9mYjIxOGViMTg5NjE0Y2VhYmU0YzZmNmExMDMxZjE2ORkBPIFiVVNYILikqm2UnS4Yt29bhqDOLPWJtju6qf4189_sqlPL9CKT/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/r7aw2xfsoj/out/v1/fb218eb189614ceabe4c6f6a1031f169/6b50877c-1722-4ae1-8415-700802a8bc84-cenc.mpd"
-      },
-      "drm_key": "da2f90798fa63761d2c37efca08000f8:f38ba2f5c6a60b824bd51c1c9760c1c8"
-    },
     {
       "match_id": "B0HK312369",
       "title": "Predator Pro Billiard Series: Indonesia-2026 Predator Pro Billiard Series: Indonesia",
@@ -42,6 +28,37 @@
       "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
     },
     {
+      "match_id": "B0HL68SQ6N",
+      "title": "Motul Grand Prix of Japan, Practice",
+      "synopsis": "Motul Grand Prix of Japan, Practice",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f9cf4b9a-1bed-4f03-8550-f50d7fe9e4d8/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HL68SQ6N",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a110live-emt-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpq0rsaBhpqvvSaA2Zha2FtYWkCeClzc2lkOjVjNDQ2MTNhLWZlMGYtNGU5YS05YjdhLWFmOGMzYWYxN2Y4MhkBOKEFoQJ4My8wcXVqeHRqb3JkL291dC92MS8zMGYzYWQ5YmEyYzM0MDczOWVhMjk0M2YyOWQ0NGIzMhkBPIFiVVNYINTpHKiaMrPnRyniuDDvCiQp51M_301m1d5nZXNReIY4/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/0qujxtjord/out/v1/30f3ad9ba2c340739ea2943f29d44b32/a8d65ffa-e1d9-4bf4-be70-45fb5c03d5b0-cenc.mpd?aws.sessionId=8abf014f-8c40-4874-a3be-b1598ae3aa8d"
+      },
+      "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
+    },
+    {
+      "match_id": "B0H86C49GL",
+      "title": "Southland v North Island",
+      "synopsis": "Southland v North Island",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.15312135-0f33-4d74-9988-818d4083a25d/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H86C49GL",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd"
+      },
+      "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
+    },
+    {
       "match_id": "B0HBX1CPB5",
       "title": "Archery Men - Recurve Team - Final",
       "synopsis": "Archery Men - Recurve Team - Final",
@@ -57,34 +74,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
       },
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-    },
-    {
-      "match_id": "B0HHG3Y55P",
-      "title": "Bahrain: Practice 1 (Sky Sports)",
-      "synopsis": "Bahrain: Practice 1 (Sky Sports)",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3fd35d8b-f76c-49a9-8189-0d8b0db4fe08/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HHG3Y55P",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a132live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WImmAWpwcmltZXZpZGVvBBpq0vNQBhpqvyzQA2Zha2FtYWkCeClzc2lkOjcwZTk3OGNmLTkzM2EtNGNiOS1hZDYzLTUzYzRkYWY4NjE3ZRkBOKEFoQJ4My9jdjh5dGtqNWh2L291dC92MS9hNzdhNmY4N2RiZWM0NGVmOTBlNDgwMDYwZTAxMWNiZlggL0LjVpKITw9pFLXoY_3D46h4m0ftHvGENW8G_uZ5hWA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/cv8ytkj5hv/out/v1/a77a6f87dbec44ef90e480060e011cbf/5385feac-cc9e-4abf-9c72-74105abc5fb3-cenc.mpd"
-      },
-      "drm_key": "98cf2bf2726d4fad297136301b780cad:05cc56112f26e920d348a1b971ff604e"
-    },
-    {
-      "match_id": "B0HL68SQ6N",
-      "title": "Motul Grand Prix of Japan, Practice",
-      "synopsis": "Motul Grand Prix of Japan, Practice",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f9cf4b9a-1bed-4f03-8550-f50d7fe9e4d8/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HL68SQ6N",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a110live-emt-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpq0rsaBhpqvvSaA2Zha2FtYWkCeClzc2lkOjVjNDQ2MTNhLWZlMGYtNGU5YS05YjdhLWFmOGMzYWYxN2Y4MhkBOKEFoQJ4My8wcXVqeHRqb3JkL291dC92MS8zMGYzYWQ5YmEyYzM0MDczOWVhMjk0M2YyOWQ0NGIzMhkBPIFiVVNYINTpHKiaMrPnRyniuDDvCiQp51M_301m1d5nZXNReIY4/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/0qujxtjord/out/v1/30f3ad9ba2c340739ea2943f29d44b32/a8d65ffa-e1d9-4bf4-be70-45fb5c03d5b0-cenc.mpd?aws.sessionId=8abf014f-8c40-4874-a3be-b1598ae3aa8d"
-      },
-      "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
     },
     {
       "match_id": "B0HCYBVQZF",
