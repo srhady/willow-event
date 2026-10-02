@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "11:02 PM 02-10-2026",
+    "LastUpdate": "12:02 AM 03-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 6,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -74,6 +74,34 @@
         "Original Server": "https://a178live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpq03jtBhpqv7JtA2Zha2FtYWkCeClzc2lkOjdkODhjMmFhLTJhMWUtNGEwYy1hMDYxLTlmMWU5ZWFjZjM0ZBkBOKEFoQJ4My9yaGtjZnFvdnRzL291dC92MS9iNGRmOTk0MmQwMTE0YTgyOWEwOGI5YTc0YzViN2FlYxkBPIFiVVNYIPfNHjltwhOSxiI01U1-lhtz0ZoS8QrtUcbeiHuBtU_z/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/rhkcfqovts/out/v1/b4df9942d0114a829a08b9a74c5b7aec/07af92c2-d419-4883-8ed3-a4d75436daa5-cenc.mpd"
       },
       "drm_key": "e2f6c6c65a83caa460efa345b6f8edb7:b6e6f56cf043be8536da9f81cf651d16"
+    },
+    {
+      "match_id": "B0HK6KBC77",
+      "title": "Oct 2 - PTT Ithaca",
+      "synopsis": "Oct 2 - PTT Ithaca",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1f693964-5f4b-4da3-9033-adf889f92641/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HK6KBC77",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABIO52PAAAAAAAAMAXLKLBNBBVZPF.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpq07gvBhpqv_GvA2pjbG91ZGZyb250Angpc3NpZDowMjNkZGU3NS02OWRjLTQxOWUtOWI5MC1mMzAyMGZjNzgwMzUZATihBaECeDMvZXJrMGhndXRyai9vdXQvdjEvYWZkMzBkOWMyOGZmNGE3MjhlNGU3Mzc5YTc1MjY4YjEZATyBYlVTWCDvQnxxftUXAU17fHjemjIgR_V58Fj4Xs6arlGWbDlCVQ/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/erk0hgutrj/out/v1/afd30d9c28ff4a728e4e7379a75268b1/b300fcd6-64d1-4b9a-a40a-707719b94940-cenc.mpd"
+      },
+      "drm_key": "98c09bba1b5cc761fdfbb2a845107bed:c7119f1e42030f70345bf10f8376adaf"
+    },
+    {
+      "match_id": "B0HHQZ9JX8",
+      "title": "Oct 2 - PTT Newport Beach",
+      "synopsis": "Oct 2 - PTT Newport Beach",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.70d43cc9-98a6-405c-bb21-5a7d6e0e5d7c/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HHQZ9JX8",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a66live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpq07gwBhpqv_GwA2Zha2FtYWkCeClzc2lkOjhlZjFmZDdmLTYxYmQtNGI3Yy1hYjZkLTAzODBhNmI3ZjE3NBkBOKEFoQJ4My93dXF1emRnOG5oL291dC92MS9kYzJhNWEwZGRjNWU0ZjMxYTgxYmY5OGIwNzY5NDM0NBkBPIFiVVNYIHKaugRFFX0LbjqovQDoegDQ3PQD3HljLXEnKcMxZs6q/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/wuquzdg8nh/out/v1/dc2a5a0ddc5e4f31a81bf98b07694344/f794cc98-ddd8-4d7c-8849-eae0dfcf17c6-cenc.mpd"
+      },
+      "drm_key": "e24c980e844647693270ae4bc8722acb:a4aa13088af7074b732b9a30d5b83554"
     }
   ]
 }
