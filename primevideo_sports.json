@@ -1,65 +1,31 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "12:02 AM 03-10-2026",
+    "LastUpdate": "12:32 AM 03-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
     {
-      "match_id": "B0HK34VJ9K",
-      "title": "Latvia vs. Montenegro",
-      "synopsis": "Latvia vs. Montenegro",
+      "match_id": "B0HGY9MD26",
+      "title": "Belgium vs. Türkiye",
+      "synopsis": "Belgium vs. Türkiye",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bb0c72b6-7dc0-4421-b29d-7fca44a5c0c3/5/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HK34VJ9K",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e1c8454f-da21-4533-a300-1c2e8f785677/2/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HGY9MD26",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd"
       },
       "drm_key": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681"
-    },
-    {
-      "match_id": "B0HHPXNGVX",
-      "title": "Whittaker vs. Wallace: Weigh In",
-      "synopsis": "Whittaker vs. Wallace: Weigh In",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6f16e189-d7d7-44c1-b99c-a436fcdc352e/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HHPXNGVX",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3akahygf9y/out/v1/cc0ca029222b46b3a36e610e0a85fe91/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3akahygf9y/out/v1/cc0ca029222b46b3a36e610e0a85fe91/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3akahygf9y/out/v1/cc0ca029222b46b3a36e610e0a85fe91/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3akahygf9y/out/v1/cc0ca029222b46b3a36e610e0a85fe91/cenc.mpd"
-      },
-      "drm_key": "99f2d8b38451875101393cfda6cc5e77:3d32bdfa5fe52cf74567eb20716b5a65"
-    },
-    {
-      "match_id": "B0HJXWCYJ6",
-      "title": "Swedish Open, Day 1",
-      "synopsis": "Swedish Open, Day 1",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e5c87dc4-f0a8-46e4-9a27-5742a02fb86a/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HJXWCYJ6",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd"
-      },
-      "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
     },
     {
       "match_id": "B0H2M1G8ZL",
@@ -76,20 +42,6 @@
       "drm_key": "e2f6c6c65a83caa460efa345b6f8edb7:b6e6f56cf043be8536da9f81cf651d16"
     },
     {
-      "match_id": "B0HK6KBC77",
-      "title": "Oct 2 - PTT Ithaca",
-      "synopsis": "Oct 2 - PTT Ithaca",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1f693964-5f4b-4da3-9033-adf889f92641/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HK6KBC77",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABIO52PAAAAAAAAMAXLKLBNBBVZPF.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpq07gvBhpqv_GvA2pjbG91ZGZyb250Angpc3NpZDowMjNkZGU3NS02OWRjLTQxOWUtOWI5MC1mMzAyMGZjNzgwMzUZATihBaECeDMvZXJrMGhndXRyai9vdXQvdjEvYWZkMzBkOWMyOGZmNGE3MjhlNGU3Mzc5YTc1MjY4YjEZATyBYlVTWCDvQnxxftUXAU17fHjemjIgR_V58Fj4Xs6arlGWbDlCVQ/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/erk0hgutrj/out/v1/afd30d9c28ff4a728e4e7379a75268b1/b300fcd6-64d1-4b9a-a40a-707719b94940-cenc.mpd"
-      },
-      "drm_key": "98c09bba1b5cc761fdfbb2a845107bed:c7119f1e42030f70345bf10f8376adaf"
-    },
-    {
       "match_id": "B0HHQZ9JX8",
       "title": "Oct 2 - PTT Newport Beach",
       "synopsis": "Oct 2 - PTT Newport Beach",
@@ -102,6 +54,20 @@
         "Original Server": "https://a66live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpq07gwBhpqv_GwA2Zha2FtYWkCeClzc2lkOjhlZjFmZDdmLTYxYmQtNGI3Yy1hYjZkLTAzODBhNmI3ZjE3NBkBOKEFoQJ4My93dXF1emRnOG5oL291dC92MS9kYzJhNWEwZGRjNWU0ZjMxYTgxYmY5OGIwNzY5NDM0NBkBPIFiVVNYIHKaugRFFX0LbjqovQDoegDQ3PQD3HljLXEnKcMxZs6q/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/wuquzdg8nh/out/v1/dc2a5a0ddc5e4f31a81bf98b07694344/f794cc98-ddd8-4d7c-8849-eae0dfcf17c6-cenc.mpd"
       },
       "drm_key": "e24c980e844647693270ae4bc8722acb:a4aa13088af7074b732b9a30d5b83554"
+    },
+    {
+      "match_id": "B0HK6KBC77",
+      "title": "Oct 2 - PTT Ithaca",
+      "synopsis": "Oct 2 - PTT Ithaca",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1f693964-5f4b-4da3-9033-adf889f92641/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HK6KBC77",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABIO52PAAAAAAAAMAXLKLBNBBVZPF.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpq07gvBhpqv_GvA2pjbG91ZGZyb250Angpc3NpZDowMjNkZGU3NS02OWRjLTQxOWUtOWI5MC1mMzAyMGZjNzgwMzUZATihBaECeDMvZXJrMGhndXRyai9vdXQvdjEvYWZkMzBkOWMyOGZmNGE3MjhlNGU3Mzc5YTc1MjY4YjEZATyBYlVTWCDvQnxxftUXAU17fHjemjIgR_V58Fj4Xs6arlGWbDlCVQ/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/erk0hgutrj/out/v1/afd30d9c28ff4a728e4e7379a75268b1/b300fcd6-64d1-4b9a-a40a-707719b94940-cenc.mpd"
+      },
+      "drm_key": "98c09bba1b5cc761fdfbb2a845107bed:c7119f1e42030f70345bf10f8376adaf"
     }
   ]
 }
