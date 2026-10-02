@@ -1,49 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "10:02 PM 02-10-2026",
+    "LastUpdate": "11:02 PM 02-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HKWT6BFX",
-      "title": "ONE Friday Fights 173",
-      "synopsis": "ONE Friday Fights 173",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.eebd5c1f-6c57-490a-9032-a0d0f70e13ee/12/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKWT6BFX",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/glqgccsvmt/out/v1/fe4f9d2a0a86421c8f497c1fefed9fea/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/glqgccsvmt/out/v1/fe4f9d2a0a86421c8f497c1fefed9fea/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/glqgccsvmt/out/v1/fe4f9d2a0a86421c8f497c1fefed9fea/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/glqgccsvmt/out/v1/fe4f9d2a0a86421c8f497c1fefed9fea/cenc.mpd"
-      },
-      "drm_key": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d"
-    },
-    {
-      "match_id": "B0HK312369",
-      "title": "Predator Pro Billiard Series: Indonesia-2026 Predator Pro Billiard Series: Indonesia",
-      "synopsis": "Predator Pro Billiard Series: Indonesia-2026 Predator Pro Billiard Series: Indonesia",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.17807db5-4a7d-4133-af1d-83c6c125b0ab/10/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HK312369",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd"
-      },
-      "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
-    },
     {
       "match_id": "B0HK34VJ9K",
       "title": "Latvia vs. Montenegro",
@@ -60,6 +26,23 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd"
       },
       "drm_key": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681"
+    },
+    {
+      "match_id": "B0HHPXNGVX",
+      "title": "Whittaker vs. Wallace: Weigh In",
+      "synopsis": "Whittaker vs. Wallace: Weigh In",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6f16e189-d7d7-44c1-b99c-a436fcdc352e/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HHPXNGVX",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3akahygf9y/out/v1/cc0ca029222b46b3a36e610e0a85fe91/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3akahygf9y/out/v1/cc0ca029222b46b3a36e610e0a85fe91/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3akahygf9y/out/v1/cc0ca029222b46b3a36e610e0a85fe91/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3akahygf9y/out/v1/cc0ca029222b46b3a36e610e0a85fe91/cenc.mpd"
+      },
+      "drm_key": "99f2d8b38451875101393cfda6cc5e77:3d32bdfa5fe52cf74567eb20716b5a65"
     },
     {
       "match_id": "B0HJXWCYJ6",
