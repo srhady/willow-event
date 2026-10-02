@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "02:02 PM 02-10-2026",
+    "LastUpdate": "02:32 PM 02-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -42,6 +42,20 @@
       "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
     },
     {
+      "match_id": "B0HF52DPKV",
+      "title": "Bahrain: Practice 2 (Sky Sports)",
+      "synopsis": "Bahrain: Practice 2 (Sky Sports)",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.34ce4174-edbe-4462-a484-5a605be376f3/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HF52DPKV",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a154live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WImmAWpwcmltZXZpZGVvBBpq0yuVBhpqv2UVA2Zha2FtYWkCeClzc2lkOjJjZDViMjExLTIxNzUtNDQzMC1hM2YxLThkNGEwMGY1YTJlNxkBOKEFoQJ4My9tZmh6dndmcHBqL291dC92MS9jNmM3YWRjYTAyYTU0OTE0OTE0NmY5MjU5Y2RlMWNjMFggsMKMyTl2z1bbREAiGjeTHjTihSeCaMR6P_eWXL3iisQ/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/mfhzvwfppj/out/v1/c6c7adca02a549149146f9259cde1cc0/3939bfe8-0caa-4ec2-b295-9fd54fa2e89a-cenc.mpd"
+      },
+      "drm_key": "c1b52cdc17733740330679d0c3f8d630:4e6789be6be6997c7a3f736f69d31ba7"
+    },
+    {
       "match_id": "B0H86C49GL",
       "title": "Southland v North Island",
       "synopsis": "Southland v North Island",
@@ -57,20 +71,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd"
       },
       "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
-    },
-    {
-      "match_id": "B0HF52DPKV",
-      "title": "Bahrain: Practice 2 (Sky Sports)",
-      "synopsis": "Bahrain: Practice 2 (Sky Sports)",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.34ce4174-edbe-4462-a484-5a605be376f3/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HF52DPKV",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a154live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WImmAWpwcmltZXZpZGVvBBpq0yuVBhpqv2UVA2Zha2FtYWkCeClzc2lkOjJjZDViMjExLTIxNzUtNDQzMC1hM2YxLThkNGEwMGY1YTJlNxkBOKEFoQJ4My9tZmh6dndmcHBqL291dC92MS9jNmM3YWRjYTAyYTU0OTE0OTE0NmY5MjU5Y2RlMWNjMFggsMKMyTl2z1bbREAiGjeTHjTihSeCaMR6P_eWXL3iisQ/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/mfhzvwfppj/out/v1/c6c7adca02a549149146f9259cde1cc0/3939bfe8-0caa-4ec2-b295-9fd54fa2e89a-cenc.mpd"
-      },
-      "drm_key": "c1b52cdc17733740330679d0c3f8d630:4e6789be6be6997c7a3f736f69d31ba7"
     },
     {
       "match_id": "B0HBX1CPB5",
