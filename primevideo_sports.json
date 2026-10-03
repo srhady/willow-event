@@ -1,31 +1,45 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "01:02 PM 03-10-2026",
+    "LastUpdate": "02:02 PM 03-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 6,
     "UpcomingCount": 0
   },
   "Matches": [
     {
-      "match_id": "B0HGS2CMLW",
-      "title": "Tennis Today Live-Beijing-ATP/WTA & Tokyo-ATP 2nd Round",
-      "synopsis": "Tennis Today Live-Beijing-ATP/WTA & Tokyo-ATP 2nd Round",
+      "match_id": "B0HGYMYYLG",
+      "title": "Bahrain: Qualifying (Sky Sports)",
+      "synopsis": "Bahrain: Qualifying (Sky Sports)",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7edd899b-fdfa-476a-a4dd-76070a0de005/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HGS2CMLW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.73ab076a-e213-40b8-925a-1328eb7f8648/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HGYMYYLG",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd"
+        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpq1G79BhpqwKh9A2ZmYXN0bHkCeClzc2lkOmExZGUxMzU5LWNhNWQtNGU2YS04MjIyLThlNzYzZmMxNWY1NRkBOKEFoQJ4My93ajdodXdndWZtL291dC92MS84OWM5MzgzM2IwMjE0OWUzYTZlYTg3MGIzNDExNGMwNhkBPIFiVVNYIIHdSgUbzQELuYx0x4bskx0-HUjnt8lJBM5Ij2Lvk6qv/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/wj7huwgufm/out/v1/89c93833b02149e3a6ea870b34114c06/a26c5680-9b1b-426d-ad27-4b939e493519-cenc.mpd"
       },
-      "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
+      "drm_key": "a4a0c5f9ba602acac03c631973dff9dd:43ceff4a62ae4be46cdb8eac2f1967bd"
+    },
+    {
+      "match_id": "B0HL4XK76Y",
+      "title": "Judo - Mixed Team - Final",
+      "synopsis": "Judo - Mixed Team - Final",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2dcade6c-648c-418e-8dbb-513dd4a3b4ea/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HL4XK76Y",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
+      },
+      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
       "match_id": "B0HK312369",
@@ -45,18 +59,18 @@
       "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
     },
     {
-      "match_id": "B0HGYMYYLG",
-      "title": "Bahrain: Qualifying (Sky Sports)",
-      "synopsis": "Bahrain: Qualifying (Sky Sports)",
+      "match_id": "B0HHL45KJ5",
+      "title": "Bahrain: Qualifying",
+      "synopsis": "Bahrain: Qualifying",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.73ab076a-e213-40b8-925a-1328eb7f8648/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HGYMYYLG",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3b8782f6-377c-49f5-b7f4-7039e86f9528/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HHL45KJ5",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpq1G79BhpqwKh9A2ZmYXN0bHkCeClzc2lkOmExZGUxMzU5LWNhNWQtNGU2YS04MjIyLThlNzYzZmMxNWY1NRkBOKEFoQJ4My93ajdodXdndWZtL291dC92MS84OWM5MzgzM2IwMjE0OWUzYTZlYTg3MGIzNDExNGMwNhkBPIFiVVNYIIHdSgUbzQELuYx0x4bskx0-HUjnt8lJBM5Ij2Lvk6qv/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/wj7huwgufm/out/v1/89c93833b02149e3a6ea870b34114c06/a26c5680-9b1b-426d-ad27-4b939e493519-cenc.mpd"
+        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpq1H0YBhpqwLaYA2ZmYXN0bHkCeClzc2lkOjI3YzUyNWM5LTUxNzMtNDE3MC04MmYwLTNkN2U1ZmRjY2RhMxkBOKEFoQJ4My9oeXB4eW40amZ2L291dC92MS9iOWY5OWU4OWQ3OTY0ZTllYWRkOTg0YjE3ODZjM2U4ZhkBPIFiVVNYII3-zbIaYwGatJ-i2pbQV0-hvXP2bajR3v2S-X2pSFIR/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/hypxyn4jfv/out/v1/b9f99e89d7964e9eadd984b1786c3e8f/37c5fe6f-02f2-4e41-8bc6-952e801f3624-cenc.mpd"
       },
-      "drm_key": "a4a0c5f9ba602acac03c631973dff9dd:43ceff4a62ae4be46cdb8eac2f1967bd"
+      "drm_key": "5dca622e576b16e1d6254575c807bf06:7410b6aeb185af4364675be9992a82c3"
     },
     {
       "match_id": "B0HLCHHHYM",
@@ -76,21 +90,21 @@
       "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
     },
     {
-      "match_id": "B0HL83WKHQ",
-      "title": "Tour de Langkawi, Stage 7",
-      "synopsis": "Tour de Langkawi, Stage 7",
+      "match_id": "B0HGS2CMLW",
+      "title": "Tennis Today Live-Beijing-ATP/WTA & Tokyo-ATP 2nd Round",
+      "synopsis": "Tennis Today Live-Beijing-ATP/WTA & Tokyo-ATP 2nd Round",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.84e43753-d2e1-48a1-bc8b-cf60afb0a549/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HL83WKHQ",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7edd899b-fdfa-476a-a4dd-76070a0de005/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HGS2CMLW",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd"
       },
-      "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
+      "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
     }
   ]
 }
