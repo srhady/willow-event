@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "02:33 PM 03-10-2026",
+    "LastUpdate": "03:02 PM 03-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -23,23 +23,6 @@
         "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpq1G79BhpqwKh9A2ZmYXN0bHkCeClzc2lkOmExZGUxMzU5LWNhNWQtNGU2YS04MjIyLThlNzYzZmMxNWY1NRkBOKEFoQJ4My93ajdodXdndWZtL291dC92MS84OWM5MzgzM2IwMjE0OWUzYTZlYTg3MGIzNDExNGMwNhkBPIFiVVNYIIHdSgUbzQELuYx0x4bskx0-HUjnt8lJBM5Ij2Lvk6qv/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/wj7huwgufm/out/v1/89c93833b02149e3a6ea870b34114c06/a26c5680-9b1b-426d-ad27-4b939e493519-cenc.mpd"
       },
       "drm_key": "a4a0c5f9ba602acac03c631973dff9dd:43ceff4a62ae4be46cdb8eac2f1967bd"
-    },
-    {
-      "match_id": "B0HL4XK76Y",
-      "title": "Judo - Mixed Team - Final",
-      "synopsis": "Judo - Mixed Team - Final",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2dcade6c-648c-418e-8dbb-513dd4a3b4ea/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HL4XK76Y",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
-      },
-      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
       "match_id": "B0HK312369",
@@ -59,6 +42,23 @@
       "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
     },
     {
+      "match_id": "B0HL4XK76Y",
+      "title": "Judo - Mixed Team - Final",
+      "synopsis": "Judo - Mixed Team - Final",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2dcade6c-648c-418e-8dbb-513dd4a3b4ea/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HL4XK76Y",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
+      },
+      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
       "match_id": "B0HHL45KJ5",
       "title": "Bahrain: Qualifying",
       "synopsis": "Bahrain: Qualifying",
@@ -71,23 +71,6 @@
         "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpq1H0YBhpqwLaYA2ZmYXN0bHkCeClzc2lkOjI3YzUyNWM5LTUxNzMtNDE3MC04MmYwLTNkN2U1ZmRjY2RhMxkBOKEFoQJ4My9oeXB4eW40amZ2L291dC92MS9iOWY5OWU4OWQ3OTY0ZTllYWRkOTg0YjE3ODZjM2U4ZhkBPIFiVVNYII3-zbIaYwGatJ-i2pbQV0-hvXP2bajR3v2S-X2pSFIR/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/hypxyn4jfv/out/v1/b9f99e89d7964e9eadd984b1786c3e8f/37c5fe6f-02f2-4e41-8bc6-952e801f3624-cenc.mpd"
       },
       "drm_key": "5dca622e576b16e1d6254575c807bf06:7410b6aeb185af4364675be9992a82c3"
-    },
-    {
-      "match_id": "B0HLCHHHYM",
-      "title": "Waikato v Tasman",
-      "synopsis": "Waikato v Tasman",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f9391722-b642-4b00-a0c9-68a18fd46145/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLCHHHYM",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd"
-      },
-      "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
     },
     {
       "match_id": "B0HGS2CMLW",
