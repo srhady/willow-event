@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "11:02 PM 04-10-2026",
+    "LastUpdate": "11:32 PM 04-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -25,23 +25,6 @@
       "drm_key": "08c7d255bdb53b54f38735c2529492f9:7eafb46d7206f2cb19ef0751e3466a5a"
     },
     {
-      "match_id": "B0HL63VBPH",
-      "title": "Manchester City vs. Arsenal",
-      "synopsis": "Manchester City vs. Arsenal",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.92eec7bc-b120-4ce1-8376-288d5f61f7bd/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HL63VBPH",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd"
-      },
-      "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
-    },
-    {
       "match_id": "B0HKZNRCY9",
       "title": "PPA Tour: Las Vegas Open-Championship Sunday",
       "synopsis": "PPA Tour: Las Vegas Open-Championship Sunday",
@@ -59,21 +42,38 @@
       "drm_key": "2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72"
     },
     {
-      "match_id": "B0H5KHL1PW",
-      "title": "Stony Brook vs Towson - Women's Soccer",
-      "synopsis": "Stony Brook vs Towson - Women's Soccer",
+      "match_id": "B0HL63VBPH",
+      "title": "Manchester City vs. Arsenal",
+      "synopsis": "Manchester City vs. Arsenal",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.12498ae5-b2ce-4e6b-a8fb-0c125205b0f6/37/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H5KHL1PW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.92eec7bc-b120-4ce1-8376-288d5f61f7bd/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HL63VBPH",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd"
       },
-      "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
+      "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+    },
+    {
+      "match_id": "B0HLFZLF5M",
+      "title": "4th Match - India Champions vs England Champions",
+      "synopsis": "4th Match - India Champions vs England Champions",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d3f6fe05-cf8a-4129-9bd3-56aa77c47261/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLFZLF5M",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
+      },
+      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
       "match_id": "B0HJH4X3SF",
@@ -93,21 +93,21 @@
       "drm_key": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681"
     },
     {
-      "match_id": "B0HLFZLF5M",
-      "title": "4th Match - India Champions vs England Champions",
-      "synopsis": "4th Match - India Champions vs England Champions",
+      "match_id": "B0H5KHL1PW",
+      "title": "Stony Brook vs Towson - Women's Soccer",
+      "synopsis": "Stony Brook vs Towson - Women's Soccer",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d3f6fe05-cf8a-4129-9bd3-56aa77c47261/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLFZLF5M",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.12498ae5-b2ce-4e6b-a8fb-0c125205b0f6/37/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H5KHL1PW",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd"
       },
-      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+      "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
     },
     {
       "match_id": "B0HKPZGK6V",
@@ -144,20 +144,6 @@
       "drm_key": "dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b"
     },
     {
-      "match_id": "B0HJ2PHTTV",
-      "title": "Oct 4 - PTT Newport Beach",
-      "synopsis": "Oct 4 - PTT Newport Beach",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5817d4ca-625a-43e4-98e8-f69895635001/8/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HJ2PHTTV",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWImmAWpwcmltZXZpZGVvBBpq1k0lBhpqwoalA2ZmYXN0bHkCeClzc2lkOjM4ZDkxNzg2LTFlMTQtNDIzZS1hN2QyLTFhYjgyN2YzNjVmNhkBOKEFoQJ4My8ycnJvNzBnNmNkL291dC92MS8yNWZjYmNlNGJhZWM0ZTliODllNmY4NWM5NDEzZWYyZlggRSQ0TFGRtg810ePS71DNjLb9dHj-oIqNo31IYhOwMbQ/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/2rro70g6cd/out/v1/25fcbce4baec4e9b89e6f85c9413ef2f/4d66fd6d-e2af-464f-a50d-48c9ea759ad4-cenc.mpd"
-      },
-      "drm_key": "7a728f7a1c2ac1bd0f37e4e3b2c42dc4:58637bb7f6946d7af92f110f19c2cbca"
-    },
-    {
       "match_id": "B0HKRZWVW1",
       "title": "Oct 4 - PTT Ithaca",
       "synopsis": "Oct 4 - PTT Ithaca",
@@ -170,6 +156,20 @@
         "Original Server": "https://a32live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpq1iL1Bhpqwlx1A2Zha2FtYWkCeClzc2lkOjAyODkyOTE0LWJiM2ItNGY1YS1iYjUyLWQ4OGQ5MWE0Y2EyMhkBOKEFoQJ4My9oampsbG9uZ3JrL291dC92MS8xYjZkZTk3YjlkZDU0MDcxOTBkYjZlNzM0MTRkNDBhOBkBPIFiVVNYIEpcGWTO5VuS4ZCnosQAqYdaZB8ihQFkBfbuKRjMNzjz/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/hjjllongrk/out/v1/1b6de97b9dd5407190db6e73414d40a8/7cf1b06e-8691-4b02-8998-8a4280b2fe15-cenc.mpd"
       },
       "drm_key": "fdb9c1cfd57d6c7deef46b5458396e53:b72d4da6c84d01bf7358db6aec26395c"
+    },
+    {
+      "match_id": "B0HJ2PHTTV",
+      "title": "Oct 4 - PTT Newport Beach",
+      "synopsis": "Oct 4 - PTT Newport Beach",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5817d4ca-625a-43e4-98e8-f69895635001/8/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJ2PHTTV",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWImmAWpwcmltZXZpZGVvBBpq1k0lBhpqwoalA2ZmYXN0bHkCeClzc2lkOjM4ZDkxNzg2LTFlMTQtNDIzZS1hN2QyLTFhYjgyN2YzNjVmNhkBOKEFoQJ4My8ycnJvNzBnNmNkL291dC92MS8yNWZjYmNlNGJhZWM0ZTliODllNmY4NWM5NDEzZWYyZlggRSQ0TFGRtg810ePS71DNjLb9dHj-oIqNo31IYhOwMbQ/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/2rro70g6cd/out/v1/25fcbce4baec4e9b89e6f85c9413ef2f/4d66fd6d-e2af-464f-a50d-48c9ea759ad4-cenc.mpd"
+      },
+      "drm_key": "7a728f7a1c2ac1bd0f37e4e3b2c42dc4:58637bb7f6946d7af92f110f19c2cbca"
     }
   ]
 }
