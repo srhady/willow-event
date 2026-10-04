@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "04:02 PM 04-10-2026",
+    "LastUpdate": "05:32 PM 04-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -10,20 +10,6 @@
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HHJH7R1N",
-      "title": "Bahrain: Race",
-      "synopsis": "Bahrain: Race",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b200743f-d5d0-4f76-a9c1-0723788c2b1a/9/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HHJH7R1N",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpq1bJyBhpqwevyA2ZmYXN0bHkCeClzc2lkOjIxN2NkOTBlLWRhYjUtNDUyOS04MGFkLTg4ZWUxYjVhODI3ZhkBOKEFoQJ4My94bmx4bzZ4bWUzL291dC92MS8zODZmZGM3MTYzYjE0MjM2YjJkOTk1OWFhODE2MGE4NhkBPIFiVVNYIA4YInQzViSU6mXBHm1kHplQlZFtIp4O9P9YAaoBxh65/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/xnlxo6xme3/out/v1/386fdc7163b14236b2d9959aa8160a86/55bda4ad-6365-415e-a4f0-8186a1c3132d-cenc.mpd"
-      },
-      "drm_key": "aa34ab9d10ecd82ae8a5989bb4316a5f:a3df8723e7f68d249a49ceb3ae4353ff"
-    },
     {
       "match_id": "B0HK8F7CYD",
       "title": "LIVE: Ring of Combat Challenge",
@@ -40,6 +26,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/youk5yyomc/out/v1/3b2973990a634a328b2426c187cd49be/cenc.mpd"
       },
       "drm_key": "1918ddf008413696077e06138983c5f9:2d66e0d80ca9ac6ad8b8c230a97f74b4"
+    },
+    {
+      "match_id": "B0HHJH7R1N",
+      "title": "Bahrain: Race",
+      "synopsis": "Bahrain: Race",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b200743f-d5d0-4f76-a9c1-0723788c2b1a/9/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HHJH7R1N",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpq1bJyBhpqwevyA2ZmYXN0bHkCeClzc2lkOjIxN2NkOTBlLWRhYjUtNDUyOS04MGFkLTg4ZWUxYjVhODI3ZhkBOKEFoQJ4My94bmx4bzZ4bWUzL291dC92MS8zODZmZGM3MTYzYjE0MjM2YjJkOTk1OWFhODE2MGE4NhkBPIFiVVNYIA4YInQzViSU6mXBHm1kHplQlZFtIp4O9P9YAaoBxh65/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/xnlxo6xme3/out/v1/386fdc7163b14236b2d9959aa8160a86/55bda4ad-6365-415e-a4f0-8186a1c3132d-cenc.mpd"
+      },
+      "drm_key": "aa34ab9d10ecd82ae8a5989bb4316a5f:a3df8723e7f68d249a49ceb3ae4353ff"
     },
     {
       "match_id": "B0HK312369",
@@ -76,23 +76,6 @@
       "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
     },
     {
-      "match_id": "B0H36F77JM",
-      "title": "Closing Ceremony",
-      "synopsis": "Closing Ceremony",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.017760f1-b6bc-4dc1-8006-e7edabd8a0d5/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H36F77JM",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
-      },
-      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-    },
-    {
       "match_id": "B0HGC141DT",
       "title": "Bahrain: Race (Sky Sports)",
       "synopsis": "Bahrain: Race (Sky Sports)",
@@ -124,13 +107,30 @@
       "drm_key": "2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72"
     },
     {
-      "match_id": "B0HKDRHYP2",
+      "match_id": "B0HFSQ3ZCH",
+      "title": "Cricket Highlights-WCL 2026: South Africa vs West Indies - 3rd Match",
+      "synopsis": "Cricket Highlights-WCL 2026: South Africa vs West Indies - 3rd Match",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d096cb29-bc8b-4566-97ab-2b8c1795bf5b/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFSQ3ZCH",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
+      },
+      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
+      "match_id": "B0HK3HDZSS",
       "title": "Tennis Today Live-Beijing-ATP & Tokyo-ATP Quarterfinals, Beijing-WTA 3rd Round",
       "synopsis": "Tennis Today Live-Beijing-ATP & Tokyo-ATP Quarterfinals, Beijing-WTA 3rd Round",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1a1338a2-f8c4-41fd-bf82-5356c540384b/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKDRHYP2",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.273fe951-05c4-43c8-8114-60350abc5c28/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HK3HDZSS",
       "is_free": false,
       "stream_url": {
         "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
