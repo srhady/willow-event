@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "09:32 AM 04-10-2026",
+    "LastUpdate": "10:02 AM 04-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -45,6 +45,23 @@
       "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
     },
     {
+      "match_id": "B0HHWNLFH5",
+      "title": "Bay of Plenty v North Harbour",
+      "synopsis": "Bay of Plenty v North Harbour",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7413603c-dd16-45c1-a1a7-b0e58254e72f/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HHWNLFH5",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd"
+      },
+      "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
+    },
+    {
       "match_id": "B0HL69RSKV",
       "title": "PPA Tour: Las Vegas Open-Semifinals",
       "synopsis": "PPA Tour: Las Vegas Open-Semifinals",
@@ -79,23 +96,6 @@
       "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
     },
     {
-      "match_id": "B0HKDK8VBJ",
-      "title": "Taranaki v Wellington Lions",
-      "synopsis": "Taranaki v Wellington Lions",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.46255f59-80e8-4af0-bd15-643eafa8e549/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKDK8VBJ",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd"
-      },
-      "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
-    },
-    {
       "match_id": "B0HLD4SZ2C",
       "title": "Western Colorado at New Mexico Highlands",
       "synopsis": "Western Colorado at New Mexico Highlands",
@@ -113,20 +113,6 @@
       "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
     },
     {
-      "match_id": "B0HKSSP3NB",
-      "title": "Motul Grand Prix of Japan",
-      "synopsis": "Motul Grand Prix of Japan",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e60aa2b4-34e6-4d66-9414-50f699b84b53/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKSSP3NB",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABDJMEJAAAAAAAAMGYG5RIZJR24C6.ta.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpq1WwlBhpqwaWlA2pjbG91ZGZyb250Angpc3NpZDpiNGZhYmM3Zi1hNDdmLTQ2M2MtOWYzMi1hNmJhMzk3M2Y0NmMZATihBaECeDMvMGJkc3Nlc2MxOC9vdXQvdjEvMzBmM2FkOWJhMmMzNDA3MzllYTI5NDNmMjlkNDRiMzIZATyBYlVTWCAoWujcwno2PKc6E_ECQQlzZZZekjOxYJQ97XEghlEvtA/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/0bdssesc18/out/v1/30f3ad9ba2c340739ea2943f29d44b32/d9978617-90a5-4064-a63a-2516e163f0bd-cenc.mpd?aws.sessionId=8d9bd7ea-7d1c-4796-bdc9-1848f35faefc"
-      },
-      "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
-    },
-    {
       "match_id": "B0HKDRHYP2",
       "title": "Tennis Today Live-Beijing-ATP & Tokyo-ATP Quarterfinals, Beijing-WTA 3rd Round",
       "synopsis": "Tennis Today Live-Beijing-ATP & Tokyo-ATP Quarterfinals, Beijing-WTA 3rd Round",
@@ -142,6 +128,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd"
       },
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
+    },
+    {
+      "match_id": "B0HKSSP3NB",
+      "title": "Motul Grand Prix of Japan",
+      "synopsis": "Motul Grand Prix of Japan",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e60aa2b4-34e6-4d66-9414-50f699b84b53/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKSSP3NB",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABDJMEJAAAAAAAAMGYG5RIZJR24C6.ta.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpq1WwlBhpqwaWlA2pjbG91ZGZyb250Angpc3NpZDpiNGZhYmM3Zi1hNDdmLTQ2M2MtOWYzMi1hNmJhMzk3M2Y0NmMZATihBaECeDMvMGJkc3Nlc2MxOC9vdXQvdjEvMzBmM2FkOWJhMmMzNDA3MzllYTI5NDNmMjlkNDRiMzIZATyBYlVTWCAoWujcwno2PKc6E_ECQQlzZZZekjOxYJQ97XEghlEvtA/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/0bdssesc18/out/v1/30f3ad9ba2c340739ea2943f29d44b32/d9978617-90a5-4064-a63a-2516e163f0bd-cenc.mpd?aws.sessionId=8d9bd7ea-7d1c-4796-bdc9-1848f35faefc"
+      },
+      "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
     },
     {
       "match_id": "B0HHMVH8S9",
