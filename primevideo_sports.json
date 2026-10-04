@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "07:32 PM 04-10-2026",
+    "LastUpdate": "08:02 PM 04-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 7,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -94,6 +94,37 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
       },
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
+      "match_id": "B0HGR85LL9",
+      "title": "Saskatchewan Heat vs. BC Thunder",
+      "synopsis": "Saskatchewan Heat vs. BC Thunder",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3d11a61c-8249-4380-879b-92321e6928b1/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HGR85LL9",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd"
+      },
+      "drm_key": "dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b"
+    },
+    {
+      "match_id": "B0HKRZWVW1",
+      "title": "Oct 4 - PTT Ithaca",
+      "synopsis": "Oct 4 - PTT Ithaca",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.253fa633-17d3-49f7-960f-ac3d4bb16bf2/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKRZWVW1",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a32live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpq1iL1Bhpqwlx1A2Zha2FtYWkCeClzc2lkOjAyODkyOTE0LWJiM2ItNGY1YS1iYjUyLWQ4OGQ5MWE0Y2EyMhkBOKEFoQJ4My9oampsbG9uZ3JrL291dC92MS8xYjZkZTk3YjlkZDU0MDcxOTBkYjZlNzM0MTRkNDBhOBkBPIFiVVNYIEpcGWTO5VuS4ZCnosQAqYdaZB8ihQFkBfbuKRjMNzjz/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/hjjllongrk/out/v1/1b6de97b9dd5407190db6e73414d40a8/7cf1b06e-8691-4b02-8998-8a4280b2fe15-cenc.mpd"
+      },
+      "drm_key": "fdb9c1cfd57d6c7deef46b5458396e53:b72d4da6c84d01bf7358db6aec26395c"
     }
   ]
 }
