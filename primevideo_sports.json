@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "06:32 PM 05-10-2026",
+    "LastUpdate": "07:02 PM 05-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 2,
+    "LiveCount": 3,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -43,6 +43,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd"
       },
       "drm_key": "e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052"
+    },
+    {
+      "match_id": "B0HLG4PSZN",
+      "title": "Oct 5 - PTT Cordoba Men",
+      "synopsis": "Oct 5 - PTT Cordoba Men",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abf5fef7-96a6-48ea-8356-160ca2ffb864/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLG4PSZN",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a103live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpq12ZgBhpqw5_gA2Zha2FtYWkCeClzc2lkOjdjNjM5MDIyLTExZDItNDg1Yi04YjAzLWY4YWZlMmY1MGU1MBkBOKEFoQJ4My9nbGJudGlzbGxxL291dC92MS81MDZmMTAwODMwYjc0M2NlYTlkNWJmOGEyMzdmZTEzMhkBPIFiVVNYIBi1Yw5twR2XaqOgpBUWesd2YWcGUYfgVoPQ-YM2Xfdo/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/glbntisllq/out/v1/506f100830b743cea9d5bf8a237fe132/3241a2b0-ce91-43fb-939a-b6bd21b1b932-cenc.mpd"
+      },
+      "drm_key": "cc44cdb1030d7fb4cfdf19434bdfaebc:8ca68c06875fc6954f09ff5764d5f646"
     }
   ]
 }
