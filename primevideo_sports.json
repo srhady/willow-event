@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "07:02 PM 06-10-2026",
+    "LastUpdate": "07:32 PM 06-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 3,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -28,18 +28,21 @@
       "drm_key": "e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052"
     },
     {
-      "match_id": "B0HKM9QWSR",
-      "title": "Oct 6 - PTT Boca Raton Men",
-      "synopsis": "Oct 6 - PTT Boca Raton Men",
+      "match_id": "B0HH4Q49HB",
+      "title": "India vs. West Indies",
+      "synopsis": "India vs. West Indies",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3b6574d9-85d2-40fc-a4c8-5e4fa8a357a2/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKM9QWSR",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.285e539c-2b54-4dfa-96f7-f3d0b5a43f38/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HH4Q49HB",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq2LfiBhpqxPFiA2ZmYXN0bHkCeChmaWQ6MDFhMTExNGUtZTgzNy03MGI1LTk3MjEtZGUxZWJhZWExNmZmGQE4oQWhAngzLzUxcWNjYjN4eHEvb3V0L3YxLzY0NmEyOGUxN2I2ODRjZDdhNTNjMWRhZWQzOGI0YWIxWCBaRzBnlODuv5ETB9qLWDfVe8guMEuN1Z-bQqz3eR6u-Q/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/51qccb3xxq/out/v1/646a28e17b684cd7a53c1daed38b4ab1/fdf189cf-626d-48c1-8963-4be8b5d01ce8-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
       },
-      "drm_key": "21e6cf71b83b2de5be8cade3ec719787:05041b367680c7bf26c84cbe5790eb68"
+      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
       "match_id": "B0HK87XH7B",
@@ -54,6 +57,20 @@
         "Original Server": "https://a20live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WI-nAWpwcmltZXZpZGVvBBpq2LfiBhpqxPFiA2Zha2FtYWkCeChmaWQ6MDFhMTExNGUtZWEwZC03NjRmLWE4NTktZGVkYTQ5OWIxODhiGQE4oQWhAngzL3JqYnI2c3Zpcnovb3V0L3YxL2QzYjgzY2U2ZDdmMjQ1ZDNiMDI5YmE2NzQ2MzJjM2VkGQE8gWJVU1ggkw_l72uufzaEdY1VH9iFPHozy1mfJSqxPCnqwzqdn-g/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/rjbr6svirz/out/v1/d3b83ce6d7f245d3b029ba674632c3ed/d6703a05-461a-4afb-9a89-14c9e2918dca-cenc.mpd"
       },
       "drm_key": "6f8dd65bf14f7a5a12c23aaf0d241417:38a2ab88496520af9b7559974d7559a8"
+    },
+    {
+      "match_id": "B0HKM9QWSR",
+      "title": "Oct 6 - PTT Boca Raton Men",
+      "synopsis": "Oct 6 - PTT Boca Raton Men",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3b6574d9-85d2-40fc-a4c8-5e4fa8a357a2/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKM9QWSR",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq2LfiBhpqxPFiA2ZmYXN0bHkCeChmaWQ6MDFhMTExNGUtZTgzNy03MGI1LTk3MjEtZGUxZWJhZWExNmZmGQE4oQWhAngzLzUxcWNjYjN4eHEvb3V0L3YxLzY0NmEyOGUxN2I2ODRjZDdhNTNjMWRhZWQzOGI0YWIxWCBaRzBnlODuv5ETB9qLWDfVe8guMEuN1Z-bQqz3eR6u-Q/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/51qccb3xxq/out/v1/646a28e17b684cd7a53c1daed38b4ab1/fdf189cf-626d-48c1-8963-4be8b5d01ce8-cenc.mpd"
+      },
+      "drm_key": "21e6cf71b83b2de5be8cade3ec719787:05041b367680c7bf26c84cbe5790eb68"
     }
   ]
 }
