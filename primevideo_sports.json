@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "10:32 PM 06-10-2026",
+    "LastUpdate": "11:02 PM 06-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 3,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -28,6 +28,20 @@
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
+      "match_id": "B0HK87XH7B",
+      "title": "Oct 6 - PTT Cordoba Men",
+      "synopsis": "Oct 6 - PTT Cordoba Men",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2aae2edb-636e-4d58-8d6a-98553cb546a7/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HK87XH7B",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a20live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WI-nAWpwcmltZXZpZGVvBBpq2LfiBhpqxPFiA2Zha2FtYWkCeChmaWQ6MDFhMTExNGUtZWEwZC03NjRmLWE4NTktZGVkYTQ5OWIxODhiGQE4oQWhAngzL3JqYnI2c3Zpcnovb3V0L3YxL2QzYjgzY2U2ZDdmMjQ1ZDNiMDI5YmE2NzQ2MzJjM2VkGQE8gWJVU1ggkw_l72uufzaEdY1VH9iFPHozy1mfJSqxPCnqwzqdn-g/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/rjbr6svirz/out/v1/d3b83ce6d7f245d3b029ba674632c3ed/d6703a05-461a-4afb-9a89-14c9e2918dca-cenc.mpd"
+      },
+      "drm_key": "6f8dd65bf14f7a5a12c23aaf0d241417:38a2ab88496520af9b7559974d7559a8"
+    },
+    {
       "match_id": "B0HKM9QWSR",
       "title": "Oct 6 - PTT Boca Raton Men",
       "synopsis": "Oct 6 - PTT Boca Raton Men",
@@ -42,18 +56,18 @@
       "drm_key": "21e6cf71b83b2de5be8cade3ec719787:05041b367680c7bf26c84cbe5790eb68"
     },
     {
-      "match_id": "B0HK87XH7B",
-      "title": "Oct 6 - PTT Cordoba Men",
-      "synopsis": "Oct 6 - PTT Cordoba Men",
+      "match_id": "B0HKC79MRX",
+      "title": "Oct 6 - PTT San Diego",
+      "synopsis": "Oct 6 - PTT San Diego",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2aae2edb-636e-4d58-8d6a-98553cb546a7/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HK87XH7B",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cb524064-bfe6-43cc-b5af-6ec84a13121d/10/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKC79MRX",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://a20live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WI-nAWpwcmltZXZpZGVvBBpq2LfiBhpqxPFiA2Zha2FtYWkCeChmaWQ6MDFhMTExNGUtZWEwZC03NjRmLWE4NTktZGVkYTQ5OWIxODhiGQE4oQWhAngzL3JqYnI2c3Zpcnovb3V0L3YxL2QzYjgzY2U2ZDdmMjQ1ZDNiMDI5YmE2NzQ2MzJjM2VkGQE8gWJVU1ggkw_l72uufzaEdY1VH9iFPHozy1mfJSqxPCnqwzqdn-g/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/rjbr6svirz/out/v1/d3b83ce6d7f245d3b029ba674632c3ed/d6703a05-461a-4afb-9a89-14c9e2918dca-cenc.mpd"
+        "Original Server": "https://ABDTGVHAAAAAAAAMGU2FKFBKHY4RA.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJOnAWpwcmltZXZpZGVvBBpq2PAoBhpqxSmoA2pjbG91ZGZyb250AngoZmlkOjAxYTExMjJhLWJhODQtNzU1MC05MmQ0LTM4ZjM2NmI4MWU0MhkBOKEFoQJ4My9yY28zZHJzZml3L291dC92MS8xNDk4ZjNiMjVkYTU0YmVhODNlYzcwMjQwN2VhMWUwMRkBPIFiVVNYIFxcKUfJJ3tllpppIkBO7a2XH1aAFSOmIZrTihAerbQf/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/rco3drsfiw/out/v1/1498f3b25da54bea83ec702407ea1e01/f35b3a0a-72a8-4e3f-88ea-293f4ee978b8-cenc.mpd"
       },
-      "drm_key": "6f8dd65bf14f7a5a12c23aaf0d241417:38a2ab88496520af9b7559974d7559a8"
+      "drm_key": "e6d3e7267dda5acf78c8869178f855bf:7e2aac7edd70c5b7f20fbcb7350e7e8c"
     }
   ]
 }
