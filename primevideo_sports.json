@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "11:02 PM 07-10-2026",
+    "LastUpdate": "11:33 PM 07-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -42,20 +42,6 @@
       "drm_key": "dac61e09b189906007ceb80f0b974dfc:c3e8eff4d92c43637ebbd0bb63c606f8"
     },
     {
-      "match_id": "B0HLD96SKN",
-      "title": "Oct 7 - PTT Boca Raton Men",
-      "synopsis": "Oct 7 - PTT Boca Raton Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8a94dfd2-c913-4944-aa0d-1603d6dfb97f/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLD96SKN",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWI-nAWpwcmltZXZpZGVvBBpq2gluBhpqxkLuA2ZmYXN0bHkCeChmaWQ6MDFhMTE2NzUtNzQ0Ni03MzJlLWI2MzUtYjliNjljMjdkYmVlGQE4oQWhAngzL2lwb3V5ZHhwaGEvb3V0L3YxLzgwNDljMDYzODRiOTQ4NGU4NWI1MTZmOTgzN2UwMmZkGQE8gWJVU1ggNohgyVAJhUbO8ROdNCLbo5mo9JW29acGjN7zLScHjM8/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ipouydxpha/out/v1/8049c06384b9484e85b516f9837e02fd/5c1c2ca7-9ab4-48a4-9ee1-95a53ec664ce-cenc.mpd"
-      },
-      "drm_key": "24abc4e05149ec932ec1d34b9190c8c5:47c91bdde90e098162b834c9b9f3925c"
-    },
-    {
       "match_id": "B0HL6DLN4S",
       "title": "Oct 7 - UTR PTT San Diego",
       "synopsis": "Oct 7 - UTR PTT San Diego",
@@ -68,6 +54,20 @@
         "Original Server": "https://ABJDBDDAAAAAAAAMFNQZ5Z3WI444P.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJOnAWpwcmltZXZpZGVvBBpq2kGjBhpqxnsjA2pjbG91ZGZyb250AngoZmlkOjAxYTExNzUxLTAyNjQtNzc3Zi1iOWRmLWM2NTA5YmYwNDhmNBkBOKEFoQJ4My9neXBodWd1azE3L291dC92MS83ZjZkMTUwZGRiNmI0N2M3ODU2ODVlMGFiYmVhNjI4NBkBPIFiVVNYIGfk5hSN91g9CEdzwlyReMRKmF0CRbqYSVFulXeBh8x0/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/gyphuguk17/out/v1/7f6d150ddb6b47c785685e0abbea6284/0a099a79-7a07-401a-87b9-bf013b767749-cenc.mpd"
       },
       "drm_key": "a40938c361c86a39aa7d76174c6f953c:39bcf6ad825e882b92ca2cb6e6a72ef7"
+    },
+    {
+      "match_id": "B0HLD96SKN",
+      "title": "Oct 7 - PTT Boca Raton Men",
+      "synopsis": "Oct 7 - PTT Boca Raton Men",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8a94dfd2-c913-4944-aa0d-1603d6dfb97f/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLD96SKN",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWI-nAWpwcmltZXZpZGVvBBpq2gluBhpqxkLuA2ZmYXN0bHkCeChmaWQ6MDFhMTE2NzUtNzQ0Ni03MzJlLWI2MzUtYjliNjljMjdkYmVlGQE4oQWhAngzL2lwb3V5ZHhwaGEvb3V0L3YxLzgwNDljMDYzODRiOTQ4NGU4NWI1MTZmOTgzN2UwMmZkGQE8gWJVU1ggNohgyVAJhUbO8ROdNCLbo5mo9JW29acGjN7zLScHjM8/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ipouydxpha/out/v1/8049c06384b9484e85b516f9837e02fd/5c1c2ca7-9ab4-48a4-9ee1-95a53ec664ce-cenc.mpd"
+      },
+      "drm_key": "24abc4e05149ec932ec1d34b9190c8c5:47c91bdde90e098162b834c9b9f3925c"
     }
   ]
 }
