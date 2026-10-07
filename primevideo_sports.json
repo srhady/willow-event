@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "08:02 AM 07-10-2026",
+    "LastUpdate": "08:32 AM 07-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 3,
+    "LiveCount": 1,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -26,37 +26,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd"
       },
       "drm_key": "2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72"
-    },
-    {
-      "match_id": "B0HKGD521Y",
-      "title": "Graceland at Central Methodist",
-      "synopsis": "Graceland at Central Methodist",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.94af3ac9-e678-47f7-b4be-25fdbe800e38/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKGD521Y",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd"
-      },
-      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
-    },
-    {
-      "match_id": "B0HKC79MRX",
-      "title": "Oct 6 - PTT San Diego",
-      "synopsis": "Oct 6 - PTT San Diego",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cb524064-bfe6-43cc-b5af-6ec84a13121d/10/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKC79MRX",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a133live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WI-nAWpwcmltZXZpZGVvBBpq2USFBhpqxX4FA2Zha2FtYWkCeChmaWQ6MDFhMTEzNzQtNDc1NC03MGVhLWJhZGEtOTI2ODZlMTdjN2FjGQE4oQWhAngzL2lubjBmcXc0dTYvb3V0L3YxLzA4Mzc5NjYyYWQxNTQ0YTc4OTQ0MTdiMjdjZTY5ODFkGQE8gWJVU1ggcnyHao9WT2GsOOf2Jvevg6HbhXFhUGqhlmyqooQvU_c/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/inn0fqw4u6/out/v1/08379662ad1544a7894417b27ce6981d/f1ac35c3-3edf-4c47-b7e2-afa89448dd5a-cenc.mpd"
-      },
-      "drm_key": "e6d3e7267dda5acf78c8869178f855bf:7e2aac7edd70c5b7f20fbcb7350e7e8c"
     }
   ]
 }
