@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "08:32 AM 08-10-2026",
+    "LastUpdate": "09:02 AM 08-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 2,
+    "LiveCount": 1,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -26,20 +26,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd"
       },
       "drm_key": "2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72"
-    },
-    {
-      "match_id": "B0HL6DLN4S",
-      "title": "Oct 7 - UTR PTT San Diego",
-      "synopsis": "Oct 7 - UTR PTT San Diego",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5f504f0b-6e57-4f91-a1d3-4c3ef2b92d53/10/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HL6DLN4S",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABJDBDDAAAAAAAAMFNQZ5Z3WI444P.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJOnAWpwcmltZXZpZGVvBBpq2kGjBhpqxnsjA2pjbG91ZGZyb250AngoZmlkOjAxYTExNzUxLTAyNjQtNzc3Zi1iOWRmLWM2NTA5YmYwNDhmNBkBOKEFoQJ4My9neXBodWd1azE3L291dC92MS83ZjZkMTUwZGRiNmI0N2M3ODU2ODVlMGFiYmVhNjI4NBkBPIFiVVNYIGfk5hSN91g9CEdzwlyReMRKmF0CRbqYSVFulXeBh8x0/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/gyphuguk17/out/v1/7f6d150ddb6b47c785685e0abbea6284/0a099a79-7a07-401a-87b9-bf013b767749-cenc.mpd"
-      },
-      "drm_key": "a40938c361c86a39aa7d76174c6f953c:39bcf6ad825e882b92ca2cb6e6a72ef7"
     }
   ]
 }
