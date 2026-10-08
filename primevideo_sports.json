@@ -1,15 +1,32 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "10:32 PM 08-10-2026",
+    "LastUpdate": "11:02 PM 08-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 2,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HKZHK6R3",
+      "title": "SHL Hockey: Farjestad BK vs Skelleftea AIK",
+      "synopsis": "SHL Hockey: Farjestad BK vs Skelleftea AIK",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b4bb5a83-e6af-4924-9114-ac8e673bfabf/40/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKZHK6R3",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd"
+      },
+      "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
+    },
     {
       "match_id": "B0HL9NC61K",
       "title": "Oct 8 - PTT Boca Raton Men",
@@ -23,6 +40,20 @@
         "Original Server": "https://a167live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WI-nAWpwcmltZXZpZGVvBBpq21rmBhpqx5RmA2Zha2FtYWkCeChmaWQ6MDFhMTFiOWItYjA3ZC03N2I2LWJjNzQtYTg4NmZhYmY1MWZlGQE4oQWhAngzL2lkM2p3Njh0cGYvb3V0L3YxLzg4N2FkMDk3YTE5NzRiYjhiZmUwMDlkZGQ2ODFhYjE1GQE8gWJVU1ggwKEvC2mdIRowWRsZraYyr-5ATPyG1zLW8bu2iA24CRY/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/id3jw68tpf/out/v1/887ad097a1974bb8bfe009ddd681ab15/1ccdd0c7-51b5-4b6d-a5f2-a99f322a9b14-cenc.mpd"
       },
       "drm_key": "9056ef485dbc68c3487aceb9249fc365:c15e6f1a0b5a0f71530242dbae17e6f9"
+    },
+    {
+      "match_id": "B0HLSG351Q",
+      "title": "Oct 8 - UTR PTT San Diego",
+      "synopsis": "Oct 8 - UTR PTT San Diego",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a19e0268-c13b-4957-a317-216a7b751668/9/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLSG351Q",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a114live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq25MlBhpqx8ylA2Zha2FtYWkCeChmaWQ6MDFhMTFjNzctNjU3Zi03MjE2LWI4ZWUtOGFhNWRhYWQ4ZDlmGQE4oQWhAngzL3FubXhlc2kyZ3Uvb3V0L3YxL2E1Zjg1ODNhMDMyYzRhZWU4M2U1ZWM5YjZlMWYxMWI2WCA2ikzVbzInkywIldDxCCCCv0nByr8nn-TmViSmrFfffg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/qnmxesi2gu/out/v1/a5f8583a032c4aee83e5ec9b6e1f11b6/28fd326c-e6a0-459b-82b0-21945acc051b-cenc.mpd"
+      },
+      "drm_key": "a0a9721da550f6e94cca31b9a16cef2b:e98c809a7eabc2746876fdd0cf3cabd9"
     },
     {
       "match_id": "B0HL4MMD4N",
