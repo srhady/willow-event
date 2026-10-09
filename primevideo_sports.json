@@ -1,49 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "10:32 PM 09-10-2026",
+    "LastUpdate": "11:02 PM 09-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HM7GPJCC",
-      "title": "ONE Friday Fights 174",
-      "synopsis": "ONE Friday Fights 174",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b20b13fa-3883-405f-a9d5-bdd3e3c09301/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HM7GPJCC",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd"
-      },
-      "drm_key": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d"
-    },
-    {
-      "match_id": "B0HM6G2NV6",
-      "title": "Ukraine vs. Spain",
-      "synopsis": "Ukraine vs. Spain",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.01123cf8-c0b5-450d-ac85-3e99d40956cb/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HM6G2NV6",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd"
-      },
-      "drm_key": "dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b"
-    },
     {
       "match_id": "B0HKNSGQGF",
       "title": "Cricket Highlights-Pakistan vs Sri Lanka: 1st T20I",
@@ -88,6 +54,20 @@
         "Original Server": "https://a52live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq3J5WBhpqyNfWA2Zha2FtYWkCeChmaWQ6MDFhMTIwOGItMWQ3OS03M2YzLWE1YWMtNTYzYjE4NDhlZThiGQE4oQWhAngzL3ZoM3NmZWJocGovb3V0L3YxLzJjMjEyMGY4ZDIxOTQ2OWFiYmIwYmQ3Mjc5MGRmZDdmWCAjM9RTy1bKGcoqd8lYeyOhwkoM31qZVjZ_OLZuov_pOA/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/vh3sfebhpj/out/v1/2c2120f8d219469abbb0bd72790dfd7f/95a6a6c3-c6b1-414c-bb93-87b96d9333a3-cenc.mpd"
       },
       "drm_key": "9251228533e9f8cab34963e60e1c1cbd:ed9dd6cbdcc2b9294f396fc215caddba"
+    },
+    {
+      "match_id": "B0HKNT2ZF1",
+      "title": "Oct 9 - UTR PTT San Diego",
+      "synopsis": "Oct 9 - UTR PTT San Diego",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.da294793-9745-4aa4-ac21-97cde0e3e405/9/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKNT2ZF1",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq3OSiBhpqyR4iA2ZmYXN0bHkCeChmaWQ6MDFhMTIxOWQtYjVhZC03MWJkLTlhZjgtZDk5YmIxOWE2NTQ0GQE4oQWhAngzLzJrYmRudGo2ejAvb3V0L3YxLzI4MWE0ZjE5YzM0YzRmMGZiYzMwNGE1MmQ0YTIyN2ExWCCfgFTGY96fCTNm_MQgJ3LJ2DcNMMON8T2RZonmufy28Q/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/2kbdntj6z0/out/v1/281a4f19c34c4f0fbc304a52d4a227a1/d0b2a303-1ada-482d-83b8-7ffba23cbd91-cenc.mpd"
+      },
+      "drm_key": "c093d096c935f58ca2bdb359d4531f1f:088d036fa9ce7c50432777f63811b637"
     }
   ]
 }
