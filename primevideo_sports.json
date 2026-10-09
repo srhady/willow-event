@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "06:32 PM 09-10-2026",
+    "LastUpdate": "07:02 PM 09-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -10,37 +10,6 @@
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HJB83J9H",
-      "title": "Singapore: Practice 1",
-      "synopsis": "Singapore: Practice 1",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.34b44b61-f162-4a65-a8d1-fec6974aa07e/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HJB83J9H",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a195live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq3G0YBhpqyKaYA2Zha2FtYWkCeChmaWQ6MDFhMTFmY2EtYzM0OS03MmU0LWEzYTMtM2EwOGEwOTIwNWJhGQE4oQWhAngzL3F6aGZhZGNlZWEvb3V0L3YxLzhkZGE5OGMyOTkxNzQwMGVhOGE0YWEwMGRhZWQ2YjEyWCAzQ0WYI-L-GxpXmc7Br3Cu_mCU7VB1zXgQmPSqu_LIwA/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/qzhfadceea/out/v1/8dda98c29917400ea8a4aa00daed6b12/dbf3c3a5-ba03-431d-bdd4-8c45bde5661a-cenc.mpd"
-      },
-      "drm_key": "f0541c9ff4e5ecedbc7ba31e0c57764c:0b436c001e50ad3218cc5db2ab9b881b"
-    },
-    {
-      "match_id": "B0HMCLGDRM",
-      "title": "Brazil vs. Italy",
-      "synopsis": "Brazil vs. Italy",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dc4c3f8a-f50b-4f1b-8657-cfc53d62caaf/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HMCLGDRM",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd"
-      },
-      "drm_key": "dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b"
-    },
     {
       "match_id": "B0HFR7WRDV",
       "title": "The Morning Drive",
@@ -74,6 +43,37 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd"
       },
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
+    },
+    {
+      "match_id": "B0HMCLGDRM",
+      "title": "Brazil vs. Italy",
+      "synopsis": "Brazil vs. Italy",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dc4c3f8a-f50b-4f1b-8657-cfc53d62caaf/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HMCLGDRM",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd"
+      },
+      "drm_key": "dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b"
+    },
+    {
+      "match_id": "B0H6S4HLQS",
+      "title": "Oct 9 - PTT Cordoba Men",
+      "synopsis": "Oct 9 - PTT Cordoba Men",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.25add435-81a0-4d34-9dca-77b6e704456f/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H6S4HLQS",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq3KxlBhpqyOXlA2ZmYXN0bHkCeChmaWQ6MDFhMTIwYzItMGExNC03NmNmLTg0NWQtMzIxNmFiOGE0Yjg0GQE4oQWhAngzL2dzMWltcW82OWcvb3V0L3YxLzA3NzJjZTJlNjhhMTQ5Njg5NGFiYTY2ZDE3YTA5N2QzWCDU8pSg9tmFsiVQwXkfmbBH-plj4xdBznVI83bnlUXPfA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/gs1imqo69g/out/v1/0772ce2e68a1496894aba66d17a097d3/dbd4318a-df9d-4b3c-b6b5-2c0fcc73454e-cenc.mpd"
+      },
+      "drm_key": "926bd446c97210d2730698758df707c8:5a43b7977c5e322f3bd59666229fd0f7"
     },
     {
       "match_id": "B0HL6P4JYC",
