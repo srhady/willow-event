@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "08:32 PM 09-10-2026",
+    "LastUpdate": "09:02 PM 09-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -45,35 +45,21 @@
       "drm_key": "e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052"
     },
     {
-      "match_id": "B0HL6P4JYC",
-      "title": "Cricket Highlights-WCL 2026: Australia vs South Africa - 11th Match",
-      "synopsis": "Cricket Highlights-WCL 2026: Australia vs South Africa - 11th Match",
+      "match_id": "B0HM6G2NV6",
+      "title": "Ukraine vs. Spain",
+      "synopsis": "Ukraine vs. Spain",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6a285f1d-a9f7-4945-85c5-67122a2d70e2/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HL6P4JYC",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.01123cf8-c0b5-450d-ac85-3e99d40956cb/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HM6G2NV6",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd"
       },
-      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-    },
-    {
-      "match_id": "B0HLHY861Q",
-      "title": "Oct 9 - PTT Boca Raton Men",
-      "synopsis": "Oct 9 - PTT Boca Raton Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1efa4150-d3e8-4fa8-ac3a-bddc01fa8373/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLHY861Q",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a52live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq3J5WBhpqyNfWA2Zha2FtYWkCeChmaWQ6MDFhMTIwOGItMWQ3OS03M2YzLWE1YWMtNTYzYjE4NDhlZThiGQE4oQWhAngzL3ZoM3NmZWJocGovb3V0L3YxLzJjMjEyMGY4ZDIxOTQ2OWFiYmIwYmQ3Mjc5MGRmZDdmWCAjM9RTy1bKGcoqd8lYeyOhwkoM31qZVjZ_OLZuov_pOA/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/vh3sfebhpj/out/v1/2c2120f8d219469abbb0bd72790dfd7f/95a6a6c3-c6b1-414c-bb93-87b96d9333a3-cenc.mpd"
-      },
-      "drm_key": "9251228533e9f8cab34963e60e1c1cbd:ed9dd6cbdcc2b9294f396fc215caddba"
+      "drm_key": "dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b"
     },
     {
       "match_id": "B0HKNSGQGF",
@@ -91,6 +77,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
       },
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
+      "match_id": "B0HLHY861Q",
+      "title": "Oct 9 - PTT Boca Raton Men",
+      "synopsis": "Oct 9 - PTT Boca Raton Men",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1efa4150-d3e8-4fa8-ac3a-bddc01fa8373/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLHY861Q",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a52live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq3J5WBhpqyNfWA2Zha2FtYWkCeChmaWQ6MDFhMTIwOGItMWQ3OS03M2YzLWE1YWMtNTYzYjE4NDhlZThiGQE4oQWhAngzL3ZoM3NmZWJocGovb3V0L3YxLzJjMjEyMGY4ZDIxOTQ2OWFiYmIwYmQ3Mjc5MGRmZDdmWCAjM9RTy1bKGcoqd8lYeyOhwkoM31qZVjZ_OLZuov_pOA/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/vh3sfebhpj/out/v1/2c2120f8d219469abbb0bd72790dfd7f/95a6a6c3-c6b1-414c-bb93-87b96d9333a3-cenc.mpd"
+      },
+      "drm_key": "9251228533e9f8cab34963e60e1c1cbd:ed9dd6cbdcc2b9294f396fc215caddba"
     },
     {
       "match_id": "B0H6S4HLQS",
