@@ -1,15 +1,46 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "09:32 PM 10-10-2026",
+    "LastUpdate": "10:02 PM 10-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 9,
+    "LiveCount": 13,
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HMDBHZHX",
+      "title": "Bassmaster Classic-Bassmaster College Classic Cup",
+      "synopsis": "Bassmaster Classic-Bassmaster College Classic Cup",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.05e2706a-e70a-4c11-88e7-64ef15f80852/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HMDBHZHX",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qy6usrjqzw/out/v1/48d0ffdc0c354fc8bf9b565c245d0f07/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qy6usrjqzw/out/v1/48d0ffdc0c354fc8bf9b565c245d0f07/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qy6usrjqzw/out/v1/48d0ffdc0c354fc8bf9b565c245d0f07/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qy6usrjqzw/out/v1/48d0ffdc0c354fc8bf9b565c245d0f07/cenc.mpd"
+      },
+      "drm_key": "ad6e7091d1d36a16d5475bdb2d900888:8c67e6b1e4bcf1ee1f12167526ef2503"
+    },
+    {
+      "match_id": "B0HLR4DY9G",
+      "title": "Elite: Southwest Regional 2, Qualifying",
+      "synopsis": "Elite: Southwest Regional 2, Qualifying",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d5e64a87-2b88-41e6-bb55-42e203bcdb90/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLR4DY9G",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a72live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq3gvzBhpqykVzA2Zha2FtYWkCeChmaWQ6MDFhMTI2MWYtNDljYS03MTQ5LTg2NmEtMWMxOWEyNzY0MTBmGQE4oQWhAngzL3lqdG5kY3lrbHgvb3V0L3YxLzY5MjM1ZWY2NDg2YjQ4ZTBiYmVlYTAyYjIwZmFhYzNlWCC6CE8x247TIIVsuo-uqTcMQIcqiTQhSp9_kw_Gq3w4cA/PDX/f1d5711e7938446f8ba77aa4cace74fe/v1/dash/159325541587/imdb_ottera_amzn1_dv_live_csid_610ccc26-479b-4d79-8c18-5ac0e6ceff38_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/yjtndcyklx/out/v1/69235ef6486b48e0bbeea02b20faac3e/e63e9cc0-5146-48fb-a330-ccf1f6aaeac2-cenc.mpd?aws.sessionId=7f70f205-325b-4469-9237-b3d5d68f1501"
+      },
+      "drm_key": "08c7d255bdb53b54f38735c2529492f9:7eafb46d7206f2cb19ef0751e3466a5a"
+    },
     {
       "match_id": "B0HMCV15FS",
       "title": "Middlesbrough vs. Wolverhampton Wanderers",
@@ -28,18 +59,21 @@
       "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
     },
     {
-      "match_id": "B0HLR4DY9G",
-      "title": "Elite: Southwest Regional 2, Qualifying",
-      "synopsis": "Elite: Southwest Regional 2, Qualifying",
+      "match_id": "B0HK7F9H1R",
+      "title": "Ashland vs Findlay - Football",
+      "synopsis": "Ashland vs Findlay - Football",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d5e64a87-2b88-41e6-bb55-42e203bcdb90/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLR4DY9G",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.de823dc1-5147-4f18-8181-beae528807fa/43/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HK7F9H1R",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://a72live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq3gvzBhpqykVzA2Zha2FtYWkCeChmaWQ6MDFhMTI2MWYtNDljYS03MTQ5LTg2NmEtMWMxOWEyNzY0MTBmGQE4oQWhAngzL3lqdG5kY3lrbHgvb3V0L3YxLzY5MjM1ZWY2NDg2YjQ4ZTBiYmVlYTAyYjIwZmFhYzNlWCC6CE8x247TIIVsuo-uqTcMQIcqiTQhSp9_kw_Gq3w4cA/PDX/f1d5711e7938446f8ba77aa4cace74fe/v1/dash/159325541587/imdb_ottera_amzn1_dv_live_csid_610ccc26-479b-4d79-8c18-5ac0e6ceff38_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/yjtndcyklx/out/v1/69235ef6486b48e0bbeea02b20faac3e/e63e9cc0-5146-48fb-a330-ccf1f6aaeac2-cenc.mpd?aws.sessionId=7f70f205-325b-4469-9237-b3d5d68f1501"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd"
       },
-      "drm_key": "08c7d255bdb53b54f38735c2529492f9:7eafb46d7206f2cb19ef0751e3466a5a"
+      "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
     },
     {
       "match_id": "B0HLDB3QRW",
@@ -59,23 +93,6 @@
       "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
     },
     {
-      "match_id": "B0H4ZX1SX9",
-      "title": "Spain vs. Italy",
-      "synopsis": "Spain vs. Italy",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.55af9836-fb0c-4f37-8815-4f220da543d0/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H4ZX1SX9",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd"
-      },
-      "drm_key": "dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b"
-    },
-    {
       "match_id": "B0HKFX66PQ",
       "title": "First Semifinal",
       "synopsis": "First Semifinal",
@@ -91,6 +108,40 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd"
       },
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
+    },
+    {
+      "match_id": "B0H4ZX1SX9",
+      "title": "Spain vs. Italy",
+      "synopsis": "Spain vs. Italy",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.55af9836-fb0c-4f37-8815-4f220da543d0/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H4ZX1SX9",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd"
+      },
+      "drm_key": "dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b"
+    },
+    {
+      "match_id": "B0HLL57GW4",
+      "title": "Inter vs. Parma",
+      "synopsis": "Inter vs. Parma",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bae1cbb3-ad6e-409b-8291-f003777cccfc/4/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLL57GW4",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd"
+      },
+      "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
     },
     {
       "match_id": "B0HFG2VX8C",
@@ -110,6 +161,34 @@
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
+      "match_id": "B0HGLV4K14",
+      "title": "Oct 10 - UTR PTT San Diego",
+      "synopsis": "Oct 10 - UTR PTT San Diego",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d7cf10f8-a313-4712-880d-015f3108da7e/11/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HGLV4K14",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWI-nAWpwcmltZXZpZGVvBBpq3igZBhpqymGZA2ZmYXN0bHkCeChmaWQ6MDFhMTI2OGQtNDBlMS03NTc3LTgxN2MtMzI3MDhjOTBkMjI4GQE4oQWhAngzL21vdG1mcGhzZGYvb3V0L3YxLzkyZGE5MDY3MTc5MjRjM2U5ZTYzNjQxYWYwMTA0NzdhGQE8gWJVU1gg41XNPjoFytyE4-kXg1ll57uAH3D7Kw__HJpUxn8NsjM/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/motmfphsdf/out/v1/92da906717924c3e9e63641af010477a/052d418f-8d15-4c66-b74e-615312a8e6f4-cenc.mpd"
+      },
+      "drm_key": "73d720e3eb27243cc288bc78627288dc:b596875d51463fe226a6ebdfec0ab484"
+    },
+    {
+      "match_id": "B0HKFPKJX8",
+      "title": "Oct 10 - PTT Boca Raton Men",
+      "synopsis": "Oct 10 - PTT Boca Raton Men",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8efe9bbe-9e4d-4d64-9856-0f7d7b5db4fa/9/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKFPKJX8",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq3e_SBhpqyilSA2ZmYXN0bHkCeChmaWQ6MDFhMTI1YjEtNjllYy03NDIxLWI4MzAtNDVmN2I0NmYwOGYwGQE4oQWhAngzL3dlNm85N2JhcDMvb3V0L3YxLzUyN2M3NWI3MmQ1NzQ1ZjY4YjA3MzgzMmU3NzQzYmFmWCC3Uqt02Q2qGxCOiVOj9_tILHYlKvgzS2p4SQOXsTWMzw/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/we6o97bap3/out/v1/527c75b72d5745f68b073832e7743baf/475960c8-0701-4903-9e7d-f910799965ed-cenc.mpd"
+      },
+      "drm_key": "896e1a0ee12fea424424213b3d8caecf:53680f4a2b1be4e6219bb6bf0fc6a0b1"
+    },
+    {
       "match_id": "B0HLRC7LRW",
       "title": "Small School Saturday",
       "synopsis": "Small School Saturday",
@@ -125,20 +204,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd"
       },
       "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
-    },
-    {
-      "match_id": "B0HKFPKJX8",
-      "title": "Oct 10 - PTT Boca Raton Men",
-      "synopsis": "Oct 10 - PTT Boca Raton Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8efe9bbe-9e4d-4d64-9856-0f7d7b5db4fa/9/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKFPKJX8",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq3e_SBhpqyilSA2ZmYXN0bHkCeChmaWQ6MDFhMTI1YjEtNjllYy03NDIxLWI4MzAtNDVmN2I0NmYwOGYwGQE4oQWhAngzL3dlNm85N2JhcDMvb3V0L3YxLzUyN2M3NWI3MmQ1NzQ1ZjY4YjA3MzgzMmU3NzQzYmFmWCC3Uqt02Q2qGxCOiVOj9_tILHYlKvgzS2p4SQOXsTWMzw/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/we6o97bap3/out/v1/527c75b72d5745f68b073832e7743baf/475960c8-0701-4903-9e7d-f910799965ed-cenc.mpd"
-      },
-      "drm_key": "896e1a0ee12fea424424213b3d8caecf:53680f4a2b1be4e6219bb6bf0fc6a0b1"
     },
     {
       "match_id": "B0HLKWL1K7",
