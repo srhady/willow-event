@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "12:02 PM 10-10-2026",
+    "LastUpdate": "12:32 PM 10-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -10,20 +10,6 @@
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HLQ343WP",
-      "title": "Pertamina Grand Prix of Indonesia, Qualifying",
-      "synopsis": "Pertamina Grand Prix of Indonesia, Qualifying",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9097900f-5fb9-492c-8a82-491ea494e598/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLQ343WP",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-emt-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWI-nAWpwcmltZXZpZGVvBBpq3U4ZBhpqyYeZA2ZmYXN0bHkCeChmaWQ6MDFhMTIzMzktYWRmYi03MTVkLTkzNmEtNDVmMGY2ZjE2NTI4GQE4oQWhAngzL21oYWVvcWEzbjUvb3V0L3YxLzgxOTdjOGUwNTVjOTRhODY4NjIzNjUzYWM1NWMxMGJmGQE8gWJVU1ggy_djGTi_U3o7sYUUkLSw4F9OH-Z-fMCBLujpEMawoP4/CMH/c1018b7fd2574de2b5dbed71665bc922/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_cmh_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/mhaeoqa3n5/out/v1/8197c8e055c94a868623653ac55c10bf/a83d0620-1536-482d-a9e4-c41f3ff51dc4-cenc.mpd?aws.sessionId=d6f9e08e-ff4e-4fec-871f-392f24ab6e9a"
-      },
-      "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
-    },
     {
       "match_id": "B0HJZHL64B",
       "title": "1st Test: New Zealand v Australia",
@@ -57,6 +43,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd"
       },
       "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
+    },
+    {
+      "match_id": "B0HLQ343WP",
+      "title": "Pertamina Grand Prix of Indonesia, Qualifying",
+      "synopsis": "Pertamina Grand Prix of Indonesia, Qualifying",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9097900f-5fb9-492c-8a82-491ea494e598/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLQ343WP",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-emt-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWI-nAWpwcmltZXZpZGVvBBpq3U4ZBhpqyYeZA2ZmYXN0bHkCeChmaWQ6MDFhMTIzMzktYWRmYi03MTVkLTkzNmEtNDVmMGY2ZjE2NTI4GQE4oQWhAngzL21oYWVvcWEzbjUvb3V0L3YxLzgxOTdjOGUwNTVjOTRhODY4NjIzNjUzYWM1NWMxMGJmGQE8gWJVU1ggy_djGTi_U3o7sYUUkLSw4F9OH-Z-fMCBLujpEMawoP4/CMH/c1018b7fd2574de2b5dbed71665bc922/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_cmh_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/mhaeoqa3n5/out/v1/8197c8e055c94a868623653ac55c10bf/a83d0620-1536-482d-a9e4-c41f3ff51dc4-cenc.mpd?aws.sessionId=d6f9e08e-ff4e-4fec-871f-392f24ab6e9a"
+      },
+      "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
     }
   ]
 }
