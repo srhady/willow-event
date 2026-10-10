@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "08:02 PM 10-10-2026",
+    "LastUpdate": "08:32 PM 10-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 10,
+    "LiveCount": 9,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -42,23 +42,6 @@
       "drm_key": "08c7d255bdb53b54f38735c2529492f9:7eafb46d7206f2cb19ef0751e3466a5a"
     },
     {
-      "match_id": "B0HLDB3QRW",
-      "title": "Bucharest, Day 1",
-      "synopsis": "Bucharest, Day 1",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8eb61e4e-0e72-40ba-b083-bc5427b8572c/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLDB3QRW",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd"
-      },
-      "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
-    },
-    {
       "match_id": "B0HMCV15FS",
       "title": "Middlesbrough vs. Wolverhampton Wanderers",
       "synopsis": "Middlesbrough vs. Wolverhampton Wanderers",
@@ -76,6 +59,23 @@
       "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
     },
     {
+      "match_id": "B0HLDB3QRW",
+      "title": "Bucharest, Day 1",
+      "synopsis": "Bucharest, Day 1",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8eb61e4e-0e72-40ba-b083-bc5427b8572c/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLDB3QRW",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd"
+      },
+      "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
+    },
+    {
       "match_id": "B0HKFX66PQ",
       "title": "First Semifinal",
       "synopsis": "First Semifinal",
@@ -91,23 +91,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd"
       },
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
-    },
-    {
-      "match_id": "B0HM7MQF9K",
-      "title": "West Bromwich Albion vs. Birmingham City",
-      "synopsis": "West Bromwich Albion vs. Birmingham City",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4464024f-3c56-401f-ada4-83c3c500afa5/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HM7MQF9K",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd"
-      },
-      "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
     },
     {
       "match_id": "B0HLRC7LRW",
@@ -141,6 +124,20 @@
       "drm_key": "896e1a0ee12fea424424213b3d8caecf:53680f4a2b1be4e6219bb6bf0fc6a0b1"
     },
     {
+      "match_id": "B0HLKWL1K7",
+      "title": "Oct 10 - PTT Cordoba Men",
+      "synopsis": "Oct 10 - PTT Cordoba Men",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e1484577-13a0-44c7-9ed1-537db7fbdc98/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLKWL1K7",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWI-nAWpwcmltZXZpZGVvBBpq3f3jBhpqyjdjA2ZmYXN0bHkCeChmaWQ6MDFhMTI1ZTgtNWIzOS03MjA5LTg2OWQtMjVkMTYyMjc2OGQ5GQE4oQWhAngzLzFpc2J1MGd2cngvb3V0L3YxL2VlYTcwZWQ1MTc2ODQ5MTJhNzgwNDc5Y2Y3NjFmNzZhGQE8gWJVU1ggPGzZruWuF-PGMszJ81-6e6VTeZvVz0ka7ScUmK-hDuc/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/1isbu0gvrx/out/v1/eea70ed517684912a780479cf761f76a/57be6598-7596-4ef3-8177-469073c14f7d-cenc.mpd"
+      },
+      "drm_key": "e342b1fe4260632096eddb19321c0314:bde292c7f161aa53792408c592dc62cb"
+    },
+    {
       "match_id": "B0HH2T5D8Y",
       "title": "South Africa vs. Australia",
       "synopsis": "South Africa vs. Australia",
@@ -156,20 +153,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
       },
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-    },
-    {
-      "match_id": "B0HLKWL1K7",
-      "title": "Oct 10 - PTT Cordoba Men",
-      "synopsis": "Oct 10 - PTT Cordoba Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e1484577-13a0-44c7-9ed1-537db7fbdc98/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLKWL1K7",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWI-nAWpwcmltZXZpZGVvBBpq3f3jBhpqyjdjA2ZmYXN0bHkCeChmaWQ6MDFhMTI1ZTgtNWIzOS03MjA5LTg2OWQtMjVkMTYyMjc2OGQ5GQE4oQWhAngzLzFpc2J1MGd2cngvb3V0L3YxL2VlYTcwZWQ1MTc2ODQ5MTJhNzgwNDc5Y2Y3NjFmNzZhGQE8gWJVU1ggPGzZruWuF-PGMszJ81-6e6VTeZvVz0ka7ScUmK-hDuc/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/1isbu0gvrx/out/v1/eea70ed517684912a780479cf761f76a/57be6598-7596-4ef3-8177-469073c14f7d-cenc.mpd"
-      },
-      "drm_key": "e342b1fe4260632096eddb19321c0314:bde292c7f161aa53792408c592dc62cb"
     }
   ]
 }
