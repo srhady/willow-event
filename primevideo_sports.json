@@ -1,15 +1,32 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "05:32 AM 10-10-2026",
+    "LastUpdate": "06:02 AM 10-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 10,
+    "LiveCount": 13,
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HKSRNSKZ",
+      "title": "LIVE: BKFC Fight Night Bethlehem: Cisneros vs. Petersen",
+      "synopsis": "LIVE: BKFC Fight Night Bethlehem: Cisneros vs. Petersen",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2e775121-0bb3-4943-a9e8-2ef2827bdb9c/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKSRNSKZ",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lbgomzfdel/out/v1/99687c04728943498f884d9bf6a0c837/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lbgomzfdel/out/v1/99687c04728943498f884d9bf6a0c837/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lbgomzfdel/out/v1/99687c04728943498f884d9bf6a0c837/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lbgomzfdel/out/v1/99687c04728943498f884d9bf6a0c837/cenc.mpd"
+      },
+      "drm_key": "1918ddf008413696077e06138983c5f9:2d66e0d80ca9ac6ad8b8c230a97f74b4"
+    },
     {
       "match_id": "B0HLV25MX2",
       "title": "OHL Hockey: Kingston Frontenacs vs Brampton Steelheads",
@@ -45,13 +62,30 @@
       "drm_key": "2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca"
     },
     {
-      "match_id": "B0HLR99DBZ",
-      "title": "Norwich University at U.S. Coast Guard Academy",
-      "synopsis": "Norwich University at U.S. Coast Guard Academy",
+      "match_id": "B0HKSY5MR7",
+      "title": "BKFC Fight Night - Bethlehem: Cisneros vs. Petersen",
+      "synopsis": "BKFC Fight Night - Bethlehem: Cisneros vs. Petersen",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69d71237-1b4e-4085-9dbe-3d42b8d13c2b/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLR99DBZ",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.22f9b053-b615-4fc0-bff3-ddc33d1e8ff0/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKSY5MR7",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd"
+      },
+      "drm_key": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681"
+    },
+    {
+      "match_id": "B0HH8NMRGS",
+      "title": "Western Colorado University at Colorado School of Mines",
+      "synopsis": "Western Colorado University at Colorado School of Mines",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.93c3e71d-64a0-4b47-b731-a49ec9e4dc73/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HH8NMRGS",
       "is_free": false,
       "stream_url": {
         "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
@@ -77,6 +111,23 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd"
       },
       "drm_key": "2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72"
+    },
+    {
+      "match_id": "B0HLR99DBZ",
+      "title": "Norwich University at U.S. Coast Guard Academy",
+      "synopsis": "Norwich University at U.S. Coast Guard Academy",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69d71237-1b4e-4085-9dbe-3d42b8d13c2b/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLR99DBZ",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd"
+      },
+      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
     },
     {
       "match_id": "B0HLMN5JKZ",
@@ -144,20 +195,6 @@
       "drm_key": "c093d096c935f58ca2bdb359d4531f1f:088d036fa9ce7c50432777f63811b637"
     },
     {
-      "match_id": "B0HLHY861Q",
-      "title": "Oct 9 - PTT Boca Raton Men",
-      "synopsis": "Oct 9 - PTT Boca Raton Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1efa4150-d3e8-4fa8-ac3a-bddc01fa8373/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLHY861Q",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a52live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq3J5WBhpqyNfWA2Zha2FtYWkCeChmaWQ6MDFhMTIwOGItMWQ3OS03M2YzLWE1YWMtNTYzYjE4NDhlZThiGQE4oQWhAngzL3ZoM3NmZWJocGovb3V0L3YxLzJjMjEyMGY4ZDIxOTQ2OWFiYmIwYmQ3Mjc5MGRmZDdmWCAjM9RTy1bKGcoqd8lYeyOhwkoM31qZVjZ_OLZuov_pOA/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/vh3sfebhpj/out/v1/2c2120f8d219469abbb0bd72790dfd7f/95a6a6c3-c6b1-414c-bb93-87b96d9333a3-cenc.mpd"
-      },
-      "drm_key": "9251228533e9f8cab34963e60e1c1cbd:ed9dd6cbdcc2b9294f396fc215caddba"
-    },
-    {
       "match_id": "B0H6S4HLQS",
       "title": "Oct 9 - PTT Cordoba Men",
       "synopsis": "Oct 9 - PTT Cordoba Men",
@@ -170,6 +207,20 @@
         "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq3KxlBhpqyOXlA2ZmYXN0bHkCeChmaWQ6MDFhMTIwYzItMGExNC03NmNmLTg0NWQtMzIxNmFiOGE0Yjg0GQE4oQWhAngzL2dzMWltcW82OWcvb3V0L3YxLzA3NzJjZTJlNjhhMTQ5Njg5NGFiYTY2ZDE3YTA5N2QzWCDU8pSg9tmFsiVQwXkfmbBH-plj4xdBznVI83bnlUXPfA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/gs1imqo69g/out/v1/0772ce2e68a1496894aba66d17a097d3/dbd4318a-df9d-4b3c-b6b5-2c0fcc73454e-cenc.mpd"
       },
       "drm_key": "926bd446c97210d2730698758df707c8:5a43b7977c5e322f3bd59666229fd0f7"
+    },
+    {
+      "match_id": "B0HLHY861Q",
+      "title": "Oct 9 - PTT Boca Raton Men",
+      "synopsis": "Oct 9 - PTT Boca Raton Men",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1efa4150-d3e8-4fa8-ac3a-bddc01fa8373/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLHY861Q",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a52live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq3J5WBhpqyNfWA2Zha2FtYWkCeChmaWQ6MDFhMTIwOGItMWQ3OS03M2YzLWE1YWMtNTYzYjE4NDhlZThiGQE4oQWhAngzL3ZoM3NmZWJocGovb3V0L3YxLzJjMjEyMGY4ZDIxOTQ2OWFiYmIwYmQ3Mjc5MGRmZDdmWCAjM9RTy1bKGcoqd8lYeyOhwkoM31qZVjZ_OLZuov_pOA/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/vh3sfebhpj/out/v1/2c2120f8d219469abbb0bd72790dfd7f/95a6a6c3-c6b1-414c-bb93-87b96d9333a3-cenc.mpd"
+      },
+      "drm_key": "9251228533e9f8cab34963e60e1c1cbd:ed9dd6cbdcc2b9294f396fc215caddba"
     }
   ]
 }
