@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "07:02 PM 11-10-2026",
+    "LastUpdate": "07:32 PM 11-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -10,6 +10,34 @@
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HJJ5LJ24",
+      "title": "Singapore: Race (Kids)",
+      "synopsis": "Singapore: Race (Kids)",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6b8fd0fd-f860-4999-8ec0-fbb4f01b1b4f/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJJ5LJ24",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq30FZBhpqy3rZA2ZmYXN0bHkCeChmaWQ6MDFhMTJhZDctZTI0Yy03MmFiLTljY2QtMjlmN2YwNzEyNjI4GQE4oQWhAngzL25jYWx1aGJpNTUvb3V0L3YxLzkyOTk1YjFlZWE0NjQzNzBhYzQzYjU1OThkNmI0NmQxWCBUj3hbM7xZ8X3JsUigIltCbkn6BAdjy6otSmhtVBzzjA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ncaluhbi55/out/v1/92995b1eea464370ac43b5598d6b46d1/a884640e-5cda-4d90-bc9d-f7db81a5d129-cenc.mpd"
+      },
+      "drm_key": "e824fc679bd895be86f896bb8cf62cd9:87fc2caebffcb03eac60517def4936b7"
+    },
+    {
+      "match_id": "B0HLS6P8TY",
+      "title": "Elite: Southwest Regional 2, Round Robin Match Play",
+      "synopsis": "Elite: Southwest Regional 2, Round Robin Match Play",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.448a9de1-c52a-4425-9a84-520e7855d3ca/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLS6P8TY",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABBJKZFAAAAAAAAMCI6PSHDNECGUX.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq31ZtBhpqy4_tA2pjbG91ZGZyb250AngoZmlkOjAxYTEyYjJhLTM3M2UtNzU1Ny04NGRmLTcyMDQyNDA4MjY4YhkBOKEFoQJ4My94YmF6bGZsZDJrL291dC92MS82OTIzNWVmNjQ4NmI0OGUwYmJlZWEwMmIyMGZhYWMzZVggL3dTlVmvh2K6jdGiUBtuGGL4-2tepGCiNCyBvgyGgas/PDX/f1d5711e7938446f8ba77aa4cace74fe/v1/dash/159325541587/imdb_ottera_amzn1_dv_live_csid_610ccc26-479b-4d79-8c18-5ac0e6ceff38_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/xbazlfld2k/out/v1/69235ef6486b48e0bbeea02b20faac3e/459530df-6730-470b-a351-dd8d13bf0417-cenc.mpd?aws.sessionId=b8bbae1d-e4d8-422f-b963-2f78b81aabef"
+      },
+      "drm_key": "08c7d255bdb53b54f38735c2529492f9:7eafb46d7206f2cb19ef0751e3466a5a"
+    },
     {
       "match_id": "B0HLKTD92V",
       "title": "Bucharest, Final Day",
@@ -26,54 +54,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd"
       },
       "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
-    },
-    {
-      "match_id": "B0HKCKGQFR",
-      "title": "Southampton vs. Portsmouth",
-      "synopsis": "Southampton vs. Portsmouth",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.96cf536e-b067-40f1-b7a4-b929b56728f6/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKCKGQFR",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd"
-      },
-      "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
-    },
-    {
-      "match_id": "B0HJJ5LJ24",
-      "title": "Singapore: Race (Kids)",
-      "synopsis": "Singapore: Race (Kids)",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6b8fd0fd-f860-4999-8ec0-fbb4f01b1b4f/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HJJ5LJ24",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq30FZBhpqy3rZA2ZmYXN0bHkCeChmaWQ6MDFhMTJhZDctZTI0Yy03MmFiLTljY2QtMjlmN2YwNzEyNjI4GQE4oQWhAngzL25jYWx1aGJpNTUvb3V0L3YxLzkyOTk1YjFlZWE0NjQzNzBhYzQzYjU1OThkNmI0NmQxWCBUj3hbM7xZ8X3JsUigIltCbkn6BAdjy6otSmhtVBzzjA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ncaluhbi55/out/v1/92995b1eea464370ac43b5598d6b46d1/a884640e-5cda-4d90-bc9d-f7db81a5d129-cenc.mpd"
-      },
-      "drm_key": "e824fc679bd895be86f896bb8cf62cd9:87fc2caebffcb03eac60517def4936b7"
-    },
-    {
-      "match_id": "B0HK5LCFY2",
-      "title": "Italy vs. Ukraine",
-      "synopsis": "Italy vs. Ukraine",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c5c12fba-85cc-479d-863f-b961eb1a72be/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HK5LCFY2",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd"
-      },
-      "drm_key": "dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b"
     },
     {
       "match_id": "B0HKFW1NFL",
@@ -93,6 +73,23 @@
       "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
     },
     {
+      "match_id": "B0HK5LCFY2",
+      "title": "Italy vs. Ukraine",
+      "synopsis": "Italy vs. Ukraine",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c5c12fba-85cc-479d-863f-b961eb1a72be/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HK5LCFY2",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd"
+      },
+      "drm_key": "dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b"
+    },
+    {
       "match_id": "B0HKTFRDJP",
       "title": "Third Round",
       "synopsis": "Third Round",
@@ -108,20 +105,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd"
       },
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
-    },
-    {
-      "match_id": "B0HLR767BD",
-      "title": "Oct 11 - PTT Cordoba Men",
-      "synopsis": "Oct 11 - PTT Cordoba Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f151f8ac-2a49-4d96-ac9e-e9121596a61e/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLR767BD",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABBIYUFAAAAAAAAMD4C3ODAJDIW6E.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq309iBhpqy4jiA2pjbG91ZGZyb250AngoZmlkOjAxYTEyYjBlLWI1NTYtNzQ3NS1hYjc5LWE5YjE0NTZlYzRhNxkBOKEFoQJ4My9iaDZmYWp3eHZ2L291dC92MS8zYzU2MDVmZWI1NGY0OGEwOTBmMTliNjJmYjRkZjRiMVgg9lDgMfSG27UrCI2_GfsISSKa5ow8z1XahTwrIjFAB4Y/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/bh6fajwxvv/out/v1/3c5605feb54f48a090f19b62fb4df4b1/179c8ad2-33fd-45c3-8505-97861cb09afa-cenc.mpd"
-      },
-      "drm_key": "0a26c7f23f253b02cc4bb25791c2f2d0:ace16d0f43ba941750d67de5625f40d8"
     },
     {
       "match_id": "B0HJZPWX5G",
@@ -153,6 +136,20 @@
         "Original Server": "https://ABBIYUFAAAAAAAAMM5PXOGMVFKCLP.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJOnAWpwcmltZXZpZGVvBBpq309jBhpqy4jjA2pjbG91ZGZyb250AngoZmlkOjAxYTEyYjBlLWI3ZTQtNzc5Ni04ZDY1LWE2M2FkZTQ1NWUyZRkBOKEFoQJ4My9lMmE1OTR5eDVpL291dC92MS84ODMzODYzZjhmNmM0MmM2OWIxODYyNjczZmY0ODE1YxkBPIFiVVNYIDG_nQp63do8ksVzTChJkD9geJSSLKGoPb82FC3a2FCg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/e2a594yx5i/out/v1/8833863f8f6c42c69b1862673ff4815c/7987dc03-0742-4092-9ca5-ecda3bd823ad-cenc.mpd"
       },
       "drm_key": "d88d913b4f2b8fcdfa17f2e7e65f178b:ae8808a35cdfde0d5538565b97daab17"
+    },
+    {
+      "match_id": "B0HLR767BD",
+      "title": "Oct 11 - PTT Cordoba Men",
+      "synopsis": "Oct 11 - PTT Cordoba Men",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f151f8ac-2a49-4d96-ac9e-e9121596a61e/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLR767BD",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABBIYUFAAAAAAAAMD4C3ODAJDIW6E.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq309iBhpqy4jiA2pjbG91ZGZyb250AngoZmlkOjAxYTEyYjBlLWI1NTYtNzQ3NS1hYjc5LWE5YjE0NTZlYzRhNxkBOKEFoQJ4My9iaDZmYWp3eHZ2L291dC92MS8zYzU2MDVmZWI1NGY0OGEwOTBmMTliNjJmYjRkZjRiMVgg9lDgMfSG27UrCI2_GfsISSKa5ow8z1XahTwrIjFAB4Y/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/bh6fajwxvv/out/v1/3c5605feb54f48a090f19b62fb4df4b1/179c8ad2-33fd-45c3-8505-97861cb09afa-cenc.mpd"
+      },
+      "drm_key": "0a26c7f23f253b02cc4bb25791c2f2d0:ace16d0f43ba941750d67de5625f40d8"
     }
   ]
 }
