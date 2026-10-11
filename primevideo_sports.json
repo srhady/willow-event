@@ -1,15 +1,32 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "12:32 AM 12-10-2026",
+    "LastUpdate": "01:02 AM 12-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 7,
+    "LiveCount": 9,
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HLXJ5T73",
+      "title": "Cagliari vs. Juventus",
+      "synopsis": "Cagliari vs. Juventus",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.868cda19-43ea-4715-886e-7349a6c90076/4/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLXJ5T73",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd"
+      },
+      "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+    },
     {
       "match_id": "B0HLS6P8TY",
       "title": "Elite: Southwest Regional 2, Round Robin Match Play",
@@ -23,6 +40,23 @@
         "Original Server": "https://ABBJKZFAAAAAAAAMCI6PSHDNECGUX.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq31ZtBhpqy4_tA2pjbG91ZGZyb250AngoZmlkOjAxYTEyYjJhLTM3M2UtNzU1Ny04NGRmLTcyMDQyNDA4MjY4YhkBOKEFoQJ4My94YmF6bGZsZDJrL291dC92MS82OTIzNWVmNjQ4NmI0OGUwYmJlZWEwMmIyMGZhYWMzZVggL3dTlVmvh2K6jdGiUBtuGGL4-2tepGCiNCyBvgyGgas/PDX/f1d5711e7938446f8ba77aa4cace74fe/v1/dash/159325541587/imdb_ottera_amzn1_dv_live_csid_610ccc26-479b-4d79-8c18-5ac0e6ceff38_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/xbazlfld2k/out/v1/69235ef6486b48e0bbeea02b20faac3e/459530df-6730-470b-a351-dd8d13bf0417-cenc.mpd?aws.sessionId=b8bbae1d-e4d8-422f-b963-2f78b81aabef"
       },
       "drm_key": "08c7d255bdb53b54f38735c2529492f9:7eafb46d7206f2cb19ef0751e3466a5a"
+    },
+    {
+      "match_id": "B0HKG3G2R1",
+      "title": "AHA Hockey: Royal Military College vs Army",
+      "synopsis": "AHA Hockey: Royal Military College vs Army",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a809c206-961c-4d37-bdce-31bdb52cc0b0/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKG3G2R1",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd"
+      },
+      "drm_key": "b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9"
     },
     {
       "match_id": "B0HLW85TNB",
@@ -42,21 +76,21 @@
       "drm_key": "2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72"
     },
     {
-      "match_id": "B0HKG3G2R1",
-      "title": "AHA Hockey: Royal Military College vs Army",
-      "synopsis": "AHA Hockey: Royal Military College vs Army",
+      "match_id": "B0HKW3FZ4Y",
+      "title": "Utah State at Boise State",
+      "synopsis": "Utah State at Boise State",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a809c206-961c-4d37-bdce-31bdb52cc0b0/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKG3G2R1",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bd82db30-711c-4d40-8477-dd00e37785cb/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKW3FZ4Y",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd"
       },
-      "drm_key": "b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9"
+      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
     },
     {
       "match_id": "B0HKNYGTR8",
@@ -93,6 +127,20 @@
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
+      "match_id": "B0HLQSQB66",
+      "title": "Oct 11 - UTR PTT San Diego",
+      "synopsis": "Oct 11 - UTR PTT San Diego",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1d08f59e-3704-42da-864a-24fe2758736c/13/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLQSQB66",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a210live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WI-nAWpwcmltZXZpZGVvBBpq36PHBhpqy91HA2Zha2FtYWkCeChmaWQ6MDFhMTJjNTgtNWRlMy03NGJjLTg0Y2MtZjZhNDJkZTkzMTFlGQE4oQWhAngzL2tiaXVpZXZ0amMvb3V0L3YxLzkwMjc2ZDBlYzE4NTRjYmQ4NzkxY2IzOTM2OTA4MDRlGQE8gWJVU1ggeunRZ1t_YEDiDj8YEVcXMx8WClEKWxUlzldudw0XTJU/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/kbiuievtjc/out/v1/90276d0ec1854cbd8791cb393690804e/8e26d9b8-3c89-404b-a473-509c76450da5-cenc.mpd"
+      },
+      "drm_key": "f75a87468f147231ccc65c8f75093337:9ea9d2940b09dcb0ec90f380931f9f9f"
+    },
+    {
       "match_id": "B0HLR767BD",
       "title": "Oct 11 - PTT Cordoba Men",
       "synopsis": "Oct 11 - PTT Cordoba Men",
@@ -105,20 +153,6 @@
         "Original Server": "https://ABBIYUFAAAAAAAAMD4C3ODAJDIW6E.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq309iBhpqy4jiA2pjbG91ZGZyb250AngoZmlkOjAxYTEyYjBlLWI1NTYtNzQ3NS1hYjc5LWE5YjE0NTZlYzRhNxkBOKEFoQJ4My9iaDZmYWp3eHZ2L291dC92MS8zYzU2MDVmZWI1NGY0OGEwOTBmMTliNjJmYjRkZjRiMVgg9lDgMfSG27UrCI2_GfsISSKa5ow8z1XahTwrIjFAB4Y/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/bh6fajwxvv/out/v1/3c5605feb54f48a090f19b62fb4df4b1/179c8ad2-33fd-45c3-8505-97861cb09afa-cenc.mpd"
       },
       "drm_key": "0a26c7f23f253b02cc4bb25791c2f2d0:ace16d0f43ba941750d67de5625f40d8"
-    },
-    {
-      "match_id": "B0HL26RQPX",
-      "title": "Oct 11 - PTT Boca Raton Men",
-      "synopsis": "Oct 11 - PTT Boca Raton Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dad6a4c4-33ed-423e-adbc-dfb55ee55280/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HL26RQPX",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABBIYUFAAAAAAAAMM5PXOGMVFKCLP.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJOnAWpwcmltZXZpZGVvBBpq309jBhpqy4jjA2pjbG91ZGZyb250AngoZmlkOjAxYTEyYjBlLWI3ZTQtNzc5Ni04ZDY1LWE2M2FkZTQ1NWUyZRkBOKEFoQJ4My9lMmE1OTR5eDVpL291dC92MS84ODMzODYzZjhmNmM0MmM2OWIxODYyNjczZmY0ODE1YxkBPIFiVVNYIDG_nQp63do8ksVzTChJkD9geJSSLKGoPb82FC3a2FCg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/e2a594yx5i/out/v1/8833863f8f6c42c69b1862673ff4815c/7987dc03-0742-4092-9ca5-ecda3bd823ad-cenc.mpd"
-      },
-      "drm_key": "d88d913b4f2b8fcdfa17f2e7e65f178b:ae8808a35cdfde0d5538565b97daab17"
     }
   ]
 }
