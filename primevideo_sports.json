@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "07:32 PM 11-10-2026",
+    "LastUpdate": "08:02 PM 11-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -10,20 +10,6 @@
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HJJ5LJ24",
-      "title": "Singapore: Race (Kids)",
-      "synopsis": "Singapore: Race (Kids)",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6b8fd0fd-f860-4999-8ec0-fbb4f01b1b4f/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HJJ5LJ24",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq30FZBhpqy3rZA2ZmYXN0bHkCeChmaWQ6MDFhMTJhZDctZTI0Yy03MmFiLTljY2QtMjlmN2YwNzEyNjI4GQE4oQWhAngzL25jYWx1aGJpNTUvb3V0L3YxLzkyOTk1YjFlZWE0NjQzNzBhYzQzYjU1OThkNmI0NmQxWCBUj3hbM7xZ8X3JsUigIltCbkn6BAdjy6otSmhtVBzzjA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ncaluhbi55/out/v1/92995b1eea464370ac43b5598d6b46d1/a884640e-5cda-4d90-bc9d-f7db81a5d129-cenc.mpd"
-      },
-      "drm_key": "e824fc679bd895be86f896bb8cf62cd9:87fc2caebffcb03eac60517def4936b7"
-    },
     {
       "match_id": "B0HLS6P8TY",
       "title": "Elite: Southwest Regional 2, Round Robin Match Play",
@@ -71,6 +57,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd"
       },
       "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+    },
+    {
+      "match_id": "B0HJJ5LJ24",
+      "title": "Singapore: Race (Kids)",
+      "synopsis": "Singapore: Race (Kids)",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6b8fd0fd-f860-4999-8ec0-fbb4f01b1b4f/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJJ5LJ24",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq30FZBhpqy3rZA2ZmYXN0bHkCeChmaWQ6MDFhMTJhZDctZTI0Yy03MmFiLTljY2QtMjlmN2YwNzEyNjI4GQE4oQWhAngzL25jYWx1aGJpNTUvb3V0L3YxLzkyOTk1YjFlZWE0NjQzNzBhYzQzYjU1OThkNmI0NmQxWCBUj3hbM7xZ8X3JsUigIltCbkn6BAdjy6otSmhtVBzzjA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ncaluhbi55/out/v1/92995b1eea464370ac43b5598d6b46d1/a884640e-5cda-4d90-bc9d-f7db81a5d129-cenc.mpd"
+      },
+      "drm_key": "e824fc679bd895be86f896bb8cf62cd9:87fc2caebffcb03eac60517def4936b7"
     },
     {
       "match_id": "B0HK5LCFY2",
@@ -124,20 +124,6 @@
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
-      "match_id": "B0HL26RQPX",
-      "title": "Oct 11 - PTT Boca Raton Men",
-      "synopsis": "Oct 11 - PTT Boca Raton Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dad6a4c4-33ed-423e-adbc-dfb55ee55280/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HL26RQPX",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABBIYUFAAAAAAAAMM5PXOGMVFKCLP.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJOnAWpwcmltZXZpZGVvBBpq309jBhpqy4jjA2pjbG91ZGZyb250AngoZmlkOjAxYTEyYjBlLWI3ZTQtNzc5Ni04ZDY1LWE2M2FkZTQ1NWUyZRkBOKEFoQJ4My9lMmE1OTR5eDVpL291dC92MS84ODMzODYzZjhmNmM0MmM2OWIxODYyNjczZmY0ODE1YxkBPIFiVVNYIDG_nQp63do8ksVzTChJkD9geJSSLKGoPb82FC3a2FCg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/e2a594yx5i/out/v1/8833863f8f6c42c69b1862673ff4815c/7987dc03-0742-4092-9ca5-ecda3bd823ad-cenc.mpd"
-      },
-      "drm_key": "d88d913b4f2b8fcdfa17f2e7e65f178b:ae8808a35cdfde0d5538565b97daab17"
-    },
-    {
       "match_id": "B0HLR767BD",
       "title": "Oct 11 - PTT Cordoba Men",
       "synopsis": "Oct 11 - PTT Cordoba Men",
@@ -150,6 +136,20 @@
         "Original Server": "https://ABBIYUFAAAAAAAAMD4C3ODAJDIW6E.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq309iBhpqy4jiA2pjbG91ZGZyb250AngoZmlkOjAxYTEyYjBlLWI1NTYtNzQ3NS1hYjc5LWE5YjE0NTZlYzRhNxkBOKEFoQJ4My9iaDZmYWp3eHZ2L291dC92MS8zYzU2MDVmZWI1NGY0OGEwOTBmMTliNjJmYjRkZjRiMVgg9lDgMfSG27UrCI2_GfsISSKa5ow8z1XahTwrIjFAB4Y/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/bh6fajwxvv/out/v1/3c5605feb54f48a090f19b62fb4df4b1/179c8ad2-33fd-45c3-8505-97861cb09afa-cenc.mpd"
       },
       "drm_key": "0a26c7f23f253b02cc4bb25791c2f2d0:ace16d0f43ba941750d67de5625f40d8"
+    },
+    {
+      "match_id": "B0HL26RQPX",
+      "title": "Oct 11 - PTT Boca Raton Men",
+      "synopsis": "Oct 11 - PTT Boca Raton Men",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dad6a4c4-33ed-423e-adbc-dfb55ee55280/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HL26RQPX",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABBIYUFAAAAAAAAMM5PXOGMVFKCLP.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJOnAWpwcmltZXZpZGVvBBpq309jBhpqy4jjA2pjbG91ZGZyb250AngoZmlkOjAxYTEyYjBlLWI3ZTQtNzc5Ni04ZDY1LWE2M2FkZTQ1NWUyZRkBOKEFoQJ4My9lMmE1OTR5eDVpL291dC92MS84ODMzODYzZjhmNmM0MmM2OWIxODYyNjczZmY0ODE1YxkBPIFiVVNYIDG_nQp63do8ksVzTChJkD9geJSSLKGoPb82FC3a2FCg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/e2a594yx5i/out/v1/8833863f8f6c42c69b1862673ff4815c/7987dc03-0742-4092-9ca5-ecda3bd823ad-cenc.mpd"
+      },
+      "drm_key": "d88d913b4f2b8fcdfa17f2e7e65f178b:ae8808a35cdfde0d5538565b97daab17"
     }
   ]
 }
