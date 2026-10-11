@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "01:32 AM 12-10-2026",
+    "LastUpdate": "01:52 AM 12-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 7,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -59,23 +59,6 @@
       "drm_key": "2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72"
     },
     {
-      "match_id": "B0HKG3G2R1",
-      "title": "AHA Hockey: Royal Military College vs Army",
-      "synopsis": "AHA Hockey: Royal Military College vs Army",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a809c206-961c-4d37-bdce-31bdb52cc0b0/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKG3G2R1",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd"
-      },
-      "drm_key": "b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9"
-    },
-    {
       "match_id": "B0HKW3FZ4Y",
       "title": "Utah State at Boise State",
       "synopsis": "Utah State at Boise State",
@@ -93,35 +76,21 @@
       "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
     },
     {
-      "match_id": "B0HKNYGTR8",
-      "title": "William & Mary vs Stony Brook - Women's Soccer",
-      "synopsis": "William & Mary vs Stony Brook - Women's Soccer",
+      "match_id": "B0HKG3G2R1",
+      "title": "AHA Hockey: Royal Military College vs Army",
+      "synopsis": "AHA Hockey: Royal Military College vs Army",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8928f50b-c11b-4181-a1b8-3e528f4999ad/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKNYGTR8",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a809c206-961c-4d37-bdce-31bdb52cc0b0/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKG3G2R1",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd"
       },
-      "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
-    },
-    {
-      "match_id": "B0HLR767BD",
-      "title": "Oct 11 - PTT Cordoba Men",
-      "synopsis": "Oct 11 - PTT Cordoba Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f151f8ac-2a49-4d96-ac9e-e9121596a61e/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLR767BD",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABBIYUFAAAAAAAAMD4C3ODAJDIW6E.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq309iBhpqy4jiA2pjbG91ZGZyb250AngoZmlkOjAxYTEyYjBlLWI1NTYtNzQ3NS1hYjc5LWE5YjE0NTZlYzRhNxkBOKEFoQJ4My9iaDZmYWp3eHZ2L291dC92MS8zYzU2MDVmZWI1NGY0OGEwOTBmMTliNjJmYjRkZjRiMVgg9lDgMfSG27UrCI2_GfsISSKa5ow8z1XahTwrIjFAB4Y/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/bh6fajwxvv/out/v1/3c5605feb54f48a090f19b62fb4df4b1/179c8ad2-33fd-45c3-8505-97861cb09afa-cenc.mpd"
-      },
-      "drm_key": "0a26c7f23f253b02cc4bb25791c2f2d0:ace16d0f43ba941750d67de5625f40d8"
+      "drm_key": "b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9"
     },
     {
       "match_id": "B0HLQSQB66",
@@ -136,6 +105,23 @@
         "Original Server": "https://a210live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WI-nAWpwcmltZXZpZGVvBBpq36PHBhpqy91HA2Zha2FtYWkCeChmaWQ6MDFhMTJjNTgtNWRlMy03NGJjLTg0Y2MtZjZhNDJkZTkzMTFlGQE4oQWhAngzL2tiaXVpZXZ0amMvb3V0L3YxLzkwMjc2ZDBlYzE4NTRjYmQ4NzkxY2IzOTM2OTA4MDRlGQE8gWJVU1ggeunRZ1t_YEDiDj8YEVcXMx8WClEKWxUlzldudw0XTJU/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/kbiuievtjc/out/v1/90276d0ec1854cbd8791cb393690804e/8e26d9b8-3c89-404b-a473-509c76450da5-cenc.mpd"
       },
       "drm_key": "f75a87468f147231ccc65c8f75093337:9ea9d2940b09dcb0ec90f380931f9f9f"
+    },
+    {
+      "match_id": "B0HLVTS1Z7",
+      "title": "World Championship of Legends 2026 - 13th Match - India Champions vs Bangladesh Champions",
+      "synopsis": "World Championship of Legends 2026 - 13th Match - India Champions vs Bangladesh Champions",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d7edc9c9-e9a5-44ea-8be9-de746e38b0b2/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLVTS1Z7",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dcgyb7ajoh/out/v1/833fa8f3599440ab8e36ab0e86efc452/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dcgyb7ajoh/out/v1/833fa8f3599440ab8e36ab0e86efc452/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dcgyb7ajoh/out/v1/833fa8f3599440ab8e36ab0e86efc452/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dcgyb7ajoh/out/v1/833fa8f3599440ab8e36ab0e86efc452/cenc.mpd"
+      },
+      "drm_key": "12cdb08af9c2f9c7667a3c3c58ed9443:1679c9c3398400a552e34e9f5153bc78"
     }
   ]
 }
