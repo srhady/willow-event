@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "09:02 PM 12-10-2026",
+    "LastUpdate": "09:32 PM 12-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -11,38 +11,13 @@
   },
   "Matches": [
     {
-      "match_id": "B0HLG67G7Q",
-      "title": "Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh",
-      "synopsis": "Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh",
-      "status": "LIVE",
-      "time": "11:30 AM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abf514cc-bb21-4f3c-900b-065784936f1b/7/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLG67G7Q?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
-      "is_free": false,
-      "stream_url_alpha": {
-        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/61zrupwmyb/out/v1/6cc49c58f415453894718c5813bbcd89/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/61zrupwmyb/out/v1/6cc49c58f415453894718c5813bbcd89/cenc.mpd",
-        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/61zrupwmyb/out/v1/6cc49c58f415453894718c5813bbcd89/cenc.mpd",
-        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/61zrupwmyb/out/v1/6cc49c58f415453894718c5813bbcd89/cenc.mpd",
-        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/61zrupwmyb/out/v1/6cc49c58f415453894718c5813bbcd89/cenc.mpd"
-      },
-      "stream_url_bravo": {
-        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cp3g1fxief/out/v1/c24f3ab23c4442118b881700b15e2568/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cp3g1fxief/out/v1/c24f3ab23c4442118b881700b15e2568/cenc.mpd",
-        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/cp3g1fxief/out/v1/c24f3ab23c4442118b881700b15e2568/cenc.mpd",
-        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cp3g1fxief/out/v1/c24f3ab23c4442118b881700b15e2568/cenc.mpd",
-        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cp3g1fxief/out/v1/c24f3ab23c4442118b881700b15e2568/cenc.mpd"
-      },
-      "drm_key": "cc795082715e39585bb8b9913a2072db:b6a161d647a3e1319649cbae2ee256bf"
-    },
-    {
       "match_id": "B0HKFRWMBH",
       "title": "Australia tour of South Africa 2026 - 1st Test - South Africa vs Australia",
       "synopsis": "Australia tour of South Africa 2026 - 1st Test - South Africa vs Australia",
       "status": "LIVE",
       "time": "1 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d0f64737-d567-4434-8e64-4a43048ea637/9/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKFRWMBH?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKFRWMBH?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
       "is_free": false,
       "stream_url_alpha": {
         "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nud9c5syvx/out/v1/f5d58491aba84f35985919762ad77d6a/cenc.mpd",
@@ -64,10 +39,35 @@
       "match_id": "B0HLSZ4843",
       "title": "World Championship of Legends 2026 - 17th Match - Pakistan Champions vs South Africa Champions",
       "synopsis": "World Championship of Legends 2026 - 17th Match - Pakistan Champions vs South Africa Champions",
-      "status": "UPCOMING",
-      "time": "Live at 9:30 PM BDT",
+      "status": "LIVE",
+      "time": "9:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fa2e2ab4-efd7-42ef-b5e8-f4c1d8e89c70/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLSZ4843?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLSZ4843?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
+      "is_free": false,
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dsf0pim6dm/out/v1/1f453df9e4b94dd5bbfc18300ae057e6/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dsf0pim6dm/out/v1/1f453df9e4b94dd5bbfc18300ae057e6/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/dsf0pim6dm/out/v1/1f453df9e4b94dd5bbfc18300ae057e6/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dsf0pim6dm/out/v1/1f453df9e4b94dd5bbfc18300ae057e6/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dsf0pim6dm/out/v1/1f453df9e4b94dd5bbfc18300ae057e6/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lmcf4zxsje/out/v1/d59632a317704d228977a19370d8a2ae/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lmcf4zxsje/out/v1/d59632a317704d228977a19370d8a2ae/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/lmcf4zxsje/out/v1/d59632a317704d228977a19370d8a2ae/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/lmcf4zxsje/out/v1/d59632a317704d228977a19370d8a2ae/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/lmcf4zxsje/out/v1/d59632a317704d228977a19370d8a2ae/cenc.mpd"
+      },
+      "drm_key": "241f2a47c5d18b2963e965742843dbea:b342a3dc0f9048244ff2883bedbbb730"
+    },
+    {
+      "match_id": "B0HLG67G7Q",
+      "title": "Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh",
+      "synopsis": "Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh",
+      "status": "UPCOMING",
+      "time": "Tomorrow 11:30 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abf514cc-bb21-4f3c-900b-065784936f1b/7/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLG67G7Q?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
