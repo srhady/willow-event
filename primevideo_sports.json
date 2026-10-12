@@ -1,32 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "01:32 AM 13-10-2026",
+    "LastUpdate": "02:02 AM 13-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 3,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HLSZ4843",
-      "title": "World Championship of Legends 2026 - 17th Match - Pakistan Champions vs South Africa Champions",
-      "synopsis": "World Championship of Legends 2026 - 17th Match - Pakistan Champions vs South Africa Champions",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fa2e2ab4-efd7-42ef-b5e8-f4c1d8e89c70/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLSZ4843",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dsf0pim6dm/out/v1/1f453df9e4b94dd5bbfc18300ae057e6/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dsf0pim6dm/out/v1/1f453df9e4b94dd5bbfc18300ae057e6/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dsf0pim6dm/out/v1/1f453df9e4b94dd5bbfc18300ae057e6/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dsf0pim6dm/out/v1/1f453df9e4b94dd5bbfc18300ae057e6/cenc.mpd"
-      },
-      "drm_key": "241f2a47c5d18b2963e965742843dbea:b342a3dc0f9048244ff2883bedbbb730"
-    },
     {
       "match_id": "B0HLSV1BLF",
       "title": "Torino vs. Udinese",
