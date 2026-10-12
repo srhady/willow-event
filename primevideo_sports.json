@@ -1,42 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "08:02 AM 12-10-2026",
+    "LastUpdate": "08:32 AM 12-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 2,
+    "LiveCount": 0,
     "UpcomingCount": 0
   },
-  "Matches": [
-    {
-      "match_id": "B0HG44Q68S",
-      "title": "MLS Wrap-Up⁩",
-      "synopsis": "MLS Wrap-Up⁩",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.64a74304-02cb-4b6e-b1ad-404a215cb962/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HG44Q68S",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a144live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WI-nAWpwcmltZXZpZGVvBBpq3_8oBhpqzDioA2Zha2FtYWkCeChmaWQ6MDFhMTJkYmQtNTI1NS03MGNkLTkyMmItNDliMDcxYWNkZWViGQE4oQWhAngzL2xmZHFydGJucmEvb3V0L3YxL2FmNzhlZGMzYzlkMDQwYjlhMWZmNmQ2YmY3NmNjODY0GQE8gWJVU1ggYKLETQLdTN5koDns_LKcwhbIwTyD8Fu0wb_KcTPHnj4/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/lfdqrtbnra/out/v1/af78edc3c9d040b9a1ff6d6bf76cc864/da5981dd-23c2-44d1-bb9b-0f9770060685-cenc.mpd"
-      },
-      "drm_key": "1431b7e1610e1c5f7c3017898c546de2:a0e48a39c2464154efa093ba0e791272"
-    },
-    {
-      "match_id": "B0HJ6R7GPH",
-      "title": "MLS El Resumen⁩",
-      "synopsis": "MLS El Resumen⁩",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0609e95e-91b1-4563-8f7d-c6823dbd8064/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HJ6R7GPH",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq3_8pBhpqzDipA2ZmYXN0bHkCeChmaWQ6MDFhMTJkYmQtNTRkMi03MzlmLTlmZTAtZjk3MWE2YjBhNGNjGQE4oQWhAngzL3F5cThzdGpzZmUvb3V0L3YxLzliZDQzODdiNGY0YzQ3ODg5ZDk2NzRiNDAzZWZhYjM1WCA59IuzA5XFYCY1hVaXD-btF51nQ7JVZsGQOxOAmP6kGw/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/qyq8stjsfe/out/v1/9bd4387b4f4c47889d9674b403efab35/84cc78ff-6c63-41b3-85e2-d2f4d777bc38-cenc.mpd"
-      },
-      "drm_key": "0ac618fe0121769e67c03b8bec8d8815:a64caf0cc4ea76a559041886d6c8222c"
-    }
-  ]
+  "Matches": []
 }
