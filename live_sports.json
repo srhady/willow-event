@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "07:13 PM 13-10-2026",
+    "LastUpdate": "07:32 PM 13-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 3,
-    "UpcomingCount": 17
+    "LiveCount": 4,
+    "UpcomingCount": 16
   },
   "Matches": [
     {
@@ -89,13 +89,22 @@
       "match_id": "B0HL8XQ54M",
       "title": "Atlanta Open T20 2026 - 1st Match - ICR Falcons vs All Stars Cardinals",
       "synopsis": "Atlanta Open T20 2026 - 1st Match - ICR Falcons vs All Stars Cardinals",
-      "status": "UPCOMING",
-      "time": "Live at 8 PM BDT",
+      "status": "LIVE",
+      "time": "7:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b719baa2-6bec-4a46-8c30-ed697705c000/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HL8XQ54M?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yoqsehjli4/out/v1/146b94e0275e4876b160c2284c97117b/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yoqsehjli4/out/v1/146b94e0275e4876b160c2284c97117b/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/yoqsehjli4/out/v1/146b94e0275e4876b160c2284c97117b/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/yoqsehjli4/out/v1/146b94e0275e4876b160c2284c97117b/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/yoqsehjli4/out/v1/146b94e0275e4876b160c2284c97117b/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Original Server": "https://ABBIYUMAAAAAAAAMOLIYIKFVAUG2N.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq4floBhpqzjLoA2pjbG91ZGZyb250AngoZmlkOjAxYTEzNTc2LWRiYmYtNzRkNy05MWU4LWViOTRlMGE5ZjM4OBkBOKEFoQJ4My9sNGVudjc3bWpyL291dC92MS8zYTRkOGY2OWU3ZDI0NjIyOTBjN2VkZGFkZDU4MTc4OFgg3x8kFVaDDWvuZlsULuddv-S-4jtmxuEW4gh9eioPMys/CMH/569e438cbe4a49f48e187dd655f57193/v1/dash/746463508834/willowtvus_live_amzn1_dv_live_csid_b460fa7e-9594-4d78-9fed-684481eeb1d1_us-east-1_cmh_dash_h264_none_stereo/live/clients/dash/enc/l4env77mjr/out/v1/3a4d8f69e7d2462290c7eddadd581788/cenc.mpd?aws.sessionId=e35aa877-f885-449d-b6e2-fbff2b49aee5"
+      },
+      "drm_key": "8d8c7a199d1d3201edcd77ad23a56636:4ef990a3da8025ede81e8b2dbe158eee"
     },
     {
       "match_id": "B0HMP5RSYC",
