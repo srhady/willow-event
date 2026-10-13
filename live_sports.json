@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "08:02 PM 13-10-2026",
+    "LastUpdate": "08:32 PM 13-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
-    "UpcomingCount": 16
+    "LiveCount": 6,
+    "UpcomingCount": 14
   },
   "Matches": [
     {
@@ -16,7 +16,7 @@
       "synopsis": "Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh",
       "status": "LIVE",
       "time": "11:30 AM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abf514cc-bb21-4f3c-900b-065784936f1b/8/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abf514cc-bb21-4f3c-900b-065784936f1b/9/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HLG67G7Q?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
       "is_free": false,
       "stream_url_alpha": {
@@ -91,36 +91,70 @@
       "match_url": "https://www.amazon.com/gp/video/detail/B0HL8XQ54M?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
       "is_free": false,
       "stream_url_alpha": {
-        "Original Server": "https://live-emt-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq4gB5Bhpqzjn5A2ZmYXN0bHkCeChmaWQ6MDFhMTM1OTItNzc4Ny03NDllLWFkYWYtZjQwZjNkNTY4MjIwGQE4oQWhAngzL2w0ZW52NzdtanIvb3V0L3YxLzNhNGQ4ZjY5ZTdkMjQ2MjI5MGM3ZWRkYWRkNTgxNzg4WCDUgPc7DghREyWjPCpnw-hI2uzGr5ZsGBwwCvfWp-uTJA/IAD/8404d1fc43914bacaa30bf5cf4480f00/v1/dash/746463508834/willowtvus_live_amzn1_dv_live_csid_b460fa7e-9594-4d78-9fed-684481eeb1d1_us-east-1_iad_dash_h264_none_stereo/live/clients/dash/enc/l4env77mjr/out/v1/3a4d8f69e7d2462290c7eddadd581788/cenc.mpd?aws.sessionId=32a9eef9-d8c3-4b52-8ab9-877f9f30b6a1"
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yoqsehjli4/out/v1/146b94e0275e4876b160c2284c97117b/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yoqsehjli4/out/v1/146b94e0275e4876b160c2284c97117b/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/yoqsehjli4/out/v1/146b94e0275e4876b160c2284c97117b/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/yoqsehjli4/out/v1/146b94e0275e4876b160c2284c97117b/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/yoqsehjli4/out/v1/146b94e0275e4876b160c2284c97117b/cenc.mpd"
       },
       "stream_url_bravo": {
-        "Original Server": "https://ABBJKZAAAAAAAAAMOLIYIKFVAUG2N.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq4gB5Bhpqzjn5A2pjbG91ZGZyb250AngoZmlkOjAxYTEzNTkyLTc3ODctNzQ5ZS1hZGFmLWY0MGYzZDU2ODIyMBkBOKEFoQJ4My95b3FzZWhqbGk0L291dC92MS8xNDZiOTRlMDI3NWU0ODc2YjE2MGMyMjg0Yzk3MTE3YlggoFtoCnNdT6ZZ3PVloFYlN7U5iiBgN8Ob8TyT52i5Fg4/PDX/09e682cd72304a5583a25c6b77be0504/v1/dash/746463508834/willowtvus_live_amzn1_dv_live_csid_b460fa7e-9594-4d78-9fed-684481eeb1d1_us-west-2_pdx_dash_h264_none_stereo/live/clients/dash/enc/yoqsehjli4/out/v1/146b94e0275e4876b160c2284c97117b/cenc.mpd?aws.sessionId=100c60d6-92a9-42ed-9777-d871d3eb8310"
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l4env77mjr/out/v1/3a4d8f69e7d2462290c7eddadd581788/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l4env77mjr/out/v1/3a4d8f69e7d2462290c7eddadd581788/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/l4env77mjr/out/v1/3a4d8f69e7d2462290c7eddadd581788/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/l4env77mjr/out/v1/3a4d8f69e7d2462290c7eddadd581788/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/l4env77mjr/out/v1/3a4d8f69e7d2462290c7eddadd581788/cenc.mpd"
       },
-      "drm_key": ""
+      "drm_key": "8d8c7a199d1d3201edcd77ad23a56636:4ef990a3da8025ede81e8b2dbe158eee"
     },
     {
       "match_id": "B0HMP5RSYC",
       "title": "Atlanta Open T20 2026 - 2nd Match - Prime Gladiators vs Atlanta Force",
       "synopsis": "Atlanta Open T20 2026 - 2nd Match - Prime Gladiators vs Atlanta Force",
-      "status": "UPCOMING",
-      "time": "Live at 8:15 PM BDT",
+      "status": "LIVE",
+      "time": "8:15 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1aff7eec-1af3-4f98-b32d-1ae28480d28b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HMP5RSYC?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_5",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fnawicszul/out/v1/efbf92d134d94e49abb48edc39785952/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fnawicszul/out/v1/efbf92d134d94e49abb48edc39785952/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/fnawicszul/out/v1/efbf92d134d94e49abb48edc39785952/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fnawicszul/out/v1/efbf92d134d94e49abb48edc39785952/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fnawicszul/out/v1/efbf92d134d94e49abb48edc39785952/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ofeishfxub/out/v1/12bb81db86e64751b24a43009dd6acf9/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ofeishfxub/out/v1/12bb81db86e64751b24a43009dd6acf9/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ofeishfxub/out/v1/12bb81db86e64751b24a43009dd6acf9/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ofeishfxub/out/v1/12bb81db86e64751b24a43009dd6acf9/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ofeishfxub/out/v1/12bb81db86e64751b24a43009dd6acf9/cenc.mpd"
+      },
+      "drm_key": "bcf31af4fb00661a299fdd2769191c3e:27227e5d96926d6b3e6440c3b99d6ab4"
     },
     {
       "match_id": "B0HMFC2J1S",
       "title": "Atlanta Open T20 2026 - 3rd Mtach - Atlanta Lightning vs Bay Blazers",
       "synopsis": "Atlanta Open T20 2026 - 3rd Mtach - Atlanta Lightning vs Bay Blazers",
-      "status": "UPCOMING",
-      "time": "Live at 8:30 PM BDT",
+      "status": "LIVE",
+      "time": "8:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cffd1013-2f10-47e4-b5d1-1f382496ba20/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HMFC2J1S?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_6",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bafo2fufrs/out/v1/8c3c8c859fc447e1adae50eca2293775/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bafo2fufrs/out/v1/8c3c8c859fc447e1adae50eca2293775/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/bafo2fufrs/out/v1/8c3c8c859fc447e1adae50eca2293775/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bafo2fufrs/out/v1/8c3c8c859fc447e1adae50eca2293775/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bafo2fufrs/out/v1/8c3c8c859fc447e1adae50eca2293775/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ukjhcgfoce/out/v1/95586a40a17643f78db2d6a52885d7e6/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ukjhcgfoce/out/v1/95586a40a17643f78db2d6a52885d7e6/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ukjhcgfoce/out/v1/95586a40a17643f78db2d6a52885d7e6/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ukjhcgfoce/out/v1/95586a40a17643f78db2d6a52885d7e6/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ukjhcgfoce/out/v1/95586a40a17643f78db2d6a52885d7e6/cenc.mpd"
+      },
+      "drm_key": "1e52f136a486820c3bedeea6869903ab:f272649ec1b7f44198a62f01da0e38a3"
     },
     {
       "match_id": "B0HKRXBRWV",
