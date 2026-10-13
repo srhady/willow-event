@@ -1,22 +1,22 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "06:02 PM 13-10-2026",
+    "LastUpdate": "06:32 PM 13-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 7,
+    "LiveCount": 8,
     "UpcomingCount": 0
   },
   "Matches": [
     {
       "match_id": "B0HMKQCPF1",
-      "title": "Unknown Match",
-      "synopsis": "Unknown Match",
+      "title": "The Morning Drive",
+      "synopsis": "The Morning Drive",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e707c781-44aa-4dab-a90c-e6454efa5d66/2/CAROUSEL-BACKGROUND-8X3/en-US/3840x1440._UR3840,1440_SX2160_FMjpg_.jpg",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e707c781-44aa-4dab-a90c-e6454efa5d66/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HMKQCPF1",
       "is_free": false,
       "stream_url": {
@@ -26,23 +26,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd"
       },
       "drm_key": "e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052"
-    },
-    {
-      "match_id": "B0HLPY5G25",
-      "title": "England Champions vs. South Africa Champions",
-      "synopsis": "England Champions vs. South Africa Champions",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8f57bef3-940e-4d7b-b385-44f354c6f87f/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLPY5G25",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
-      },
-      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
       "match_id": "B0HK14NRTX",
@@ -62,6 +45,40 @@
       "drm_key": "f68ee17bb04e91269fe9b7aa25638467:ea4b416e8694fa1dcf92e3b4b318c7d8"
     },
     {
+      "match_id": "B0HLPY5G25",
+      "title": "England Champions vs. South Africa Champions",
+      "synopsis": "England Champions vs. South Africa Champions",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8f57bef3-940e-4d7b-b385-44f354c6f87f/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLPY5G25",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
+      },
+      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
+      "match_id": "B0HL1539PF",
+      "title": "Sri Lanka tour of Pakistan 2026 - 3rd T20I - Pakistan vs Sri Lanka",
+      "synopsis": "Sri Lanka tour of Pakistan 2026 - 3rd T20I - Pakistan vs Sri Lanka",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.51687d87-e60f-4b13-b24a-cdc87f75cd9c/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HL1539PF",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vtnaoi93r1/out/v1/d9590bf213cb4df3b5ef8ae5aaf25d0a/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vtnaoi93r1/out/v1/d9590bf213cb4df3b5ef8ae5aaf25d0a/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vtnaoi93r1/out/v1/d9590bf213cb4df3b5ef8ae5aaf25d0a/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vtnaoi93r1/out/v1/d9590bf213cb4df3b5ef8ae5aaf25d0a/cenc.mpd"
+      },
+      "drm_key": "ede638607823805e7767784e4558292b:91fccc57c058218c2a22fa21f378a1af"
+    },
+    {
       "match_id": "B0HLG67G7Q",
       "title": "Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh",
       "synopsis": "Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh",
@@ -79,23 +96,6 @@
       "drm_key": "a2214fdc084b8b63e81e8538f619028b:38623ddd2f6879754eb796e7e83778c2"
     },
     {
-      "match_id": "B0HKFRWMBH",
-      "title": "Australia tour of South Africa 2026 - 1st Test - South Africa vs Australia",
-      "synopsis": "Australia tour of South Africa 2026 - 1st Test - South Africa vs Australia",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d0f64737-d567-4434-8e64-4a43048ea637/9/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKFRWMBH",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znvp8tdked/out/v1/efa526b4c846488188d9acd6f781caa5/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znvp8tdked/out/v1/efa526b4c846488188d9acd6f781caa5/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znvp8tdked/out/v1/efa526b4c846488188d9acd6f781caa5/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znvp8tdked/out/v1/efa526b4c846488188d9acd6f781caa5/cenc.mpd"
-      },
-      "drm_key": "7578716f99caa689b9a4d2bdce753651:24d34e5d771ed71f519c8f8e971c3bd8"
-    },
-    {
       "match_id": "B0HHP8V73R",
       "title": "Early First Round",
       "synopsis": "Early First Round",
@@ -111,6 +111,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd"
       },
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
+    },
+    {
+      "match_id": "B0HL3CS7DR",
+      "title": "Oct 13 - UTR PTT Concord Men",
+      "synopsis": "Oct 13 - UTR PTT Concord Men",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.56eecd2e-bbac-4a7a-becf-da8ae6799b8a/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HL3CS7DR",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABKZSYHAAAAAAAAMKLUZABFCQSSAE.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq4etbBhpqziTbA2pjbG91ZGZyb250AngoZmlkOjAxYTEzNTNmLWY5ZjAtNzdhMi04MTE0LTI0MzNlZWY0OWNjORkBOKEFoQJ4My9wa2doYWV2dDUzL291dC92MS9iNWY5NTI5YTk0YzM0YWJhYThhNjI2M2E3ZTkzMTcyNlggI0ZBjDsA45Wel3J9mO8flI8GKzACOB-SGVXDfiPhlSU/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/pkghaevt53/out/v1/b5f9529a94c34abaa8a6263a7e931726/cfe38949-ab95-4c67-a935-be657d0c5c40-cenc.mpd"
+      },
+      "drm_key": "878f75438d3ce9d1da20974955620652:c87f258eb77bce165af96abfe24c5a51"
     },
     {
       "match_id": "B0HJHKXJH6",
