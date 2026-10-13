@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "03:02 PM 13-10-2026",
+    "LastUpdate": "03:32 PM 13-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -10,23 +10,6 @@
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HLG67G7Q",
-      "title": "Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh",
-      "synopsis": "Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abf514cc-bb21-4f3c-900b-065784936f1b/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLG67G7Q",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wvkvmlaalt/out/v1/5d0ae98a28814b1f92804c8fb583bfcc/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wvkvmlaalt/out/v1/5d0ae98a28814b1f92804c8fb583bfcc/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wvkvmlaalt/out/v1/5d0ae98a28814b1f92804c8fb583bfcc/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wvkvmlaalt/out/v1/5d0ae98a28814b1f92804c8fb583bfcc/cenc.mpd"
-      },
-      "drm_key": "a2214fdc084b8b63e81e8538f619028b:38623ddd2f6879754eb796e7e83778c2"
-    },
     {
       "match_id": "B0HKFRWMBH",
       "title": "Australia tour of South Africa 2026 - 1st Test - South Africa vs Australia",
@@ -43,6 +26,23 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znvp8tdked/out/v1/efa526b4c846488188d9acd6f781caa5/cenc.mpd"
       },
       "drm_key": "7578716f99caa689b9a4d2bdce753651:24d34e5d771ed71f519c8f8e971c3bd8"
+    },
+    {
+      "match_id": "B0HLG67G7Q",
+      "title": "Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh",
+      "synopsis": "Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abf514cc-bb21-4f3c-900b-065784936f1b/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLG67G7Q",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wvkvmlaalt/out/v1/5d0ae98a28814b1f92804c8fb583bfcc/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wvkvmlaalt/out/v1/5d0ae98a28814b1f92804c8fb583bfcc/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wvkvmlaalt/out/v1/5d0ae98a28814b1f92804c8fb583bfcc/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wvkvmlaalt/out/v1/5d0ae98a28814b1f92804c8fb583bfcc/cenc.mpd"
+      },
+      "drm_key": "a2214fdc084b8b63e81e8538f619028b:38623ddd2f6879754eb796e7e83778c2"
     },
     {
       "match_id": "B0H9P32ZB8",
