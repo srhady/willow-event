@@ -1,31 +1,31 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "08:02 PM 14-10-2026",
+    "LastUpdate": "08:32 PM 14-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 10,
     "UpcomingCount": 0
   },
   "Matches": [
     {
-      "match_id": "B0HKCPFL9G",
-      "title": "West Indies tour of India 2026 - 4th T20I - India vs West Indies",
-      "synopsis": "West Indies tour of India 2026 - 4th T20I - India vs West Indies",
+      "match_id": "B0HL9JJVTZ",
+      "title": "Wuhan-WTA - Early First Round",
+      "synopsis": "Wuhan-WTA - Early First Round",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.eb485c36-d154-4681-b87b-81f985a775b5/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKCPFL9G",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1a037ab0-426b-4c29-878d-7d3012f0fb9c/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HL9JJVTZ",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/repj13zdmh/out/v1/65b0c672947c48488934234f7a1173a0/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/repj13zdmh/out/v1/65b0c672947c48488934234f7a1173a0/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/repj13zdmh/out/v1/65b0c672947c48488934234f7a1173a0/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/repj13zdmh/out/v1/65b0c672947c48488934234f7a1173a0/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd"
       },
-      "drm_key": "a71918fcc2f12066f70b7c39b0e0dcf3:a5e35121d4f6f16694bea15334f14814"
+      "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
     },
     {
       "match_id": "B0HK18F8NM",
@@ -45,6 +45,23 @@
       "drm_key": "3641653d92b89e446fa098a00d4735dd:f8e294f57b60561ee4a6e53996813e85"
     },
     {
+      "match_id": "B0HJSZ1775",
+      "title": "The Morning Drive",
+      "synopsis": "The Morning Drive",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d00229e4-2f9b-460f-8f52-b6673b5ecc3f/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJSZ1775",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd"
+      },
+      "drm_key": "e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052"
+    },
+    {
       "match_id": "B0HK7K6D3L",
       "title": "Australia Champions vs. England Champions",
       "synopsis": "Australia Champions vs. England Champions",
@@ -60,6 +77,37 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
       },
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
+      "match_id": "B0HL22XK16",
+      "title": "Oct 14 - UTR PTT Concord Men",
+      "synopsis": "Oct 14 - UTR PTT Concord Men",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4b0cd4c2-43c0-4623-918f-c2b2f17c1ebe/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HL22XK16",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWI-nAWpwcmltZXZpZGVvBBpq4zzfBhpqz3ZfA2ZmYXN0bHkCeChmaWQ6MDFhMTNhNjYtNjY2ZS03MjQzLWJhYWEtYjliNTUyYTlhN2YwGQE4oQWhAngzL3FuazJpc3F1c24vb3V0L3YxLzlmMjg0MjI0ZmRhMzQ0MDNiNWNiZGI4NWNmMjMzMzAwGQE8gWJVU1ggfPw_bllihLTepwZ9Q-JZQb5EoQKAN60Un5xI-3FiKRY/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/qnk2isqusn/out/v1/9f284224fda34403b5cbdb85cf233300/68441bd2-2a28-41ac-ae15-af9bad31946a-cenc.mpd"
+      },
+      "drm_key": "21e8b84fb6279ecfbd2556db3540c7d9:ab7ad7131ede3b7c03770fae48fbf2e5"
+    },
+    {
+      "match_id": "B0HKCPFL9G",
+      "title": "West Indies tour of India 2026 - 4th T20I - India vs West Indies",
+      "synopsis": "West Indies tour of India 2026 - 4th T20I - India vs West Indies",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.eb485c36-d154-4681-b87b-81f985a775b5/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKCPFL9G",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/repj13zdmh/out/v1/65b0c672947c48488934234f7a1173a0/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/repj13zdmh/out/v1/65b0c672947c48488934234f7a1173a0/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/repj13zdmh/out/v1/65b0c672947c48488934234f7a1173a0/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/repj13zdmh/out/v1/65b0c672947c48488934234f7a1173a0/cenc.mpd"
+      },
+      "drm_key": "a71918fcc2f12066f70b7c39b0e0dcf3:a5e35121d4f6f16694bea15334f14814"
     },
     {
       "match_id": "B0HLGZXT5D",
@@ -79,23 +127,6 @@
       "drm_key": "596a4aab07fd2cb169508db4a2420f7e:56f74ca762666c16bc4a00734e97f061"
     },
     {
-      "match_id": "B0HJSZ1775",
-      "title": "The Morning Drive",
-      "synopsis": "The Morning Drive",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d00229e4-2f9b-460f-8f52-b6673b5ecc3f/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HJSZ1775",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd"
-      },
-      "drm_key": "e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052"
-    },
-    {
       "match_id": "B0HJLYKDRL",
       "title": "Oct 14 - UTR PTT Norman Men",
       "synopsis": "Oct 14 - UTR PTT Norman Men",
@@ -110,35 +141,38 @@
       "drm_key": "4653778ff5f8a8ff702e2a26aadc4280:1074dffa43abea2aa4303432f4306f6f"
     },
     {
-      "match_id": "B0HL9JJVTZ",
-      "title": "Wuhan-WTA - Early First Round",
-      "synopsis": "Wuhan-WTA - Early First Round",
+      "match_id": "B0HL1V8HT9",
+      "title": "Atlanta Open T20 2026 - 8th Match - Michigan Cricket Stars vs Atlanta Force",
+      "synopsis": "Atlanta Open T20 2026 - 8th Match - Michigan Cricket Stars vs Atlanta Force",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1a037ab0-426b-4c29-878d-7d3012f0fb9c/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HL9JJVTZ",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9dddbc86-1666-4db3-94be-8d6e38e73d79/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HL1V8HT9",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mtzmefdsoj/out/v1/d51892d08e494bfdade461aba734b10a/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mtzmefdsoj/out/v1/d51892d08e494bfdade461aba734b10a/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mtzmefdsoj/out/v1/d51892d08e494bfdade461aba734b10a/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mtzmefdsoj/out/v1/d51892d08e494bfdade461aba734b10a/cenc.mpd"
       },
-      "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
+      "drm_key": "b878ee6fc2b131b203b319c3b9003e13:e7b5cfbbbe1e28c75156271c08c32b55"
     },
     {
-      "match_id": "B0HL22XK16",
-      "title": "Oct 14 - UTR PTT Concord Men",
-      "synopsis": "Oct 14 - UTR PTT Concord Men",
+      "match_id": "B0HLW9WBXF",
+      "title": "Atlanta Open T20 2026 - 9th Match - Seattle Thunderbolts vs All Stars Cardinals",
+      "synopsis": "Atlanta Open T20 2026 - 9th Match - Seattle Thunderbolts vs All Stars Cardinals",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4b0cd4c2-43c0-4623-918f-c2b2f17c1ebe/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HL22XK16",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.10b013e0-e33a-40fa-be69-9e3e7654210f/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLW9WBXF",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWI-nAWpwcmltZXZpZGVvBBpq4zzfBhpqz3ZfA2ZmYXN0bHkCeChmaWQ6MDFhMTNhNjYtNjY2ZS03MjQzLWJhYWEtYjliNTUyYTlhN2YwGQE4oQWhAngzL3FuazJpc3F1c24vb3V0L3YxLzlmMjg0MjI0ZmRhMzQ0MDNiNWNiZGI4NWNmMjMzMzAwGQE8gWJVU1ggfPw_bllihLTepwZ9Q-JZQb5EoQKAN60Un5xI-3FiKRY/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/qnk2isqusn/out/v1/9f284224fda34403b5cbdb85cf233300/68441bd2-2a28-41ac-ae15-af9bad31946a-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fg7b2vnowu/out/v1/13edfa28cbb0429e83b7010a4569bb9a/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fg7b2vnowu/out/v1/13edfa28cbb0429e83b7010a4569bb9a/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/fg7b2vnowu/out/v1/13edfa28cbb0429e83b7010a4569bb9a/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/fg7b2vnowu/out/v1/13edfa28cbb0429e83b7010a4569bb9a/cenc.mpd"
       },
-      "drm_key": "21e8b84fb6279ecfbd2556db3540c7d9:ab7ad7131ede3b7c03770fae48fbf2e5"
+      "drm_key": "ff8dd2dac0dbb1929b3c9655cc594f8e:bce6a3219c3063981c3c034b88e4f883"
     }
   ]
 }
