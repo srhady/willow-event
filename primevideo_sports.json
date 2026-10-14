@@ -1,29 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "04:02 AM 15-10-2026",
+    "LastUpdate": "04:32 AM 15-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0H69GX9PR",
-      "title": "Oct 14 - UTR PTT Newport Beach",
-      "synopsis": "Oct 14 - UTR PTT Newport Beach",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.30d96e5d-428b-42a4-b3f9-7739ad8c571d/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H69GX9PR",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a182live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WI-nAWpwcmltZXZpZGVvBBpq44o4Bhpqz8O4A2Zha2FtYWkCeChmaWQ6MDFhMTNiOTQtOGExNC03NzNiLWExYTctOTZmZjhlZWM0YjNlGQE4oQWhAngzL3RkbGhvaTlrd2ovb3V0L3YxLzFkNzEyNGVmMTgxMjQ1YjM5NDY1MTFkNTJkOWY3MzZlGQE8gWJVU1ggFIA5N4STQh5wLtcs9E19d_R5sylk19aJ9TwcskjjMTE/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/tdlhoi9kwj/out/v1/1d7124ef181245b3946511d52d9f736e/f58ad9cc-1d36-4157-bf78-459267498e3e-cenc.mpd"
-      },
-      "drm_key": "f98f2fd89accf0817edcf77b4bc98bea:cd6aa9c6b9226a0a65a6531e345d4a8e"
-    },
     {
       "match_id": "B0H9B2TBS3",
       "title": "Coastal Carolina vs UNC Wilmington - Women's Volleyball",
@@ -42,6 +28,48 @@
       "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
     },
     {
+      "match_id": "B0H859RCBF",
+      "title": "MLS Countdown",
+      "synopsis": "MLS Countdown",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.62cfc3b6-ba17-4b06-a2db-a7cc14c33e54/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H859RCBF",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq48l8Bhpq0AL8A2ZmYXN0bHkCeChmaWQ6MDFhMTNjOGItYTkyMC03MDU3LTkyNmQtYjNmOGQxNjUyMWU1GQE4oQWhAngzLzczcGR1ODFtejkvb3V0L3YxLzhiMmI4MGZkMDg3ODRhMTA4MmFkMzQxMDIxMmMxNWIyWCAr41yGpzhure6z91N3-rKmQv7bH1nZafRVIOv0o-bccA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/73pdu81mz9/out/v1/8b2b80fd08784a1082ad3410212c15b2/7bc17700-3ab7-4931-a818-a7e3b87f1cf8-cenc.mpd"
+      },
+      "drm_key": "aedf84012d8961a796d6f5a772e873b2:939dbb35dcecdf5273f134a3d589723e"
+    },
+    {
+      "match_id": "B0HJBM6P9F",
+      "title": "MLS La Previa⁩",
+      "synopsis": "MLS La Previa⁩",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.beded2a8-25dd-437c-87ae-5cc72e5ff14e/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJBM6P9F",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABAJ3C2AAAAAAAAMBI7F76CBKQL2O.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJOnAWpwcmltZXZpZGVvBBpq48l9Bhpq0AL9A2pjbG91ZGZyb250AngoZmlkOjAxYTEzYzhiLWFjMzItNzc2ZS1iNmI5LTdkOTRiODQyMjhmNhkBOKEFoQJ4My9kd3BpbWsyanFlL291dC92MS9jNGViNDVhNzFjMjE0OGI0OGRjM2I2YThhZjU0NWY5ZhkBPIFiVVNYIJywQp025k9kfy6AD2blbN90NJrTBPgzbbICHYdQlV_I/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/dwpimk2jqe/out/v1/c4eb45a71c2148b48dc3b6a8af545f9f/d66cbbf7-f25b-4226-a4f0-a93007e2288f-cenc.mpd"
+      },
+      "drm_key": "e5a7afd73637667a924a200c9e16d877:b475545e99ecd1fb4a7819bd98be84a6"
+    },
+    {
+      "match_id": "B0H69GX9PR",
+      "title": "Oct 14 - UTR PTT Newport Beach",
+      "synopsis": "Oct 14 - UTR PTT Newport Beach",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.30d96e5d-428b-42a4-b3f9-7739ad8c571d/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H69GX9PR",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a182live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WI-nAWpwcmltZXZpZGVvBBpq44o4Bhpqz8O4A2Zha2FtYWkCeChmaWQ6MDFhMTNiOTQtOGExNC03NzNiLWExYTctOTZmZjhlZWM0YjNlGQE4oQWhAngzL3RkbGhvaTlrd2ovb3V0L3YxLzFkNzEyNGVmMTgxMjQ1YjM5NDY1MTFkNTJkOWY3MzZlGQE8gWJVU1ggFIA5N4STQh5wLtcs9E19d_R5sylk19aJ9TwcskjjMTE/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/tdlhoi9kwj/out/v1/1d7124ef181245b3946511d52d9f736e/f58ad9cc-1d36-4157-bf78-459267498e3e-cenc.mpd"
+      },
+      "drm_key": "f98f2fd89accf0817edcf77b4bc98bea:cd6aa9c6b9226a0a65a6531e345d4a8e"
+    },
+    {
       "match_id": "B0HJLYKDRL",
       "title": "Oct 14 - UTR PTT Norman Men",
       "synopsis": "Oct 14 - UTR PTT Norman Men",
@@ -54,20 +82,6 @@
         "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq41H5Bhpqz4t5A2ZmYXN0bHkCeChmaWQ6MDFhMTNhYjgtZDQ1MC03MjcwLTgzODYtMjI5NjM2OTlkZGI4GQE4oQWhAngzL3dzcDA0b3Q5YWQvb3V0L3YxLzQ5YWNmZjE2ODM1YTQxMzNhOGJlMWJjMTY1MDdhNDFlWCAtH2DFwJzeIZ54dV07nj6DUzKw7Fk-BFVvTKjtOhucVA/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/wsp04ot9ad/out/v1/49acff16835a4133a8be1bc16507a41e/67f7e0a9-d25f-472a-8c19-f09a85e80f06-cenc.mpd"
       },
       "drm_key": "4653778ff5f8a8ff702e2a26aadc4280:1074dffa43abea2aa4303432f4306f6f"
-    },
-    {
-      "match_id": "B0HL22XK16",
-      "title": "Oct 14 - UTR PTT Concord Men",
-      "synopsis": "Oct 14 - UTR PTT Concord Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4b0cd4c2-43c0-4623-918f-c2b2f17c1ebe/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HL22XK16",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWI-nAWpwcmltZXZpZGVvBBpq4zzfBhpqz3ZfA2ZmYXN0bHkCeChmaWQ6MDFhMTNhNjYtNjY2ZS03MjQzLWJhYWEtYjliNTUyYTlhN2YwGQE4oQWhAngzL3FuazJpc3F1c24vb3V0L3YxLzlmMjg0MjI0ZmRhMzQ0MDNiNWNiZGI4NWNmMjMzMzAwGQE8gWJVU1ggfPw_bllihLTepwZ9Q-JZQb5EoQKAN60Un5xI-3FiKRY/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/qnk2isqusn/out/v1/9f284224fda34403b5cbdb85cf233300/68441bd2-2a28-41ac-ae15-af9bad31946a-cenc.mpd"
-      },
-      "drm_key": "21e8b84fb6279ecfbd2556db3540c7d9:ab7ad7131ede3b7c03770fae48fbf2e5"
     }
   ]
 }
