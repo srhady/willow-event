@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "03:32 AM 15-10-2026",
+    "LastUpdate": "04:02 AM 15-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -11,21 +11,35 @@
   },
   "Matches": [
     {
-      "match_id": "B0HKXQYDS8",
-      "title": "Atlanta Lightning vs. RR Stars",
-      "synopsis": "Atlanta Lightning vs. RR Stars",
+      "match_id": "B0H69GX9PR",
+      "title": "Oct 14 - UTR PTT Newport Beach",
+      "synopsis": "Oct 14 - UTR PTT Newport Beach",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.662e86d3-ccbd-45b8-865a-9cfff49d4c60/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKXQYDS8",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.30d96e5d-428b-42a4-b3f9-7739ad8c571d/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H69GX9PR",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
+        "Original Server": "https://a182live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WI-nAWpwcmltZXZpZGVvBBpq44o4Bhpqz8O4A2Zha2FtYWkCeChmaWQ6MDFhMTNiOTQtOGExNC03NzNiLWExYTctOTZmZjhlZWM0YjNlGQE4oQWhAngzL3RkbGhvaTlrd2ovb3V0L3YxLzFkNzEyNGVmMTgxMjQ1YjM5NDY1MTFkNTJkOWY3MzZlGQE8gWJVU1ggFIA5N4STQh5wLtcs9E19d_R5sylk19aJ9TwcskjjMTE/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/tdlhoi9kwj/out/v1/1d7124ef181245b3946511d52d9f736e/f58ad9cc-1d36-4157-bf78-459267498e3e-cenc.mpd"
       },
-      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+      "drm_key": "f98f2fd89accf0817edcf77b4bc98bea:cd6aa9c6b9226a0a65a6531e345d4a8e"
+    },
+    {
+      "match_id": "B0H9B2TBS3",
+      "title": "Coastal Carolina vs UNC Wilmington - Women's Volleyball",
+      "synopsis": "Coastal Carolina vs UNC Wilmington - Women's Volleyball",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a1a54867-63ad-4afa-8ffe-b2fa0c2107d3/52/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H9B2TBS3",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd"
+      },
+      "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
     },
     {
       "match_id": "B0HJLYKDRL",
@@ -40,20 +54,6 @@
         "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq41H5Bhpqz4t5A2ZmYXN0bHkCeChmaWQ6MDFhMTNhYjgtZDQ1MC03MjcwLTgzODYtMjI5NjM2OTlkZGI4GQE4oQWhAngzL3dzcDA0b3Q5YWQvb3V0L3YxLzQ5YWNmZjE2ODM1YTQxMzNhOGJlMWJjMTY1MDdhNDFlWCAtH2DFwJzeIZ54dV07nj6DUzKw7Fk-BFVvTKjtOhucVA/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/wsp04ot9ad/out/v1/49acff16835a4133a8be1bc16507a41e/67f7e0a9-d25f-472a-8c19-f09a85e80f06-cenc.mpd"
       },
       "drm_key": "4653778ff5f8a8ff702e2a26aadc4280:1074dffa43abea2aa4303432f4306f6f"
-    },
-    {
-      "match_id": "B0H69GX9PR",
-      "title": "Oct 14 - UTR PTT Newport Beach",
-      "synopsis": "Oct 14 - UTR PTT Newport Beach",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.30d96e5d-428b-42a4-b3f9-7739ad8c571d/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H69GX9PR",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a182live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WI-nAWpwcmltZXZpZGVvBBpq44o4Bhpqz8O4A2Zha2FtYWkCeChmaWQ6MDFhMTNiOTQtOGExNC03NzNiLWExYTctOTZmZjhlZWM0YjNlGQE4oQWhAngzL3RkbGhvaTlrd2ovb3V0L3YxLzFkNzEyNGVmMTgxMjQ1YjM5NDY1MTFkNTJkOWY3MzZlGQE8gWJVU1ggFIA5N4STQh5wLtcs9E19d_R5sylk19aJ9TwcskjjMTE/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/tdlhoi9kwj/out/v1/1d7124ef181245b3946511d52d9f736e/f58ad9cc-1d36-4157-bf78-459267498e3e-cenc.mpd"
-      },
-      "drm_key": "f98f2fd89accf0817edcf77b4bc98bea:cd6aa9c6b9226a0a65a6531e345d4a8e"
     },
     {
       "match_id": "B0HL22XK16",
