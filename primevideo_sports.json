@@ -1,53 +1,22 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "08:02 AM 14-10-2026",
+    "LastUpdate": "08:32 AM 14-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 3,
+    "LiveCount": 1,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HKT3D3VL",
-      "title": "Black Hills State University at Chadron State College",
-      "synopsis": "Black Hills State University at Chadron State College",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.05cbb090-f763-4be8-ae06-0123bd175256/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKT3D3VL",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd"
-      },
-      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
-    },
-    {
-      "match_id": "B0HLXVTJ7M",
-      "title": "Oct 13 - UTR PTT Norman Men",
-      "synopsis": "Oct 13 - UTR PTT Norman Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b8928529-da70-45a0-a1ec-630ab7210910/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLXVTJ7M",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABKZVRPAAAAAAAAMLH2WDWQHVRRPE.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJOnAWpwcmltZXZpZGVvBBpq4j_BBhpqznlBA2pjbG91ZGZyb250AngoZmlkOjAxYTEzNjg5LWE2NGEtNzE1Ny04ZGNkLTgzZmI2YzFkZjQyYxkBOKEFoQJ4My94b3kxeDB1Z3ZmL291dC92MS84NWJmNWU1MTA5ODA0YjBhYmEzZGY4YjE3NmVjMzVhYRkBPIFiVVNYINzb6c6XfyNt-N7mTuNpCb7qSU_CjE1j2r2YRGqEr_am/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/xoy1x0ugvf/out/v1/85bf5e5109804b0aba3df8b176ec35aa/bb679a69-6eb5-40c7-9ac1-6caada6efa39-cenc.mpd"
-      },
-      "drm_key": "c50fab84650c77baa1a548dcc7703833:dfa7e88886b1bd9693e13c1226ec5a8c"
-    },
     {
       "match_id": "B0HL2P8HWH",
       "title": "Oct 13 - UTR PTT Newport Beach",
       "synopsis": "Oct 13 - UTR PTT Newport Beach",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.82b9d254-c4fe-4eab-9b91-545d12445d80/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.82b9d254-c4fe-4eab-9b91-545d12445d80/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HL2P8HWH",
       "is_free": false,
       "stream_url": {
