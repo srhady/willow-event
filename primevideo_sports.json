@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "03:02 AM 16-10-2026",
+    "LastUpdate": "03:32 AM 16-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -10,23 +10,6 @@
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HMX3DTYX",
-      "title": "Atlanta Force vs. Space City Cowboys",
-      "synopsis": "Atlanta Force vs. Space City Cowboys",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e31dcde5-1be3-4a59-b780-6fdf3dc2bac6/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HMX3DTYX",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
-      },
-      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-    },
     {
       "match_id": "B0H94RC4Y4",
       "title": "PPA Tour: Virginia Beach Open-Round of 16",
@@ -45,18 +28,21 @@
       "drm_key": "2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72"
     },
     {
-      "match_id": "B0HM75NJVD",
-      "title": "Oct 15 - UTR PTT Norman Men",
-      "synopsis": "Oct 15 - UTR PTT Norman Men",
+      "match_id": "B0HMX3DTYX",
+      "title": "Atlanta Force vs. Space City Cowboys",
+      "synopsis": "Atlanta Force vs. Space City Cowboys",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.58e7e959-4f96-405e-9694-116b40d90792/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HM75NJVD",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e31dcde5-1be3-4a59-b780-6fdf3dc2bac6/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HMX3DTYX",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://a68live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq5OK_Bhpq0Rw_A2Zha2FtYWkCeChmaWQ6MDFhMTQwZDYtNTYyMy03NGQ5LWFmNGEtZmVlYmViZTVhZWE1GQE4oQWhAngzL2xoenRta3hpYWYvb3V0L3YxL2M4NjZhYmE1YzVmZjQ0ODU4OTJmZDU1ZjNmNTg3ZTE3WCAPfj0LIU_mZPgHoao4TCe_DVCgzbuq5iLZxQk3oY9BlA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/lhztmkxiaf/out/v1/c866aba5c5ff4485892fd55f3f587e17/9f2c55e9-dc50-456a-bb63-207e972672e4-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
       },
-      "drm_key": "3bd2ff3cc69b474a92e4fc11f57d3d8e:e0aef508cc5168519192faa53b7db079"
+      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
       "match_id": "B0HLWNMQ8Y",
@@ -71,6 +57,20 @@
         "Original Server": "https://a88live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WI-nAWpwcmltZXZpZGVvBBpq5Nu8Bhpq0RU8A2Zha2FtYWkCeChmaWQ6MDFhMTQwYmEtZjJkOS03Mjg3LWE4YmMtY2Y5MzAwZjExNGI3GQE4oQWhAngzL3kwcGZiZzVxNjMvb3V0L3YxLzQ1MzdlNGI2ZWQ1YzQwNmM4OWE4YTRhMDE3NTY5OWM1GQE8gWJVU1ggGOGzmhdtNnYtrIz-j-oDgm9dYNZZPOqZXXTG4Lo_Adw/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/y0pfbg5q63/out/v1/4537e4b6ed5c406c89a8a4a0175699c5/7809ec9a-6c0c-4eb4-add3-5236c2483a79-cenc.mpd"
       },
       "drm_key": "8ae193e649334fc5deed4133290d09e3:53db7e9ab048c5806cde41637a1fbfd7"
+    },
+    {
+      "match_id": "B0HM75NJVD",
+      "title": "Oct 15 - UTR PTT Norman Men",
+      "synopsis": "Oct 15 - UTR PTT Norman Men",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.58e7e959-4f96-405e-9694-116b40d90792/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HM75NJVD",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a68live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq5OK_Bhpq0Rw_A2Zha2FtYWkCeChmaWQ6MDFhMTQwZDYtNTYyMy03NGQ5LWFmNGEtZmVlYmViZTVhZWE1GQE4oQWhAngzL2xoenRta3hpYWYvb3V0L3YxL2M4NjZhYmE1YzVmZjQ0ODU4OTJmZDU1ZjNmNTg3ZTE3WCAPfj0LIU_mZPgHoao4TCe_DVCgzbuq5iLZxQk3oY9BlA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/lhztmkxiaf/out/v1/c866aba5c5ff4485892fd55f3f587e17/9f2c55e9-dc50-456a-bb63-207e972672e4-cenc.mpd"
+      },
+      "drm_key": "3bd2ff3cc69b474a92e4fc11f57d3d8e:e0aef508cc5168519192faa53b7db079"
     },
     {
       "match_id": "B0HL2YFCQ1",
