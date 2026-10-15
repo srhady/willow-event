@@ -1,23 +1,23 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "11:32 PM 15-10-2026",
+    "LastUpdate": "12:02 AM 16-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
     {
-      "match_id": "B0HMKKD99P",
-      "title": "Michigan Cricket Stars vs. Prime Gladiators",
-      "synopsis": "Michigan Cricket Stars vs. Prime Gladiators",
+      "match_id": "B0HMX3DTYX",
+      "title": "Atlanta Force vs. Space City Cowboys",
+      "synopsis": "Atlanta Force vs. Space City Cowboys",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.00a56287-b1a8-4bc4-99bb-5b24f88d30ce/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HMKKD99P",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e31dcde5-1be3-4a59-b780-6fdf3dc2bac6/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HMX3DTYX",
       "is_free": false,
       "stream_url": {
         "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
@@ -60,6 +60,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd"
       },
       "drm_key": "dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b"
+    },
+    {
+      "match_id": "B0HLWNMQ8Y",
+      "title": "Oct 15 - UTR PTT Newport Beach",
+      "synopsis": "Oct 15 - UTR PTT Newport Beach",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b66f49fa-0f8e-41fc-9124-885fc939fc77/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLWNMQ8Y",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a88live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WI-nAWpwcmltZXZpZGVvBBpq5Nu8Bhpq0RU8A2Zha2FtYWkCeChmaWQ6MDFhMTQwYmEtZjJkOS03Mjg3LWE4YmMtY2Y5MzAwZjExNGI3GQE4oQWhAngzL3kwcGZiZzVxNjMvb3V0L3YxLzQ1MzdlNGI2ZWQ1YzQwNmM4OWE4YTRhMDE3NTY5OWM1GQE8gWJVU1ggGOGzmhdtNnYtrIz-j-oDgm9dYNZZPOqZXXTG4Lo_Adw/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/y0pfbg5q63/out/v1/4537e4b6ed5c406c89a8a4a0175699c5/7809ec9a-6c0c-4eb4-add3-5236c2483a79-cenc.mpd"
+      },
+      "drm_key": "8ae193e649334fc5deed4133290d09e3:53db7e9ab048c5806cde41637a1fbfd7"
     },
     {
       "match_id": "B0HL2YFCQ1",
