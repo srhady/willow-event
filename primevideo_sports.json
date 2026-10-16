@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "05:32 AM 16-10-2026",
+    "LastUpdate": "06:02 AM 16-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -23,6 +23,23 @@
         "Original Server": "https://a114live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq5SkOBhpq0WKOA2Zha2FtYWkCeChmaWQ6MDFhMTQxZTgtZmMyYi03Nzg3LTgyODYtNDY3NWY3YjllOWFlGQE4oQWhAngzL3NxeGx5d2RkcXYvb3V0L3YxL2YwMjcxNjQ3ODYyYjQ5ZjM4YmRkMjUyNTgzYTgyYTZmWCCwMcGZucNfktUn0ofkC6RGq88yEC-86UZ3H6NOURlWGw/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/sqxlywddqv/out/v1/f0271647862b49f38bdd252583a82a6f/7713fdf9-e3c5-4545-b23d-afc7b2ea40a1-cenc.mpd"
       },
       "drm_key": "ba90fb46fd87ce7dffc899445711637f:0042223737595d060a2663a547f12d8f"
+    },
+    {
+      "match_id": "B0HKTNMMLW",
+      "title": "Washington State at Boise State",
+      "synopsis": "Washington State at Boise State",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5e563066-bfac-4eac-a43b-0b776b5b9c92/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKTNMMLW",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd"
+      },
+      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
     },
     {
       "match_id": "B0HL67YQS9",
