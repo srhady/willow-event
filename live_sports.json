@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "09:02 PM 16-10-2026",
+    "LastUpdate": "09:32 PM 16-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 2,
-    "UpcomingCount": 15
+    "LiveCount": 3,
+    "UpcomingCount": 14
   },
   "Matches": [
     {
@@ -64,13 +64,26 @@
       "match_id": "B0HMJGLWX8",
       "title": "World Championship of Legends 2026 - 2nd Semi-Final - Australia Champions vs West Indies Champions",
       "synopsis": "World Championship of Legends 2026 - 2nd Semi-Final - Australia Champions vs West Indies Champions",
-      "status": "UPCOMING",
-      "time": "Live at 9:30 PM BDT",
+      "status": "LIVE",
+      "time": "9:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b1c237f9-9368-4429-b2e7-6f8e767f4ae5/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HMJGLWX8?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/erfohta9mo/out/v1/37c9d4426c814b168257fc9b34551119/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/erfohta9mo/out/v1/37c9d4426c814b168257fc9b34551119/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/erfohta9mo/out/v1/37c9d4426c814b168257fc9b34551119/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/erfohta9mo/out/v1/37c9d4426c814b168257fc9b34551119/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/erfohta9mo/out/v1/37c9d4426c814b168257fc9b34551119/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r9zqoeuhep/out/v1/89e5e23c78024726b5e755dc3189ca5b/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r9zqoeuhep/out/v1/89e5e23c78024726b5e755dc3189ca5b/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/r9zqoeuhep/out/v1/89e5e23c78024726b5e755dc3189ca5b/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/r9zqoeuhep/out/v1/89e5e23c78024726b5e755dc3189ca5b/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/r9zqoeuhep/out/v1/89e5e23c78024726b5e755dc3189ca5b/cenc.mpd"
+      },
+      "drm_key": "5a0e73fa4a0c0573476bf83d0e677b37:dcddd039f451b85d8463a35624e42aaf"
     },
     {
       "match_id": "B0HF49JPT3",
