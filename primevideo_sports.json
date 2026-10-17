@@ -1,29 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "08:02 AM 17-10-2026",
+    "LastUpdate": "08:32 AM 17-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 13,
+    "LiveCount": 12,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HLR8LWYR",
-      "title": "Timberwolves vs. Bulls",
-      "synopsis": "Timberwolves vs. Bulls",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.afbe0d93-5906-4234-81b4-33edd5166fdf/3/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/channel-id/amzn1-dv-channel-7a36cb2b-40e6-40c7-809f-a6cf9b9f0859/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvf4a9d72da21224c6c99be3e99793d2f3_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLR8LWYR",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq5oGVBhpq0rsVA2ZmYXN0bHkCeChmaWQ6MDFhMTQ3MmEtY2FhNS03MDRlLTgwZTQtOWJiMzY3NmJlMDMwGQE4oQWhAngzL2R1YzA4ZmV3c3ovb3V0L3YxLzQ0ZTQ3YmU5NmVhMzQ4MGI4ZDM4MWM3NGJhYTEwNDEyWCA5SYB68a6NJ5YDaAAQM0J3kWuAQ6CiKWsTC5PtjLAblg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/duc08fewsz/out/v1/44e47be96ea3480b8d381c74baa10412/7a333f5b-0978-4782-9755-29474106f4a6-cenc.mpd"
-      },
-      "drm_key": "20f066d20239ee0c147d4f14e76a6268:3d39c196f90f58a2119af9b90944ee45"
-    },
     {
       "match_id": "B0HJR1H75V",
       "title": "Trail Blazers vs. Warriors",
@@ -37,48 +23,6 @@
         "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq5p2wBhpq0tcwA2ZmYXN0bHkCeChmaWQ6MDFhMTQ3OTgtOTQ5Mi03NjkxLWIxY2YtMjQ5ZTlhYTNjNzZmGQE4oQWhAngzL3U1N3Y5dXRiMXcvb3V0L3YxL2M4ZTdlOGM3YWEzZDRmODFiYzZlMDI5MGFlOWRjYTljWCCHoEb460i9_H8L3pcGUocI8GJ00qi96oOUuR7qDC7zMg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/u57v9utb1w/out/v1/c8e7e8c7aa3d4f81bc6e0290ae9dca9c/6000dde6-dc29-4b19-94f9-d1150d3f83de-cenc.mpd"
       },
       "drm_key": "9ba06bd7f943f0fcb16a7458c5294481:1fdeba3a802c22f7eff6d03592ba90d8"
-    },
-    {
-      "match_id": "B0HF7R6TTK",
-      "title": "Wizards vs. Pelicans",
-      "synopsis": "Wizards vs. Pelicans",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ef867477-857d-49a1-a14d-67aa8862f943/3/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/channel-id/amzn1-dv-channel-7a36cb2b-40e6-40c7-809f-a6cf9b9f0859/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvf4a9d72da21224c6c99be3e99793d2f3_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HF7R6TTK",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABIAVJNAAAAAAAAMJUIR4RCMSFT5I.ta.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJOnAWpwcmltZXZpZGVvBBpq5oGUBhpq0rsUA2pjbG91ZGZyb250AngoZmlkOjAxYTE0NzJhLWM2YjMtNzI0Yy05YjU2LWY5Njc1ZjE2YWY3ZRkBOKEFoQJ4My81emVoYWNxeG9yL291dC92MS9hMGY5NDhiMmQ0ODM0MjcxYWJiYWJhYmNkMzU5MjMwNhkBPIFiVVNYIIgKl053fs3Lej38jnPGXxPfx3IoX6hze25UlmexCWqo/PDX/b6982ed9323e4a5db27c3ca7b3c6064a/v1/dash/586794481471/nbaleaguepass_amzn1_dv_live_csid_e6681353-0235-4a87-a6b4-93099510b55c_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/5zehacqxor/out/v1/a0f948b2d4834271abbababcd3592306/5a2f832f-797e-489b-afa3-3e343605c6ed-cenc.mpd?aws.sessionId=ef82a744-125f-4b6c-b209-3ee0e053d5be"
-      },
-      "drm_key": "98f4757423af87a8f2c9d41f0478494f:35d17bfd19379b046d0e25af35bc0cf0"
-    },
-    {
-      "match_id": "B0HHWVQTJG",
-      "title": "Kings vs. Spurs",
-      "synopsis": "Kings vs. Spurs",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9ba3e387-06ba-48c5-b87b-c444eb0a841b/3/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/channel-id/amzn1-dv-channel-7a36cb2b-40e6-40c7-809f-a6cf9b9f0859/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvf4a9d72da21224c6c99be3e99793d2f3_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HHWVQTJG",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABIAVJNAAAAAAAAMI4TXHKCUP5OQC.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJOnAWpwcmltZXZpZGVvBBpq5oGZBhpq0rsZA2pjbG91ZGZyb250AngoZmlkOjAxYTE0NzJhLWRjZDEtNzIwNS1iNjFmLTFhNmIzMGNkNDRjMxkBOKEFoQJ4My9nZHV5MjFnMHliL291dC92MS8wZWY0MDdiYTY1OTQ0ZTZiYWY1YmFkZDBhYmNhOGMwMxkBPIFiVVNYINt69yQZUCp-ZCUgPyPn4ELrfklkm-8dFLt_toR0cQhK/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/gduy21g0yb/out/v1/0ef407ba65944e6baf5badd0abca8c03/fe3b68ff-2555-4730-95c2-8b99706a0c40-cenc.mpd"
-      },
-      "drm_key": "f98f6453282b81f69505290283e3c8c8:3207cbc75404973aaf5fc0f80048a9d6"
-    },
-    {
-      "match_id": "B0HJMD535G",
-      "title": "Hawks vs. Mavericks",
-      "synopsis": "Hawks vs. Mavericks",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.18577d74-d279-4943-b413-3cb2e452a0a3/2/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/channel-id/amzn1-dv-channel-7a36cb2b-40e6-40c7-809f-a6cf9b9f0859/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvf4a9d72da21224c6c99be3e99793d2f3_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HJMD535G",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq5oGZBhpq0rsZA2ZmYXN0bHkCeChmaWQ6MDFhMTQ3MmEtZDk5Mi03M2FjLTkxNDEtZjE0NzRkZWQ2OGFhGQE4oQWhAngzL29wZXdoMDdramgvb3V0L3YxLzU3NDMyY2IxNDM1YTRkNWNhZTAzYzA1MTA3NjY3YTUzWCB4wFwkPFStysxXA2TIfBFW34M_ZC2KuF4OtV5C3RLiMg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/opewh07kjh/out/v1/57432cb1435a4d5cae03c05107667a53/e0db3915-88d4-4d0b-b6e3-f9803f37e4ca-cenc.mpd"
-      },
-      "drm_key": "357ae437d737dfc9389fa5d887e9bffd:40865bcd5dbb690e255d862d8fb45580"
     },
     {
       "match_id": "B0HGY682GV",
@@ -95,18 +39,32 @@
       "drm_key": "326923cf64f1ec3ecaa16f8c1bcf1743:1e2d96422290eb9c2386577f05f6c845"
     },
     {
-      "match_id": "B0HJ82CGCH",
-      "title": "Hornets vs. Grizzlies",
-      "synopsis": "Hornets vs. Grizzlies",
+      "match_id": "B0HLR8LWYR",
+      "title": "Timberwolves vs. Bulls",
+      "synopsis": "Timberwolves vs. Bulls",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ad38f6dd-5ad5-4db9-86c4-0af37c54b932/2/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/channel-id/amzn1-dv-channel-7a36cb2b-40e6-40c7-809f-a6cf9b9f0859/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvf4a9d72da21224c6c99be3e99793d2f3_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HJ82CGCH",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.afbe0d93-5906-4234-81b4-33edd5166fdf/3/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/channel-id/amzn1-dv-channel-7a36cb2b-40e6-40c7-809f-a6cf9b9f0859/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvf4a9d72da21224c6c99be3e99793d2f3_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLR8LWYR",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://ABIAVJNAAAAAAAAMEAI2UGGZ7AAYK.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJOnAWpwcmltZXZpZGVvBBpq5oGbBhpq0rsbA2pjbG91ZGZyb250AngoZmlkOjAxYTE0NzJhLWUzNmItNzA0Mi1iNTRkLTA2M2RhODFjZjIxYRkBOKEFoQJ4My91eHdvcGw5cGF5L291dC92MS8wMTNkYWY1OGM3NmU0YjMzYTRiZmVhM2Q1ZGEzNzdmZBkBPIFiVVNYIEj5a3GrwI5l0b0AcQD2quFDtJqVi0MpgM4o9CrInGrE/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/uxwopl9pay/out/v1/013daf58c76e4b33a4bfea3d5da377fd/23a1cf05-01f9-48ac-a7c6-17f96d435562-cenc.mpd"
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq5oGVBhpq0rsVA2ZmYXN0bHkCeChmaWQ6MDFhMTQ3MmEtY2FhNS03MDRlLTgwZTQtOWJiMzY3NmJlMDMwGQE4oQWhAngzL2R1YzA4ZmV3c3ovb3V0L3YxLzQ0ZTQ3YmU5NmVhMzQ4MGI4ZDM4MWM3NGJhYTEwNDEyWCA5SYB68a6NJ5YDaAAQM0J3kWuAQ6CiKWsTC5PtjLAblg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/duc08fewsz/out/v1/44e47be96ea3480b8d381c74baa10412/7a333f5b-0978-4782-9755-29474106f4a6-cenc.mpd"
       },
-      "drm_key": "e0a55d2a95478c4b9693070d985c5648:7c84d1e90cf27669b546829670574929"
+      "drm_key": "20f066d20239ee0c147d4f14e76a6268:3d39c196f90f58a2119af9b90944ee45"
+    },
+    {
+      "match_id": "B0HF7R6TTK",
+      "title": "Wizards vs. Pelicans",
+      "synopsis": "Wizards vs. Pelicans",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ef867477-857d-49a1-a14d-67aa8862f943/3/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/channel-id/amzn1-dv-channel-7a36cb2b-40e6-40c7-809f-a6cf9b9f0859/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvf4a9d72da21224c6c99be3e99793d2f3_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HF7R6TTK",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABIAVJNAAAAAAAAMJUIR4RCMSFT5I.ta.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJOnAWpwcmltZXZpZGVvBBpq5oGUBhpq0rsUA2pjbG91ZGZyb250AngoZmlkOjAxYTE0NzJhLWM2YjMtNzI0Yy05YjU2LWY5Njc1ZjE2YWY3ZRkBOKEFoQJ4My81emVoYWNxeG9yL291dC92MS9hMGY5NDhiMmQ0ODM0MjcxYWJiYWJhYmNkMzU5MjMwNhkBPIFiVVNYIIgKl053fs3Lej38jnPGXxPfx3IoX6hze25UlmexCWqo/PDX/b6982ed9323e4a5db27c3ca7b3c6064a/v1/dash/586794481471/nbaleaguepass_amzn1_dv_live_csid_e6681353-0235-4a87-a6b4-93099510b55c_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/5zehacqxor/out/v1/a0f948b2d4834271abbababcd3592306/5a2f832f-797e-489b-afa3-3e343605c6ed-cenc.mpd?aws.sessionId=ef82a744-125f-4b6c-b209-3ee0e053d5be"
+      },
+      "drm_key": "98f4757423af87a8f2c9d41f0478494f:35d17bfd19379b046d0e25af35bc0cf0"
     },
     {
       "match_id": "B0HMKWW9LN",
@@ -126,6 +84,34 @@
       "drm_key": "1918ddf008413696077e06138983c5f9:2d66e0d80ca9ac6ad8b8c230a97f74b4"
     },
     {
+      "match_id": "B0HJMD535G",
+      "title": "Hawks vs. Mavericks",
+      "synopsis": "Hawks vs. Mavericks",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.18577d74-d279-4943-b413-3cb2e452a0a3/2/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/channel-id/amzn1-dv-channel-7a36cb2b-40e6-40c7-809f-a6cf9b9f0859/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvf4a9d72da21224c6c99be3e99793d2f3_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJMD535G",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq5oGZBhpq0rsZA2ZmYXN0bHkCeChmaWQ6MDFhMTQ3MmEtZDk5Mi03M2FjLTkxNDEtZjE0NzRkZWQ2OGFhGQE4oQWhAngzL29wZXdoMDdramgvb3V0L3YxLzU3NDMyY2IxNDM1YTRkNWNhZTAzYzA1MTA3NjY3YTUzWCB4wFwkPFStysxXA2TIfBFW34M_ZC2KuF4OtV5C3RLiMg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/opewh07kjh/out/v1/57432cb1435a4d5cae03c05107667a53/e0db3915-88d4-4d0b-b6e3-f9803f37e4ca-cenc.mpd"
+      },
+      "drm_key": "357ae437d737dfc9389fa5d887e9bffd:40865bcd5dbb690e255d862d8fb45580"
+    },
+    {
+      "match_id": "B0HJ82CGCH",
+      "title": "Hornets vs. Grizzlies",
+      "synopsis": "Hornets vs. Grizzlies",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ad38f6dd-5ad5-4db9-86c4-0af37c54b932/2/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/channel-id/amzn1-dv-channel-7a36cb2b-40e6-40c7-809f-a6cf9b9f0859/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvf4a9d72da21224c6c99be3e99793d2f3_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJ82CGCH",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABIAVJNAAAAAAAAMEAI2UGGZ7AAYK.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJOnAWpwcmltZXZpZGVvBBpq5oGbBhpq0rsbA2pjbG91ZGZyb250AngoZmlkOjAxYTE0NzJhLWUzNmItNzA0Mi1iNTRkLTA2M2RhODFjZjIxYRkBOKEFoQJ4My91eHdvcGw5cGF5L291dC92MS8wMTNkYWY1OGM3NmU0YjMzYTRiZmVhM2Q1ZGEzNzdmZBkBPIFiVVNYIEj5a3GrwI5l0b0AcQD2quFDtJqVi0MpgM4o9CrInGrE/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/uxwopl9pay/out/v1/013daf58c76e4b33a4bfea3d5da377fd/23a1cf05-01f9-48ac-a7c6-17f96d435562-cenc.mpd"
+      },
+      "drm_key": "e0a55d2a95478c4b9693070d985c5648:7c84d1e90cf27669b546829670574929"
+    },
+    {
       "match_id": "B0HMFNH3T1",
       "title": "FallNationals",
       "synopsis": "FallNationals",
@@ -141,23 +127,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ygffgt16kp/out/v1/d5a3e6a530f64b62aa6e55418348d917/cenc.mpd"
       },
       "drm_key": "2b5f2f89365bf2c032b8927d0d577653:49d502f7736d6e0406526325957bd8f3"
-    },
-    {
-      "match_id": "B0HFF6W573",
-      "title": "OHL Hockey: Ottawa 67's vs Brampton Steelheads",
-      "synopsis": "OHL Hockey: Ottawa 67's vs Brampton Steelheads",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1a837501-6348-458d-8b28-bd1f156f4141/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFF6W573",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd"
-      },
-      "drm_key": "b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9"
     },
     {
       "match_id": "B0HMHZY5R8",
@@ -177,21 +146,21 @@
       "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
     },
     {
-      "match_id": "B0HN58WFHL",
-      "title": "University of Colorado Springs at Colorado State University Pueblo",
-      "synopsis": "University of Colorado Springs at Colorado State University Pueblo",
+      "match_id": "B0HLQC4KY4",
+      "title": "Chengdu, Qualifying",
+      "synopsis": "Chengdu, Qualifying",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3ab5f4a7-2931-40c6-8c51-3c3a233ede92/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HN58WFHL",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.66f3da0b-1ba3-4371-8699-2b475f9d2bc4/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLQC4KY4",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd"
       },
-      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
+      "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
     },
     {
       "match_id": "B0HLZJRZGT",
@@ -209,6 +178,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd"
       },
       "drm_key": "2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca"
+    },
+    {
+      "match_id": "B0HM743QBJ",
+      "title": "Oct 16 - UTR PTT Newport Beach",
+      "synopsis": "Oct 16 - UTR PTT Newport Beach",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f87ab223-fad8-4e99-a942-d19b696b38d9/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HM743QBJ",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a150live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq5qS5Bhpq0t45A2Zha2FtYWkCeChmaWQ6MDFhMTQ3YjQtMTE4Ni03NDcxLWI1MDYtNjYwNTMzNzhhMzlkGQE4oQWhAngzL2F5MWJoaHR4OXovb3V0L3YxLzI1NjgzNDU1YThiNjRlMmNiODU2NWMxYzcyYjhiY2ViWCAAaXFV4YppKGupG8yDYscdZ4snh1QFXxDyxnde6jxkZg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ay1bhhtx9z/out/v1/25683455a8b64e2cb8565c1c72b8bceb/534eb9d1-ed8a-4cd6-9731-497ef25068f4-cenc.mpd"
+      },
+      "drm_key": "63334c7d0729b7a246aac190e98d7a7e:0c725c2bd59287791d59dcd573a4eac0"
     }
   ]
 }
