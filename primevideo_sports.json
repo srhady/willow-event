@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "01:48 PM 19-10-2026",
+    "LastUpdate": "01:55 PM 19-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
     "LiveCount": 2,
-    "UpcomingCount": 0
+    "UpcomingCount": 2
   },
   "Matches": [
     {
@@ -43,6 +43,37 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/fspu6lxxw0/out/v1/690becb9981247eda1a04ab7229753b5/cenc.mpd"
       },
       "drm_key": "5d104ea685f4e34ca82b51758c4a1f1f:3817e044aa7cf3c012069fae8a1b17cb"
+    },
+    {
+      "match_id": "B0HLQH3LCD",
+      "title": "South Africa vs. Australia",
+      "synopsis": "South Africa vs. Australia",
+      "status": "UPCOMING",
+      "time": "Live at 2 PM BDT",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9caab708-8f8c-4923-acc1-ad8254862b3b/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLQH3LCD",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
+      },
+      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
+      "match_id": "B0HKNV1BCT",
+      "title": "Oct 19 - UTR PTT Carvoeiro",
+      "synopsis": "Oct 19 - UTR PTT Carvoeiro",
+      "status": "UPCOMING",
+      "time": "Live at 2 PM BDT",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.566d2b3a-0db1-416f-ad28-862d1c68fb15/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKNV1BCT",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a44live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WI-nAWpwcmltZXZpZGVvBBpq6ZNiBhpq1cziA2Zha2FtYWkCeChmaWQ6MDFhMTUzMjgtNTUwZS03MWVjLTliNzQtNGQ4NTM1MTExN2I1GQE4oQWhAngzLzRneTRjYmZyYnkvb3V0L3YxL2ZlYWViZDU3NTMxYjQ5MDk5NjI5MjJmZTczNzUzMGEyGQE8gWJVU1ggT2J-k8MTJN69fZUrVk89KcJpN9ge3cFmbLAEUf19NSw/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/4gy4cbfrby/out/v1/feaebd57531b4909962922fe737530a2/77f345d5-0daa-407c-baf5-f52729e86fe5-cenc.mpd"
+      },
+      "drm_key": "b239d97029f1454ff5387b09351adaed:68e1b5569597c9324114bdc9d7352f3d"
     }
   ]
 }
