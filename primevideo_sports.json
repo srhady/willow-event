@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "01:02 AM 20-10-2026",
+    "LastUpdate": "01:32 AM 20-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -28,23 +28,6 @@
       "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
     },
     {
-      "match_id": "B0H37FB27F",
-      "title": "Predator European Championships: Spain",
-      "synopsis": "Predator European Championships: Spain",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.447494d8-1dc7-4b08-89c7-f04ce02111ea/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H37FB27F",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd"
-      },
-      "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
-    },
-    {
       "match_id": "B0HLVKY7W6",
       "title": "Powerball Cup, Final",
       "synopsis": "Powerball Cup, Final",
@@ -62,21 +45,18 @@
       "drm_key": "dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b"
     },
     {
-      "match_id": "B0HL82G9XQ",
-      "title": "Tennis Today Live-Brussels-ATP, Lyon-ATP & Almaty-ATP Early Rounds",
-      "synopsis": "Tennis Today Live-Brussels-ATP, Lyon-ATP & Almaty-ATP Early Rounds",
+      "match_id": "B0HMCZZ9PT",
+      "title": "Oct 19 - UTR PTT Newport Beach",
+      "synopsis": "Oct 19 - UTR PTT Newport Beach",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0cec3537-6c3b-4e13-ae42-cc0ac09ed6e0/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HL82G9XQ",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2e9fb718-9e5e-448e-9b1e-3e44ae77af6a/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HMCZZ9PT",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd"
+        "Original Server": "https://ABEB3EGAAAAAAAAMDWE34FRQ47MFQ.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq6iG3Bhpq1ls3A2pjbG91ZGZyb250AngoZmlkOjAxYTE1NTU0LTRlZDEtNzVmYS1iOTgwLWVlNzNlODA5OTk3YhkBOKEFoQJ4My9xM25lNGhlODJxL291dC92MS83YmI2ZDk0Mzc2MjU0ODQyOTg3ZjJhZGQ4Zjk5YjNjNFgg3P8KBSgeYBUt45tqeaaQU9M3PhkE3FFemMFcug3mTuA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/q3ne4he82q/out/v1/7bb6d94376254842987f2add8f99b3c4/d5883d5c-142c-4473-bf64-d0050fb66a31-cenc.mpd"
       },
-      "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
+      "drm_key": "e0eb2097016225d48ed7e7ff2f8db988:b8bd70282f62697efa5751261f37ec7c"
     },
     {
       "match_id": "B0HN5C4CSG",
@@ -108,34 +88,6 @@
         "Original Server": "https://ABIMIKLAAAAAAAAML27ZKKTX7O66G.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq6gWdBhpq1j8dA2pjbG91ZGZyb250AngoZmlkOjAxYTE1NGU2LTg5MzUtNzRlZC04NjYyLTgyYzY3NDk0MTc5ZRkBOKEFoQJ4My9neWJidGJoM2NxL291dC92MS9kMzg4ZWEzOTU1MTM0NTY5ODM0ZTc5NTNiMjIzMDQ0MFggzOhxXAOxwZ-aouX0LR0K5ICSDuaBVt3Oqijp0LrejF4/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/gybbtbh3cq/out/v1/d388ea3955134569834e7953b2230440/c48418fa-470f-4bd0-8130-f4855dae7e8e-cenc.mpd"
       },
       "drm_key": "a0808a0a967c4cf3e6e37f8860c2cab0:9fea56f17512c70c4f7b1cc44f6e2d4c"
-    },
-    {
-      "match_id": "B0HMCZZ9PT",
-      "title": "Oct 19 - UTR PTT Newport Beach",
-      "synopsis": "Oct 19 - UTR PTT Newport Beach",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2e9fb718-9e5e-448e-9b1e-3e44ae77af6a/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HMCZZ9PT",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABEB3EGAAAAAAAAMDWE34FRQ47MFQ.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq6iG3Bhpq1ls3A2pjbG91ZGZyb250AngoZmlkOjAxYTE1NTU0LTRlZDEtNzVmYS1iOTgwLWVlNzNlODA5OTk3YhkBOKEFoQJ4My9xM25lNGhlODJxL291dC92MS83YmI2ZDk0Mzc2MjU0ODQyOTg3ZjJhZGQ4Zjk5YjNjNFgg3P8KBSgeYBUt45tqeaaQU9M3PhkE3FFemMFcug3mTuA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/q3ne4he82q/out/v1/7bb6d94376254842987f2add8f99b3c4/d5883d5c-142c-4473-bf64-d0050fb66a31-cenc.mpd"
-      },
-      "drm_key": "e0eb2097016225d48ed7e7ff2f8db988:b8bd70282f62697efa5751261f37ec7c"
-    },
-    {
-      "match_id": "B0HKNV1BCT",
-      "title": "Oct 19 - UTR PTT Carvoeiro",
-      "synopsis": "Oct 19 - UTR PTT Carvoeiro",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.566d2b3a-0db1-416f-ad28-862d1c68fb15/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKNV1BCT",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a44live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WI-nAWpwcmltZXZpZGVvBBpq6ZNiBhpq1cziA2Zha2FtYWkCeChmaWQ6MDFhMTUzMjgtNTUwZS03MWVjLTliNzQtNGQ4NTM1MTExN2I1GQE4oQWhAngzLzRneTRjYmZyYnkvb3V0L3YxL2ZlYWViZDU3NTMxYjQ5MDk5NjI5MjJmZTczNzUzMGEyGQE8gWJVU1ggT2J-k8MTJN69fZUrVk89KcJpN9ge3cFmbLAEUf19NSw/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/4gy4cbfrby/out/v1/feaebd57531b4909962922fe737530a2/77f345d5-0daa-407c-baf5-f52729e86fe5-cenc.mpd"
-      },
-      "drm_key": "b239d97029f1454ff5387b09351adaed:68e1b5569597c9324114bdc9d7352f3d"
     }
   ]
 }
