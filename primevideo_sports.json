@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "09:32 PM 20-10-2026",
+    "LastUpdate": "10:02 PM 20-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -96,6 +96,20 @@
       "drm_key": "080ee04799e134b38da01ba4bfca26b7:e7238b74d5c55457ea611fe541c358aa"
     },
     {
+      "match_id": "B0HJ7Z7MMW",
+      "title": "Oct 20 - UTR PTT Lubbock",
+      "synopsis": "Oct 20 - UTR PTT Lubbock",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1fff0bd7-c71c-409c-ba7c-bedd52b208bc/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJ7Z7MMW",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq61cUBhpq15CUA2ZmYXN0bHkCeChmaWQ6MDFhMTVhMGMtYzJmMy03N2VmLWFiNDctMzU1N2NhMzA2ZmM4GQE4oQWhAngzL2g4cWVkZzVkZWUvb3V0L3YxL2E5Mzg5NmQ0YjY1OTQ1MTJhZDQwNzYxOGQ1ZDU1ZTU0WCACqlU-Lf5OXBlXVsCg2bRZxyNmkwZ-UJC4sZ6yhLT7aQ/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/h8qedg5dee/out/v1/a93896d4b6594512ad407618d5d55e54/44f527ed-563e-4c92-b8ca-8ae37318cfc7-cenc.mpd"
+      },
+      "drm_key": "2bbef82e62dc971b881c3507037b7652:11c26fb89ed536183d2dcf9a85622a2e"
+    },
+    {
       "match_id": "B0GLKK9LBV",
       "title": "Pakistan ODI Tri-Series 2026 - 2nd Match - Pakistan vs England",
       "synopsis": "Pakistan ODI Tri-Series 2026 - 2nd Match - Pakistan vs England",
@@ -111,20 +125,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h6rrgqdnxb/out/v1/10b57d26728f4bf482f1eef2aa9e9058/cenc.mpd"
       },
       "drm_key": "69a735880c9bd9c4b32e5bbda6e7d31f:5c80ac6538d99e2fd05fceee6c549138"
-    },
-    {
-      "match_id": "B0HN22TLXZ",
-      "title": "Oct 20 - UTR PTT Carvoeiro",
-      "synopsis": "Oct 20 - UTR PTT Carvoeiro",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.39b4bc65-2e38-4c00-a330-c824ea657078/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HN22TLXZ",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a56live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WI-nAWpwcmltZXZpZGVvBBpq6uahBhpq1yAhA2Zha2FtYWkCeChmaWQ6MDFhMTU4NTUtODM4NC03MzczLTgzY2EtODhiM2I1N2VlM2JlGQE4oQWhAngzL2FycmhoZnB3Mzgvb3V0L3YxLzgwNGRjM2EzOGY3YzRkYTM5MWIyYTJlODlmNTAzZjNiGQE8gWJVU1ggao-okE6zNst8KQSB0044UguG7BP44b8wheJuiHb2QPQ/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/arrhhfpw38/out/v1/804dc3a38f7c4da391b2a2e89f503f3b/8b54c57d-3713-4ef3-bf17-b42d97ccf07b-cenc.mpd"
-      },
-      "drm_key": "f52f307cc65718e8120122cc5c8cbfab:415be1c48464c433592d486586ea2884"
     }
   ]
 }
