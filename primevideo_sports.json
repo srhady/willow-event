@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "09:02 PM 20-10-2026",
+    "LastUpdate": "09:32 PM 20-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -28,23 +28,6 @@
       "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
     },
     {
-      "match_id": "B0HKMGSFBW",
-      "title": "Zimbabwe Women tour of India 2026 - 3rd T20I - India Women vs Zimbabwe Women",
-      "synopsis": "Zimbabwe Women tour of India 2026 - 3rd T20I - India Women vs Zimbabwe Women",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6b4fa639-76c1-4aff-bf00-aa2a560eb3a2/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKMGSFBW",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xbpbqa6j8t/out/v1/4866c32a2cc34d94a4adcd18c7b3b9a1/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xbpbqa6j8t/out/v1/4866c32a2cc34d94a4adcd18c7b3b9a1/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/xbpbqa6j8t/out/v1/4866c32a2cc34d94a4adcd18c7b3b9a1/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/xbpbqa6j8t/out/v1/4866c32a2cc34d94a4adcd18c7b3b9a1/cenc.mpd"
-      },
-      "drm_key": "77d1b790dcdefadfdd7f53df877b08a4:dbc8074a1b65f4a12b58eea47f17c17f"
-    },
-    {
       "match_id": "B0HLQZ1LGR",
       "title": "Cricket-India Women vs Zimbabwe Women: 3rd T20I",
       "synopsis": "Cricket-India Women vs Zimbabwe Women: 3rd T20I",
@@ -60,6 +43,23 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
       },
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
+      "match_id": "B0HKMGSFBW",
+      "title": "Zimbabwe Women tour of India 2026 - 3rd T20I - India Women vs Zimbabwe Women",
+      "synopsis": "Zimbabwe Women tour of India 2026 - 3rd T20I - India Women vs Zimbabwe Women",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6b4fa639-76c1-4aff-bf00-aa2a560eb3a2/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKMGSFBW",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xbpbqa6j8t/out/v1/4866c32a2cc34d94a4adcd18c7b3b9a1/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xbpbqa6j8t/out/v1/4866c32a2cc34d94a4adcd18c7b3b9a1/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/xbpbqa6j8t/out/v1/4866c32a2cc34d94a4adcd18c7b3b9a1/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/xbpbqa6j8t/out/v1/4866c32a2cc34d94a4adcd18c7b3b9a1/cenc.mpd"
+      },
+      "drm_key": "77d1b790dcdefadfdd7f53df877b08a4:dbc8074a1b65f4a12b58eea47f17c17f"
     },
     {
       "match_id": "B0HL3N2LR9",
