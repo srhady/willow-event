@@ -1,33 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "01:02 AM 22-10-2026",
+    "LastUpdate": "01:32 AM 22-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 19
+    "LiveCount": 0,
+    "UpcomingCount": 20
   },
   "Matches": [
-    {
-      "match_id": "B0HN5PJ2BX",
-      "title": "ODI Tri-Nation Series in UAE 2026 - 3rd Match - Afghanistan vs Bangladesh",
-      "synopsis": "ODI Tri-Nation Series in UAE 2026 - 3rd Match - Afghanistan vs Bangladesh",
-      "status": "LIVE",
-      "time": "5 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.db5ea85c-7e9a-438e-85d9-349683aeca3b/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HN5PJ2BX?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
-      "is_free": false,
-      "stream_url_alpha": {
-        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/diuuiw6d8r/out/v1/2fef8423273a48a6856a08453717c337/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/diuuiw6d8r/out/v1/2fef8423273a48a6856a08453717c337/cenc.mpd",
-        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/diuuiw6d8r/out/v1/2fef8423273a48a6856a08453717c337/cenc.mpd",
-        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/diuuiw6d8r/out/v1/2fef8423273a48a6856a08453717c337/cenc.mpd",
-        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/diuuiw6d8r/out/v1/2fef8423273a48a6856a08453717c337/cenc.mpd"
-      },
-      "drm_key": "a016bbf898c1522758c13ec19c280d2a:f7a70af49c51630e54a3ec6dfe2de582"
-    },
     {
       "match_id": "B0HN5MNSPC",
       "title": "India tour of New Zealand 2026 - 1st T20I - New Zealand vs India",
@@ -35,7 +17,7 @@
       "status": "UPCOMING",
       "time": "Live at 1 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e2a60804-e877-4e77-bc40-5f237b95235a/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HN5MNSPC?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HN5MNSPC?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -47,7 +29,7 @@
       "status": "UPCOMING",
       "time": "Live at 1:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.df9be69a-7bd6-4883-a021-b7e4801a1573/8/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFWWJWH6?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFWWJWH6?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -59,7 +41,7 @@
       "status": "UPCOMING",
       "time": "Live at 2 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.343f357f-7382-4a16-88df-1c4941942e53/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HMLGQPBV?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HMLGQPBV?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -71,7 +53,7 @@
       "status": "UPCOMING",
       "time": "Live at 2:15 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5a14b058-72cd-42a8-a6f2-2d87608be042/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HN2WDD1J?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_5",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HN2WDD1J?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -83,7 +65,7 @@
       "status": "UPCOMING",
       "time": "Tomorrow 2:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1e5b6fd4-25b7-4e3a-be5b-aa3786467831/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HL5YN53G?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_6",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HL5YN53G?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_5",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -95,7 +77,7 @@
       "status": "UPCOMING",
       "time": "Sat, Oct 24 1 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4bdb387d-8b40-409f-b76a-f9b7349d5ea2/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HL646MJT?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_7",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HL646MJT?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_6",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -107,7 +89,7 @@
       "status": "UPCOMING",
       "time": "Sun, Oct 25 2 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6e464c74-5145-4aa7-ab93-bf7dc4a472f7/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HMG5YWFC?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_8",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HMG5YWFC?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_7",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -119,7 +101,7 @@
       "status": "UPCOMING",
       "time": "Sun, Oct 25 2:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9ce2fde4-1fb3-475d-8568-fc7d05c9b0e7/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HMLP8D75?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_9",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HMLP8D75?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_8",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -131,7 +113,7 @@
       "status": "UPCOMING",
       "time": "Tue, Oct 27 1 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ac7b9b3e-5230-428a-b89a-274296527714/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HH6XPD6K?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_10",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HH6XPD6K?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_9",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -143,7 +125,7 @@
       "status": "UPCOMING",
       "time": "Tue, Oct 27 1:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20a790a3-51e9-4ec1-9a8b-cb632845af2d/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKDPRJRS?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_11",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKDPRJRS?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_10",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -155,7 +137,7 @@
       "status": "UPCOMING",
       "time": "Tue, Oct 27 2 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1751377a-8a97-41ca-8cfe-a48a200fae9c/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HN2PT7BB?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_12",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HN2PT7BB?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_11",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -167,7 +149,7 @@
       "status": "UPCOMING",
       "time": "Wed, Oct 28 2:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e1dcd31f-dfe8-44de-84bd-ed233da230f6/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HMGDLS21?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_13",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HMGDLS21?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_12",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -179,7 +161,7 @@
       "status": "UPCOMING",
       "time": "Wed, Oct 28 6 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e1d267c7-de98-497b-b10a-16946f5e2238/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HM8BVJ9X?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_14",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HM8BVJ9X?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_13",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -191,7 +173,7 @@
       "status": "UPCOMING",
       "time": "Thu, Oct 29 10:40 AM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.082cdb0e-0139-4caf-9d4f-4e45a74dfa7b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HJ7RN3LB?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_15",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJ7RN3LB?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_14",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -203,7 +185,7 @@
       "status": "UPCOMING",
       "time": "Thu, Oct 29 2 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.84dc9ca5-fdc8-46c9-bc90-b6008efe1e58/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HG6HPFD3?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_16",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HG6HPFD3?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_15",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -215,7 +197,7 @@
       "status": "UPCOMING",
       "time": "Thu, Oct 29 2:10 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0eda8909-da30-4ff4-9960-e6c505a894c4/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HMW9M5NH?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_17",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HMW9M5NH?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_16",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -227,7 +209,7 @@
       "status": "UPCOMING",
       "time": "Fri, Oct 30 2:10 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7eb020f4-8f99-438f-882e-76cfc4181413/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HJ42ZGPP?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_18",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJ42ZGPP?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_17",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -239,7 +221,7 @@
       "status": "UPCOMING",
       "time": "Sat, Oct 31 10:40 AM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7bcd78a9-701e-4b82-a7b4-b4c98580e6ac/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLZ4VQPQ?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_19",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLZ4VQPQ?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_18",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -251,7 +233,19 @@
       "status": "UPCOMING",
       "time": "Sat, Oct 31 2:10 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.473de08a-bbf3-4dd2-9f27-d805debb9f93/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HNGCKJ18?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_20",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HNGCKJ18?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_19",
+      "is_free": false,
+      "stream_url_alpha": "",
+      "drm_key": ""
+    },
+    {
+      "match_id": "B0HM6M2GHF",
+      "title": "Womens Big Bash League 2026 - 6th Match - Sydney Thunder Women vs Brisbane Heat Women",
+      "synopsis": "Womens Big Bash League 2026 - 6th Match - Sydney Thunder Women vs Brisbane Heat Women",
+      "status": "UPCOMING",
+      "time": "Sun, Nov 1 10:40 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c2c84966-e524-464e-a567-5ea6dad62f38/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HM6M2GHF?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_20",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
