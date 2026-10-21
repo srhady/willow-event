@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "12:02 AM 22-10-2026",
+    "LastUpdate": "12:32 AM 22-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -43,6 +43,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd"
       },
       "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
+    },
+    {
+      "match_id": "B0HN5JQ64L",
+      "title": "Oct 21 - UTR PTT Newport Beach",
+      "synopsis": "Oct 21 - UTR PTT Newport Beach",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.aef7b26e-171a-4102-a2a6-46e3602a5b9c/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HN5JQ64L",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWI-nAWpwcmltZXZpZGVvBBpq7KiXBhpq2OIXA2ZmYXN0bHkCeChmaWQ6MDFhMTVmMzMtMjlmNS03NWIyLTgzMmEtZjNlM2FkNDM0MjZhGQE4oQWhAngzL2JtbDBwcnI1c2Uvb3V0L3YxL2JjYjgyM2YyY2EwZTQ3ZDNiZjM1ZmYyNTNmZWMwN2UwGQE8gWJVU1ggxFlYl9cCFSGOdx93PnFiQoYAvO-Zo8km8lKCwvllAI4/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/bml0prr5se/out/v1/bcb823f2ca0e47d3bf35ff253fec07e0/c20d5ff8-6115-456a-bd12-3f0df9249723-cenc.mpd"
+      },
+      "drm_key": "f8834f6974f697f385d096e8133e5514:93bf7582fd5e08be52cb16ae5b4dc410"
     },
     {
       "match_id": "B0HN5PJ2BX",
@@ -91,20 +105,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd"
       },
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
-    },
-    {
-      "match_id": "B0HN5JQ64L",
-      "title": "Oct 21 - UTR PTT Newport Beach",
-      "synopsis": "Oct 21 - UTR PTT Newport Beach",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.aef7b26e-171a-4102-a2a6-46e3602a5b9c/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HN5JQ64L",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWI-nAWpwcmltZXZpZGVvBBpq7KiXBhpq2OIXA2ZmYXN0bHkCeChmaWQ6MDFhMTVmMzMtMjlmNS03NWIyLTgzMmEtZjNlM2FkNDM0MjZhGQE4oQWhAngzL2JtbDBwcnI1c2Uvb3V0L3YxL2JjYjgyM2YyY2EwZTQ3ZDNiZjM1ZmYyNTNmZWMwN2UwGQE8gWJVU1ggxFlYl9cCFSGOdx93PnFiQoYAvO-Zo8km8lKCwvllAI4/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/bml0prr5se/out/v1/bcb823f2ca0e47d3bf35ff253fec07e0/c20d5ff8-6115-456a-bd12-3f0df9249723-cenc.mpd"
-      },
-      "drm_key": "f8834f6974f697f385d096e8133e5514:93bf7582fd5e08be52cb16ae5b4dc410"
     }
   ]
 }
