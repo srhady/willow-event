@@ -1,32 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "11:02 AM 21-10-2026",
+    "LastUpdate": "11:32 AM 21-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 2,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HLTHKHY9",
-      "title": "World Beach Sprint Finals",
-      "synopsis": "World Beach Sprint Finals",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3abb1a01-7f5d-424f-bc61-3ab1b1f1e47c/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLTHKHY9",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd"
-      },
-      "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
-    },
     {
       "match_id": "B0HLHFM426",
       "title": "Tennis Today Live-Brussels-ATP, Lyon-ATP, Almaty-ATP & Ningbo-WTA Early Rounds",
@@ -45,32 +28,21 @@
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
     },
     {
-      "match_id": "B0HJL459BY",
-      "title": "Oct 20 - UTR PTT Newport Beach",
-      "synopsis": "Oct 20 - UTR PTT Newport Beach",
+      "match_id": "B0HLTHKHY9",
+      "title": "World Beach Sprint Finals",
+      "synopsis": "World Beach Sprint Finals",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.332aec39-23b7-4298-a308-ebfcc517ac67/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HJL459BY",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3abb1a01-7f5d-424f-bc61-3ab1b1f1e47c/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLTHKHY9",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://a46live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq63M0Bhpq16y0A2Zha2FtYWkCeChmaWQ6MDFhMTVhN2EtYTE1Yy03MzBmLTk0NmEtNDNhZGMxZGU2ZTJjGQE4oQWhAngzL2h6YXc0dHM4dGQvb3V0L3YxLzI1YWM0NWUzNjIxMzQyMTZhOTI2YjJhMjljMzQ5MzVkWCDOoEnB-_6DPyiJGsdM1ljr-EYwp0z_QSP2kZ560cxjew/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/hzaw4ts8td/out/v1/25ac45e362134216a926b2a29c34935d/f767d1fb-1adf-4a55-8e0f-683a57d35e5c-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd"
       },
-      "drm_key": "637f9f8bcaf6fdfb0d04d4cd64b882fb:9bf8f2b6774a6f85b291df4cb39e9a1d"
-    },
-    {
-      "match_id": "B0HJ7Z7MMW",
-      "title": "Oct 20 - UTR PTT Lubbock",
-      "synopsis": "Oct 20 - UTR PTT Lubbock",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1fff0bd7-c71c-409c-ba7c-bedd52b208bc/8/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HJ7Z7MMW",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq61cUBhpq15CUA2ZmYXN0bHkCeChmaWQ6MDFhMTVhMGMtYzJmMy03N2VmLWFiNDctMzU1N2NhMzA2ZmM4GQE4oQWhAngzL2g4cWVkZzVkZWUvb3V0L3YxL2E5Mzg5NmQ0YjY1OTQ1MTJhZDQwNzYxOGQ1ZDU1ZTU0WCACqlU-Lf5OXBlXVsCg2bRZxyNmkwZ-UJC4sZ6yhLT7aQ/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/h8qedg5dee/out/v1/a93896d4b6594512ad407618d5d55e54/44f527ed-563e-4c92-b8ca-8ae37318cfc7-cenc.mpd"
-      },
-      "drm_key": "2bbef82e62dc971b881c3507037b7652:11c26fb89ed536183d2dcf9a85622a2e"
+      "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
     }
   ]
 }
