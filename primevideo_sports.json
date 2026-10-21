@@ -1,49 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "10:02 PM 21-10-2026",
+    "LastUpdate": "10:32 PM 21-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 6,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HKWCWKSV",
-      "title": "The Morning Drive",
-      "synopsis": "The Morning Drive",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.831116c3-663b-4556-9573-77327b404720/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKWCWKSV",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd"
-      },
-      "drm_key": "e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052"
-    },
-    {
-      "match_id": "B0HFWWJWH6",
-      "title": "Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia",
-      "synopsis": "Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.df9be69a-7bd6-4883-a021-b7e4801a1573/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFWWJWH6",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2aajhzhbtb/out/v1/e17009f75acc4bddb216ccc7eb256e89/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2aajhzhbtb/out/v1/e17009f75acc4bddb216ccc7eb256e89/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2aajhzhbtb/out/v1/e17009f75acc4bddb216ccc7eb256e89/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2aajhzhbtb/out/v1/e17009f75acc4bddb216ccc7eb256e89/cenc.mpd"
-      },
-      "drm_key": "39d6fd72bc7b22ab03ea3d81cb8c739a:91a9302b488dc76b61b9ab7c4e158aa2"
-    },
     {
       "match_id": "B0HN5PJ2BX",
       "title": "ODI Tri-Nation Series in UAE 2026 - 3rd Match - Afghanistan vs Bangladesh",
@@ -60,34 +26,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/diuuiw6d8r/out/v1/2fef8423273a48a6856a08453717c337/cenc.mpd"
       },
       "drm_key": "a016bbf898c1522758c13ec19c280d2a:f7a70af49c51630e54a3ec6dfe2de582"
-    },
-    {
-      "match_id": "B0HN3FFDX5",
-      "title": "Oct 21 - UTR PTT Lubbock",
-      "synopsis": "Oct 21 - UTR PTT Lubbock",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.beed6119-f903-48b7-89be-63cc3aaf196e/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HN3FFDX5",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABKZVFLAAAAAAAAMALLRBVGWAOQKH.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq7KiVBhpq2OIVA2pjbG91ZGZyb250AngoZmlkOjAxYTE1ZjMzLTI1MmYtNzFmNS05MDNmLWRlOGNlNjRkNDE0NRkBOKEFoQJ4My90b2lkNmJ6aGlsL291dC92MS8wMjIxYjUyZmIxYjk0MTgzYjY3NGMzMmNlODg4YzlhNlggk9KLZ_ANAFOulYnqhPMTyZa-zjQR_dpKx_35Edvpcu0/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/toid6bzhil/out/v1/0221b52fb1b94183b674c32ce888c9a6/2e33f58e-9b27-47ef-ae79-e8aa379e36e7-cenc.mpd"
-      },
-      "drm_key": "eeb8724bd573daaa554f3dd7f6e44f91:b7edaf4a6aa4b8d57c80905b45122b4b"
-    },
-    {
-      "match_id": "B0HN5JQ64L",
-      "title": "Oct 21 - UTR PTT Newport Beach",
-      "synopsis": "Oct 21 - UTR PTT Newport Beach",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.aef7b26e-171a-4102-a2a6-46e3602a5b9c/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HN5JQ64L",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWI-nAWpwcmltZXZpZGVvBBpq7KiXBhpq2OIXA2ZmYXN0bHkCeChmaWQ6MDFhMTVmMzMtMjlmNS03NWIyLTgzMmEtZjNlM2FkNDM0MjZhGQE4oQWhAngzL2JtbDBwcnI1c2Uvb3V0L3YxL2JjYjgyM2YyY2EwZTQ3ZDNiZjM1ZmYyNTNmZWMwN2UwGQE8gWJVU1ggxFlYl9cCFSGOdx93PnFiQoYAvO-Zo8km8lKCwvllAI4/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/bml0prr5se/out/v1/bcb823f2ca0e47d3bf35ff253fec07e0/c20d5ff8-6115-456a-bd12-3f0df9249723-cenc.mpd"
-      },
-      "drm_key": "f8834f6974f697f385d096e8133e5514:93bf7582fd5e08be52cb16ae5b4dc410"
     },
     {
       "match_id": "B0HKYV99DB",
@@ -124,6 +62,20 @@
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
     },
     {
+      "match_id": "B0HN3FFDX5",
+      "title": "Oct 21 - UTR PTT Lubbock",
+      "synopsis": "Oct 21 - UTR PTT Lubbock",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.beed6119-f903-48b7-89be-63cc3aaf196e/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HN3FFDX5",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABKZVFLAAAAAAAAMALLRBVGWAOQKH.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq7KiVBhpq2OIVA2pjbG91ZGZyb250AngoZmlkOjAxYTE1ZjMzLTI1MmYtNzFmNS05MDNmLWRlOGNlNjRkNDE0NRkBOKEFoQJ4My90b2lkNmJ6aGlsL291dC92MS8wMjIxYjUyZmIxYjk0MTgzYjY3NGMzMmNlODg4YzlhNlggk9KLZ_ANAFOulYnqhPMTyZa-zjQR_dpKx_35Edvpcu0/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/toid6bzhil/out/v1/0221b52fb1b94183b674c32ce888c9a6/2e33f58e-9b27-47ef-ae79-e8aa379e36e7-cenc.mpd"
+      },
+      "drm_key": "eeb8724bd573daaa554f3dd7f6e44f91:b7edaf4a6aa4b8d57c80905b45122b4b"
+    },
+    {
       "match_id": "B0HL9JT5DM",
       "title": "Tennis Today Live-Brussels-ATP, Lyon-ATP, Almaty-ATP & Ningbo-WTA Early Rounds",
       "synopsis": "Tennis Today Live-Brussels-ATP, Lyon-ATP, Almaty-ATP & Ningbo-WTA Early Rounds",
@@ -139,6 +91,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd"
       },
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
+    },
+    {
+      "match_id": "B0HN5JQ64L",
+      "title": "Oct 21 - UTR PTT Newport Beach",
+      "synopsis": "Oct 21 - UTR PTT Newport Beach",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.aef7b26e-171a-4102-a2a6-46e3602a5b9c/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HN5JQ64L",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWI-nAWpwcmltZXZpZGVvBBpq7KiXBhpq2OIXA2ZmYXN0bHkCeChmaWQ6MDFhMTVmMzMtMjlmNS03NWIyLTgzMmEtZjNlM2FkNDM0MjZhGQE4oQWhAngzL2JtbDBwcnI1c2Uvb3V0L3YxL2JjYjgyM2YyY2EwZTQ3ZDNiZjM1ZmYyNTNmZWMwN2UwGQE8gWJVU1ggxFlYl9cCFSGOdx93PnFiQoYAvO-Zo8km8lKCwvllAI4/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/bml0prr5se/out/v1/bcb823f2ca0e47d3bf35ff253fec07e0/c20d5ff8-6115-456a-bd12-3f0df9249723-cenc.mpd"
+      },
+      "drm_key": "f8834f6974f697f385d096e8133e5514:93bf7582fd5e08be52cb16ae5b4dc410"
     }
   ]
 }
