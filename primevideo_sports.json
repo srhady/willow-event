@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "09:32 PM 21-10-2026",
+    "LastUpdate": "10:02 PM 21-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 7,
+    "LiveCount": 8,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -62,6 +62,34 @@
       "drm_key": "a016bbf898c1522758c13ec19c280d2a:f7a70af49c51630e54a3ec6dfe2de582"
     },
     {
+      "match_id": "B0HN3FFDX5",
+      "title": "Oct 21 - UTR PTT Lubbock",
+      "synopsis": "Oct 21 - UTR PTT Lubbock",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.beed6119-f903-48b7-89be-63cc3aaf196e/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HN3FFDX5",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABKZVFLAAAAAAAAMALLRBVGWAOQKH.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq7KiVBhpq2OIVA2pjbG91ZGZyb250AngoZmlkOjAxYTE1ZjMzLTI1MmYtNzFmNS05MDNmLWRlOGNlNjRkNDE0NRkBOKEFoQJ4My90b2lkNmJ6aGlsL291dC92MS8wMjIxYjUyZmIxYjk0MTgzYjY3NGMzMmNlODg4YzlhNlggk9KLZ_ANAFOulYnqhPMTyZa-zjQR_dpKx_35Edvpcu0/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/toid6bzhil/out/v1/0221b52fb1b94183b674c32ce888c9a6/2e33f58e-9b27-47ef-ae79-e8aa379e36e7-cenc.mpd"
+      },
+      "drm_key": "eeb8724bd573daaa554f3dd7f6e44f91:b7edaf4a6aa4b8d57c80905b45122b4b"
+    },
+    {
+      "match_id": "B0HN5JQ64L",
+      "title": "Oct 21 - UTR PTT Newport Beach",
+      "synopsis": "Oct 21 - UTR PTT Newport Beach",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.aef7b26e-171a-4102-a2a6-46e3602a5b9c/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HN5JQ64L",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWI-nAWpwcmltZXZpZGVvBBpq7KiXBhpq2OIXA2ZmYXN0bHkCeChmaWQ6MDFhMTVmMzMtMjlmNS03NWIyLTgzMmEtZjNlM2FkNDM0MjZhGQE4oQWhAngzL2JtbDBwcnI1c2Uvb3V0L3YxL2JjYjgyM2YyY2EwZTQ3ZDNiZjM1ZmYyNTNmZWMwN2UwGQE8gWJVU1ggxFlYl9cCFSGOdx93PnFiQoYAvO-Zo8km8lKCwvllAI4/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/bml0prr5se/out/v1/bcb823f2ca0e47d3bf35ff253fec07e0/c20d5ff8-6115-456a-bd12-3f0df9249723-cenc.mpd"
+      },
+      "drm_key": "f8834f6974f697f385d096e8133e5514:93bf7582fd5e08be52cb16ae5b4dc410"
+    },
+    {
       "match_id": "B0HKYV99DB",
       "title": "Tennis Today Live-Brussels-ATP, Lyon-ATP & Almaty-ATP Early Rounds",
       "synopsis": "Tennis Today Live-Brussels-ATP, Lyon-ATP & Almaty-ATP Early Rounds",
@@ -111,20 +139,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd"
       },
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
-    },
-    {
-      "match_id": "B0HN4NZ28T",
-      "title": "Oct 21 - UTR PTT Carvoeiro",
-      "synopsis": "Oct 21 - UTR PTT Carvoeiro",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a6493535-e8b1-473d-a1fb-7f386e103ca4/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HN4NZ28T",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a17live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq7DgXBhpq2HGXA2Zha2FtYWkCeChmaWQ6MDFhMTVkN2ItYjcwYi03MDIzLThhYWQtYjJiNzhkOGU1OThkGQE4oQWhAngzLzlhbnN1cjMzMGsvb3V0L3YxL2UxNmIyYTk3YWIwMzQ0NjM4ZTc4ODhkNzJmY2Q5YjkzWCAaaKV09FYb-AyLdCf7ohrvt8GWv-7OAsT6qxuA9iwzHQ/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/9ansur330k/out/v1/e16b2a97ab0344638e7888d72fcd9b93/90e6077c-cdd0-47ea-af2a-0d5abcb04846-cenc.mpd"
-      },
-      "drm_key": "07d7350536ccd95fe77dc5fd4f9f779b:054cd005732f368a7b8079a3f91bbe9f"
     }
   ]
 }
