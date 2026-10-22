@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "01:02 PM 22-10-2026",
+    "LastUpdate": "01:32 PM 22-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 2,
-    "UpcomingCount": 18
+    "LiveCount": 3,
+    "UpcomingCount": 17
   },
   "Matches": [
     {
@@ -57,13 +57,19 @@
       "match_id": "B0HMLGQPBV",
       "title": "Pakistan ODI Tri-Series 2026 - 3rd Match - Sri Lanka vs England",
       "synopsis": "Pakistan ODI Tri-Series 2026 - 3rd Match - Sri Lanka vs England",
-      "status": "UPCOMING",
-      "time": "Live at 2 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.343f357f-7382-4a16-88df-1c4941942e53/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "1:30 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.343f357f-7382-4a16-88df-1c4941942e53/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HMLGQPBV?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mvxw3ht3lx/out/v1/bfafd4b9e47b48a099b72253ed169032/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mvxw3ht3lx/out/v1/bfafd4b9e47b48a099b72253ed169032/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/mvxw3ht3lx/out/v1/bfafd4b9e47b48a099b72253ed169032/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mvxw3ht3lx/out/v1/bfafd4b9e47b48a099b72253ed169032/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mvxw3ht3lx/out/v1/bfafd4b9e47b48a099b72253ed169032/cenc.mpd"
+      },
+      "drm_key": "6138da1047932e4c4328448493554901:4e8e19728da2159ac564bd5b01843621"
     },
     {
       "match_id": "B0HN2WDD1J",
