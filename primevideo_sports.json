@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "10:02 PM 22-10-2026",
+    "LastUpdate": "10:32 PM 22-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -91,20 +91,6 @@
         "Original Server": "https://a192live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq7ewDBhpq2iWDA2Zha2FtYWkCeChmaWQ6MDFhMTY0MjItODg3NC03MDJhLThhMTktNWUzNDQwY2Y5Mzk5GQE4oQWhAngzL2lrdzl0cXhkc2wvb3V0L3YxL2ZlMGQwYjMyNzg0YTQwZWQ5NTZjYzIzMjBkZTE0ZDE2WCBpAYp5qunfULK_dAuNuyvjhWWcCJDQmOuFD_X6HgqymA/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ikw9tqxdsl/out/v1/fe0d0b32784a40ed956cc2320de14d16/ce4d6ea6-ed1f-474e-be42-9429b2967d79-cenc.mpd"
       },
       "drm_key": "034f3562a3e4563a589f974277e69850:0d576776b8ccc48be5cf9db40d08141e"
-    },
-    {
-      "match_id": "B0HMWHSF74",
-      "title": "Oct 22 - UTR PTT Carvoeiro",
-      "synopsis": "Oct 22 - UTR PTT Carvoeiro",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6c388250-6f64-4a56-a4ee-7da5e598d58d/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HMWHSF74",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq7aW6Bhpq2d86A2ZmYXN0bHkCeChmaWQ6MDFhMTYzMGYtZmMzYy03NmMzLWE0ZjgtNDY2MmZjOWJkNzc4GQE4oQWhAngzL3Znbm56eGp6cm0vb3V0L3YxLzJjYWY3NTAwMjFkYjQzYzU4MzFjYTcwMzcwMmYxOTRmWCAvn3Hp4vTdzXEDQi-PINprW2CU4Fs3LOjYFs5mvaZ7yg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/vgnnzxjzrm/out/v1/2caf750021db43c5831ca703702f194f/9722dd42-7530-4e6e-bdad-c70066af3a0d-cenc.mpd"
-      },
-      "drm_key": "c86e1954d3c3e73639440ec646089a42:f8bf149cff08385ee34ec772894ff301"
     }
   ]
 }
