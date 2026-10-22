@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "01:32 PM 22-10-2026",
+    "LastUpdate": "02:02 PM 22-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 7,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -28,23 +28,6 @@
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
     },
     {
-      "match_id": "B0HN5MNSPC",
-      "title": "New Zealand vs. India",
-      "synopsis": "New Zealand vs. India",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e2a60804-e877-4e77-bc40-5f237b95235a/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HN5MNSPC",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bgbz26zmfn/out/v1/b89d7a705a56462e8c4eee6f4fcbc518/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bgbz26zmfn/out/v1/b89d7a705a56462e8c4eee6f4fcbc518/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bgbz26zmfn/out/v1/b89d7a705a56462e8c4eee6f4fcbc518/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bgbz26zmfn/out/v1/b89d7a705a56462e8c4eee6f4fcbc518/cenc.mpd"
-      },
-      "drm_key": "c3125d35cc46b342a0534a9c5ddd6d31:426221d3ffae19a037f5c755508dbf3c"
-    },
-    {
       "match_id": "B0HFWWJWH6",
       "title": "Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia",
       "synopsis": "Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia",
@@ -62,6 +45,40 @@
       "drm_key": "0d52e23fe7eade15ac5b852ac0a5a23a:5fce44b4d3887f03d32339b27a13637b"
     },
     {
+      "match_id": "B0HN5MNSPC",
+      "title": "New Zealand vs. India",
+      "synopsis": "New Zealand vs. India",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e2a60804-e877-4e77-bc40-5f237b95235a/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HN5MNSPC",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bgbz26zmfn/out/v1/b89d7a705a56462e8c4eee6f4fcbc518/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bgbz26zmfn/out/v1/b89d7a705a56462e8c4eee6f4fcbc518/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bgbz26zmfn/out/v1/b89d7a705a56462e8c4eee6f4fcbc518/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bgbz26zmfn/out/v1/b89d7a705a56462e8c4eee6f4fcbc518/cenc.mpd"
+      },
+      "drm_key": "c3125d35cc46b342a0534a9c5ddd6d31:426221d3ffae19a037f5c755508dbf3c"
+    },
+    {
+      "match_id": "B0HN2WDD1J",
+      "title": "New Zealand Women tour of Australia 2026 - 3rd T20I - Australia Women vs New Zealand Women",
+      "synopsis": "New Zealand Women tour of Australia 2026 - 3rd T20I - Australia Women vs New Zealand Women",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5a14b058-72cd-42a8-a6f2-2d87608be042/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HN2WDD1J",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/upctcqjn8t/out/v1/81cea51017e24bdc86df391c3c77f03b/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/upctcqjn8t/out/v1/81cea51017e24bdc86df391c3c77f03b/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/upctcqjn8t/out/v1/81cea51017e24bdc86df391c3c77f03b/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/upctcqjn8t/out/v1/81cea51017e24bdc86df391c3c77f03b/cenc.mpd"
+      },
+      "drm_key": "a1d03c736494cff8eff6c6b208716715:d41a9479cce7c43faf8e212765fd42c0"
+    },
+    {
       "match_id": "B0HMLGQPBV",
       "title": "Pakistan ODI Tri-Series 2026 - 3rd Match - Sri Lanka vs England",
       "synopsis": "Pakistan ODI Tri-Series 2026 - 3rd Match - Sri Lanka vs England",
@@ -77,6 +94,37 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mvxw3ht3lx/out/v1/bfafd4b9e47b48a099b72253ed169032/cenc.mpd"
       },
       "drm_key": "6138da1047932e4c4328448493554901:4e8e19728da2159ac564bd5b01843621"
+    },
+    {
+      "match_id": "B0HMGBLP4J",
+      "title": "Sri Lanka vs. England",
+      "synopsis": "Sri Lanka vs. England",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f1967cc8-f489-49bc-9556-a5730bfdaa8b/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HMGBLP4J",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
+      },
+      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
+      "match_id": "B0HMWHSF74",
+      "title": "Oct 22 - UTR PTT Carvoeiro",
+      "synopsis": "Oct 22 - UTR PTT Carvoeiro",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6c388250-6f64-4a56-a4ee-7da5e598d58d/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HMWHSF74",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a93live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq7YmiBhpq2cMiA2Zha2FtYWkCeChmaWQ6MDFhMTYyYTItM2RlYS03NDJhLWE1YWYtODIwOTA3ODlhMjRlGQE4oQWhAngzL3l4NGl3dDIwY3Ivb3V0L3YxLzg5NzBkNjQxYmQ4NDRlYzg5YTE4ZGFkZmQyNTg4Y2U4WCBqpG5bucGdhv8LcZiDC-1BwRoodwOtPfUEkoiVhSNCag/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/yx4iwt20cr/out/v1/8970d641bd844ec89a18dadfd2588ce8/4d632ba3-d82d-424a-9064-316379bfa73c-cenc.mpd"
+      },
+      "drm_key": "c86e1954d3c3e73639440ec646089a42:f8bf149cff08385ee34ec772894ff301"
     }
   ]
 }
