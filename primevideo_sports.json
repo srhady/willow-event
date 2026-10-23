@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "03:32 AM 24-10-2026",
+    "LastUpdate": "04:02 AM 24-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
     "LiveCount": 5,
-    "UpcomingCount": 1
+    "UpcomingCount": 0
   },
   "Matches": [
     {
@@ -25,20 +25,6 @@
       "drm_key": "43d1bc01e53504d3c9471ed76261378a:850f0fb8ddf8d48b7c973d0dcd51b588"
     },
     {
-      "match_id": "B0HLTWHDYZ",
-      "title": "MLF LIVE - Team Series Heritage Cup Championship Round",
-      "synopsis": "MLF LIVE - Team Series Heritage Cup Championship Round",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.114d2384-6461-4463-83e9-7cf66945c6b4/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLTWHDYZ",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-emt-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq7269Bhpq26g9A2ZmYXN0bHkCeChmaWQ6MDFhMTZhMDktMmZhMi03MGI2LWEzOWUtNjJiYzNkMTE4NTJjGQE4oQWhAngzL2Z0YnVvamYxcnUvb3V0L3YxL2Y5ZWZmZTllMTFmYTRhZTZiMDg2MjVjODg0MzU1M2E5WCDw14DOmcoUOnkQe2SVN_ziLB4a3DWTfTaccnS4rsPhjA/PDX/49e80033c51045d79cba8d068869c922/v1/dash/159325541587/imdb_amagi_amzn1_dv_live_csid_208d9052-c852-4a59-954a-a06f4279f6fe_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ftbuojf1ru/out/v1/f9effe9e11fa4ae6b08625c8843553a9/ce7baa4c-3166-4a55-96db-25aea9450f51-cenc.mpd?aws.sessionId=7f2957b9-c15b-468e-8a1b-2192022e142e"
-      },
-      "drm_key": "99b9ee4e673c2a5372fc76db8e59f989:98f0d4ac93a419b81489da17aec8a58f"
-    },
-    {
       "match_id": "B0HK7L9DHN",
       "title": "United States: Practice 2 (Sky Sports)",
       "synopsis": "United States: Practice 2 (Sky Sports)",
@@ -53,18 +39,18 @@
       "drm_key": "738da12e370b30e6320e236865073f31:c6bfc21ab526d2dd577a0a642443a451"
     },
     {
-      "match_id": "B0HMVNK85T",
-      "title": "Oct 23 - UTR PTT Newport Beach",
-      "synopsis": "Oct 23 - UTR PTT Newport Beach",
+      "match_id": "B0HN4JXCFT",
+      "title": "Grand Prix of Australia, Qualifying",
+      "synopsis": "Grand Prix of Australia, Qualifying",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.97606270-be22-492b-8140-b49f957ec6f8/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HMVNK85T",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.00c8e6f9-cddb-42a0-a732-78dbe6ad9ae0/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HN4JXCFT",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://a163live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq72e3Bhpq26E3A2Zha2FtYWkCeChmaWQ6MDFhMTY5ZWQtYzAzOS03MDMyLWJiN2ItNzRiM2MxNzg5NjI4GQE4oQWhAngzL2p4d3N1Z3BpY2Mvb3V0L3YxLzM2YjZmZGU1NDMzNzQ2NWI5NmFhNzViZWE3MzA5NDRhWCCFfiolgcAgBdUmkkliVcyq3_C31GE9GZKXPZ0YNOaEDA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/jxwsugpicc/out/v1/36b6fde54337465b96aa75bea730944a/59604c42-5b67-40fb-85bf-585344ec1dcc-cenc.mpd"
+        "Original Server": "https://ABEV233AAAAAAAAMKWUJMJOAUX7UL.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq75jsBhpq29JsA2pjbG91ZGZyb250AngoZmlkOjAxYTE2YWFkLWY4Y2ItNzIyOS1iMTE3LTI4NmEyMzE0MDUxMRkBOKEFoQJ4My8xYnltY2xpYnVyL291dC92MS84MTk3YzhlMDU1Yzk0YTg2ODYyMzY1M2FjNTVjMTBiZlggA9qcA0FR65jYqJ5yM9UzJKMrdiO2z_18Z3V84hEaaOw/IAD/ecb5167adc48418f9e275a06ed14a1f9/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_iad_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/1bymclibur/out/v1/8197c8e055c94a868623653ac55c10bf/38a55cc9-e62e-4ff5-8702-aceca94fd14a-cenc.mpd?aws.sessionId=ebd30613-22c3-4d52-9f46-82402e38fe6a"
       },
-      "drm_key": "00ceb04cf9193ffb1e94018962a4dda1:531e53932a055bf4ef3397e277b04b40"
+      "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
     },
     {
       "match_id": "B0HM7X4J6V",
@@ -81,18 +67,18 @@
       "drm_key": "09998c4229ded8935c2dcb35810c32b9:22737ab7fa376af05a72e29180130d8d"
     },
     {
-      "match_id": "B0HN4JXCFT",
-      "title": "Grand Prix of Australia, Qualifying",
-      "synopsis": "Grand Prix of Australia, Qualifying",
-      "status": "UPCOMING",
-      "time": "Live at 3:35 AM BDT",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.00c8e6f9-cddb-42a0-a732-78dbe6ad9ae0/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HN4JXCFT",
+      "match_id": "B0HMVNK85T",
+      "title": "Oct 23 - UTR PTT Newport Beach",
+      "synopsis": "Oct 23 - UTR PTT Newport Beach",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.97606270-be22-492b-8140-b49f957ec6f8/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HMVNK85T",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://ABEV233AAAAAAAAMKWUJMJOAUX7UL.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq75jsBhpq29JsA2pjbG91ZGZyb250AngoZmlkOjAxYTE2YWFkLWY4Y2ItNzIyOS1iMTE3LTI4NmEyMzE0MDUxMRkBOKEFoQJ4My8xYnltY2xpYnVyL291dC92MS84MTk3YzhlMDU1Yzk0YTg2ODYyMzY1M2FjNTVjMTBiZlggA9qcA0FR65jYqJ5yM9UzJKMrdiO2z_18Z3V84hEaaOw/IAD/ecb5167adc48418f9e275a06ed14a1f9/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_iad_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/1bymclibur/out/v1/8197c8e055c94a868623653ac55c10bf/38a55cc9-e62e-4ff5-8702-aceca94fd14a-cenc.mpd?aws.sessionId=ebd30613-22c3-4d52-9f46-82402e38fe6a"
+        "Original Server": "https://a163live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq72e3Bhpq26E3A2Zha2FtYWkCeChmaWQ6MDFhMTY5ZWQtYzAzOS03MDMyLWJiN2ItNzRiM2MxNzg5NjI4GQE4oQWhAngzL2p4d3N1Z3BpY2Mvb3V0L3YxLzM2YjZmZGU1NDMzNzQ2NWI5NmFhNzViZWE3MzA5NDRhWCCFfiolgcAgBdUmkkliVcyq3_C31GE9GZKXPZ0YNOaEDA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/jxwsugpicc/out/v1/36b6fde54337465b96aa75bea730944a/59604c42-5b67-40fb-85bf-585344ec1dcc-cenc.mpd"
       },
-      "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
+      "drm_key": "00ceb04cf9193ffb1e94018962a4dda1:531e53932a055bf4ef3397e277b04b40"
     }
   ]
 }
