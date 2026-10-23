@@ -1,29 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "04:02 AM 24-10-2026",
+    "LastUpdate": "04:32 AM 24-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HKTVRKWT",
-      "title": "United States: Practice 2",
-      "synopsis": "United States: Practice 2",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d797b96b-bee8-4e4a-8bf0-f70e17a920dd/13/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKTVRKWT",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABBIUC6AAAAAAAAMCZQXSAMZ4WY3M.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq75HpBhpq28tpA2pjbG91ZGZyb250AngoZmlkOjAxYTE2YTkyLTkyZjMtNzRlMi1hMjk1LTgyZGYyYTE4YTgwZhkBOKEFoQJ4My93NnRuc3pvbGFyL291dC92MS8wYWM3MDFjMWVhOGM0MDI2OTcxNzMwYTE0NzI4OTJiMVggdNpJv4gPBtm4ih-BQEYu-qW7nm6pPfneBxlTR-eO35I/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/w6tnszolar/out/v1/0ac701c1ea8c4026971730a1472892b1/86ab13f4-bf7e-4427-a33f-c2442fa2075c-cenc.mpd"
-      },
-      "drm_key": "43d1bc01e53504d3c9471ed76261378a:850f0fb8ddf8d48b7c973d0dcd51b588"
-    },
     {
       "match_id": "B0HK7L9DHN",
       "title": "United States: Practice 2 (Sky Sports)",
@@ -53,20 +39,6 @@
       "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
     },
     {
-      "match_id": "B0HM7X4J6V",
-      "title": "Oct 23 - UTR PTT Lubbock",
-      "synopsis": "Oct 23 - UTR PTT Lubbock",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f888464c-76ed-4632-b75c-0dc3cadffaf4/8/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HM7X4J6V",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABKZLWGAAAAAAAAMKOD5QSKKBAD5H.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq70uRBhpq24URA2pjbG91ZGZyb250AngoZmlkOjAxYTE2OTdmLWNiZWUtNzY2ZC1iZGViLWM1NTczNmRkZTg0YRkBOKEFoQJ4My9jbWZiMDMyOGx3L291dC92MS82MWRhZTg3OTBhOTc0ZTkyYmUyMjc3ZTRkODk0Y2FmNlgg6fskq5cm-W364-WANCPaU_2dTcg9bHxczKGnF-KicAA/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/cmfb0328lw/out/v1/61dae8790a974e92be2277e4d894caf6/eb627724-8b63-4540-9583-c711e2d8701d-cenc.mpd"
-      },
-      "drm_key": "09998c4229ded8935c2dcb35810c32b9:22737ab7fa376af05a72e29180130d8d"
-    },
-    {
       "match_id": "B0HMVNK85T",
       "title": "Oct 23 - UTR PTT Newport Beach",
       "synopsis": "Oct 23 - UTR PTT Newport Beach",
@@ -79,6 +51,20 @@
         "Original Server": "https://a163live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq72e3Bhpq26E3A2Zha2FtYWkCeChmaWQ6MDFhMTY5ZWQtYzAzOS03MDMyLWJiN2ItNzRiM2MxNzg5NjI4GQE4oQWhAngzL2p4d3N1Z3BpY2Mvb3V0L3YxLzM2YjZmZGU1NDMzNzQ2NWI5NmFhNzViZWE3MzA5NDRhWCCFfiolgcAgBdUmkkliVcyq3_C31GE9GZKXPZ0YNOaEDA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/jxwsugpicc/out/v1/36b6fde54337465b96aa75bea730944a/59604c42-5b67-40fb-85bf-585344ec1dcc-cenc.mpd"
       },
       "drm_key": "00ceb04cf9193ffb1e94018962a4dda1:531e53932a055bf4ef3397e277b04b40"
+    },
+    {
+      "match_id": "B0HM7X4J6V",
+      "title": "Oct 23 - UTR PTT Lubbock",
+      "synopsis": "Oct 23 - UTR PTT Lubbock",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f888464c-76ed-4632-b75c-0dc3cadffaf4/8/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HM7X4J6V",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABKZLWGAAAAAAAAMKOD5QSKKBAD5H.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq70uRBhpq24URA2pjbG91ZGZyb250AngoZmlkOjAxYTE2OTdmLWNiZWUtNzY2ZC1iZGViLWM1NTczNmRkZTg0YRkBOKEFoQJ4My9jbWZiMDMyOGx3L291dC92MS82MWRhZTg3OTBhOTc0ZTkyYmUyMjc3ZTRkODk0Y2FmNlgg6fskq5cm-W364-WANCPaU_2dTcg9bHxczKGnF-KicAA/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/cmfb0328lw/out/v1/61dae8790a974e92be2277e4d894caf6/eb627724-8b63-4540-9583-c711e2d8701d-cenc.mpd"
+      },
+      "drm_key": "09998c4229ded8935c2dcb35810c32b9:22737ab7fa376af05a72e29180130d8d"
     }
   ]
 }
