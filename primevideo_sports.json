@@ -1,15 +1,29 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "11:02 PM 23-10-2026",
+    "LastUpdate": "11:32 PM 23-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 7,
+    "LiveCount": 8,
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HHGDY551",
+      "title": "United States: Practice 1 (Sky Sports)",
+      "synopsis": "United States: Practice 1 (Sky Sports)",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.670f09fd-65d5-49ca-b699-f212277f6066/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HHGDY551",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABBI5Q5AAAAAAAAMDC77LHZCWRLRU.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq71mhBhpq25MhA2pjbG91ZGZyb250AngoZmlkOjAxYTE2OWI2LWI5ZTUtNzdlZC05ZjQyLTlhZjAyMWI0YzAwNBkBOKEFoQJ4My9pend2enVyeG9oL291dC92MS82ZjcyYTM3ZTliNzI0MjEzOGJkMDc1NTQyNDE2Yzc2Ylggphk467UhkZRsTat7f2OA88oQqUqiXBkBh6KqU4ke4ds/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/izwvzurxoh/out/v1/6f72a37e9b7242138bd075542416c76b/20aac48c-e46d-45c5-a494-8fac5b8d119e-cenc.mpd"
+      },
+      "drm_key": "936bc365c99735dda5e25b758ad1c977:6a76fb9b89ef0381fcbce56b2413fff1"
+    },
     {
       "match_id": "B0H37FB27F",
       "title": "Predator European Championships: Spain",
@@ -28,35 +42,18 @@
       "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
     },
     {
-      "match_id": "B0HN7ZPGJ3",
-      "title": "Sportsman World Finals",
-      "synopsis": "Sportsman World Finals",
+      "match_id": "B0HKPFKR3Q",
+      "title": "United States: Practice 1",
+      "synopsis": "United States: Practice 1",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.baa42b46-d127-43fe-bb8f-dd6ed9944a72/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HN7ZPGJ3",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dc09ea53-e637-4f70-816c-1ed7d7bfa123/9/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKPFKR3Q",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd"
+        "Original Server": "https://a140live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq72CuBhpq25ouA2Zha2FtYWkCeChmaWQ6MDFhMTY5ZDItNDQzNS03N2FlLWFmMWYtZmE1ODIxOWM4YzU0GQE4oQWhAngzL2FsZ2k3ZGZ2aWsvb3V0L3YxLzVkZjk5NzYxY2E0NTQxZWNhODIwOTdmMTFkNzJlZDRiWCBZOOzy2QqRODHuf-wi1_oybA_JuyDZxlqRyhcwxQldUw/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/algi7dfvik/out/v1/5df99761ca4541eca82097f11d72ed4b/59aaccd1-9be3-497f-a667-f89cee10ec6e-cenc.mpd"
       },
-      "drm_key": "2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca"
-    },
-    {
-      "match_id": "B0HHGDY551",
-      "title": "United States: Practice 1 (Sky Sports)",
-      "synopsis": "United States: Practice 1 (Sky Sports)",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.670f09fd-65d5-49ca-b699-f212277f6066/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HHGDY551",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABBI5Q5AAAAAAAAMDC77LHZCWRLRU.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq71mhBhpq25MhA2pjbG91ZGZyb250AngoZmlkOjAxYTE2OWI2LWI5ZTUtNzdlZC05ZjQyLTlhZjAyMWI0YzAwNBkBOKEFoQJ4My9pend2enVyeG9oL291dC92MS82ZjcyYTM3ZTliNzI0MjEzOGJkMDc1NTQyNDE2Yzc2Ylggphk467UhkZRsTat7f2OA88oQqUqiXBkBh6KqU4ke4ds/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/izwvzurxoh/out/v1/6f72a37e9b7242138bd075542416c76b/20aac48c-e46d-45c5-a494-8fac5b8d119e-cenc.mpd"
-      },
-      "drm_key": "936bc365c99735dda5e25b758ad1c977:6a76fb9b89ef0381fcbce56b2413fff1"
+      "drm_key": "d89316b08f9c207e75fb8c2590fe1b73:f0ebfa596698cb62c627c3dc096f7fdb"
     },
     {
       "match_id": "B0HFG5QN17",
@@ -76,12 +73,29 @@
       "drm_key": "dbad433264aa645af31c76701ae83e38:f8fb07f5bc0a587bf4faa5ca640b1c00"
     },
     {
+      "match_id": "B0HN7ZPGJ3",
+      "title": "Sportsman World Finals",
+      "synopsis": "Sportsman World Finals",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.baa42b46-d127-43fe-bb8f-dd6ed9944a72/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HN7ZPGJ3",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd"
+      },
+      "drm_key": "2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca"
+    },
+    {
       "match_id": "B0HGB95PB3",
       "title": "Tennis Today Live-Brussels-ATP, Lyon-ATP & Almaty-ATP Quarterfinals",
       "synopsis": "Tennis Today Live-Brussels-ATP, Lyon-ATP & Almaty-ATP Quarterfinals",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1a0108cd-5454-45d0-b1ee-13f8e535bef5/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1a0108cd-5454-45d0-b1ee-13f8e535bef5/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HGB95PB3",
       "is_free": false,
       "stream_url": {
