@@ -1,29 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "05:02 AM 24-10-2026",
+    "LastUpdate": "05:32 AM 24-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
-    "UpcomingCount": 1
+    "LiveCount": 6,
+    "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HN4JXCFT",
-      "title": "Grand Prix of Australia, Qualifying",
-      "synopsis": "Grand Prix of Australia, Qualifying",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.00c8e6f9-cddb-42a0-a732-78dbe6ad9ae0/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HN4JXCFT",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABEV233AAAAAAAAMKWUJMJOAUX7UL.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq75jsBhpq29JsA2pjbG91ZGZyb250AngoZmlkOjAxYTE2YWFkLWY4Y2ItNzIyOS1iMTE3LTI4NmEyMzE0MDUxMRkBOKEFoQJ4My8xYnltY2xpYnVyL291dC92MS84MTk3YzhlMDU1Yzk0YTg2ODYyMzY1M2FjNTVjMTBiZlggA9qcA0FR65jYqJ5yM9UzJKMrdiO2z_18Z3V84hEaaOw/IAD/ecb5167adc48418f9e275a06ed14a1f9/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_iad_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/1bymclibur/out/v1/8197c8e055c94a868623653ac55c10bf/38a55cc9-e62e-4ff5-8702-aceca94fd14a-cenc.mpd?aws.sessionId=ebd30613-22c3-4d52-9f46-82402e38fe6a"
-      },
-      "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
-    },
     {
       "match_id": "B0HNX1J2GC",
       "title": "Combat FC 14 Prelims",
@@ -40,6 +26,54 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lbgomzfdel/out/v1/99687c04728943498f884d9bf6a0c837/cenc.mpd"
       },
       "drm_key": "1918ddf008413696077e06138983c5f9:2d66e0d80ca9ac6ad8b8c230a97f74b4"
+    },
+    {
+      "match_id": "B0HMHWPRJH",
+      "title": "OHL Hockey: Flint Firebirds vs Saginaw Spirit",
+      "synopsis": "OHL Hockey: Flint Firebirds vs Saginaw Spirit",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.81f48928-b0b2-470b-a7c1-22df84c6919a/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HMHWPRJH",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd"
+      },
+      "drm_key": "b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9"
+    },
+    {
+      "match_id": "B0HN9R2SKN",
+      "title": "Volleyball - MAIA 2026 Season - Nebraska Kearney at Newman",
+      "synopsis": "Volleyball - MAIA 2026 Season - Nebraska Kearney at Newman",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fffc1581-cde6-48a5-9233-5afd99bdaf89/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HN9R2SKN",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd"
+      },
+      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
+    },
+    {
+      "match_id": "B0HN4JXCFT",
+      "title": "Grand Prix of Australia, Qualifying",
+      "synopsis": "Grand Prix of Australia, Qualifying",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.00c8e6f9-cddb-42a0-a732-78dbe6ad9ae0/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HN4JXCFT",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABEV233AAAAAAAAMKWUJMJOAUX7UL.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq75jsBhpq29JsA2pjbG91ZGZyb250AngoZmlkOjAxYTE2YWFkLWY4Y2ItNzIyOS1iMTE3LTI4NmEyMzE0MDUxMRkBOKEFoQJ4My8xYnltY2xpYnVyL291dC92MS84MTk3YzhlMDU1Yzk0YTg2ODYyMzY1M2FjNTVjMTBiZlggA9qcA0FR65jYqJ5yM9UzJKMrdiO2z_18Z3V84hEaaOw/IAD/ecb5167adc48418f9e275a06ed14a1f9/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_iad_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/1bymclibur/out/v1/8197c8e055c94a868623653ac55c10bf/38a55cc9-e62e-4ff5-8702-aceca94fd14a-cenc.mpd?aws.sessionId=ebd30613-22c3-4d52-9f46-82402e38fe6a"
+      },
+      "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
     },
     {
       "match_id": "B0HMFJXK7B",
@@ -68,23 +102,6 @@
         "Original Server": "https://a163live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq72e3Bhpq26E3A2Zha2FtYWkCeChmaWQ6MDFhMTY5ZWQtYzAzOS03MDMyLWJiN2ItNzRiM2MxNzg5NjI4GQE4oQWhAngzL2p4d3N1Z3BpY2Mvb3V0L3YxLzM2YjZmZGU1NDMzNzQ2NWI5NmFhNzViZWE3MzA5NDRhWCCFfiolgcAgBdUmkkliVcyq3_C31GE9GZKXPZ0YNOaEDA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/jxwsugpicc/out/v1/36b6fde54337465b96aa75bea730944a/59604c42-5b67-40fb-85bf-585344ec1dcc-cenc.mpd"
       },
       "drm_key": "00ceb04cf9193ffb1e94018962a4dda1:531e53932a055bf4ef3397e277b04b40"
-    },
-    {
-      "match_id": "B0HMHWPRJH",
-      "title": "OHL Hockey: Flint Firebirds vs Saginaw Spirit",
-      "synopsis": "OHL Hockey: Flint Firebirds vs Saginaw Spirit",
-      "status": "UPCOMING",
-      "time": "Live at 5:05 AM BDT",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.81f48928-b0b2-470b-a7c1-22df84c6919a/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HMHWPRJH",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd"
-      },
-      "drm_key": "b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9"
     }
   ]
 }
