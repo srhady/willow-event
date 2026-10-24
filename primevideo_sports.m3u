@@ -1,17 +1,31 @@
 #EXTM3U
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:11:32 PM 24-10-2026
+#LAST_UPDATE:12:02 AM 25-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:12
+#LIVE_COUNT:13
 #UPCOMING_COUNT:0
+
+#EXTINF:-1 tvg-id="B0HLXD1CFC" tvg-name="8ight Strikes 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.31648784-f111-4333-a52a-c095b15e711f/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",8ight Strikes 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bbdba18ab0d7703db5f3daf7f63c0d4:126f816b9e3e2784086f5658b2fa2da7
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hhdwlzlfyp/out/v1/e4254483facf470fa4b47daf8c954e51/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HK1C6G88" tvg-name="8ight Strikes 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8cf861e8-46c2-428a-b4b8-5c236fd8fd0e/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",8ight Strikes 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0H37FB27F" tvg-name="Predator European Championships: Spain" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.447494d8-1dc7-4b08-89c7-f04ce02111ea/9/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Predator European Championships: Spain
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HKMYHCZ7" tvg-name="Dalton Smith vs. Alberto Puello: Prelims" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9349c13a-2b60-4325-81eb-3b71d6d4ee97/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Dalton Smith vs. Alberto Puello: Prelims
 #KODIPROP:inputstream=inputstream.adaptive
@@ -20,20 +34,6 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9
 #KODIPROP:inputstream.adaptive.license_key=99f2d8b38451875101393cfda6cc5e77:3d32bdfa5fe52cf74567eb20716b5a65
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qkvxe8ubng/out/v1/dcedefedc735415a9f9d36d3d3016629/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HKD8S5JT" tvg-name="Napoli vs. Roma" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.45f2618c-7d75-4b42-a290-5bd947715bda/5/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Napoli vs. Roma
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HN2MZG2F" tvg-name="Albany vs. Rhode Island" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8e6b3f30-af29-41eb-abce-558ec065fb52/2/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Albany vs. Rhode Island
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd
-
 #EXTINF:-1 tvg-id="B0HN5BYZNW" tvg-name="New Haven vs. Central Connecticut" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2ca173b4-1d07-4930-bcee-32452c49c0ff/1/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",New Haven vs. Central Connecticut
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -41,24 +41,38 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvye
 #KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
 
+#EXTINF:-1 tvg-id="B0HN2MZG2F" tvg-name="Albany vs. Rhode Island" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8e6b3f30-af29-41eb-abce-558ec065fb52/2/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Albany vs. Rhode Island
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HGT33HQZ" tvg-name="Motorbootrennen-Season 2026" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.95345369-d40f-4240-afe0-eed26cbd95bf/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Motorbootrennen-Season 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b3c143f76cc86fcaf89268bb8881b23a:f957c339c7098930d2421c15b64b1452
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ac4wkwd8nd/out/v1/67df1a7f8a284bef90b219be4aeec7e8/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HKD8S5JT" tvg-name="Napoli vs. Roma" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.45f2618c-7d75-4b42-a290-5bd947715bda/5/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Napoli vs. Roma
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
 #EXTINF:-1 tvg-id="B0H6225HN7" tvg-name="Grand National Cross Country at Ironman" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5daab957-4f9c-413f-bbea-d6d5c7e875ad/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Grand National Cross Country at Ironman
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HMLCS454" tvg-name="Tennis Today Live-Brussels-ATP & Lyon-ATP Semifinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a03d6335-6e3e-409e-90c8-af43d4d02a75/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Tennis Today Live-Brussels-ATP & Lyon-ATP Semifinals
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HMDH8CF2" tvg-name="Antonio Carraro Imoco Conegliano vs. Savino Del Bene Scandicci" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.21ab541b-9387-4ac2-a1b6-139309f39adc/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Antonio Carraro Imoco Conegliano vs. Savino Del Bene Scandicci
+#EXTINF:-1 tvg-id="B0HH6SNPFQ" tvg-name="Gatineau Fusion vs. Eastern Ontario Capitals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.45786d29-bc96-4ff6-a94d-ef16281e728f/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Gatineau Fusion vs. Eastern Ontario Capitals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
 
