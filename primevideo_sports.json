@@ -1,15 +1,32 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "04:02 AM 25-10-2026",
+    "LastUpdate": "04:32 AM 25-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 7,
+    "LiveCount": 10,
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HLZH59B8",
+      "title": "Arkansas Pine Bluff vs. Florida A&M",
+      "synopsis": "Arkansas Pine Bluff vs. Florida A&M",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f7d46f7b-a985-4d31-9cb3-d994e3f853ed/14/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLZH59B8",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xlgkskdum9/out/v1/16f650f748b848c2930c8597e26a9039/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xlgkskdum9/out/v1/16f650f748b848c2930c8597e26a9039/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xlgkskdum9/out/v1/16f650f748b848c2930c8597e26a9039/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xlgkskdum9/out/v1/16f650f748b848c2930c8597e26a9039/cenc.mpd"
+      },
+      "drm_key": "18d22a6846e00697bbfb57878643a3d4:d6bacbdc4bd380fdc6c25f4c717eb0d9"
+    },
     {
       "match_id": "B0HNVWTKKW",
       "title": "Eastern New Mexico University vs Western Oregon - Football",
@@ -28,21 +45,18 @@
       "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
     },
     {
-      "match_id": "B0HLZH59B8",
-      "title": "Arkansas Pine Bluff vs. Florida A&M",
-      "synopsis": "Arkansas Pine Bluff vs. Florida A&M",
+      "match_id": "B0HKY1X7X9",
+      "title": "MLS Countdown",
+      "synopsis": "MLS Countdown",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f7d46f7b-a985-4d31-9cb3-d994e3f853ed/14/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLZH59B8",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.170bbd7e-89a0-45a8-92b4-8bcdc781e423/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKY1X7X9",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xlgkskdum9/out/v1/16f650f748b848c2930c8597e26a9039/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xlgkskdum9/out/v1/16f650f748b848c2930c8597e26a9039/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xlgkskdum9/out/v1/16f650f748b848c2930c8597e26a9039/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xlgkskdum9/out/v1/16f650f748b848c2930c8597e26a9039/cenc.mpd"
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq8Ph-Bhpq3TH-A2ZmYXN0bHkCeChmaWQ6MDFhMTcwMGItNDgyNy03MTQ2LWEwYjAtY2VlZDA1ZDg1NjdkGQE4oQWhAngzL3A4dWFubWwxMjYvb3V0L3YxLzA2MmQwMGM2MmQ0NzQyZTRiOTEzM2Y0M2E0NmRiMTllWCBZ8C1423obCrCKsrlrYJ_PIf9aOMv8uHOprhsoVynuOw/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/p8uanml126/out/v1/062d00c62d4742e4b9133f43a46db19e/86db767c-8291-4e4a-a740-ce0f2f3b8e37-cenc.mpd"
       },
-      "drm_key": "18d22a6846e00697bbfb57878643a3d4:d6bacbdc4bd380fdc6c25f4c717eb0d9"
+      "drm_key": "4e1d3b0e27ec124334b1c8c1c208cfb7:834558552dec34b33d4db08d7a5c89eb"
     },
     {
       "match_id": "B0HGT33HQZ",
@@ -62,21 +76,35 @@
       "drm_key": "b3c143f76cc86fcaf89268bb8881b23a:f957c339c7098930d2421c15b64b1452"
     },
     {
-      "match_id": "B0HMDK82PB",
-      "title": "Monster Jam LIVE-LIVE: Monster Jam from Syracuse, NY - 10/24/2026",
-      "synopsis": "Monster Jam LIVE-LIVE: Monster Jam from Syracuse, NY - 10/24/2026",
+      "match_id": "B0H1YKHGVX",
+      "title": "MLS La Previa⁩",
+      "synopsis": "MLS La Previa⁩",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.350381e0-bfcb-464e-8947-f4be16efa978/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HMDK82PB",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.57a117dc-2956-4a9e-867c-38574b0a3957/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H1YKHGVX",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hrgfarhfhm/out/v1/5bc621696020445591a65f408b0da0f9/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hrgfarhfhm/out/v1/5bc621696020445591a65f408b0da0f9/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hrgfarhfhm/out/v1/5bc621696020445591a65f408b0da0f9/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hrgfarhfhm/out/v1/5bc621696020445591a65f408b0da0f9/cenc.mpd"
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq8Ph-Bhpq3TH-A2ZmYXN0bHkCeChmaWQ6MDFhMTcwMGItNGIyZi03MTQwLTg0MTItMjk0NGVjMTg2NzFjGQE4oQWhAngzLzgwdWtjeGZ4Nmovb3V0L3YxL2Y5ZjZhMzg2YzkwZTRlOGJiYjFhYjc4MTY0M2Q2YzI4WCDtunS8oDGo-8-Gy9VXCjKcu5-tBBcHu7WCdrKfXXoqqw/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/80ukcxfx6j/out/v1/f9f6a386c90e4e8bbb1ab781643d6c28/6fdf6a0a-03c4-4cc9-b975-1c7f8443ec9c-cenc.mpd"
       },
-      "drm_key": "6335da4b1ce142c1c6c1156b713e9dd9:bd62fe6319a61a5a6f798213f1dda0b9"
+      "drm_key": "d27d322d4fd8c2c89e504c88c02d908d:2b33e6774f0e79f4d5a43344ed273b93"
+    },
+    {
+      "match_id": "B0HJ2BBHH6",
+      "title": "Denver vs. Racing Lou",
+      "synopsis": "Denver vs. Racing Lou",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f5cf4de4-bdc4-40ec-9901-4a4bd279b565/2/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJ2BBHH6",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lcjfpbsdxg/out/v1/0a93294385c14668baeba1b60de9f791/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lcjfpbsdxg/out/v1/0a93294385c14668baeba1b60de9f791/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/lcjfpbsdxg/out/v1/0a93294385c14668baeba1b60de9f791/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/lcjfpbsdxg/out/v1/0a93294385c14668baeba1b60de9f791/cenc.mpd"
+      },
+      "drm_key": "ad6e7091d1d36a16d5475bdb2d900888:8c67e6b1e4bcf1ee1f12167526ef2503"
     },
     {
       "match_id": "B0HL1Z6G4S",
@@ -94,6 +122,23 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd"
       },
       "drm_key": "dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b"
+    },
+    {
+      "match_id": "B0HMDK82PB",
+      "title": "Monster Jam LIVE-LIVE: Monster Jam from Syracuse, NY - 10/24/2026",
+      "synopsis": "Monster Jam LIVE-LIVE: Monster Jam from Syracuse, NY - 10/24/2026",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.350381e0-bfcb-464e-8947-f4be16efa978/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HMDK82PB",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hrgfarhfhm/out/v1/5bc621696020445591a65f408b0da0f9/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hrgfarhfhm/out/v1/5bc621696020445591a65f408b0da0f9/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hrgfarhfhm/out/v1/5bc621696020445591a65f408b0da0f9/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hrgfarhfhm/out/v1/5bc621696020445591a65f408b0da0f9/cenc.mpd"
+      },
+      "drm_key": "6335da4b1ce142c1c6c1156b713e9dd9:bd62fe6319a61a5a6f798213f1dda0b9"
     },
     {
       "match_id": "B0HGFZ1JSJ",
