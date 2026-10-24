@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "10:32 PM 24-10-2026",
+    "LastUpdate": "11:02 PM 24-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -28,6 +28,23 @@
       "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
     },
     {
+      "match_id": "B0HKD8S5JT",
+      "title": "Napoli vs. Roma",
+      "synopsis": "Napoli vs. Roma",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.45f2618c-7d75-4b42-a290-5bd947715bda/5/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKD8S5JT",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd"
+      },
+      "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+    },
+    {
       "match_id": "B0HKMYHCZ7",
       "title": "Dalton Smith vs. Alberto Puello: Prelims",
       "synopsis": "Dalton Smith vs. Alberto Puello: Prelims",
@@ -45,21 +62,21 @@
       "drm_key": "99f2d8b38451875101393cfda6cc5e77:3d32bdfa5fe52cf74567eb20716b5a65"
     },
     {
-      "match_id": "B0HKD8S5JT",
-      "title": "Napoli vs. Roma",
-      "synopsis": "Napoli vs. Roma",
+      "match_id": "B0HN2MZG2F",
+      "title": "Albany vs. Rhode Island",
+      "synopsis": "Albany vs. Rhode Island",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.45f2618c-7d75-4b42-a290-5bd947715bda/5/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKD8S5JT",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8e6b3f30-af29-41eb-abce-558ec065fb52/2/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HN2MZG2F",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd"
       },
-      "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+      "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
     },
     {
       "match_id": "B0HN5BYZNW",
@@ -79,21 +96,21 @@
       "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
     },
     {
-      "match_id": "B0HN2MZG2F",
-      "title": "Albany vs. Rhode Island",
-      "synopsis": "Albany vs. Rhode Island",
+      "match_id": "B0H6225HN7",
+      "title": "Grand National Cross Country at Ironman",
+      "synopsis": "Grand National Cross Country at Ironman",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8e6b3f30-af29-41eb-abce-558ec065fb52/2/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HN2MZG2F",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5daab957-4f9c-413f-bbea-d6d5c7e875ad/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H6225HN7",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd"
       },
-      "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
+      "drm_key": "2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca"
     },
     {
       "match_id": "B0HMDH8CF2",
@@ -130,18 +147,18 @@
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
     },
     {
-      "match_id": "B0HMHT3SS9",
-      "title": "Oct 24 - UTR PTT Newport Beach",
-      "synopsis": "Oct 24 - UTR PTT Newport Beach",
+      "match_id": "B0HKBC7YJG",
+      "title": "Oct 24 - UTR PTT Lubbock",
+      "synopsis": "Oct 24 - UTR PTT Lubbock",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.56a2a022-7a73-4092-b1a5-2da28407975e/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HMHT3SS9",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1883eb13-5a8a-43af-844c-1dd27ec58120/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKBC7YJG",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://ABDTGQHAAAAAAAAMNXZVUVAHPRAVL.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq8KQeBhpq3N2eA2pjbG91ZGZyb250AngoZmlkOjAxYTE2ZWMxLWIzNzMtNzI1YS05ZDZhLTNhNDY5ODE1NTQ4NhkBOKEFoQJ4My9oamJrOGV0ZTc0L291dC92MS85NjQ4ZTY0MGM1Mjc0OGZhODhjZDQ2MjUzMjk2OWRiOFggZyEBG7y-hYr7WSaB3ObOn78lGrXEgdFFbkiOc43AiaQ/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/hjbk8ete74/out/v1/9648e640c52748fa88cd462532969db8/1f1cdefd-7997-4a20-881f-83076e1bf804-cenc.mpd"
+        "Original Server": "https://a59live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq8ID2Bhpq3Lp2A2Zha2FtYWkCeChmaWQ6MDFhMTZlMzgtNjBiZC03MDQzLWFlNTQtM2YzMDVmOTZhODI2GQE4oQWhAngzL3JxdmZlcWZiaXcvb3V0L3YxL2FjMmI5ZjVjOTBhZDQ3NjU5YTUxOGIwZTI1YmM1ZmZhWCAfaNc4b2JfbSFKtEZyobQQkTBfszB3AHmQ_8orLvDBAg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/rqvfeqfbiw/out/v1/ac2b9f5c90ad47659a518b0e25bc5ffa/77021a61-1196-4ae4-ba84-4b9b97dd1b8f-cenc.mpd"
       },
-      "drm_key": "457fcdc2acc07f67f95c9290070ca75c:b70a8cb0f50fe660f4c8b6cfdb54758d"
+      "drm_key": "1cb63584cef2e7f3c720fb1f19b5ffe0:ad01d8b6f68f6b555e5013b1bed6f608"
     },
     {
       "match_id": "B0HNDJV4ST",
@@ -161,32 +178,18 @@
       "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
     },
     {
-      "match_id": "B0HKBC7YJG",
-      "title": "Oct 24 - UTR PTT Lubbock",
-      "synopsis": "Oct 24 - UTR PTT Lubbock",
+      "match_id": "B0HMHT3SS9",
+      "title": "Oct 24 - UTR PTT Newport Beach",
+      "synopsis": "Oct 24 - UTR PTT Newport Beach",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1883eb13-5a8a-43af-844c-1dd27ec58120/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKBC7YJG",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.56a2a022-7a73-4092-b1a5-2da28407975e/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HMHT3SS9",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://a59live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq8ID2Bhpq3Lp2A2Zha2FtYWkCeChmaWQ6MDFhMTZlMzgtNjBiZC03MDQzLWFlNTQtM2YzMDVmOTZhODI2GQE4oQWhAngzL3JxdmZlcWZiaXcvb3V0L3YxL2FjMmI5ZjVjOTBhZDQ3NjU5YTUxOGIwZTI1YmM1ZmZhWCAfaNc4b2JfbSFKtEZyobQQkTBfszB3AHmQ_8orLvDBAg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/rqvfeqfbiw/out/v1/ac2b9f5c90ad47659a518b0e25bc5ffa/77021a61-1196-4ae4-ba84-4b9b97dd1b8f-cenc.mpd"
+        "Original Server": "https://ABDTGQHAAAAAAAAMNXZVUVAHPRAVL.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq8KQeBhpq3N2eA2pjbG91ZGZyb250AngoZmlkOjAxYTE2ZWMxLWIzNzMtNzI1YS05ZDZhLTNhNDY5ODE1NTQ4NhkBOKEFoQJ4My9oamJrOGV0ZTc0L291dC92MS85NjQ4ZTY0MGM1Mjc0OGZhODhjZDQ2MjUzMjk2OWRiOFggZyEBG7y-hYr7WSaB3ObOn78lGrXEgdFFbkiOc43AiaQ/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/hjbk8ete74/out/v1/9648e640c52748fa88cd462532969db8/1f1cdefd-7997-4a20-881f-83076e1bf804-cenc.mpd"
       },
-      "drm_key": "1cb63584cef2e7f3c720fb1f19b5ffe0:ad01d8b6f68f6b555e5013b1bed6f608"
-    },
-    {
-      "match_id": "B0HL81V5WM",
-      "title": "Oct 24 - UTR PTT Carvoeiro",
-      "synopsis": "Oct 24 - UTR PTT Carvoeiro",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4875a25c-9031-407b-8f89-785062c2f202/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HL81V5WM",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq8CyTBhpq3GYTA2ZmYXN0bHkCeChmaWQ6MDFhMTZjZWUtYmM3NS03MTIyLWE5ZWUtMTk2ZGFjZmFmY2Y1GQE4oQWhAngzL3BjcTUwYzJmeWwvb3V0L3YxLzE2ZTI2YjcxNzY5NzRiZjJhYTM3ZGFiYTdkOGU3OTdhWCDmWR-Xad-vUyUf8aClzdqjZuMYgBEd2lxjX7eSGyM5hw/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/pcq50c2fyl/out/v1/16e26b7176974bf2aa37daba7d8e797a/94742860-2370-4870-ac48-af02740ff63b-cenc.mpd"
-      },
-      "drm_key": "e66802680775862376b9c8bda483f6b4:6aba3f9105c682795f2e3a6ea24f7cd3"
+      "drm_key": "457fcdc2acc07f67f95c9290070ca75c:b70a8cb0f50fe660f4c8b6cfdb54758d"
     }
   ]
 }
