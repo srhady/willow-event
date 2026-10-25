@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "11:32 AM 25-10-2026",
+    "LastUpdate": "12:02 PM 25-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 3,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -28,21 +28,18 @@
       "drm_key": "9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb"
     },
     {
-      "match_id": "B0H8W7GDJL",
-      "title": "AHL Hockey: Calgary Wranglers vs Abbotsford Canucks",
-      "synopsis": "AHL Hockey: Calgary Wranglers vs Abbotsford Canucks",
+      "match_id": "B0HN5G6VWK",
+      "title": "Oct 25 - UTR PTT Bengaluru Men",
+      "synopsis": "Oct 25 - UTR PTT Bengaluru Men",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c95e2615-76f4-44e1-b340-96410f31feaa/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H8W7GDJL",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f9ad2cc8-15f8-41fb-add3-d18f13b6c6a5/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HN5G6VWK",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd"
+        "Original Server": "https://ABBIZS7AAAAAAAAMBVVUWOCT3XKDZ.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq8T7JBhpq3XhJA2pjbG91ZGZyb250AngoZmlkOjAxYTE3MTFkLWRkNGYtNzI0YS04YTU5LWUwZmQ0OWI1Y2M3ZRkBOKEFoQJ4My9yb2Z1NG05a2YyL291dC92MS9mMGQxMTdjZTQ3Y2E0OTdlYjJjNDE0MTY1Zjg2YzA0YlggF1xwLu42eW8Ejqx4PcKIYVxH6cEVmv8B0iuhJrNnPIM/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/rofu4m9kf2/out/v1/f0d117ce47ca497eb2c414165f86c04b/07a923fb-e0a3-4012-9cf8-45e7a9589f30-cenc.mpd"
       },
-      "drm_key": "b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9"
+      "drm_key": "58564b6d4733f873b5e738a7dac86617:2e2505f88da5f5e1e58d7666930bdafa"
     },
     {
       "match_id": "B0HMX2NC56",
@@ -57,20 +54,6 @@
         "Original Server": "https://a106live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq8P-PBhpq3TkPA2Zha2FtYWkCeChmaWQ6MDFhMTcwMjYtZTM3OC03NDY0LTg5Y2EtMjJjOTcxNGQ2NmE3GQE4oQWhAngzL2F1aGNjd2dnYW8vb3V0L3YxLzMwZjNhZDliYTJjMzQwNzM5ZWEyOTQzZjI5ZDQ0YjMyWCBO3hMUokrNWHcvKktW7zSdqNet_tiF_VIYASVA8b1NmA/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/auhccwggao/out/v1/30f3ad9ba2c340739ea2943f29d44b32/67c248f8-6579-4fc0-b1c6-3409ccf5e5ea-cenc.mpd?aws.sessionId=9562ab18-d16a-443f-bab9-36dce047a45c"
       },
       "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
-    },
-    {
-      "match_id": "B0HN5G6VWK",
-      "title": "Oct 25 - UTR PTT Bengaluru Men",
-      "synopsis": "Oct 25 - UTR PTT Bengaluru Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f9ad2cc8-15f8-41fb-add3-d18f13b6c6a5/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HN5G6VWK",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABBIZS7AAAAAAAAMBVVUWOCT3XKDZ.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq8T7JBhpq3XhJA2pjbG91ZGZyb250AngoZmlkOjAxYTE3MTFkLWRkNGYtNzI0YS04YTU5LWUwZmQ0OWI1Y2M3ZRkBOKEFoQJ4My9yb2Z1NG05a2YyL291dC92MS9mMGQxMTdjZTQ3Y2E0OTdlYjJjNDE0MTY1Zjg2YzA0YlggF1xwLu42eW8Ejqx4PcKIYVxH6cEVmv8B0iuhJrNnPIM/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/rofu4m9kf2/out/v1/f0d117ce47ca497eb2c414165f86c04b/07a923fb-e0a3-4012-9cf8-45e7a9589f30-cenc.mpd"
-      },
-      "drm_key": "58564b6d4733f873b5e738a7dac86617:2e2505f88da5f5e1e58d7666930bdafa"
     }
   ]
 }
