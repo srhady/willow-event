@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "04:02 PM 25-10-2026",
+    "LastUpdate": "04:32 PM 25-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -10,6 +10,23 @@
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0H37FB27F",
+      "title": "Predator European Championships: Spain",
+      "synopsis": "Predator European Championships: Spain",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.447494d8-1dc7-4b08-89c7-f04ce02111ea/9/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H37FB27F",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd"
+      },
+      "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
+    },
     {
       "match_id": "B0HJJJT7SP",
       "title": "Rybakina vs. Fernandez",
@@ -77,20 +94,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/t0zydsmzll/out/v1/62025d771c7b4fe7a727ede5f3d6b8ec/cenc.mpd"
       },
       "drm_key": "53ac5670511d1300366b35b85eb6eadc:e255086091e4638f16985ca3ddd56e2b"
-    },
-    {
-      "match_id": "B0HN5G6VWK",
-      "title": "Oct 25 - UTR PTT Bengaluru Men",
-      "synopsis": "Oct 25 - UTR PTT Bengaluru Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f9ad2cc8-15f8-41fb-add3-d18f13b6c6a5/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HN5G6VWK",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABBIZS7AAAAAAAAMBVVUWOCT3XKDZ.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq8T7JBhpq3XhJA2pjbG91ZGZyb250AngoZmlkOjAxYTE3MTFkLWRkNGYtNzI0YS04YTU5LWUwZmQ0OWI1Y2M3ZRkBOKEFoQJ4My9yb2Z1NG05a2YyL291dC92MS9mMGQxMTdjZTQ3Y2E0OTdlYjJjNDE0MTY1Zjg2YzA0YlggF1xwLu42eW8Ejqx4PcKIYVxH6cEVmv8B0iuhJrNnPIM/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/rofu4m9kf2/out/v1/f0d117ce47ca497eb2c414165f86c04b/07a923fb-e0a3-4012-9cf8-45e7a9589f30-cenc.mpd"
-      },
-      "drm_key": "58564b6d4733f873b5e738a7dac86617:2e2505f88da5f5e1e58d7666930bdafa"
     },
     {
       "match_id": "B0HHRB386Z",
