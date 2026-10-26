@@ -1,15 +1,32 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "11:02 PM 26-10-2026",
+    "LastUpdate": "11:32 PM 26-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 3,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0H37FB27F",
+      "title": "Predator European Championships: Spain",
+      "synopsis": "Predator European Championships: Spain",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.447494d8-1dc7-4b08-89c7-f04ce02111ea/9/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H37FB27F",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd"
+      },
+      "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
+    },
     {
       "match_id": "B0FQQXFCMF",
       "title": "Second Serve - Live-Basel-ATP & Vienna-ATP Early Rounds",
@@ -33,7 +50,7 @@
       "synopsis": "Tennis Today Live-Basel-ATP & Vienna-ATP Early Rounds",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5a06d9b7-9e9b-4f4e-b4b7-7b8c3205a4c6/10/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5a06d9b7-9e9b-4f4e-b4b7-7b8c3205a4c6/11/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HJZRQ6JB",
       "is_free": false,
       "stream_url": {
@@ -57,6 +74,20 @@
         "Original Server": "https://ABCQQJ2AAAAAAAAMF6GSSUKRGLOSP.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq8zkSBhpq33KSA2pjbG91ZGZyb250AngoZmlkOjAxYTE3OGQ3LThiMWItNzE1Mi04MTM3LWU1ZDAyMGQyNzBjZhkBOKEFoQJ4My9sa29jcnYwZDFmL291dC92MS80Nzc1YTAyYzZiOTA0ZGUzYTExMDUxNGYyZWE3NDNkNFgg0O9nsLKKb5nI81h2jq5aBKT9mWD-iy4bsR29LgCHfdE/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/lkocrv0d1f/out/v1/4775a02c6b904de3a110514f2ea743d4/376bf15b-fc3a-4e35-b287-00a49963caed-cenc.mpd"
       },
       "drm_key": "60a5129b80a4d987bda86c39dde474da:dd0f5aba54b620cf733138e796c66121"
+    },
+    {
+      "match_id": "B0HNT41NT6",
+      "title": "Oct 26 - UTR PTT Columbia Women",
+      "synopsis": "Oct 26 - UTR PTT Columbia Women",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a3e1aaef-fa5a-4aa4-a218-76cdc900fad3/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HNT41NT6",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a96live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq81UyBhpq346yA2Zha2FtYWkCeChmaWQ6MDFhMTc5NDUtNjdiMC03NDJhLWJjNDEtNjQxMTYzMzkxNWEwGQE4oQWhAngzL3ViMXRyenh6b2gvb3V0L3YxLzU2ZTMzNmQ3NjAyZjQ3NjU5MDNjOWM3YzkzYzMwNjRlWCDZiHfZqCn7FwMgsh6tPA1A5qF4WzwClUpOve8y3n2N4A/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ub1trzxzoh/out/v1/56e336d7602f4765903c9c7c93c3064e/dce87dfd-caf8-44e7-9c0b-16a0b3eee211-cenc.mpd"
+      },
+      "drm_key": "f4b98330cb3a24b31849f480e51a6442:75b4d03219e9854466a70ca2806da187"
     }
   ]
 }
