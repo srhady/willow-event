@@ -1,29 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "05:02 AM 29-10-2026",
+    "LastUpdate": "05:32 AM 29-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HGXH1MH5",
-      "title": "MLS La Previa⁩",
-      "synopsis": "MLS La Previa⁩",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.32b4cbbc-a7a5-4914-9ab9-c427b1f76a08/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HGXH1MH5",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a88live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq9j59Bhpq4nf9A2Zha2FtYWkCeChmaWQ6MDFhMTg0YTQtYjU3NS03MjE1LWEzZDItODZlNTMwYjMyNjliGQE4oQWhAngzL2w4a3hiZ2ZhNXMvb3V0L3YxLzhmYzg5MWY3ODM5NjQ4MjE5MzlmYzcyZDM5YjBkMWZjWCDTgR9N3tg135maU4C84QUyfmojKJ0mp0BBLQV3awnxzw/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/l8kxbgfa5s/out/v1/8fc891f783964821939fc72d39b0d1fc/4f1ac470-ab73-4cbb-8a78-809ebb534b2e-cenc.mpd"
-      },
-      "drm_key": "b8ea2b8450a82242ebbddebbef372196:b30df705b854ad95b677883d29d6dd22"
-    },
     {
       "match_id": "B0HL65DHCC",
       "title": "ECHL Hockey: Trenton Ironhawks vs Reading Royals",
@@ -40,20 +26,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd"
       },
       "drm_key": "b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9"
-    },
-    {
-      "match_id": "B0HKMRYL3K",
-      "title": "MLS Countdown",
-      "synopsis": "MLS Countdown",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.37543bb8-edbb-40f4-a63d-5fe3cb06c48b/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKMRYL3K",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABDJLJUAAAAAAAAMC3OQJPOXIKQ77.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq9j58Bhpq4nf8A2pjbG91ZGZyb250AngoZmlkOjAxYTE4NGE0LWIxZDctNzIxYi05Y2EzLTJiOTAwZDY1NDQxMhkBOKEFoQJ4My8xZXRseTVuZzRtL291dC92MS9hNmU3OThmYzdkN2E0OTRlOTQ4ZGZjZGRmYmIwNWMxM1ggaUNhZ82-CV4_ATH0QKUByabcP7zAmeiQAwwFa1bRyns/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/1etly5ng4m/out/v1/a6e798fc7d7a494e948dfcddfbb05c13/c33c6590-d336-48e2-8ad0-dc9f892b3162-cenc.mpd"
-      },
-      "drm_key": "12210568dc71cb07d57b44ada315cf97:4380ce793264006a71d8ddbed81286f3"
     },
     {
       "match_id": "B0HNN3J85W",
@@ -73,20 +45,6 @@
       "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
     },
     {
-      "match_id": "B0HN4Z97RP",
-      "title": "Oct 28 - UTR PTT Columbia Women",
-      "synopsis": "Oct 28 - UTR PTT Columbia Women",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.685bf131-4b05-4045-a110-5444d5e0085a/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HN4Z97RP",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a79live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq9fgvBhpq4jGvA2Zha2FtYWkCeChmaWQ6MDFhMTgzOTItMTU1OC03MDQ4LTg3NTAtM2VjZmExOWZlOTJhGQE4oQWhAngzLzFxYmtoaWFzamQvb3V0L3YxL2I2NzU0NTBlZTg3ZDRkZDJiOTBkYzNlZGEyMzliOTZiWCDl7FKbjkeCMo9PMyxQ18tQd4iANb810dHTuNSPXURdsg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/1qbkhiasjd/out/v1/b675450ee87d4dd2b90dc3eda239b96b/24407157-4422-454b-baa8-9eff1328e00a-cenc.mpd"
-      },
-      "drm_key": "3444529f5931d071c8d50f487fa9eac1:43fa1816cffc253e9bb93d5e604763bd"
-    },
-    {
       "match_id": "B0HNGTGYFF",
       "title": "Oct 28 - UTR PTT Knoxville",
       "synopsis": "Oct 28 - UTR PTT Knoxville",
@@ -99,6 +57,20 @@
         "Original Server": "https://ABBJKYGAAAAAAAAMHMI74XOE5ZKS4.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq9dwQBhpq4hWQA2pjbG91ZGZyb250AngoZmlkOjAxYTE4MzI0LTNkM2UtNzY5ZC05MGI3LWVjNjVhOGZlZWM2NBkBOKEFoQJ4My9rMm5ib2E0dDEzL291dC92MS9iZjYwYjg0Y2YzNGM0NmY0YmE4ZGJjYTg5ZDgzOGRiNFggvRHia7BpEyU_WMvJoB4iIDoH5ZL0Mk3eqpmf3J1TERg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/k2nboa4t13/out/v1/bf60b84cf34c46f4ba8dbca89d838db4/6e20b903-c2ab-4c12-b61d-56725032ace7-cenc.mpd"
       },
       "drm_key": "80fd6680d8e2cfdde7f603ff150f99c3:ab31e2e3a6b5572d3710fde52e39fa70"
+    },
+    {
+      "match_id": "B0HN4Z97RP",
+      "title": "Oct 28 - UTR PTT Columbia Women",
+      "synopsis": "Oct 28 - UTR PTT Columbia Women",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.685bf131-4b05-4045-a110-5444d5e0085a/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HN4Z97RP",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a79live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq9fgvBhpq4jGvA2Zha2FtYWkCeChmaWQ6MDFhMTgzOTItMTU1OC03MDQ4LTg3NTAtM2VjZmExOWZlOTJhGQE4oQWhAngzLzFxYmtoaWFzamQvb3V0L3YxL2I2NzU0NTBlZTg3ZDRkZDJiOTBkYzNlZGEyMzliOTZiWCDl7FKbjkeCMo9PMyxQ18tQd4iANb810dHTuNSPXURdsg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/1qbkhiasjd/out/v1/b675450ee87d4dd2b90dc3eda239b96b/24407157-4422-454b-baa8-9eff1328e00a-cenc.mpd"
+      },
+      "drm_key": "3444529f5931d071c8d50f487fa9eac1:43fa1816cffc253e9bb93d5e604763bd"
     }
   ]
 }
