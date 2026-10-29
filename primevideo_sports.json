@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "03:32 PM 29-10-2026",
+    "LastUpdate": "04:02 PM 29-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 7,
+    "LiveCount": 6,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -111,20 +111,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
       },
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-    },
-    {
-      "match_id": "B0HHXZK3SV",
-      "title": "Oct 29 - UTR PTT Bengaluru Men",
-      "synopsis": "Oct 29 - UTR PTT Bengaluru Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0202c13c-c5e1-4bb4-98d2-1b454a6db632/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HHXZK3SV",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq9ovcBhpq4sVcA2ZmYXN0bHkCeChmaWQ6MDFhMTg1ZDItZjA5MC03NDNkLTg4YTAtZTFkNjA5NTczMGRhGQE4oQWhAngzL2ludHd0bHoyNnMvb3V0L3YxLzg5ZmQxNzg2OGRmNDQ2NGM5M2EzMzdkNjMyN2Y4MGE3WCDUMhmBwpSqA4MhbQCxUsZwxGtdw9GojxNuzpEOx6ZXEw/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/intwtlz26s/out/v1/89fd17868df4464c93a337d6327f80a7/a7969946-2907-40fd-93f0-b38e5ac1b68a-cenc.mpd"
-      },
-      "drm_key": "7dbb66bcaacae93e8a8c93d1026ddba2:8ec5fa119c957e209d4acf5d17495703"
     }
   ]
 }
