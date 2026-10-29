@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "08:02 PM 29-10-2026",
+    "LastUpdate": "08:32 PM 29-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
     "LiveCount": 5,
-    "UpcomingCount": 0
+    "UpcomingCount": 1
   },
   "Matches": [
     {
@@ -28,21 +28,21 @@
       "drm_key": "9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb"
     },
     {
-      "match_id": "B0HN7TKWTX",
-      "title": "EuroTour Spanish Open Billiards-2026 Predator EuroTour: Spanish Open",
-      "synopsis": "EuroTour Spanish Open Billiards-2026 Predator EuroTour: Spanish Open",
+      "match_id": "B0HKRD61F3",
+      "title": "Afghanistan vs. Zimbabwe",
+      "synopsis": "Afghanistan vs. Zimbabwe",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.54acd68c-aa00-48d5-8eee-8df4dde8932c/13/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HN7TKWTX",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3a3561d0-2c21-402e-abe7-e92f42ace0c4/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKRD61F3",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rrqignujxl/out/v1/a14c2c9ea3af4fb9ab37ebda5dbc696b/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rrqignujxl/out/v1/a14c2c9ea3af4fb9ab37ebda5dbc696b/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rrqignujxl/out/v1/a14c2c9ea3af4fb9ab37ebda5dbc696b/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rrqignujxl/out/v1/a14c2c9ea3af4fb9ab37ebda5dbc696b/cenc.mpd"
       },
-      "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
+      "drm_key": "d2efbc1c5f8ff101397ecf138e8741ba:7f4d45f386a7640749e0f07417471f01"
     },
     {
       "match_id": "B0HKDPRJRS",
@@ -94,6 +94,23 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tw6qgpez4i/out/v1/fedd5ae90ed64a94a5a6b442a4c86e75/cenc.mpd"
       },
       "drm_key": "ba4284442c87f52ddeaa95c65d236805:56f0808d1f1fbfc0703b384081f1d340"
+    },
+    {
+      "match_id": "B0HN7TKWTX",
+      "title": "EuroTour Spanish Open Billiards-2026 Predator EuroTour: Spanish Open",
+      "synopsis": "EuroTour Spanish Open Billiards-2026 Predator EuroTour: Spanish Open",
+      "status": "UPCOMING",
+      "time": "Live at 9 PM BDT",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.54acd68c-aa00-48d5-8eee-8df4dde8932c/13/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HN7TKWTX",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd"
+      },
+      "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
     }
   ]
 }
