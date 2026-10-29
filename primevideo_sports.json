@@ -1,15 +1,32 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "05:32 PM 29-10-2026",
+    "LastUpdate": "06:02 PM 29-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 7,
+    "LiveCount": 6,
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HKDPRJRS",
+      "title": "Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia",
+      "synopsis": "Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20a790a3-51e9-4ec1-9a8b-cb632845af2d/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKDPRJRS",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mv8bhgey8i/out/v1/46e42bfd066b481c8bb856dfe5c2dc85/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mv8bhgey8i/out/v1/46e42bfd066b481c8bb856dfe5c2dc85/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mv8bhgey8i/out/v1/46e42bfd066b481c8bb856dfe5c2dc85/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mv8bhgey8i/out/v1/46e42bfd066b481c8bb856dfe5c2dc85/cenc.mpd"
+      },
+      "drm_key": "cad7365855ea0ac0653144882a46e9a6:0ee40359b01264cce5aac3140096c927"
+    },
     {
       "match_id": "B0HL8WTGB3",
       "title": "LIVE: HotelPlanner Final 2026 Day 1",
@@ -45,23 +62,6 @@
       "drm_key": "e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052"
     },
     {
-      "match_id": "B0HG6HPFD3",
-      "title": "Pakistan ODI Tri-Series 2026 - 6th Match - Sri Lanka vs England",
-      "synopsis": "Pakistan ODI Tri-Series 2026 - 6th Match - Sri Lanka vs England",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.84dc9ca5-fdc8-46c9-bc90-b6008efe1e58/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HG6HPFD3",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tw6qgpez4i/out/v1/fedd5ae90ed64a94a5a6b442a4c86e75/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tw6qgpez4i/out/v1/fedd5ae90ed64a94a5a6b442a4c86e75/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tw6qgpez4i/out/v1/fedd5ae90ed64a94a5a6b442a4c86e75/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tw6qgpez4i/out/v1/fedd5ae90ed64a94a5a6b442a4c86e75/cenc.mpd"
-      },
-      "drm_key": "ba4284442c87f52ddeaa95c65d236805:56f0808d1f1fbfc0703b384081f1d340"
-    },
-    {
       "match_id": "B0HN7TKWTX",
       "title": "EuroTour Spanish Open Billiards-2026 Predator EuroTour: Spanish Open",
       "synopsis": "EuroTour Spanish Open Billiards-2026 Predator EuroTour: Spanish Open",
@@ -79,21 +79,21 @@
       "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
     },
     {
-      "match_id": "B0HKDPRJRS",
-      "title": "Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia",
-      "synopsis": "Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia",
+      "match_id": "B0HG6HPFD3",
+      "title": "Pakistan ODI Tri-Series 2026 - 6th Match - Sri Lanka vs England",
+      "synopsis": "Pakistan ODI Tri-Series 2026 - 6th Match - Sri Lanka vs England",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20a790a3-51e9-4ec1-9a8b-cb632845af2d/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKDPRJRS",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.84dc9ca5-fdc8-46c9-bc90-b6008efe1e58/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HG6HPFD3",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mv8bhgey8i/out/v1/46e42bfd066b481c8bb856dfe5c2dc85/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mv8bhgey8i/out/v1/46e42bfd066b481c8bb856dfe5c2dc85/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mv8bhgey8i/out/v1/46e42bfd066b481c8bb856dfe5c2dc85/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mv8bhgey8i/out/v1/46e42bfd066b481c8bb856dfe5c2dc85/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tw6qgpez4i/out/v1/fedd5ae90ed64a94a5a6b442a4c86e75/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tw6qgpez4i/out/v1/fedd5ae90ed64a94a5a6b442a4c86e75/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tw6qgpez4i/out/v1/fedd5ae90ed64a94a5a6b442a4c86e75/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tw6qgpez4i/out/v1/fedd5ae90ed64a94a5a6b442a4c86e75/cenc.mpd"
       },
-      "drm_key": "cad7365855ea0ac0653144882a46e9a6:0ee40359b01264cce5aac3140096c927"
+      "drm_key": "ba4284442c87f52ddeaa95c65d236805:56f0808d1f1fbfc0703b384081f1d340"
     },
     {
       "match_id": "B0HMW9M5NH",
@@ -111,23 +111,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/8x9f8fvjwv/out/v1/15d9b1a637644c4baa527bd43e8d87a5/cenc.mpd"
       },
       "drm_key": "3f9bba6398d727a70e33b03bc2c1957d:8df87cf8c3d56350ea0297ae273de0c3"
-    },
-    {
-      "match_id": "B0HMW4S5S7",
-      "title": "Cricket-WBBL 2026: Stars vs. Hurricanes -- 2nd Match",
-      "synopsis": "Cricket-WBBL 2026: Stars vs. Hurricanes -- 2nd Match",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ba4427c-4b8c-4697-a439-a311071f1b3c/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HMW4S5S7",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
-      },
-      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     }
   ]
 }
