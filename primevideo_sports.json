@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "09:02 PM 29-10-2026",
+    "LastUpdate": "09:32 PM 29-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 7,
+    "LiveCount": 9,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -26,6 +26,23 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd"
       },
       "drm_key": "9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb"
+    },
+    {
+      "match_id": "B0HNZJQQDK",
+      "title": "ECHL Hockey: Idaho Steelheads vs Allen Americans",
+      "synopsis": "ECHL Hockey: Idaho Steelheads vs Allen Americans",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.77ca84f0-e52e-44a6-b8e5-f0df43a03a30/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HNZJQQDK",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd"
+      },
+      "drm_key": "b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9"
     },
     {
       "match_id": "B0HN7TKWTX",
@@ -128,6 +145,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd"
       },
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
+    },
+    {
+      "match_id": "B0HJBHR5QW",
+      "title": "Oct 29 - UTR PTT Philadelphia Men",
+      "synopsis": "Oct 29 - UTR PTT Philadelphia Men",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c81d6b7d-5788-4234-ac67-ec98b86b5603/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJBHR5QW",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABBIDHVAAAAAAAAMEKRPMEBJQ4QUW.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq9y2QBhpq42cQA2pjbG91ZGZyb250AngoZmlkOjAxYTE4ODRhLTk5NTYtNzVmMC04Y2Q5LTA0MjQwNWMwZjdmNBkBOKEFoQJ4My9nc2d1cGFnOHFwL291dC92MS9lNDM2ODg3YmY2Yjc0YmQyYmNjYjZhMzU3ZmExNzc3MlggOqxMhZjViBz4Wr0RC1BbyfXrcQ52wrk9x7PrTOiLiAs/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/gsgupag8qp/out/v1/e436887bf6b74bd2bccb6a357fa17772/263f9510-e104-4d68-a674-5d38909d3e1d-cenc.mpd"
+      },
+      "drm_key": "b632963ca0af5d185cab59e4ee2a3a40:3d82ceed16ae786fd95ff737c3d8d177"
     }
   ]
 }
