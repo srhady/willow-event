@@ -1,29 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "05:02 AM 30-10-2026",
+    "LastUpdate": "05:32 AM 30-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 7,
+    "LiveCount": 6,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HL9PX91L",
-      "title": "F1 Weekend Warm-Up",
-      "synopsis": "F1 Weekend Warm-Up",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ba58f306-4e71-4c4f-a739-d6c086d3cf10/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HL9PX91L",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq94_-Bhpq48l-A2ZmYXN0bHkCeChmaWQ6MDFhMTg5Y2ItMTRjNS03MDE2LWFhNDQtMWJlZTAzMmE3YTI0GQE4oQWhAngzL3B1cjBjcGt3c2cvb3V0L3YxLzQ3ZDI4ZjNiNzQ4YTRlYzdiMThmZWZhYjY4ZGU4NDhjWCCM_miovOVmeK1U7AE2Ldl_A-AX7ItKAno1OhEL8tqhCQ/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/pur0cpkwsg/out/v1/47d28f3b748a4ec7b18fefab68de848c/8bfb4ab4-6b6c-4f8e-8024-af259d210ac1-cenc.mpd"
-      },
-      "drm_key": "a163853ea86a26d4203f2cc7341454db:6a779ce19ef8b601b750a251368ce294"
-    },
     {
       "match_id": "B0HMKPWHQK",
       "title": "QMJHL Hockey: Halifax Mooseheads vs Gatineau Olympiques",
@@ -40,23 +26,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd"
       },
       "drm_key": "b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9"
-    },
-    {
-      "match_id": "B0HLTBGF2V",
-      "title": "Canadian Open, Day 5",
-      "synopsis": "Canadian Open, Day 5",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f5a7cf83-036a-4b64-81ce-9cfa3fa6feec/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLTBGF2V",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd"
-      },
-      "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
     },
     {
       "match_id": "B0HLR4M3DB",
@@ -76,18 +45,21 @@
       "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
     },
     {
-      "match_id": "B0HND1KXTG",
-      "title": "Oct 29 - UTR PTT Columbia Women",
-      "synopsis": "Oct 29 - UTR PTT Columbia Women",
+      "match_id": "B0HLTBGF2V",
+      "title": "Canadian Open, Day 5",
+      "synopsis": "Canadian Open, Day 5",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6f9358fd-6457-4f2b-affe-bf4958308f47/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HND1KXTG",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f5a7cf83-036a-4b64-81ce-9cfa3fa6feec/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLTBGF2V",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://ABDJOVOAAAAAAAAMHU5M5EPT2H7VZ.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq90mvBhpq44MvA2pjbG91ZGZyb250AngoZmlkOjAxYTE4OGI4LTczMTMtNzAxZi04YjgzLTJkMGY3MTYzOGI2MxkBOKEFoQJ4My9jemFnNXRmcWRoL291dC92MS85YjJhNDBkZWNhODE0NDRiODYzNGUxMzc1NzYxN2MxNFgg9NUIcEJlyS219RreoDMFR1CYaXZHHmYDW5bZYufM2fU/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/czag5tfqdh/out/v1/9b2a40deca81444b8634e13757617c14/26b8132d-c007-4b8f-875d-5f49832673ad-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd"
       },
-      "drm_key": "8961929e5a41dc17cf06d0bf7056a80d:359dc8a2e2af243e33cd1342416f034c"
+      "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
     },
     {
       "match_id": "B0HN5MLF3N",
@@ -105,6 +77,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd"
       },
       "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
+    },
+    {
+      "match_id": "B0HND1KXTG",
+      "title": "Oct 29 - UTR PTT Columbia Women",
+      "synopsis": "Oct 29 - UTR PTT Columbia Women",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6f9358fd-6457-4f2b-affe-bf4958308f47/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HND1KXTG",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABDJOVOAAAAAAAAMHU5M5EPT2H7VZ.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq90mvBhpq44MvA2pjbG91ZGZyb250AngoZmlkOjAxYTE4OGI4LTczMTMtNzAxZi04YjgzLTJkMGY3MTYzOGI2MxkBOKEFoQJ4My9jemFnNXRmcWRoL291dC92MS85YjJhNDBkZWNhODE0NDRiODYzNGUxMzc1NzYxN2MxNFgg9NUIcEJlyS219RreoDMFR1CYaXZHHmYDW5bZYufM2fU/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/czag5tfqdh/out/v1/9b2a40deca81444b8634e13757617c14/26b8132d-c007-4b8f-875d-5f49832673ad-cenc.mpd"
+      },
+      "drm_key": "8961929e5a41dc17cf06d0bf7056a80d:359dc8a2e2af243e33cd1342416f034c"
     },
     {
       "match_id": "B0HNSXCX1Z",
