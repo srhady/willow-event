@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "07:32 AM 29-10-2026",
+    "LastUpdate": "08:02 AM 29-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 3,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -60,37 +60,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd"
       },
       "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
-    },
-    {
-      "match_id": "B0HNN3J85W",
-      "title": "Canadian Open, Day 4",
-      "synopsis": "Canadian Open, Day 4",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.364e5cab-c12f-4794-aa90-e453c6c2eab4/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HNN3J85W",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd"
-      },
-      "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
-    },
-    {
-      "match_id": "B0HN4Z97RP",
-      "title": "Oct 28 - UTR PTT Columbia Women",
-      "synopsis": "Oct 28 - UTR PTT Columbia Women",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.685bf131-4b05-4045-a110-5444d5e0085a/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HN4Z97RP",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a79live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq9fgvBhpq4jGvA2Zha2FtYWkCeChmaWQ6MDFhMTgzOTItMTU1OC03MDQ4LTg3NTAtM2VjZmExOWZlOTJhGQE4oQWhAngzLzFxYmtoaWFzamQvb3V0L3YxL2I2NzU0NTBlZTg3ZDRkZDJiOTBkYzNlZGEyMzliOTZiWCDl7FKbjkeCMo9PMyxQ18tQd4iANb810dHTuNSPXURdsg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/1qbkhiasjd/out/v1/b675450ee87d4dd2b90dc3eda239b96b/24407157-4422-454b-baa8-9eff1328e00a-cenc.mpd"
-      },
-      "drm_key": "3444529f5931d071c8d50f487fa9eac1:43fa1816cffc253e9bb93d5e604763bd"
     }
   ]
 }
