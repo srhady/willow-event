@@ -1,28 +1,31 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "02:32 PM 30-10-2026",
+    "LastUpdate": "03:32 PM 30-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 9,
+    "LiveCount": 7,
     "UpcomingCount": 0
   },
   "Matches": [
     {
-      "match_id": "B0HNFJ766Z",
-      "title": "Petronas Grand Prix of Malaysia, Practice",
-      "synopsis": "Petronas Grand Prix of Malaysia, Practice",
+      "match_id": "B0HLW6FTC5",
+      "title": "New Zealand vs. India",
+      "synopsis": "New Zealand vs. India",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.809afbc0-32b3-4251-b9ba-5db6c8782f4a/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HNFJ766Z",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20a0bd24-a93b-43a0-9791-04a8a302f509/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLW6FTC5",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://ABBJI2SAAAAAAAAMDOMMNT6YDPCBL.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq97o1Bhpq4_O1A2pjbG91ZGZyb250AngoZmlkOjAxYTE4YTZmLWZjNGUtNzQwNi1iNmJiLTI1NmQzNzkyNDg3MBkBOKEFoQJ4My96bWtkZW5rcXlmL291dC92MS84MTk3YzhlMDU1Yzk0YTg2ODYyMzY1M2FjNTVjMTBiZlggnZXWIB2VTamAdPMBHGW7g9JNOnnLOkhSsuBMzdEj1Fo/CMH/c1018b7fd2574de2b5dbed71665bc922/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_cmh_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/zmkdenkqyf/out/v1/8197c8e055c94a868623653ac55c10bf/a1618395-3a15-4a14-9d5c-7b935577ccb8-cenc.mpd?aws.sessionId=96ab94b1-06f7-420c-8117-76ea8376ddd1"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pjnwj2lbr8/out/v1/7fa779f874dd410195eda641faadc623/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pjnwj2lbr8/out/v1/7fa779f874dd410195eda641faadc623/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pjnwj2lbr8/out/v1/7fa779f874dd410195eda641faadc623/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pjnwj2lbr8/out/v1/7fa779f874dd410195eda641faadc623/cenc.mpd"
       },
-      "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
+      "drm_key": "7a3f90a5769802036c18de821735b594:1412cd88540af73b27e45c9982bc9c78"
     },
     {
       "match_id": "B0HKDPRJRS",
@@ -42,21 +45,21 @@
       "drm_key": "a0ea22119ca851e441c56df67e33f6fd:179bbc5d1bec825eaa1b712872f12eda"
     },
     {
-      "match_id": "B0HLW6FTC5",
-      "title": "New Zealand vs. India",
-      "synopsis": "New Zealand vs. India",
+      "match_id": "B0HJ42ZGPP",
+      "title": "Womens Big Bash League 2026 - 3rd Match - Brisbane Heat Women vs Sydney Sixers Women",
+      "synopsis": "Womens Big Bash League 2026 - 3rd Match - Brisbane Heat Women vs Sydney Sixers Women",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20a0bd24-a93b-43a0-9791-04a8a302f509/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLW6FTC5",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7eb020f4-8f99-438f-882e-76cfc4181413/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJ42ZGPP",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pjnwj2lbr8/out/v1/7fa779f874dd410195eda641faadc623/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pjnwj2lbr8/out/v1/7fa779f874dd410195eda641faadc623/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pjnwj2lbr8/out/v1/7fa779f874dd410195eda641faadc623/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pjnwj2lbr8/out/v1/7fa779f874dd410195eda641faadc623/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd"
       },
-      "drm_key": "7a3f90a5769802036c18de821735b594:1412cd88540af73b27e45c9982bc9c78"
+      "drm_key": "079a2605723e910f53d9e2bfb8cb7b2e:d5383a5eedbcd90803e17aff07df4e48"
     },
     {
       "match_id": "B0HKZTVYJ1",
@@ -93,21 +96,18 @@
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
     },
     {
-      "match_id": "B0HJ42ZGPP",
-      "title": "Womens Big Bash League 2026 - 3rd Match - Brisbane Heat Women vs Sydney Sixers Women",
-      "synopsis": "Womens Big Bash League 2026 - 3rd Match - Brisbane Heat Women vs Sydney Sixers Women",
+      "match_id": "B0HM9LPTX3",
+      "title": "Oct 30 - UTR PTT Bengaluru Men",
+      "synopsis": "Oct 30 - UTR PTT Bengaluru Men",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7eb020f4-8f99-438f-882e-76cfc4181413/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HJ42ZGPP",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ec79cc87-4677-4466-b928-b68657f8615e/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HM9LPTX3",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd"
+        "Original Server": "https://a123live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq99ZRBhpq5A_RA2Zha2FtYWkCeChmaWQ6MDFhMThhZGQtYzk0OC03MWY0LTkyMzQtMGZlMzcxNTU3YTRiGQE4oQWhAngzL3pnMG5sdG16NGwvb3V0L3YxLzA4NzFlOGU2ZGExYTRlMWM4YjVlMjlhNGI3ZDgwZGRiWCDwYUfptgTSRevOSDe06l2VwRHfmPF_e2CANU7p_pms6g/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/zg0nltmz4l/out/v1/0871e8e6da1a4e1c8b5e29a4b7d80ddb/bbf6549a-e70d-4e93-b6e2-d8481159f740-cenc.mpd"
       },
-      "drm_key": "079a2605723e910f53d9e2bfb8cb7b2e:d5383a5eedbcd90803e17aff07df4e48"
+      "drm_key": "93040a8d233cce26a7a9153d98699331:f78918308ea198782f5f6f76cb72e4f9"
     },
     {
       "match_id": "B0HJ6K95MJ",
@@ -125,37 +125,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ryvveqheby/out/v1/5bf9ff9c026048d897328bedb8c9b4b3/cenc.mpd"
       },
       "drm_key": "c7a9e1a3b38d230bcd8a785b18e5575a:0f9cc8a4d3ae133b56b33e088762d3d2"
-    },
-    {
-      "match_id": "B0HM9LPTX3",
-      "title": "Oct 30 - UTR PTT Bengaluru Men",
-      "synopsis": "Oct 30 - UTR PTT Bengaluru Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ec79cc87-4677-4466-b928-b68657f8615e/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HM9LPTX3",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a123live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq99ZRBhpq5A_RA2Zha2FtYWkCeChmaWQ6MDFhMThhZGQtYzk0OC03MWY0LTkyMzQtMGZlMzcxNTU3YTRiGQE4oQWhAngzL3pnMG5sdG16NGwvb3V0L3YxLzA4NzFlOGU2ZGExYTRlMWM4YjVlMjlhNGI3ZDgwZGRiWCDwYUfptgTSRevOSDe06l2VwRHfmPF_e2CANU7p_pms6g/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/zg0nltmz4l/out/v1/0871e8e6da1a4e1c8b5e29a4b7d80ddb/bbf6549a-e70d-4e93-b6e2-d8481159f740-cenc.mpd"
-      },
-      "drm_key": "93040a8d233cce26a7a9153d98699331:f78918308ea198782f5f6f76cb72e4f9"
-    },
-    {
-      "match_id": "B0HN635GQK",
-      "title": "Hong Kong Sixes 2026 - 8th Match - South Africa vs Afghanistan",
-      "synopsis": "Hong Kong Sixes 2026 - 8th Match - South Africa vs Afghanistan",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d8b25453-ed77-4ee0-8cb7-a46278b8085b/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HN635GQK",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/if1mwsco3r/out/v1/9c233eea30534a7e87a9a2e687d49444/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/if1mwsco3r/out/v1/9c233eea30534a7e87a9a2e687d49444/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/if1mwsco3r/out/v1/9c233eea30534a7e87a9a2e687d49444/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/if1mwsco3r/out/v1/9c233eea30534a7e87a9a2e687d49444/cenc.mpd"
-      },
-      "drm_key": "c884ad869859b1e8125c41a0e32e5276:f9c4f313219f7ee59f900efa739a4acc"
     }
   ]
 }
