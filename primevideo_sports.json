@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "03:32 PM 30-10-2026",
+    "LastUpdate": "04:02 PM 30-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 7,
+    "LiveCount": 6,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -45,23 +45,6 @@
       "drm_key": "a0ea22119ca851e441c56df67e33f6fd:179bbc5d1bec825eaa1b712872f12eda"
     },
     {
-      "match_id": "B0HJ42ZGPP",
-      "title": "Womens Big Bash League 2026 - 3rd Match - Brisbane Heat Women vs Sydney Sixers Women",
-      "synopsis": "Womens Big Bash League 2026 - 3rd Match - Brisbane Heat Women vs Sydney Sixers Women",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7eb020f4-8f99-438f-882e-76cfc4181413/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HJ42ZGPP",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd"
-      },
-      "drm_key": "079a2605723e910f53d9e2bfb8cb7b2e:d5383a5eedbcd90803e17aff07df4e48"
-    },
-    {
       "match_id": "B0HKZTVYJ1",
       "title": "Cricket-WBBL 2026: Heat vs Sixers - 3rd Match",
       "synopsis": "Cricket-WBBL 2026: Heat vs Sixers - 3rd Match",
@@ -96,6 +79,23 @@
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
     },
     {
+      "match_id": "B0HJ42ZGPP",
+      "title": "Womens Big Bash League 2026 - 3rd Match - Brisbane Heat Women vs Sydney Sixers Women",
+      "synopsis": "Womens Big Bash League 2026 - 3rd Match - Brisbane Heat Women vs Sydney Sixers Women",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7eb020f4-8f99-438f-882e-76cfc4181413/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJ42ZGPP",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd"
+      },
+      "drm_key": "079a2605723e910f53d9e2bfb8cb7b2e:d5383a5eedbcd90803e17aff07df4e48"
+    },
+    {
       "match_id": "B0HM9LPTX3",
       "title": "Oct 30 - UTR PTT Bengaluru Men",
       "synopsis": "Oct 30 - UTR PTT Bengaluru Men",
@@ -108,23 +108,6 @@
         "Original Server": "https://a123live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq99ZRBhpq5A_RA2Zha2FtYWkCeChmaWQ6MDFhMThhZGQtYzk0OC03MWY0LTkyMzQtMGZlMzcxNTU3YTRiGQE4oQWhAngzL3pnMG5sdG16NGwvb3V0L3YxLzA4NzFlOGU2ZGExYTRlMWM4YjVlMjlhNGI3ZDgwZGRiWCDwYUfptgTSRevOSDe06l2VwRHfmPF_e2CANU7p_pms6g/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/zg0nltmz4l/out/v1/0871e8e6da1a4e1c8b5e29a4b7d80ddb/bbf6549a-e70d-4e93-b6e2-d8481159f740-cenc.mpd"
       },
       "drm_key": "93040a8d233cce26a7a9153d98699331:f78918308ea198782f5f6f76cb72e4f9"
-    },
-    {
-      "match_id": "B0HJ6K95MJ",
-      "title": "Hong Kong Sixes 2026 - 9th Match - England vs Australia",
-      "synopsis": "Hong Kong Sixes 2026 - 9th Match - England vs Australia",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ba8017cc-3dc3-4a92-8d69-0b4dd8029a73/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HJ6K95MJ",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ryvveqheby/out/v1/5bf9ff9c026048d897328bedb8c9b4b3/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ryvveqheby/out/v1/5bf9ff9c026048d897328bedb8c9b4b3/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ryvveqheby/out/v1/5bf9ff9c026048d897328bedb8c9b4b3/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ryvveqheby/out/v1/5bf9ff9c026048d897328bedb8c9b4b3/cenc.mpd"
-      },
-      "drm_key": "c7a9e1a3b38d230bcd8a785b18e5575a:0f9cc8a4d3ae133b56b33e088762d3d2"
     }
   ]
 }
