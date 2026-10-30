@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "11:32 AM 30-10-2026",
+    "LastUpdate": "12:02 PM 30-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 9,
-    "UpcomingCount": 0
+    "LiveCount": 6,
+    "UpcomingCount": 1
   },
   "Matches": [
     {
@@ -23,23 +23,6 @@
         "Original Server": "https://ABBJI2SAAAAAAAAMDOMMNT6YDPCBL.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq97o1Bhpq4_O1A2pjbG91ZGZyb250AngoZmlkOjAxYTE4YTZmLWZjNGUtNzQwNi1iNmJiLTI1NmQzNzkyNDg3MBkBOKEFoQJ4My96bWtkZW5rcXlmL291dC92MS84MTk3YzhlMDU1Yzk0YTg2ODYyMzY1M2FjNTVjMTBiZlggnZXWIB2VTamAdPMBHGW7g9JNOnnLOkhSsuBMzdEj1Fo/CMH/c1018b7fd2574de2b5dbed71665bc922/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_cmh_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/zmkdenkqyf/out/v1/8197c8e055c94a868623653ac55c10bf/a1618395-3a15-4a14-9d5c-7b935577ccb8-cenc.mpd?aws.sessionId=96ab94b1-06f7-420c-8117-76ea8376ddd1"
       },
       "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
-    },
-    {
-      "match_id": "B0HP6NP3V9",
-      "title": "Trophy Cup at Tulare Thunderbowl Raceway",
-      "synopsis": "Trophy Cup at Tulare Thunderbowl Raceway",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c0a6813b-8b81-4020-a28e-3be07b65a78d/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HP6NP3V9",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd"
-      },
-      "drm_key": "2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca"
     },
     {
       "match_id": "B0HHJPJ5NZ",
@@ -76,23 +59,6 @@
       "drm_key": "962005439eb7ead2261fc486359be61a:8759346088db941cb0ae9a144bbf3c9d"
     },
     {
-      "match_id": "B0HPGYWMFX",
-      "title": "Hong Kong, China vs. England",
-      "synopsis": "Hong Kong, China vs. England",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dbf76585-4895-4b0d-8676-1c30dbfbf82c/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HPGYWMFX",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
-      },
-      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-    },
-    {
       "match_id": "B0HMQX14QG",
       "title": "Bangladesh vs. Sri Lanka",
       "synopsis": "Bangladesh vs. Sri Lanka",
@@ -108,23 +74,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
       },
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-    },
-    {
-      "match_id": "B0GNYBSFDV",
-      "title": "Hong Kong Sixes 2026 - 5th Match - Hong Kong, China vs England",
-      "synopsis": "Hong Kong Sixes 2026 - 5th Match - Hong Kong, China vs England",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.91e2c478-bafa-490e-97ed-b17fd546adf5/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0GNYBSFDV",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5borzp0tp1/out/v1/f5bb96e393ac4d2888e322f8d23985f9/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5borzp0tp1/out/v1/f5bb96e393ac4d2888e322f8d23985f9/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5borzp0tp1/out/v1/f5bb96e393ac4d2888e322f8d23985f9/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5borzp0tp1/out/v1/f5bb96e393ac4d2888e322f8d23985f9/cenc.mpd"
-      },
-      "drm_key": "6367e08dfc02c4327664600b9065f045:0236e25b4f0f33e10750fde80911727f"
     },
     {
       "match_id": "B0HNJH1XWB",
@@ -156,6 +105,23 @@
         "Original Server": "https://a123live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq99ZRBhpq5A_RA2Zha2FtYWkCeChmaWQ6MDFhMThhZGQtYzk0OC03MWY0LTkyMzQtMGZlMzcxNTU3YTRiGQE4oQWhAngzL3pnMG5sdG16NGwvb3V0L3YxLzA4NzFlOGU2ZGExYTRlMWM4YjVlMjlhNGI3ZDgwZGRiWCDwYUfptgTSRevOSDe06l2VwRHfmPF_e2CANU7p_pms6g/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/zg0nltmz4l/out/v1/0871e8e6da1a4e1c8b5e29a4b7d80ddb/bbf6549a-e70d-4e93-b6e2-d8481159f740-cenc.mpd"
       },
       "drm_key": "93040a8d233cce26a7a9153d98699331:f78918308ea198782f5f6f76cb72e4f9"
+    },
+    {
+      "match_id": "B0HN533LCJ",
+      "title": "Hong Kong Sixes 2026 - 7th Match - India vs Pakistan",
+      "synopsis": "Hong Kong Sixes 2026 - 7th Match - India vs Pakistan",
+      "status": "UPCOMING",
+      "time": "Live at 12:05 PM BDT",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c03a0802-98f5-43c3-9582-913a8b0204a6/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HN533LCJ",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u0dvbkqpla/out/v1/205b6c05fd2e49dd8baa2a1e4f815cf2/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u0dvbkqpla/out/v1/205b6c05fd2e49dd8baa2a1e4f815cf2/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/u0dvbkqpla/out/v1/205b6c05fd2e49dd8baa2a1e4f815cf2/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/u0dvbkqpla/out/v1/205b6c05fd2e49dd8baa2a1e4f815cf2/cenc.mpd"
+      },
+      "drm_key": "267d2c2755198020311d5ba35801afe4:f37507ea51e3f9e71b95ef2aa3772141"
     }
   ]
 }
