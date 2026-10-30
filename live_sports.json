@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "12:02 PM 30-10-2026",
+    "LastUpdate": "12:32 PM 30-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 19
+    "LiveCount": 3,
+    "UpcomingCount": 17
   },
   "Matches": [
     {
@@ -32,8 +32,8 @@
       "match_id": "B0HN533LCJ",
       "title": "Hong Kong Sixes 2026 - 7th Match - India vs Pakistan",
       "synopsis": "Hong Kong Sixes 2026 - 7th Match - India vs Pakistan",
-      "status": "UPCOMING",
-      "time": "Live at 12:05 PM BDT",
+      "status": "LIVE",
+      "time": "12:05 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c03a0802-98f5-43c3-9582-913a8b0204a6/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HN533LCJ?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
       "is_free": false,
@@ -57,13 +57,19 @@
       "match_id": "B0HLW6FTC5",
       "title": "New Zealand vs. India",
       "synopsis": "Watch New Zealand take on India in the New Zealand v India Twenty20 Series 2026",
-      "status": "UPCOMING",
-      "time": "Live at 1 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20a0bd24-a93b-43a0-9791-04a8a302f509/2/BOXART-16X9/en-US._UR1920,1080_.jpg",
+      "status": "LIVE",
+      "time": "12:30 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20a0bd24-a93b-43a0-9791-04a8a302f509/3/BOXART-16X9/en-US._UR1920,1080_.jpg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HLW6FTC5?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pjnwj2lbr8/out/v1/7fa779f874dd410195eda641faadc623/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pjnwj2lbr8/out/v1/7fa779f874dd410195eda641faadc623/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pjnwj2lbr8/out/v1/7fa779f874dd410195eda641faadc623/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pjnwj2lbr8/out/v1/7fa779f874dd410195eda641faadc623/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pjnwj2lbr8/out/v1/7fa779f874dd410195eda641faadc623/cenc.mpd"
+      },
+      "drm_key": "7a3f90a5769802036c18de821735b594:1412cd88540af73b27e45c9982bc9c78"
     },
     {
       "match_id": "B0HN635GQK",
