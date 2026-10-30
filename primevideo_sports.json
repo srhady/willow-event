@@ -1,29 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "05:02 AM 31-10-2026",
+    "LastUpdate": "05:32 AM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 12,
+    "LiveCount": 8,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HLLS3X4D",
-      "title": "Mexico: Practice 2",
-      "synopsis": "Mexico: Practice 2",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6d0c1ef6-38d2-4eb8-a0f5-f876bbc295e0/10/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLLS3X4D",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a100live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq-NpzBhpq5RPzA2Zha2FtYWkCeChmaWQ6MDFhMThlZDUtZjA4MS03M2FlLWIwMDUtZDdkZThjZjE2MzdiGQE4oQWhAngzL3drbGVyeXhvcHgvb3V0L3YxLzE3NjJhYzFlZDViMzQ5YTA4NGEyYTdmNGU4ZjI1MjI3WCCky5TG_3Gtfv7xFv_COQgSfNokHP0684BeKwfDMMhBVQ/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/wkleryxopx/out/v1/1762ac1ed5b349a084a2a7f4e8f25227/8c3335e7-48e1-4b2f-810b-97a655057a55-cenc.mpd"
-      },
-      "drm_key": "97b816a6448387fc0618ff02698bf003:016a6f119593cb8d1a0a72a5505d8a7b"
-    },
     {
       "match_id": "B0HNVSG1NM",
       "title": "Boise State at Texas State",
@@ -40,6 +26,23 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd"
       },
       "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
+    },
+    {
+      "match_id": "B0HL6BH6C8",
+      "title": "Iron-Man Halloween Nationals at Portsmouth Raceway Park",
+      "synopsis": "Iron-Man Halloween Nationals at Portsmouth Raceway Park",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.38eff73c-4bc6-4782-b2fc-dbc8130959e6/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HL6BH6C8",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd"
+      },
+      "drm_key": "2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca"
     },
     {
       "match_id": "B0HJ96JJFB",
@@ -74,54 +77,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd"
       },
       "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
-    },
-    {
-      "match_id": "B0HL6BH6C8",
-      "title": "Iron-Man Halloween Nationals at Portsmouth Raceway Park",
-      "synopsis": "Iron-Man Halloween Nationals at Portsmouth Raceway Park",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.38eff73c-4bc6-4782-b2fc-dbc8130959e6/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HL6BH6C8",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd"
-      },
-      "drm_key": "2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca"
-    },
-    {
-      "match_id": "B0HNFGSVVR",
-      "title": "Second Serve - Live-Basel-ATP & Vienna-ATP Early Rounds",
-      "synopsis": "Second Serve - Live-Basel-ATP & Vienna-ATP Early Rounds",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.394ec66b-fa35-41c3-a272-c513aa2d44d0/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HNFGSVVR",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd"
-      },
-      "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
-    },
-    {
-      "match_id": "B0HL3MBBWJ",
-      "title": "Mexico: Practice 2 (Sky Sports)",
-      "synopsis": "Mexico: Practice 2 (Sky Sports)",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d4aba571-1bb4-4b09-bff4-8bda732ccc4a/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HL3MBBWJ",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABBI6E4AAAAAAAAMEVSPCDVZBEFE7.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq-NNvBhpq5QzvA2pjbG91ZGZyb250AngoZmlkOjAxYTE4ZWJhLTg3YjYtNzVlNS1iYTI1LWJhYzNmYzYyOGQyZRkBOKEFoQJ4My95bW9yZmZsamt3L291dC92MS8yZThmYTM5YWVmNzg0NDU5ODk4N2JkZGRiNTRmNGM0M1ggIO2_8azCuVC1sEvT5mAdcFjHsJK3snVXDntg5uxN76U/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ymorffljkw/out/v1/2e8fa39aef7844598987bdddb54f4c43/d4625686-19f8-45af-9d98-3c0f18d78c53-cenc.mpd"
-      },
-      "drm_key": "ab2ed07c1fc5b319b3b1e18a4d9cf5fb:871d5bfd8ecce031a4b953f80159834e"
     },
     {
       "match_id": "B0HP6P7PXZ",
@@ -173,20 +128,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd"
       },
       "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
-    },
-    {
-      "match_id": "B0HNWX96WK",
-      "title": "Oct 30 - UTR PTT Columbia Women",
-      "synopsis": "Oct 30 - UTR PTT Columbia Women",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a6fa97d3-ac94-427c-873b-671422a11cac/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HNWX96WK",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq-JstBhpq5NStA2ZmYXN0bHkCeChmaWQ6MDFhMThkZGUtYzYyYS03NWNmLWFhZWEtMTlhM2UyOGY0MTI0GQE4oQWhAngzL3FmZnF6cnhsY2kvb3V0L3YxLzBmZjRkZDg2OGRiZDQyZjk4Mzc5ZTU5NWFkNjE3MDMwWCDAltdmfgCF-59ROKRWIGHB7lUBhvDA2XanimGh9e2_nQ/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/qffqzrxlci/out/v1/0ff4dd868dbd42f98379e595ad617030/d5139f2e-f92e-4107-8819-020810a28bef-cenc.mpd"
-      },
-      "drm_key": "0434cbbf3198d761d3cc5f61abc4abcb:60d45196b1f538eda119d4d301d348fe"
     },
     {
       "match_id": "B0HN8C19SJ",
