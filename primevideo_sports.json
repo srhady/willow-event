@@ -1,32 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "03:02 PM 31-10-2026",
+    "LastUpdate": "03:32 PM 31-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 7,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HP445XSZ",
-      "title": "Pakistan ODI Tri-Series 2026 - Final - Pakistan vs Sri Lanka",
-      "synopsis": "Pakistan ODI Tri-Series 2026 - Final - Pakistan vs Sri Lanka",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.585cf604-276f-4a0d-8d72-73b6136cd9fb/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HP445XSZ",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd"
-      },
-      "drm_key": "a323fd2c6886dfea4831314fd63c4eb7:462c6dd2b56c26e958f5981fea25aef4"
-    },
     {
       "match_id": "B0HKDPRJRS",
       "title": "Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia",
@@ -43,6 +26,23 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/iq4ucnnylo/out/v1/589f94d67d424d2fa5792f43af15a45f/cenc.mpd"
       },
       "drm_key": "055e7d596817187feb6148156f166cd4:d2f924558033464139e9367ffe346149"
+    },
+    {
+      "match_id": "B0HP445XSZ",
+      "title": "Pakistan ODI Tri-Series 2026 - Final - Pakistan vs Sri Lanka",
+      "synopsis": "Pakistan ODI Tri-Series 2026 - Final - Pakistan vs Sri Lanka",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.585cf604-276f-4a0d-8d72-73b6136cd9fb/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HP445XSZ",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd"
+      },
+      "drm_key": "a323fd2c6886dfea4831314fd63c4eb7:462c6dd2b56c26e958f5981fea25aef4"
     },
     {
       "match_id": "B0HN7WRZQY",
@@ -79,23 +79,6 @@
       "drm_key": "82b8543f9ed421538363bacc50c6cc93:a1c7f34031ab2f04a33af7f2df053146"
     },
     {
-      "match_id": "B0HPL4RFT7",
-      "title": "Hong Kong Sixes 2026 - Cup Semi Final 2- Scotland vs Afghanistan",
-      "synopsis": "Hong Kong Sixes 2026 - Cup Semi Final 2- Scotland vs Afghanistan",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c97812c4-968f-44ea-9aba-a074b19e5ce5/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HPL4RFT7",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/022z245nkj/out/v1/09672c801ade4615a05f6210d67e0f4b/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/022z245nkj/out/v1/09672c801ade4615a05f6210d67e0f4b/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/022z245nkj/out/v1/09672c801ade4615a05f6210d67e0f4b/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/022z245nkj/out/v1/09672c801ade4615a05f6210d67e0f4b/cenc.mpd"
-      },
-      "drm_key": "9d10441fabf35a310d6ccf17158cf6e5:10452c062c1990788a7f83a2dc6b7e09"
-    },
-    {
       "match_id": "B0HN1B5HC6",
       "title": "Oct 31 - UTR PTT Bengaluru Men",
       "synopsis": "Oct 31 - UTR PTT Bengaluru Men",
@@ -108,23 +91,6 @@
         "Original Server": "https://a141live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq-SfRBhpq5WFRA2Zha2FtYWkCeChmaWQ6MDFhMTkwMDQtMjY3MC03MWM5LThhNzAtMWNjOTE1ZGE0ZGE5GQE4oQWhAngzL3FueWp6b2Fidjgvb3V0L3YxL2I0NjA1YzRhYTY2NDQwY2ZiMDExN2NjOWY0NjEwNDMxWCAxLIwrG0Lvt9S4OZS8StIeybpYUk8wm-IlAikPMLAZBg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/qnyjzoabv8/out/v1/b4605c4aa66440cfb0117cc9f4610431/e11c6359-807c-4ae5-94fd-910b3d3bcff2-cenc.mpd"
       },
       "drm_key": "12afc4556dd5319f5709a841214b7a73:a994e8872d15e3e9d1d2a3d115338340"
-    },
-    {
-      "match_id": "B0HLZ4VQPQ",
-      "title": "Womens Big Bash League 2026 - 4th Match - Adelaide Strikers Women vs Melbourne Stars Women",
-      "synopsis": "Womens Big Bash League 2026 - 4th Match - Adelaide Strikers Women vs Melbourne Stars Women",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7bcd78a9-701e-4b82-a7b4-b4c98580e6ac/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLZ4VQPQ",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd"
-      },
-      "drm_key": "3444af0dd264a1e280e7ac12410982e5:afa20d118776231ba80fc5c2b4370909"
     }
   ]
 }
