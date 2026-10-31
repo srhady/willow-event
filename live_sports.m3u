@@ -1,17 +1,17 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:11:02 AM 31-10-2026
+#LAST_UPDATE:11:32 AM 31-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:18
+#LIVE_COUNT:3
+#UPCOMING_COUNT:17
 
 #EXTINF:-1 tvg-id="B0HLZ4VQPQ" tvg-name="Womens Big Bash League 2026 - 4th Match - Adelaide Strikers Women vs Melbourne Stars Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7bcd78a9-701e-4b82-a7b4-b4c98580e6ac/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Big Bash League 2026 - 4th Match - Adelaide Strikers Women vs Melbourne Stars Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3444af0dd264a1e280e7ac12410982e5:afa20d118776231ba80fc5c2b4370909
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HMLYWN5Q" tvg-name="Hong Kong Sixes 2026 - Bowl Semi Final 2- England vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f6d7d22d-e9b7-436e-885e-68eee5ed2f44/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - Bowl Semi Final 2- England vs India
 #KODIPROP:inputstream=inputstream.adaptive
@@ -19,4 +19,11 @@ https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7v0gimhxxh
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=15333933304154f97c20ec7fe8921517:b03f8c42cbdc7ce3ff4ffe882bc2d47d
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lflfskcirt/out/v1/d4b7a8cb630b4beb8c976c31913e27e8/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HP1YTNK3" tvg-name="Hong Kong Sixes 2026 - Plate Semi Final 1- Sri Lanka vs Oman" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f184d693-d14a-433a-83c0-4bb8ef9b6697/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - Plate Semi Final 1- Sri Lanka vs Oman
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=643a688106924b55e85a1da8eb9eb24d:29b8c149d58312257002a6462ba1882a
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a3teruo6nj/out/v1/179b803602d2458d9be3dd044381a7a5/cenc.mpd
 
