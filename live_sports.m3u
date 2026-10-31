@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:12:32 PM 31-10-2026
+#LAST_UPDATE:01:02 PM 31-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:3
@@ -11,19 +11,19 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3444af0dd264a1e280e7ac12410982e5:afa20d118776231ba80fc5c2b4370909
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HP1YTNK3" tvg-name="Hong Kong Sixes 2026 - Plate Semi Final 1- Sri Lanka vs Oman" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f184d693-d14a-433a-83c0-4bb8ef9b6697/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - Plate Semi Final 1- Sri Lanka vs Oman
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=643a688106924b55e85a1da8eb9eb24d:29b8c149d58312257002a6462ba1882a
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/a3teruo6nj/out/v1/179b803602d2458d9be3dd044381a7a5/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HNNMHMKL" tvg-name="Hong Kong Sixes 2026 - Plate Semi Final 2- Hong Kong, China vs Pakistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a35734b2-96cf-404b-ada4-c2105b79b166/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - Plate Semi Final 2- Hong Kong, China vs Pakistan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=618ed9fba02a14e4350000041b526502:d6bae617d11994298f1fe5116231f897
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5mzghrmb3g/out/v1/0b26e62e27844358bf6822532468ee09/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5mzghrmb3g/out/v1/0b26e62e27844358bf6822532468ee09/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HPNT3K4V" tvg-name="Hong Kong Sixes 2026 - Cup Semi Final 1- Australia vs United Arab Emirates" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ee1dcc61-123f-4703-8d75-5ce40b906778/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - Cup Semi Final 1- Australia vs United Arab Emirates
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e0ab3552ca701eb29069f4e7318ff141:9b995d65bbdccd7e7be9e604357316ba
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pieksa9i7w/out/v1/ff2052eed6594bdc9b98bee82f03dd24/cenc.mpd
 
