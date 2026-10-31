@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "02:32 AM 01-11-2026",
+    "LastUpdate": "03:02 AM 01-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -16,7 +16,7 @@
       "synopsis": "AHL Hockey: Milwaukee Admirals vs Cleveland Monsters",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.535f37aa-4c12-4b97-a45d-2af6b1348521/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.535f37aa-4c12-4b97-a45d-2af6b1348521/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HN2K2L8K",
       "is_free": false,
       "stream_url": {
@@ -26,6 +26,23 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd"
       },
       "drm_key": "b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9"
+    },
+    {
+      "match_id": "B0HPDPTZ1L",
+      "title": "Small School Saturday",
+      "synopsis": "Small School Saturday",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2b23e567-844c-4b23-84d8-c25d33e60af6/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HPDPTZ1L",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd"
+      },
+      "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
     },
     {
       "match_id": "B0HN5YJX8D",
@@ -79,6 +96,23 @@
       "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
     },
     {
+      "match_id": "B0HPDK756B",
+      "title": "Day 4",
+      "synopsis": "Day 4",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9e1adb7e-4925-4bb9-9aec-009c776a2cc8/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HPDK756B",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd"
+      },
+      "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
+    },
+    {
       "match_id": "B0HNXZF9QN",
       "title": "MLP Nations Cup",
       "synopsis": "MLP Nations Cup",
@@ -127,23 +161,6 @@
       "drm_key": "1e646869207f96c72641777d29c74f67:c8ab92cb34d0612cb10bb77a60e7a7c7"
     },
     {
-      "match_id": "B0HPDPTZ1L",
-      "title": "Small School Saturday",
-      "synopsis": "Small School Saturday",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2b23e567-844c-4b23-84d8-c25d33e60af6/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HPDPTZ1L",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd"
-      },
-      "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
-    },
-    {
       "match_id": "B0HM8671RZ",
       "title": "Oct 31 - UTR PTT Columbia Women",
       "synopsis": "Oct 31 - UTR PTT Columbia Women",
@@ -156,20 +173,6 @@
         "Original Server": "https://a154live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq-gHYBhpq5jtYA2Zha2FtYWkCeChmaWQ6MDFhMTkzNTctZDE1ZS03NTM2LTljNzEtMDU2NTIyZjc3MmI4GQE4oQWhAngzL20zeDd0ZnBjZDQvb3V0L3YxLzExZDU4OTg4Y2IyZTQwZTNiY2ViNjE5MDA4ZGM4MjllWCAOIe5gpoIwn6GyOj_2TyAh3ffJtTzILvPag4zlcyfRlw/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/m3x7tfpcd4/out/v1/11d58988cb2e40e3bceb619008dc829e/7f6e244e-6cde-4ee0-91e8-1b7d3f664872-cenc.mpd"
       },
       "drm_key": "9b44a81b3ba2e2ca7640e409696ca4a8:79d183fa30514a6ad4155b604d9eabf5"
-    },
-    {
-      "match_id": "B0HNV9CVSV",
-      "title": "Oct 31 - UTR PTT Knoxville",
-      "synopsis": "Oct 31 - UTR PTT Knoxville",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.22dd7614-2a14-4839-9c6a-eaea9919edc9/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HNV9CVSV",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABDJGUMAAAAAAAAMJ2UIKUT2KJQWP.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq-gHZBhpq5jtZA2pjbG91ZGZyb250AngoZmlkOjAxYTE5MzU3LWQ0NjAtNzNlNC04NmU0LWVhMDM3MWRmNTJjYhkBOKEFoQJ4My91bXd4eW8zdWwwL291dC92MS84OWJlYzk2NDMwNWU0MDQ2OTlhMWIzNzJmNzljMDBkM1ggesnluXnsDuXPM-W1LN5ftFhGyEsY6kRS1d3HEDe8I0U/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/umwxyo3ul0/out/v1/89bec964305e404699a1b372f79c00d3/cbb8114f-4874-4938-890e-7a4f80209cd5-cenc.mpd"
-      },
-      "drm_key": "299ad36a8f20e497ba5666b65e370ff0:6d54418c6df053c297881e6b88784638"
     }
   ]
 }
