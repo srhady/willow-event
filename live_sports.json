@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "11:02 AM 01-11-2026",
+    "LastUpdate": "11:32 AM 01-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 2,
-    "UpcomingCount": 18
+    "LiveCount": 3,
+    "UpcomingCount": 17
   },
   "Matches": [
     {
@@ -50,13 +50,26 @@
       "match_id": "B0HM7PCY3B",
       "title": "Hong Kong Sixes 2026 - Bowl Final - South Africa vs England",
       "synopsis": "Hong Kong Sixes 2026 - Bowl Final - South Africa vs England",
-      "status": "UPCOMING",
-      "time": "Live at 11:10 AM BDT",
+      "status": "LIVE",
+      "time": "11:10 AM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.be6510ba-4d01-4cc6-b9ae-3ce2cf432774/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HM7PCY3B?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/f75yhdq23v/out/v1/598eae358be84a6190477baeee289e93/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/f75yhdq23v/out/v1/598eae358be84a6190477baeee289e93/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/f75yhdq23v/out/v1/598eae358be84a6190477baeee289e93/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/f75yhdq23v/out/v1/598eae358be84a6190477baeee289e93/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/f75yhdq23v/out/v1/598eae358be84a6190477baeee289e93/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3gz1mkmjoo/out/v1/b2750f0cd0f14f7fac2907b33a767cdd/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3gz1mkmjoo/out/v1/b2750f0cd0f14f7fac2907b33a767cdd/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/3gz1mkmjoo/out/v1/b2750f0cd0f14f7fac2907b33a767cdd/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3gz1mkmjoo/out/v1/b2750f0cd0f14f7fac2907b33a767cdd/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3gz1mkmjoo/out/v1/b2750f0cd0f14f7fac2907b33a767cdd/cenc.mpd"
+      },
+      "drm_key": "a4514f31e848acef7fd26d27fe8e77b2:e9c848142716a1ef70be1e38b1cc2cc6"
     },
     {
       "match_id": "B0H6W3NWKD",
