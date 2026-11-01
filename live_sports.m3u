@@ -1,8 +1,15 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:07:32 PM 01-11-2026
+#LAST_UPDATE:08:02 PM 01-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:20
+#LIVE_COUNT:1
+#UPCOMING_COUNT:19
+
+#EXTINF:-1 tvg-id="B0HMDM29Y2" tvg-name="Afghanistan vs. Zimbabwe" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d1264afa-906b-412e-be15-e2bcb02bfe4e/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Afghanistan vs. Zimbabwe
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=468c69668fb1f8433921d80485af81dc:fdc96b10b6e9cdcc3c5904afb6bff82d
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/47bghsff2d/out/v1/2fdbd848acd447b9bdc11de12fa7428b/cenc.mpd
 
