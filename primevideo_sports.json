@@ -1,15 +1,32 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "12:32 AM 02-11-2026",
+    "LastUpdate": "01:02 AM 02-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 8,
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HPGCLTM9",
+      "title": "El Salvador, Finals",
+      "synopsis": "El Salvador, Finals",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a90a4a21-e20e-4e06-9304-50cb3efb9294/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HPGCLTM9",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd"
+      },
+      "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
+    },
     {
       "match_id": "B0HP9SYDYN",
       "title": "Lecce vs. Genoa",
@@ -62,6 +79,23 @@
       "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
     },
     {
+      "match_id": "B0HNV7VJLX",
+      "title": "Pau vs Toulouse - Rugby",
+      "synopsis": "Pau vs Toulouse - Rugby",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c0433ff5-f12f-4b57-a3a8-84b33fc92521/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HNV7VJLX",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd"
+      },
+      "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
+    },
+    {
       "match_id": "B0HNWVN7YG",
       "title": "Nov 1 - UTR PTT Philadelphia Men",
       "synopsis": "Nov 1 - UTR PTT Philadelphia Men",
@@ -74,6 +108,20 @@
         "Original Server": "https://ABBJKK6AAAAAAAAMFBZXAY75BSFOS.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq-wz6Bhpq50Z6A2pjbG91ZGZyb250AngoZmlkOjAxYTE5NzZiLTRkZDYtNzAwNy05MDhjLThlNTEyNDdmY2ExZBkBOKEFoQJ4My9jNXpkZ3JvdDV3L291dC92MS83MTQzNDY1ZTEyMWY0NTczYWI4NzQxYWMyZTMyMTYwNVggkZojKX7Y5E3VkQAD5hcLrbMyc06p2jleyMAymw5m-ow/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/c5zdgrot5w/out/v1/7143465e121f4573ab8741ac2e321605/2a1792ed-e594-49c1-9025-88ebe2a99332-cenc.mpd"
       },
       "drm_key": "46a2fd9a3080d614dab04369143209bc:11a1418b7a838398516098fbfcd1252f"
+    },
+    {
+      "match_id": "B0HL1RBT11",
+      "title": "Nov 1 - UTR PTT Columbia Women",
+      "synopsis": "Nov 1 - UTR PTT Columbia Women",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c2c35473-7f98-4b5c-b8b0-8d388495fda8/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HL1RBT11",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABCQ5C4AAAAAAAAMDV7AHZU3DWJPQ.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq-xsFBhpq51SFA2pjbG91ZGZyb250AngoZmlkOjAxYTE5N2EyLTI3ZDYtNzIwOS1hMDNkLWVjYzEzMWY4NTc2ZRkBOKEFoQJ4My9haHdjczVjcmRhL291dC92MS9iOTE3OGQzZTYxZGM0ZjFkODVlYWZjZTI3MjRjMzBhMlggpap8cnwu8Z7coERI71ReRPV0slpUw6wQWCeibedvWcQ/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ahwcs5crda/out/v1/b9178d3e61dc4f1d85eafce2724c30a2/9d05d14d-5a65-4b11-ab99-bdd1ffaeaa5c-cenc.mpd"
+      },
+      "drm_key": "8fbd209d68f4b24d99e6b6feb231b39c:45f77719492a442a374f5af795e425b9"
     },
     {
       "match_id": "B0HJGV4H7B",
@@ -91,20 +139,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd"
       },
       "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
-    },
-    {
-      "match_id": "B0HL1RBT11",
-      "title": "Nov 1 - UTR PTT Columbia Women",
-      "synopsis": "Nov 1 - UTR PTT Columbia Women",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c2c35473-7f98-4b5c-b8b0-8d388495fda8/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HL1RBT11",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABCQ5C4AAAAAAAAMDV7AHZU3DWJPQ.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq-xsFBhpq51SFA2pjbG91ZGZyb250AngoZmlkOjAxYTE5N2EyLTI3ZDYtNzIwOS1hMDNkLWVjYzEzMWY4NTc2ZRkBOKEFoQJ4My9haHdjczVjcmRhL291dC92MS9iOTE3OGQzZTYxZGM0ZjFkODVlYWZjZTI3MjRjMzBhMlggpap8cnwu8Z7coERI71ReRPV0slpUw6wQWCeibedvWcQ/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ahwcs5crda/out/v1/b9178d3e61dc4f1d85eafce2724c30a2/9d05d14d-5a65-4b11-ab99-bdd1ffaeaa5c-cenc.mpd"
-      },
-      "drm_key": "8fbd209d68f4b24d99e6b6feb231b39c:45f77719492a442a374f5af795e425b9"
     }
   ]
 }
