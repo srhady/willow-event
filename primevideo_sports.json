@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "11:02 AM 04-11-2026",
+    "LastUpdate": "11:32 AM 04-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 3,
+    "LiveCount": 2,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -43,20 +43,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pkooyxhqmr/out/v1/4c8d0ecc7d704eb2935efde33b289d50/cenc.mpd"
       },
       "drm_key": "6a028d5592b0e81f9c4fd4de4df6d5c7:9378d2ddd738b2d0b7a85ba65b643a7f"
-    },
-    {
-      "match_id": "B0HPDSQZZH",
-      "title": "Nov 3 - PTT Newport Beach",
-      "synopsis": "Nov 3 - PTT Newport Beach",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cc060cec-d6f7-47d6-a46a-ad0e0c4d8eb4/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HPDSQZZH",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a156live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq_fZmBhpq6i_mA2Zha2FtYWkCeChmaWQ6MDFhMWEyY2ItMWFhZS03NDU3LWI3NzUtMWNmMDZlYzdjNDJlGQE4oQWhAngzL3NvZXRicjNldXUvb3V0L3YxL2JkMDAxNjVlZjhmNTQyZTBiYWNmMmNiNjM5MTQ5YmEzWCAxju0CXtVsjZ8DsULiCimRAG8AmUXQUS7s_16qPeMq3g/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/soetbr3euu/out/v1/bd00165ef8f542e0bacf2cb639149ba3/6a912181-1227-4ee0-8f8c-1984c72525d2-cenc.mpd"
-      },
-      "drm_key": "adb13288e9a9e53c26861546ce0300ed:2d28a97657e8ad9a37fd78df795d3e39"
     }
   ]
 }
