@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "05:32 AM 04-11-2026",
+    "LastUpdate": "06:02 AM 04-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -26,6 +26,23 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd"
       },
       "drm_key": "2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72"
+    },
+    {
+      "match_id": "B0HPNR8GCH",
+      "title": "Louisiana at Loyola New Orleans",
+      "synopsis": "Louisiana at Loyola New Orleans",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5f5133b0-1344-4193-a261-bb6856c61fa2/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HPNR8GCH",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd"
+      },
+      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
     },
     {
       "match_id": "B0HNH4Q3MS",
@@ -57,20 +74,6 @@
         "Original Server": "https://a156live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq_fZmBhpq6i_mA2Zha2FtYWkCeChmaWQ6MDFhMWEyY2ItMWFhZS03NDU3LWI3NzUtMWNmMDZlYzdjNDJlGQE4oQWhAngzL3NvZXRicjNldXUvb3V0L3YxL2JkMDAxNjVlZjhmNTQyZTBiYWNmMmNiNjM5MTQ5YmEzWCAxju0CXtVsjZ8DsULiCimRAG8AmUXQUS7s_16qPeMq3g/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/soetbr3euu/out/v1/bd00165ef8f542e0bacf2cb639149ba3/6a912181-1227-4ee0-8f8c-1984c72525d2-cenc.mpd"
       },
       "drm_key": "adb13288e9a9e53c26861546ce0300ed:2d28a97657e8ad9a37fd78df795d3e39"
-    },
-    {
-      "match_id": "B0HPB58NS8",
-      "title": "Nov 3 - PTT Fayetteville",
-      "synopsis": "Nov 3 - PTT Fayetteville",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ea1bcdb8-4a0b-4868-b7bd-352be38da0ba/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HPB58NS8",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABBI52XAAAAAAAAMCJO7N3ASFQFQS.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq_cwfBhpq6gWfA2pjbG91ZGZyb250AngoZmlkOjAxYTFhMjI1LWY1YjMtNzM2OS1iYTFiLTY4OGNmMTFlZGNkYxkBOKEFoQJ4My9mcnU4OHhmcXE4L291dC92MS9hMDNkYzE1YzA1NDY0ZDQ1YWI5ZTY2NGU5MjYyMjY4MVggTcwIFiMUGHntZjznlkJV5ZoRuuURakZZ0kT9CDfXdCw/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/fru88xfqq8/out/v1/a03dc15c05464d45ab9e664e92622681/37943a92-1455-4673-acfa-2b25c0a972d2-cenc.mpd"
-      },
-      "drm_key": "b6fcea7f12916f508a53357d61543e59:758d7f84f0f6f70ab02dfeac55e08dbc"
     }
   ]
 }
