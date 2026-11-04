@@ -1,32 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "04:02 AM 05-11-2026",
+    "LastUpdate": "05:02 AM 05-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 7,
+    "LiveCount": 6,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HJLXH5SL",
-      "title": "Slavia Praha vs. Arsenal",
-      "synopsis": "Slavia Praha vs. Arsenal",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9ae0d3e6-29da-4233-82c2-6554e466035b/8/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HJLXH5SL",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd"
-      },
-      "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
-    },
     {
       "match_id": "B0HNT4KQ3P",
       "title": "PPA Tour: World Championships-Round of 64",
@@ -79,20 +62,6 @@
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
-      "match_id": "B0HPDXBMHY",
-      "title": "Nov 4 - PTT Fayetteville",
-      "synopsis": "Nov 4 - PTT Fayetteville",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8041d64f-a7c8-44a5-90bd-78edceb79740/8/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HPDXBMHY",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a19live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq_07NBhpq64hNA2Zha2FtYWkCeChmaWQ6MDFhMWE4MGMtNmVmMi03M2FiLTg2MTAtMmUzOGI0OTBmZGJjGQE4oQWhAngzL2hmZGl2cndycHgvb3V0L3YxLzUzYmVmMWU3NWZjNzRkMzJhZTI1MGJmNDY5MmJiY2ExWCDh1qdu7St1qXRDHEmtEF-wbAt0Ne5X-jm2xpzo9tZZnQ/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/hfdivrwrpx/out/v1/53bef1e75fc74d32ae250bf4692bbca1/a8f8cdad-0b3e-4d3e-9c45-a985bc28a3cd-cenc.mpd"
-      },
-      "drm_key": "23c911ea91c5244d36773bb2ae3330ad:2533b3335d9c63bd720f822f1f0737ff"
-    },
-    {
       "match_id": "B0HGYLNKYV",
       "title": "Nov 4 - PTT Newport Beach",
       "synopsis": "Nov 4 - PTT Newport Beach",
@@ -105,6 +74,20 @@
         "Original Server": "https://ABBJKJ5AAAAAAAAMO7IOU6BOIII4M.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq_0fMBhpq64FMA2pjbG91ZGZyb250AngoZmlkOjAxYTFhN2YxLTE0ODUtNzY4Mi1hNTkwLTEwYjhlZjA5NGEzORkBOKEFoQJ4My9hdGFsYnFibXFnL291dC92MS84Y2Q1OTcyNzA4Yzk0ZTE4YjgwMTllMGRlZTViMTc3Zlgg0gtcqJ14kDb_-VZuzhSY525QodIq_-weJcZukOxhihU/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/atalbqbmqg/out/v1/8cd5972708c94e18b8019e0dee5b177f/7d2f16a3-795d-4a29-8b2b-d2a70a4c6366-cenc.mpd"
       },
       "drm_key": "267430b3e43cf88a7c658060b7835975:33dcfc814cb1d28d7cfbee3e09be15c5"
+    },
+    {
+      "match_id": "B0HPDXBMHY",
+      "title": "Nov 4 - PTT Fayetteville",
+      "synopsis": "Nov 4 - PTT Fayetteville",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8041d64f-a7c8-44a5-90bd-78edceb79740/8/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HPDXBMHY",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a19live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq_07NBhpq64hNA2Zha2FtYWkCeChmaWQ6MDFhMWE4MGMtNmVmMi03M2FiLTg2MTAtMmUzOGI0OTBmZGJjGQE4oQWhAngzL2hmZGl2cndycHgvb3V0L3YxLzUzYmVmMWU3NWZjNzRkMzJhZTI1MGJmNDY5MmJiY2ExWCDh1qdu7St1qXRDHEmtEF-wbAt0Ne5X-jm2xpzo9tZZnQ/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/hfdivrwrpx/out/v1/53bef1e75fc74d32ae250bf4692bbca1/a8f8cdad-0b3e-4d3e-9c45-a985bc28a3cd-cenc.mpd"
+      },
+      "drm_key": "23c911ea91c5244d36773bb2ae3330ad:2533b3335d9c63bd720f822f1f0737ff"
     },
     {
       "match_id": "B0H74V6GYL",
