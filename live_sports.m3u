@@ -1,22 +1,15 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:06:32 AM 05-11-2026
+#LAST_UPDATE:07:02 AM 05-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:18
-
-#EXTINF:-1 tvg-id="B0HN5CJD7P" tvg-name="USA Seniors Cricket NPL 2026 - 2nd Match - Mighty Dallas vs Chicago Cavaliers" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c92e6272-f4a8-41e4-b53b-7ea2a8fef0ac/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",USA Seniors Cricket NPL 2026 - 2nd Match - Mighty Dallas vs Chicago Cavaliers
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e47ceb54765083a28c09a2b62bf8447f:543f661537bb92a2767158513d3a6705
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/uwfep5hlhr/out/v1/38785086c34c4936b868d81fac5abd52/cenc.mpd
+#LIVE_COUNT:1
+#UPCOMING_COUNT:19
 
 #EXTINF:-1 tvg-id="B0HLT5L53C" tvg-name="USA Seniors Cricket NPL 2026 - 3rd Match - Austin Hunters vs Washington Eagles" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bc7c6e05-e59b-410f-807b-697cacd0f841/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",USA Seniors Cricket NPL 2026 - 3rd Match - Austin Hunters vs Washington Eagles
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2640cee439724e435e786303ea9668f:f6109a1e9135a4aca6bf8ae4d761c51d
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qsllmnzzjj/out/v1/275a953aa837465aaddb54d9ae09ef47/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/qsllmnzzjj/out/v1/275a953aa837465aaddb54d9ae09ef47/cenc.mpd
 
