@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "04:02 AM 06-11-2026",
+    "LastUpdate": "04:32 AM 06-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -10,6 +10,23 @@
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HP6LKZSZ",
+      "title": "QMJHL Hockey: Moncton Wildcats vs Newfoundland Regiment",
+      "synopsis": "QMJHL Hockey: Moncton Wildcats vs Newfoundland Regiment",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9b94a001-8b01-4bb7-8121-c16fd89b6669/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HP6LKZSZ",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd"
+      },
+      "drm_key": "b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9"
+    },
     {
       "match_id": "B0HP6ST6QP",
       "title": "PPA Tour: World Championships-2026: Round of 16",
@@ -62,6 +79,20 @@
       "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
     },
     {
+      "match_id": "B0HN7SJD9H",
+      "title": "Nov 5 - PTT Newport Beach",
+      "synopsis": "Nov 5 - PTT Newport Beach",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.764312a7-30f6-4ede-962e-dc9c4755be95/9/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HN7SJD9H",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprAK5oBhpq7OfoA2ZmYXN0bHkCeChmaWQ6MDFhMWFkNjktZTI5Ny03MGUzLWJkMDktMTdjZDEyMjJiZTZmGQE4oQWhAngzL3Z1Y2dtd2p6ZWcvb3V0L3YxL2M4MjhmNTM1OGUxZDQ2ZGViMDk3ZTZhZDFjM2U5NzczWCCkxwS6EpAIasAXIlsdTyeb54y378DBzsRC1PNxuv7YFA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/vucgmwjzeg/out/v1/c828f5358e1d46deb097e6ad1c3e9773/c8075f48-fe2d-43a2-b2f1-7121d25dc55e-cenc.mpd"
+      },
+      "drm_key": "71bc0af664b56064ba64da99048fd7b2:b24b1fc9f34ea20b24f6457696fb4124"
+    },
+    {
       "match_id": "B0HP6ZFFMQ",
       "title": "USA Seniors Cricket NPL 2026 - 5th Match - Chicago Cavaliers vs Houston Saints",
       "synopsis": "USA Seniors Cricket NPL 2026 - 5th Match - Chicago Cavaliers vs Houston Saints",
@@ -96,20 +127,6 @@
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
-      "match_id": "B0HN7SJD9H",
-      "title": "Nov 5 - PTT Newport Beach",
-      "synopsis": "Nov 5 - PTT Newport Beach",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.764312a7-30f6-4ede-962e-dc9c4755be95/9/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HN7SJD9H",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprAK5oBhpq7OfoA2ZmYXN0bHkCeChmaWQ6MDFhMWFkNjktZTI5Ny03MGUzLWJkMDktMTdjZDEyMjJiZTZmGQE4oQWhAngzL3Z1Y2dtd2p6ZWcvb3V0L3YxL2M4MjhmNTM1OGUxZDQ2ZGViMDk3ZTZhZDFjM2U5NzczWCCkxwS6EpAIasAXIlsdTyeb54y378DBzsRC1PNxuv7YFA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/vucgmwjzeg/out/v1/c828f5358e1d46deb097e6ad1c3e9773/c8075f48-fe2d-43a2-b2f1-7121d25dc55e-cenc.mpd"
-      },
-      "drm_key": "71bc0af664b56064ba64da99048fd7b2:b24b1fc9f34ea20b24f6457696fb4124"
-    },
-    {
       "match_id": "B0HP3R26P9",
       "title": "Nov 5 - PTT Fayetteville",
       "synopsis": "Nov 5 - PTT Fayetteville",
@@ -122,20 +139,6 @@
         "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprAK5oBhpq7OfoA2ZmYXN0bHkCeChmaWQ6MDFhMWFkNjktZTUzOC03NWY2LWEzOGYtNTk4YzkyZTE0ZGU0GQE4oQWhAngzL3l1ZnF2ajF2dzAvb3V0L3YxLzZlOGI2N2I1NzljZjQ3MmRhNGE2NGFmOWRiN2IxMmVmWCA8uWqLvy6aRT7lkxaCSmUOQECC4uA5Xi8KU6R5GLlF-g/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/yufqvj1vw0/out/v1/6e8b67b579cf472da4a64af9db7b12ef/b428f2c6-ecfe-4721-b45c-0d881e3d8b46-cenc.mpd"
       },
       "drm_key": "0b8c57aef003777677e43cf0b0b66482:ddfe5944ebd76d4688e540fd9b4a6b05"
-    },
-    {
-      "match_id": "B0HPNDY8QN",
-      "title": "Nov 5 - PTT Chapel Hill Women",
-      "synopsis": "Nov 5 - PTT Chapel Hill Women",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ec6a6351-5f89-4809-a7c6-010dc1377794/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HPNDY8QN",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprAK5pBhpq7OfpA2ZmYXN0bHkCeChmaWQ6MDFhMWFkNjktZTc0Zi03MWY1LWI3ZWItNTAwZDYyNTRhM2UwGQE4oQWhAngzL2E5OTJtaW1tdzYvb3V0L3YxL2I2N2Y2NjJkM2Q0ZjRmNDA5YTAzNWZmZTgxMTE1MDU1WCD0NDhD8KpQ4mwiUbEp3a3spkYe_wpIZyWNpreMWVVd8Q/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/a992mimmw6/out/v1/b67f662d3d4f4f409a035ffe81115055/d5b9e06b-b007-407e-89b3-56440ff1fb27-cenc.mpd"
-      },
-      "drm_key": "7e4a648b94b26c26cdc7460a206d9e18:13b3a32af7caeedb38d1ada27af10a1c"
     }
   ]
 }
