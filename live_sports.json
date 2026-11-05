@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "02:02 PM 05-11-2026",
+    "LastUpdate": "02:32 PM 05-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
-    "UpcomingCount": 16
+    "LiveCount": 5,
+    "UpcomingCount": 15
   },
   "Matches": [
     {
@@ -100,13 +100,19 @@
       "match_id": "B0HJYQBDZV",
       "title": "Womens Big Bash League 2026 - 11th Match - Sydney Thunder Women vs Perth Scorchers Women",
       "synopsis": "Womens Big Bash League 2026 - 11th Match - Sydney Thunder Women vs Perth Scorchers Women",
-      "status": "UPCOMING",
-      "time": "Live at 2:10 PM BDT",
+      "status": "LIVE",
+      "time": "2:10 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ab810664-fc94-4c19-98c0-2ab16473a298/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HJYQBDZV?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_5",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fqfdmhym1j/out/v1/e07f7042e08e4cc8863b4038fc99a431/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fqfdmhym1j/out/v1/e07f7042e08e4cc8863b4038fc99a431/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/fqfdmhym1j/out/v1/e07f7042e08e4cc8863b4038fc99a431/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fqfdmhym1j/out/v1/e07f7042e08e4cc8863b4038fc99a431/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fqfdmhym1j/out/v1/e07f7042e08e4cc8863b4038fc99a431/cenc.mpd"
+      },
+      "drm_key": "b2c92cec93ed53bbc297d9ab55ae4c72:6dfa3680190db85be7659d6faaac5d91"
     },
     {
       "match_id": "B0HP3SQFKP",
@@ -277,13 +283,13 @@
       "drm_key": ""
     },
     {
-      "match_id": "B0HLZW9JHH",
-      "title": "USA Seniors Cricket NPL 2026 - 10th Match - Austin Hunters vs NY X-Factor",
-      "synopsis": "USA Seniors Cricket NPL 2026 - 10th Match - Austin Hunters vs NY X-Factor",
+      "match_id": "B0HPWMMNBP",
+      "title": "Abu Dhabi T10 League 2026 - 1st Match - UAE Bulls vs Yas Lions",
+      "synopsis": "Abu Dhabi T10 League 2026 - 1st Match - UAE Bulls vs Yas Lions",
       "status": "UPCOMING",
-      "time": "Sat, Nov 7 10 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6fb485ce-1efe-4bda-b3c6-9fed335ffe6e/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLZW9JHH?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_20",
+      "time": "Sat, Nov 7 5:30 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e5900bb5-c649-4223-ba98-485d7d264f17/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HPWMMNBP?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_20",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
