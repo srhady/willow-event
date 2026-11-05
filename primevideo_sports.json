@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "04:32 AM 06-11-2026",
+    "LastUpdate": "05:02 AM 06-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -79,20 +79,6 @@
       "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
     },
     {
-      "match_id": "B0HN7SJD9H",
-      "title": "Nov 5 - PTT Newport Beach",
-      "synopsis": "Nov 5 - PTT Newport Beach",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.764312a7-30f6-4ede-962e-dc9c4755be95/9/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HN7SJD9H",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprAK5oBhpq7OfoA2ZmYXN0bHkCeChmaWQ6MDFhMWFkNjktZTI5Ny03MGUzLWJkMDktMTdjZDEyMjJiZTZmGQE4oQWhAngzL3Z1Y2dtd2p6ZWcvb3V0L3YxL2M4MjhmNTM1OGUxZDQ2ZGViMDk3ZTZhZDFjM2U5NzczWCCkxwS6EpAIasAXIlsdTyeb54y378DBzsRC1PNxuv7YFA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/vucgmwjzeg/out/v1/c828f5358e1d46deb097e6ad1c3e9773/c8075f48-fe2d-43a2-b2f1-7121d25dc55e-cenc.mpd"
-      },
-      "drm_key": "71bc0af664b56064ba64da99048fd7b2:b24b1fc9f34ea20b24f6457696fb4124"
-    },
-    {
       "match_id": "B0HP6ZFFMQ",
       "title": "USA Seniors Cricket NPL 2026 - 5th Match - Chicago Cavaliers vs Houston Saints",
       "synopsis": "USA Seniors Cricket NPL 2026 - 5th Match - Chicago Cavaliers vs Houston Saints",
@@ -108,6 +94,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kjxmjx6k1n/out/v1/e6f339b9073e41da84c611aa711bf63d/cenc.mpd"
       },
       "drm_key": "fa1594d6a8ffbc9587fff917249c7d1e:3252ef56c0e599888aa0164abeb48f07"
+    },
+    {
+      "match_id": "B0HN7SJD9H",
+      "title": "Nov 5 - PTT Newport Beach",
+      "synopsis": "Nov 5 - PTT Newport Beach",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.764312a7-30f6-4ede-962e-dc9c4755be95/9/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HN7SJD9H",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprAK5oBhpq7OfoA2ZmYXN0bHkCeChmaWQ6MDFhMWFkNjktZTI5Ny03MGUzLWJkMDktMTdjZDEyMjJiZTZmGQE4oQWhAngzL3Z1Y2dtd2p6ZWcvb3V0L3YxL2M4MjhmNTM1OGUxZDQ2ZGViMDk3ZTZhZDFjM2U5NzczWCCkxwS6EpAIasAXIlsdTyeb54y378DBzsRC1PNxuv7YFA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/vucgmwjzeg/out/v1/c828f5358e1d46deb097e6ad1c3e9773/c8075f48-fe2d-43a2-b2f1-7121d25dc55e-cenc.mpd"
+      },
+      "drm_key": "71bc0af664b56064ba64da99048fd7b2:b24b1fc9f34ea20b24f6457696fb4124"
     },
     {
       "match_id": "B0HPGVJJ6Q",
