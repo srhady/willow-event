@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "06:02 AM 05-11-2026",
+    "LastUpdate": "06:32 AM 05-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 19
+    "LiveCount": 2,
+    "UpcomingCount": 18
   },
   "Matches": [
     {
@@ -32,13 +32,26 @@
       "match_id": "B0HLT5L53C",
       "title": "USA Seniors Cricket NPL 2026 - 3rd Match - Austin Hunters vs Washington Eagles",
       "synopsis": "USA Seniors Cricket NPL 2026 - 3rd Match - Austin Hunters vs Washington Eagles",
-      "status": "UPCOMING",
-      "time": "Live at 6:30 AM BDT",
+      "status": "LIVE",
+      "time": "6:30 AM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bc7c6e05-e59b-410f-807b-697cacd0f841/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HLT5L53C?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsllmnzzjj/out/v1/275a953aa837465aaddb54d9ae09ef47/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsllmnzzjj/out/v1/275a953aa837465aaddb54d9ae09ef47/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/qsllmnzzjj/out/v1/275a953aa837465aaddb54d9ae09ef47/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qsllmnzzjj/out/v1/275a953aa837465aaddb54d9ae09ef47/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qsllmnzzjj/out/v1/275a953aa837465aaddb54d9ae09ef47/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nxizatvbbv/out/v1/d913351791d342b196183d2ef9f179ce/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nxizatvbbv/out/v1/d913351791d342b196183d2ef9f179ce/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/nxizatvbbv/out/v1/d913351791d342b196183d2ef9f179ce/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nxizatvbbv/out/v1/d913351791d342b196183d2ef9f179ce/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nxizatvbbv/out/v1/d913351791d342b196183d2ef9f179ce/cenc.mpd"
+      },
+      "drm_key": "e2640cee439724e435e786303ea9668f:f6109a1e9135a4aca6bf8ae4d761c51d"
     },
     {
       "match_id": "B0HMVMSCJM",
