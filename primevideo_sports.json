@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "11:02 PM 05-11-2026",
+    "LastUpdate": "11:32 PM 05-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 9,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -128,6 +128,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nqwkq8efiz/out/v1/8dcc50ab4484404f8807fcfe8cabe1c0/cenc.mpd"
       },
       "drm_key": "f4aaa86c309f1c09cfddb3089a7c0a2b:2e8c6603f159d7a5ec0aa7017e8bd75e"
+    },
+    {
+      "match_id": "B0HPNDY8QN",
+      "title": "Nov 5 - PTT Chapel Hill Women",
+      "synopsis": "Nov 5 - PTT Chapel Hill Women",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ec6a6351-5f89-4809-a7c6-010dc1377794/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HPNDY8QN",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABBIN3WAAAAAAAAMPEE7FFJXGF2U4.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprAIQtBhpq7L2tA2pjbG91ZGZyb250AngoZmlkOjAxYTFhY2M0LWVkOTMtNzJkZC05YTkzLWZjYjNiMzgxNTE2NBkBOKEFoQJ4My90cGZwYmxpcHhuL291dC92MS81NzA2ZDBkZWE2Mjg0ODUxODNkZGRkMjRjNTllYTg2ZlggbQdx5AyZQv4oBqxMqwXZir_mJ3EJVeQSsD9xgSqySdE/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/tpfpblipxn/out/v1/5706d0dea628485183dddd24c59ea86f/7cd9ede6-d623-42a6-8c36-c83d42e99bc9-cenc.mpd"
+      },
+      "drm_key": "7e4a648b94b26c26cdc7460a206d9e18:13b3a32af7caeedb38d1ada27af10a1c"
     },
     {
       "match_id": "B0HP3R26P9",
