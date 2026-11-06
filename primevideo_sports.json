@@ -1,49 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "09:02 AM 06-11-2026",
+    "LastUpdate": "09:32 AM 06-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HPDFQ8W4",
-      "title": "NASCAR Craftsman Truck Series Practice-LIVE: NASCAR Truck Series practice from Homestead-Miami Speedway",
-      "synopsis": "NASCAR Craftsman Truck Series Practice-LIVE: NASCAR Truck Series practice from Homestead-Miami Speedway",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.416a9275-f574-42f4-b0b9-633c3c4603f7/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HPDFQ8W4",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd"
-      },
-      "drm_key": "e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052"
-    },
-    {
-      "match_id": "B0HPH4T847",
-      "title": "Volleyball - Pac-12 2026 Season - Gonzaga at Colorado State",
-      "synopsis": "Volleyball - Pac-12 2026 Season - Gonzaga at Colorado State",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.39adefb2-13f1-4668-9ba6-a6c1754ee66a/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HPH4T847",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd"
-      },
-      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
-    },
     {
       "match_id": "B0HP6ST6QP",
       "title": "PPA Tour: World Championships-2026: Round of 16",
@@ -62,6 +28,23 @@
       "drm_key": "2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72"
     },
     {
+      "match_id": "B0HPDFQ8W4",
+      "title": "NASCAR Craftsman Truck Series Practice-LIVE: NASCAR Truck Series practice from Homestead-Miami Speedway",
+      "synopsis": "NASCAR Craftsman Truck Series Practice-LIVE: NASCAR Truck Series practice from Homestead-Miami Speedway",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.416a9275-f574-42f4-b0b9-633c3c4603f7/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HPDFQ8W4",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd"
+      },
+      "drm_key": "e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052"
+    },
+    {
       "match_id": "B0HP6XRR4N",
       "title": "USA Seniors Cricket NPL 2026 - 6th Match - Dallas Lions vs NY X-Factor",
       "synopsis": "USA Seniors Cricket NPL 2026 - 6th Match - Dallas Lions vs NY X-Factor",
@@ -77,23 +60,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fsebspc6zl/out/v1/5b62674bae8a48a49cd313b5adfa8a70/cenc.mpd"
       },
       "drm_key": "cda74401dccb782a232c8dc6c015cc10:231a4a125891db8b66e6308b37a65851"
-    },
-    {
-      "match_id": "B0HNRTCXK8",
-      "title": "Cricket Preview-USA Seniors Cricket NPL 2026 - Dallas Lions vs NY X-Factor - 6th Match",
-      "synopsis": "Cricket Preview-USA Seniors Cricket NPL 2026 - Dallas Lions vs NY X-Factor - 6th Match",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.0519ea28-a1e9-4ffa-a6e0-2d05ba50f943/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HNRTCXK8",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
-      },
-      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
       "match_id": "B0HN7SJD9H",
