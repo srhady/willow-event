@@ -1,15 +1,32 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "11:02 AM 06-11-2026",
+    "LastUpdate": "11:32 AM 06-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HPH18ZL4",
+      "title": "Pakistan U19 vs. United Arab Emirates U19",
+      "synopsis": "Pakistan U19 vs. United Arab Emirates U19",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.6f5cd8a4-60e7-4380-b5e9-6bc3214b8f2d/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HPH18ZL4",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
+      },
+      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+    },
     {
       "match_id": "B0HQ6L4784",
       "title": "ACC Mens U19 Asia Cup 2026 - 4th Match - India U19 vs Nepal U19",
@@ -45,6 +62,23 @@
       "drm_key": "1dcfabc6b441908d78cc7106e30e906f:8e086929f79491b9a2076d0d04eb7317"
     },
     {
+      "match_id": "B0HMNN211T",
+      "title": "Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe",
+      "synopsis": "Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.7cdc79e9-37f7-4576-abb3-baad628b810c/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HMNN211T",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1vinczlx3q/out/v1/a69e7ace1a7649418dbd689bf6eba8d7/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1vinczlx3q/out/v1/a69e7ace1a7649418dbd689bf6eba8d7/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1vinczlx3q/out/v1/a69e7ace1a7649418dbd689bf6eba8d7/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1vinczlx3q/out/v1/a69e7ace1a7649418dbd689bf6eba8d7/cenc.mpd"
+      },
+      "drm_key": "cf6092dc6444b182d9ef6fde4152ff7d:2a868d1944e597930dde32f183a0c6bf"
+    },
+    {
       "match_id": "B0HN7SJD9H",
       "title": "Nov 5 - PTT Newport Beach",
       "synopsis": "Nov 5 - PTT Newport Beach",
@@ -57,23 +91,6 @@
         "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprAK5oBhpq7OfoA2ZmYXN0bHkCeChmaWQ6MDFhMWFkNjktZTI5Ny03MGUzLWJkMDktMTdjZDEyMjJiZTZmGQE4oQWhAngzL3Z1Y2dtd2p6ZWcvb3V0L3YxL2M4MjhmNTM1OGUxZDQ2ZGViMDk3ZTZhZDFjM2U5NzczWCCkxwS6EpAIasAXIlsdTyeb54y378DBzsRC1PNxuv7YFA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/vucgmwjzeg/out/v1/c828f5358e1d46deb097e6ad1c3e9773/c8075f48-fe2d-43a2-b2f1-7121d25dc55e-cenc.mpd"
       },
       "drm_key": "71bc0af664b56064ba64da99048fd7b2:b24b1fc9f34ea20b24f6457696fb4124"
-    },
-    {
-      "match_id": "B0HPH18ZL4",
-      "title": "Pakistan U19 vs. United Arab Emirates U19",
-      "synopsis": "Pakistan U19 vs. United Arab Emirates U19",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.6f5cd8a4-60e7-4380-b5e9-6bc3214b8f2d/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HPH18ZL4",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
-      },
-      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     }
   ]
 }
