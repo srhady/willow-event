@@ -1,32 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "04:32 AM 07-11-2026",
+    "LastUpdate": "05:02 AM 07-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 10,
+    "LiveCount": 8,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HPQ3BY5X",
-      "title": "Tabor at Oklahoma Panhandle State",
-      "synopsis": "Tabor at Oklahoma Panhandle State",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.4cc185f6-8150-42b2-936b-b9e965a5d701/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HPQ3BY5X",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd"
-      },
-      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
-    },
     {
       "match_id": "B0HPZTVMX5",
       "title": "PPA Tour: World Championships-2026: Quarterfinals",
@@ -45,21 +28,21 @@
       "drm_key": "2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72"
     },
     {
-      "match_id": "B0HHKCMVL6",
-      "title": "Ireland v Argentina",
-      "synopsis": "Ireland v Argentina",
+      "match_id": "B0HPQ3BY5X",
+      "title": "Tabor at Oklahoma Panhandle State",
+      "synopsis": "Tabor at Oklahoma Panhandle State",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.d86f5606-29ab-4c8e-95ad-305568743554/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HHKCMVL6",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.4cc185f6-8150-42b2-936b-b9e965a5d701/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HPQ3BY5X",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd"
       },
-      "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
+      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
     },
     {
       "match_id": "B0HNVGKRFW",
@@ -125,20 +108,6 @@
         "Original Server": "https://ABIAVJXAAAAAAAAMPYIZMXUIQBMVF.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprAerJBhpq7iRJA2pjbG91ZGZyb250AngoZmlkOjAxYTFiMjNkLWJlOWYtNzc2My1iY2EzLWY3MDVkOWIxMzkyMBkBOKEFoQJ4My9sYmR1b3VpN3c5L291dC92MS9kMzI4Y2FhY2U2NWE0NWIzYTBmNzM5MTBhMGU2OTQyZVggc4ZrfCi8xfHZHDTp5VyhzDZmg22njEQKxnWQuokXQP0/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/lbduoui7w9/out/v1/d328caace65a45b3a0f73910a0e6942e/869027b5-2f68-4825-9562-0ba1be283873-cenc.mpd"
       },
       "drm_key": "4fe8a1f2cc169106d9c478773fe6e0ea:d3f19b6fe15dfd44e8aaa7fc2f0b83c4"
-    },
-    {
-      "match_id": "B0HN71KQM8",
-      "title": "Nov 6 - PTT Chapel Hill Women",
-      "synopsis": "Nov 6 - PTT Chapel Hill Women",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.94a5e775-955f-4af3-a12a-1c56359b92ef/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HN71KQM8",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a125live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprAf_dBhpq7jldA2Zha2FtYWkCeChmaWQ6MDFhMWIyOTAtMTQzYS03NWNhLWJhZTYtZjBmMDIxZDAzYTVmGQE4oQWhAngzL3FhcHM5aG93aG4vb3V0L3YxLzE4YzRlN2FlOWIyYzQxNGU4MGRhMzY5OGY2YmZiMTE3WCBi_xNrWjX3ywjywK8MbULFmMjZMSgVaNvG4nuEHQTHsA/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/qaps9howhn/out/v1/18c4e7ae9b2c414e80da3698f6bfb117/a24c9672-de29-4608-a151-4129cf0ba4b8-cenc.mpd"
-      },
-      "drm_key": "461a99fe95bbb17334317f45709da73d:1bd73945fe97d2f2889d5c87a6076a1b"
     },
     {
       "match_id": "B0HL88KF9W",
