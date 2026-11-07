@@ -1,49 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "11:02 AM 07-11-2026",
+    "LastUpdate": "12:02 PM 07-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 9,
+    "LiveCount": 7,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HMJLZ4FT",
-      "title": "Denver at Arizona State",
-      "synopsis": "Denver at Arizona State",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.e0623c22-bc15-40f6-8479-ff2fb8f61e1f/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HMJLZ4FT",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd"
-      },
-      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
-    },
-    {
-      "match_id": "B0HQ3ZH22F",
-      "title": "Iowa State vs Utah Valley - Men's Wrestling",
-      "synopsis": "Iowa State vs Utah Valley - Men's Wrestling",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.ad8e08fd-dc79-48b3-8e7e-cf03c3b5de8c/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HQ3ZH22F",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd"
-      },
-      "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
-    },
     {
       "match_id": "B0HNKB52ZX",
       "title": "India tour of New Zealand 2026 - 2nd ODI - New Zealand vs India",
@@ -113,23 +79,6 @@
       "drm_key": "6285784b996a420f16710da94ed83846:94f2f4d5dffb2097ce56a43289d76662"
     },
     {
-      "match_id": "B0HLQ78QD4",
-      "title": "Womens Big Bash League 2026 - 13th Match - Melbourne Renegades Women vs Adelaide Strikers Women",
-      "synopsis": "Womens Big Bash League 2026 - 13th Match - Melbourne Renegades Women vs Adelaide Strikers Women",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.a4105473-29cb-4c06-af5c-03d8b080da6c/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLQ78QD4",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4bwynjqz2z/out/v1/f7fc9b904ef044c68c652f0b5f4e8acf/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4bwynjqz2z/out/v1/f7fc9b904ef044c68c652f0b5f4e8acf/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4bwynjqz2z/out/v1/f7fc9b904ef044c68c652f0b5f4e8acf/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4bwynjqz2z/out/v1/f7fc9b904ef044c68c652f0b5f4e8acf/cenc.mpd"
-      },
-      "drm_key": "8034d996508ff5f2f3017d9e2a03d3e6:ce2d564ec40cf4a6423afcc93e28f2be"
-    },
-    {
       "match_id": "B0HMJFFMFG",
       "title": "ACC Mens U19 Asia Cup 2026 - 6th Match - Sri Lanka U19 vs Bangladesh U19",
       "synopsis": "ACC Mens U19 Asia Cup 2026 - 6th Match - Sri Lanka U19 vs Bangladesh U19",
@@ -147,18 +96,38 @@
       "drm_key": "7c70292ec5aeeabfafcbb4443924d0a4:cc6f131f2ddb87f645d045586ce0ecb7"
     },
     {
-      "match_id": "B0HLT48ZQZ",
-      "title": "Nov 6 - PTT Newport Beach",
-      "synopsis": "Nov 6 - PTT Newport Beach",
+      "match_id": "B0HLQ78QD4",
+      "title": "Womens Big Bash League 2026 - 13th Match - Melbourne Renegades Women vs Adelaide Strikers Women",
+      "synopsis": "Womens Big Bash League 2026 - 13th Match - Melbourne Renegades Women vs Adelaide Strikers Women",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.81986ec2-9ba8-42b6-83f6-1745cf380557/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLT48ZQZ",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.a4105473-29cb-4c06-af5c-03d8b080da6c/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLQ78QD4",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://ABIAVJXAAAAAAAAMPYIZMXUIQBMVF.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprAerJBhpq7iRJA2pjbG91ZGZyb250AngoZmlkOjAxYTFiMjNkLWJlOWYtNzc2My1iY2EzLWY3MDVkOWIxMzkyMBkBOKEFoQJ4My9sYmR1b3VpN3c5L291dC92MS9kMzI4Y2FhY2U2NWE0NWIzYTBmNzM5MTBhMGU2OTQyZVggc4ZrfCi8xfHZHDTp5VyhzDZmg22njEQKxnWQuokXQP0/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/lbduoui7w9/out/v1/d328caace65a45b3a0f73910a0e6942e/869027b5-2f68-4825-9562-0ba1be283873-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4bwynjqz2z/out/v1/f7fc9b904ef044c68c652f0b5f4e8acf/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4bwynjqz2z/out/v1/f7fc9b904ef044c68c652f0b5f4e8acf/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4bwynjqz2z/out/v1/f7fc9b904ef044c68c652f0b5f4e8acf/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4bwynjqz2z/out/v1/f7fc9b904ef044c68c652f0b5f4e8acf/cenc.mpd"
       },
-      "drm_key": "4fe8a1f2cc169106d9c478773fe6e0ea:d3f19b6fe15dfd44e8aaa7fc2f0b83c4"
+      "drm_key": "8034d996508ff5f2f3017d9e2a03d3e6:ce2d564ec40cf4a6423afcc93e28f2be"
+    },
+    {
+      "match_id": "B0HMNN211T",
+      "title": "Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe",
+      "synopsis": "Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.7cdc79e9-37f7-4576-abb3-baad628b810c/9/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HMNN211T",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uhx9dzy4rs/out/v1/5db830b25a6e428cbb15793518046968/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uhx9dzy4rs/out/v1/5db830b25a6e428cbb15793518046968/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/uhx9dzy4rs/out/v1/5db830b25a6e428cbb15793518046968/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/uhx9dzy4rs/out/v1/5db830b25a6e428cbb15793518046968/cenc.mpd"
+      },
+      "drm_key": "8e9af61f4a7f6d5a8f27cd3b85cc9a1d:bafb7bbc65820a0d0a5f77a990db7b76"
     }
   ]
 }
