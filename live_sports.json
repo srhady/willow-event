@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "06:02 AM 07-11-2026",
+    "LastUpdate": "06:32 AM 07-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 19
+    "LiveCount": 2,
+    "UpcomingCount": 18
   },
   "Matches": [
     {
@@ -32,13 +32,19 @@
       "match_id": "B0HP6WQNNF",
       "title": "USA Seniors Cricket NPL 2026 - 9th Match - Houston Saints vs Mighty Dallas",
       "synopsis": "USA Seniors Cricket NPL 2026 - 9th Match - Houston Saints vs Mighty Dallas",
-      "status": "UPCOMING",
-      "time": "Live at 6:10 AM BDT",
+      "status": "LIVE",
+      "time": "6:10 AM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.91b1acfd-89e0-44f9-9fd4-50780065b815/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HP6WQNNF?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w7drnanyba/out/v1/54b52282749043739a55deff6af01d2d/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w7drnanyba/out/v1/54b52282749043739a55deff6af01d2d/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/w7drnanyba/out/v1/54b52282749043739a55deff6af01d2d/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w7drnanyba/out/v1/54b52282749043739a55deff6af01d2d/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w7drnanyba/out/v1/54b52282749043739a55deff6af01d2d/cenc.mpd"
+      },
+      "drm_key": "8fe0574c48dee67bb7850d96ae2d445a:7f9bb72166d5f6f58aee66cb2d7596ae"
     },
     {
       "match_id": "B0HNKB52ZX",
