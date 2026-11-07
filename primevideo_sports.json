@@ -1,29 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "09:32 PM 07-11-2026",
+    "LastUpdate": "10:02 PM 07-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 12,
+    "LiveCount": 13,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HL88XWT9",
-      "title": "São Paulo: Practice 3",
-      "synopsis": "São Paulo: Practice 3",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.c77c32a5-a741-416b-b2e9-1d41258f6305/12/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HL88XWT9",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a105live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprAvz9Bhpq7zZ9A2Zha2FtYWkCeChmaWQ6MDFhMWI2NmMtZGEwZi03NWRkLTk1ZTgtOGNhOTkwYjVlZTg4GQE4oQWhAngzL2k3Y2dsa29ieXQvb3V0L3YxLzI1MDIyM2I4NWY5MTQ5NWM5ZGMyNTAxZDQwMTI3MDMyWCBIqtm-hgXzXUJACaoNBGE8iig8MXc7Bm_xcblvUWMBhA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/i7cglkobyt/out/v1/250223b85f91495c9dc2501d40127032/0433c40e-2e59-46e6-b3d1-7224b2744974-cenc.mpd"
-      },
-      "drm_key": "f6c05999c02ca6c1f40f78bc763163fb:c68d1b76df0f0b380d04b46d90eedd26"
-    },
     {
       "match_id": "B0HM7N447W",
       "title": "Bassmaster Redfish Cup at Port Aransas",
@@ -40,6 +26,23 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/lcjfpbsdxg/out/v1/0a93294385c14668baeba1b60de9f791/cenc.mpd"
       },
       "drm_key": "ad6e7091d1d36a16d5475bdb2d900888:8c67e6b1e4bcf1ee1f12167526ef2503"
+    },
+    {
+      "match_id": "B0HNFKCQV5",
+      "title": "Live Prelims-Buatsi vs. Hutchinson",
+      "synopsis": "Live Prelims-Buatsi vs. Hutchinson",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.f0ab7775-e750-4eeb-85b2-e9d968bfa3eb/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HNFKCQV5",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qkvxe8ubng/out/v1/dcedefedc735415a9f9d36d3d3016629/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qkvxe8ubng/out/v1/dcedefedc735415a9f9d36d3d3016629/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qkvxe8ubng/out/v1/dcedefedc735415a9f9d36d3d3016629/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qkvxe8ubng/out/v1/dcedefedc735415a9f9d36d3d3016629/cenc.mpd"
+      },
+      "drm_key": "99f2d8b38451875101393cfda6cc5e77:3d32bdfa5fe52cf74567eb20716b5a65"
     },
     {
       "match_id": "B0HQB5DQNS",
@@ -59,18 +62,21 @@
       "drm_key": "0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd"
     },
     {
-      "match_id": "B0HLXLTG11",
-      "title": "São Paulo: Practice 3 (Sky Sports)",
-      "synopsis": "São Paulo: Practice 3 (Sky Sports)",
+      "match_id": "B0HPDZ5SMK",
+      "title": "Watford vs. Middlesbrough",
+      "synopsis": "Watford vs. Middlesbrough",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.37413e8e-b6f2-4456-a554-2d4cd0e1d489/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLXLTG11",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.6374ee79-d811-4a61-a032-2e1134a533f3/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HPDZ5SMK",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprAvz-Bhpq7zZ-A2ZmYXN0bHkCeChmaWQ6MDFhMWI2NmMtZGViYi03MmI2LThiMDItNTM5NmEzYjNkNzRlGQE4oQWhAngzLzRqbGFrdXJlaHUvb3V0L3YxL2IwNWM3MGRhYzI3NjRhNWY5Y2YxNmVlZjMxZGIzMzJhWCDzr3LQO7UEAceJuQzpAJroLLgE91j40GHHrLGNUSOcnw/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/4jlakurehu/out/v1/b05c70dac2764a5f9cf16eef31db332a/8172c37c-4c60-45f4-aa4d-f8f0c560e4a8-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd"
       },
-      "drm_key": "a127985871fc528fdf6c25e2de015585:f3c571aa2d0cd3fddbbc7d9376ff36c6"
+      "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
     },
     {
       "match_id": "B0HM6ZDYR6",
@@ -90,21 +96,21 @@
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
-      "match_id": "B0HPDZ5SMK",
-      "title": "Watford vs. Middlesbrough",
-      "synopsis": "Watford vs. Middlesbrough",
+      "match_id": "B0HQHV53SF",
+      "title": "Abu Dhabi T10 League 2026 - 3rd Match - United Tigers vs Arabian Aces",
+      "synopsis": "Abu Dhabi T10 League 2026 - 3rd Match - United Tigers vs Arabian Aces",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.6374ee79-d811-4a61-a032-2e1134a533f3/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HPDZ5SMK",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.bac0726f-d268-496e-8016-c1804de5c083/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HQHV53SF",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fpxq5zifhp/out/v1/d3e12f49f0684a82942fa08b484acc10/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fpxq5zifhp/out/v1/d3e12f49f0684a82942fa08b484acc10/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fpxq5zifhp/out/v1/d3e12f49f0684a82942fa08b484acc10/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fpxq5zifhp/out/v1/d3e12f49f0684a82942fa08b484acc10/cenc.mpd"
       },
-      "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+      "drm_key": "c36580b91d6530ceba196d7254d67b94:af9da5c72e1aa9472a3b8ef852c0f330"
     },
     {
       "match_id": "B0HNWCS8WB",
@@ -138,6 +144,23 @@
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
     },
     {
+      "match_id": "B0HLDV8VHZ",
+      "title": "Austin Hunters vs. N.Y. X-Factor",
+      "synopsis": "Austin Hunters vs. N.Y. X-Factor",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.d6041aeb-5620-4d37-bcc3-aa9e20c5b30d/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLDV8VHZ",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
+      },
+      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
       "match_id": "B0HLZW9JHH",
       "title": "USA Seniors Cricket NPL 2026 - 10th Match - Austin Hunters vs NY X-Factor",
       "synopsis": "USA Seniors Cricket NPL 2026 - 10th Match - Austin Hunters vs NY X-Factor",
@@ -153,20 +176,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/oodskycgpe/out/v1/a11dc32439b64b9fb7827a7bec0c3856/cenc.mpd"
       },
       "drm_key": "c4ea268507a0122a022aec88c67deaa0:780d4b59a68bf3a6ad7e488ac13c0c9c"
-    },
-    {
-      "match_id": "B0HLZWRJPY",
-      "title": "Nov 7 - PTT Fayetteville",
-      "synopsis": "Nov 7 - PTT Fayetteville",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4ec1227f-06f0-49c1-80c9-e1d55c29b883/9/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLZWRJPY",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABBIOMPAAAAAAAAMOJLGCD62BWUFO.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprAwsYBhpq70SYA2pjbG91ZGZyb250AngoZmlkOjAxYTFiNmEzLWYzNjAtNzQ0MC1hMWM0LTA5NzA1NzZlNmExZBkBOKEFoQJ4My96Z3Jnd2tjcXFoL291dC92MS9hMjljNGE3OWIwZTY0ZTFlODlhN2ZhNDZmMDdlMmQ3NVggGeZAexDHTAZjq7_Zmi_z6hIyV83MJRQY82G-Jh38Yx0/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/zgrgwkcqqh/out/v1/a29c4a79b0e64e1e89a7fa46f07e2d75/141634b6-ddf1-4582-8099-4970c1e1418e-cenc.mpd"
-      },
-      "drm_key": "fe91f24e29a559873b08b00f0731ca6c:facf39af3c4a852e63b4f45c0d16bd34"
     },
     {
       "match_id": "B0HPFJ3JMZ",
@@ -198,6 +207,20 @@
         "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprAwQJBhpq7z2JA2ZmYXN0bHkCeChmaWQ6MDFhMWI2ODgtNjAyYi03NTc0LTkxNGYtY2QxYzgzNWZiNzFjGQE4oQWhAngzL3hxZnczd211YWcvb3V0L3YxLzliYWE5MjViNTg2ZjQ5YzFhZDNiMGZmOTUzNWVmMGNkWCAHsiv2-cFA_aQt15_FynLTWM8sdrt2f_3PwE6W5nYerg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/xqfw3wmuag/out/v1/9baa925b586f49c1ad3b0ff9535ef0cd/a51c7e8a-bce0-4673-abd1-e9ffc4b05a03-cenc.mpd"
       },
       "drm_key": "6a53c9b3ea8a19a08945668e33b4b73d:25cf88d6c132f0f14cdc39f2636ae95d"
+    },
+    {
+      "match_id": "B0HLZWRJPY",
+      "title": "Nov 7 - PTT Fayetteville",
+      "synopsis": "Nov 7 - PTT Fayetteville",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4ec1227f-06f0-49c1-80c9-e1d55c29b883/9/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLZWRJPY",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABBIOMPAAAAAAAAMOJLGCD62BWUFO.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprAwsYBhpq70SYA2pjbG91ZGZyb250AngoZmlkOjAxYTFiNmEzLWYzNjAtNzQ0MC1hMWM0LTA5NzA1NzZlNmExZBkBOKEFoQJ4My96Z3Jnd2tjcXFoL291dC92MS9hMjljNGE3OWIwZTY0ZTFlODlhN2ZhNDZmMDdlMmQ3NVggGeZAexDHTAZjq7_Zmi_z6hIyV83MJRQY82G-Jh38Yx0/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/zgrgwkcqqh/out/v1/a29c4a79b0e64e1e89a7fa46f07e2d75/141634b6-ddf1-4582-8099-4970c1e1418e-cenc.mpd"
+      },
+      "drm_key": "fe91f24e29a559873b08b00f0731ca6c:facf39af3c4a852e63b4f45c0d16bd34"
     }
   ]
 }
