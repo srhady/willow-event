@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "07:32 AM 07-11-2026",
+    "LastUpdate": "08:02 AM 07-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 19
+    "LiveCount": 2,
+    "UpcomingCount": 18
   },
   "Matches": [
     {
@@ -32,13 +32,26 @@
       "match_id": "B0HNKB52ZX",
       "title": "India tour of New Zealand 2026 - 2nd ODI - New Zealand vs India",
       "synopsis": "India tour of New Zealand 2026 - 2nd ODI - New Zealand vs India",
-      "status": "UPCOMING",
-      "time": "Live at 8 AM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d579999e-b24f-4858-8739-cf9a57ed3a01/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "7:40 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d579999e-b24f-4858-8739-cf9a57ed3a01/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HNKB52ZX?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iukkxk78gp/out/v1/4f9f877fe4ff45e3b19e08b4eeee2f42/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iukkxk78gp/out/v1/4f9f877fe4ff45e3b19e08b4eeee2f42/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/iukkxk78gp/out/v1/4f9f877fe4ff45e3b19e08b4eeee2f42/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/iukkxk78gp/out/v1/4f9f877fe4ff45e3b19e08b4eeee2f42/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/iukkxk78gp/out/v1/4f9f877fe4ff45e3b19e08b4eeee2f42/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7zkj4db2yw/out/v1/77c224612a724b49a3eeef13c6d8de9a/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7zkj4db2yw/out/v1/77c224612a724b49a3eeef13c6d8de9a/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/7zkj4db2yw/out/v1/77c224612a724b49a3eeef13c6d8de9a/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7zkj4db2yw/out/v1/77c224612a724b49a3eeef13c6d8de9a/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7zkj4db2yw/out/v1/77c224612a724b49a3eeef13c6d8de9a/cenc.mpd"
+      },
+      "drm_key": "5718f40a4901526a597012cc242b4c4a:6d47e18a26287fa2a4e641901f07e50f"
     },
     {
       "match_id": "B0HLQ78QD4",
