@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "12:02 AM 09-11-2026",
+    "LastUpdate": "12:32 AM 09-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 13,
+    "LiveCount": 12,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -26,23 +26,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qy6usrjqzw/out/v1/48d0ffdc0c354fc8bf9b565c245d0f07/cenc.mpd"
       },
       "drm_key": "ad6e7091d1d36a16d5475bdb2d900888:8c67e6b1e4bcf1ee1f12167526ef2503"
-    },
-    {
-      "match_id": "B0HP8C9PJM",
-      "title": "Inter vs. Como",
-      "synopsis": "Inter vs. Como",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3371fb33-4fee-441b-bdda-73e26e9a1a18/5/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HP8C9PJM",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd"
-      },
-      "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
     },
     {
       "match_id": "B0HNBW7Q5B",
@@ -96,6 +79,23 @@
       "drm_key": "2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72"
     },
     {
+      "match_id": "B0HP8C9PJM",
+      "title": "Inter vs. Como",
+      "synopsis": "Inter vs. Como",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3371fb33-4fee-441b-bdda-73e26e9a1a18/5/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HP8C9PJM",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd"
+      },
+      "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+    },
+    {
       "match_id": "B0HFF8KS1L",
       "title": "US Open Netball Champs",
       "synopsis": "US Open Netball Champs",
@@ -130,23 +130,6 @@
       "drm_key": "33fd6ed947919b41842b62865954d2bb:c3d98962e9a617f9f59d5b64fd7b2a68"
     },
     {
-      "match_id": "B0HPKZNLC4",
-      "title": "First Semifinal: Teams TBA",
-      "synopsis": "First Semifinal: Teams TBA",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.2be815a7-ad55-4ac1-8751-c7ea6e3fb163/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HPKZNLC4",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
-      },
-      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-    },
-    {
       "match_id": "B0HQ6J5DTV",
       "title": "USA Seniors Cricket NPL 2026 - Semi-Final 1 - Washington Eagles vs Chicago Cavaliers",
       "synopsis": "USA Seniors Cricket NPL 2026 - Semi-Final 1 - Washington Eagles vs Chicago Cavaliers",
@@ -164,46 +147,21 @@
       "drm_key": "9dfb8473e5025e0b19003899c6c025ef:97267cc823cf5305a784cbe042003ed4"
     },
     {
-      "match_id": "B0HLLLC1V1",
-      "title": "Nov 8 - PTT Newport Beach",
-      "synopsis": "Nov 8 - PTT Newport Beach",
+      "match_id": "B0HPKZNLC4",
+      "title": "First Semifinal: Teams TBA",
+      "synopsis": "First Semifinal: Teams TBA",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5b8da589-2f87-4f1a-b085-08d50a9e4a3c/10/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLLLC1V1",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.2be815a7-ad55-4ac1-8751-c7ea6e3fb163/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HPKZNLC4",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://ABIJRCTAAAAAAAAMK44L34EYQ2CMP.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprBH-5Bhpq8Lk5A2pjbG91ZGZyb250AngoZmlkOjAxYTFiYzUzLTg3MTMtNzVmMi1hZTJmLTUxMDlkNTA1YmNlYhkBOKEFoQJ4My9ocmk2dnlsNGZpL291dC92MS8yNDhkYWNjYjkwMDY0NGE0YWU2ZmNkYWYxMDE1MzUzZlggajRmGnYFoGkAGiy0zA8scdF-vfCYo7deKuPNTsF1TWg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/hri6vyl4fi/out/v1/248daccb900644a4ae6fcdaf1015353f/1f86ff04-d1e9-4d9a-8c5d-5bc5ccd2bbb9-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
       },
-      "drm_key": "f74a16a7344c69147f6e0f6f38ae4529:7ec7d33b9dadf1a9428ba668c5849a50"
-    },
-    {
-      "match_id": "B0HPJXCFJ3",
-      "title": "Nov 8 - PTT Chapel Hill Women",
-      "synopsis": "Nov 8 - PTT Chapel Hill Women",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.95bcbd8b-5e8b-4ff4-a723-0d0fc4269c75/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HPJXCFJ3",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a17live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprBEd5Bhpq8ID5A2Zha2FtYWkCeChmaWQ6MDFhMWJiNzctY2Q5MS03NjNjLWFjZDMtZWE5MTg5OTJmYjJhGQE4oQWhAngzL3pwaG0wZWphYnQvb3V0L3YxL2Q3OGQ0ZWExOThlNDRhMDdiNWZlYjFiZjdlZmE0NTkxWCB2eO9GYRZbpM8ESmV9cWs6yr3OV0e6_1FtEzoqaDAKMg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/zphm0ejabt/out/v1/d78d4ea198e44a07b5feb1bf7efa4591/2bfabeb8-1d64-4137-9b29-83c48ab97f04-cenc.mpd"
-      },
-      "drm_key": "bcb994e7d915e9ba341b766550edd644:d39ded4b27c181f3bd442dd43bce66fa"
-    },
-    {
-      "match_id": "B0HNWSLS45",
-      "title": "Nov 8 - PTT Fayetteville",
-      "synopsis": "Nov 8 - PTT Fayetteville",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b92a4e52-760c-460f-97a1-55f6d5b4c551/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HNWSLS45",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a162live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprBGqfBhpq8KQfA2Zha2FtYWkCeChmaWQ6MDFhMWJjMDEtMTlhNC03NjBmLThkNWItZTRlN2ViMjczMjlhGQE4oQWhAngzL2lzdWhkNndkdmkvb3V0L3YxL2M3YzM3ZWU0MTcyZTRiM2ZhMzk5MTViZDE1OTE1MjlmWCBpT0s2aN6oYWUUz5RCXDpCSiPI8h4cGhA1ZL7sgXDS3A/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/isuhd6wdvi/out/v1/c7c37ee4172e4b3fa39915bd1591529f/94ff811e-4903-41e0-a283-6a3aa2ac0822-cenc.mpd"
-      },
-      "drm_key": "616484dc7ad678ab0cd9a5b12959c6f8:f8830c33bc14dc6096b91d6209633462"
+      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
       "match_id": "B0HQB9DWY9",
@@ -221,6 +179,34 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/grkpugayui/out/v1/7cb0cff1780143ecb7d4a4a3982e705a/cenc.mpd"
       },
       "drm_key": "195416cacf5f56985edb79d6e04589c3:cedc20717599a61a9142b393bfe146a7"
+    },
+    {
+      "match_id": "B0HLLLC1V1",
+      "title": "Nov 8 - PTT Newport Beach",
+      "synopsis": "Nov 8 - PTT Newport Beach",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5b8da589-2f87-4f1a-b085-08d50a9e4a3c/10/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLLLC1V1",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABIJRCTAAAAAAAAMK44L34EYQ2CMP.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprBH-5Bhpq8Lk5A2pjbG91ZGZyb250AngoZmlkOjAxYTFiYzUzLTg3MTMtNzVmMi1hZTJmLTUxMDlkNTA1YmNlYhkBOKEFoQJ4My9ocmk2dnlsNGZpL291dC92MS8yNDhkYWNjYjkwMDY0NGE0YWU2ZmNkYWYxMDE1MzUzZlggajRmGnYFoGkAGiy0zA8scdF-vfCYo7deKuPNTsF1TWg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/hri6vyl4fi/out/v1/248daccb900644a4ae6fcdaf1015353f/1f86ff04-d1e9-4d9a-8c5d-5bc5ccd2bbb9-cenc.mpd"
+      },
+      "drm_key": "f74a16a7344c69147f6e0f6f38ae4529:7ec7d33b9dadf1a9428ba668c5849a50"
+    },
+    {
+      "match_id": "B0HNWSLS45",
+      "title": "Nov 8 - PTT Fayetteville",
+      "synopsis": "Nov 8 - PTT Fayetteville",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b92a4e52-760c-460f-97a1-55f6d5b4c551/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HNWSLS45",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a162live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprBGqfBhpq8KQfA2Zha2FtYWkCeChmaWQ6MDFhMWJjMDEtMTlhNC03NjBmLThkNWItZTRlN2ViMjczMjlhGQE4oQWhAngzL2lzdWhkNndkdmkvb3V0L3YxL2M3YzM3ZWU0MTcyZTRiM2ZhMzk5MTViZDE1OTE1MjlmWCBpT0s2aN6oYWUUz5RCXDpCSiPI8h4cGhA1ZL7sgXDS3A/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/isuhd6wdvi/out/v1/c7c37ee4172e4b3fa39915bd1591529f/94ff811e-4903-41e0-a283-6a3aa2ac0822-cenc.mpd"
+      },
+      "drm_key": "616484dc7ad678ab0cd9a5b12959c6f8:f8830c33bc14dc6096b91d6209633462"
     }
   ]
 }
