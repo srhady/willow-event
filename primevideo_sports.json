@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "02:32 AM 10-11-2026",
+    "LastUpdate": "03:02 AM 10-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 7,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -35,23 +35,6 @@
       "time": "LIVE NOW",
       "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.c8d14422-614a-412a-bd59-5868c53932d7/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HQ6NQXLH",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd"
-      },
-      "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
-    },
-    {
-      "match_id": "B0HNT54ZM7",
-      "title": "Orleans 2026 - Early Rounds - 2",
-      "synopsis": "Orleans 2026 - Early Rounds - 2",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.4bd13fdf-cc59-4d10-9303-5d398df82850/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HNT54ZM7",
       "is_free": false,
       "stream_url": {
         "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
@@ -102,20 +85,6 @@
         "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprBacGBhpq8eCGA2ZmYXN0bHkCeChmaWQ6MDFhMWMwZDUtMGU4OS03MDIwLThhYjMtYzQyYjQyMGQzNDM0GQE4oQWhAngzL2EweXZjM2lmbDkvb3V0L3YxLzVlNzRkMjA4YjNkYjQwZDlhOGRhN2JkYTBjMWE0Yjg3WCDN9TE3fO3S9-PIbk6LQoKBCXJ6JwMcVPQoE85sy_Q6TQ/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/a0yvc3ifl9/out/v1/5e74d208b3db40d9a8da7bda0c1a4b87/c80a6e72-be24-4644-8e25-81b8ab4d0f36-cenc.mpd"
       },
       "drm_key": "8f3a7ed37213f13eb75bdf23ba4f4461:7aba9728e202aa1cc7d15bdce964577a"
-    },
-    {
-      "match_id": "B0HQDYF653",
-      "title": "Nov 9 - PTT Carvoeiro",
-      "synopsis": "Nov 9 - PTT Carvoeiro",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.62f8714a-9c22-49fd-8a15-1d9a5a4963b4/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HQDYF653",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a105live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprBVKpBhpq8YwpA2Zha2FtYWkCeChmaWQ6MDFhMWJmOGItODI1Zi03NjZkLWJlNWUtYzEyNTljMmRlZDBjGQE4oQWhAngzL3FybHdtbHIyOHIvb3V0L3YxLzIxZjI1NmRkNDkyMzRlOGM4NGQ4NGE1MmQwYWI2MTM4WCD-KccKKy0WICF6hNKq-3KdbfSplYteAtkH8vmvOpaVng/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/qrlwmlr28r/out/v1/21f256dd49234e8c84d84a52d0ab6138/9aae3f03-ff4c-44c0-8e9b-4d2881d9ef71-cenc.mpd"
-      },
-      "drm_key": "03842452bc5459a028df413b00546c45:4d05b22537b5094ac16fae89942726d1"
     }
   ]
 }
