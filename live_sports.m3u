@@ -1,22 +1,15 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:07:32 PM 09-11-2026
+#LAST_UPDATE:08:02 PM 09-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:18
-
-#EXTINF:-1 tvg-id="B0HMNN211T" tvg-name="Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7cdc79e9-37f7-4576-abb3-baad628b810c/11/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d006e8b41e37c259818c8d491904d3e7:2f7eceaab743d906957b9958152c8972
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tfcrrqefcx/out/v1/67d930d3a40e495f969711b734f22660/cenc.mpd
+#LIVE_COUNT:1
+#UPCOMING_COUNT:19
 
 #EXTINF:-1 tvg-id="B0HQCM387H" tvg-name="Abu Dhabi T10 League 2026 - 7th Match - Emirates Eagles vs Arabian Aces" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6668598b-8bcd-4238-bd41-5f52212911cc/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Abu Dhabi T10 League 2026 - 7th Match - Emirates Eagles vs Arabian Aces
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fc13592451a4ca8b509946c6f908829:eee1b57fd228c32939c764657b04ab65
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/nmb9bvhdpf/out/v1/c882f999012649858e1a486c778a51bc/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nmb9bvhdpf/out/v1/c882f999012649858e1a486c778a51bc/cenc.mpd
 
