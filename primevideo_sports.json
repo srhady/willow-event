@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "03:02 AM 11-11-2026",
+    "LastUpdate": "03:32 AM 11-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -59,13 +59,13 @@
       "drm_key": "0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd"
     },
     {
-      "match_id": "B0HQV4CKWJ",
-      "title": "CIAA, Semifinal 1: Elizabeth City State vs. Shaw",
-      "synopsis": "CIAA, Semifinal 1: Elizabeth City State vs. Shaw",
+      "match_id": "B0HQFV89K1",
+      "title": "CIAA, Semifinal 2: Fayetteville State vs. Bowie State",
+      "synopsis": "CIAA, Semifinal 2: Fayetteville State vs. Bowie State",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.ea79b366-6b9b-46c9-a3e2-255a311ab668/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HQV4CKWJ",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.c913696d-7db4-4bc3-bdf4-5e46a7ff0ed6/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HQFV89K1",
       "is_free": false,
       "stream_url": {
         "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
@@ -74,20 +74,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd"
       },
       "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
-    },
-    {
-      "match_id": "B0HPBXG43H",
-      "title": "Nov 10 - PTT Malibu Men",
-      "synopsis": "Nov 10 - PTT Malibu Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.03901bb3-9762-4d06-aa44-f4f81c53e150/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HPBXG43H",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a182live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprB0zmBhpq84ZmA2Zha2FtYWkCeChmaWQ6MDFhMWM3NDUtMDEzZS03NDA2LWE5ZGMtNzk2OTdjYTk0ZDgwGQE4oQWhAngzL3l0dnVxY3A1OGMvb3V0L3YxLzQ5NDU5ZTlhMzJkOTQzZGNhMjRlNTVjMmZmNDNkN2UzWCB1m1yaOr1C2Chh1dtGkogV78ztX3YcaM5_WPpDq0g5lg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ytvuqcp58c/out/v1/49459e9a32d943dca24e55c2ff43d7e3/f28c571c-a003-4ba6-b760-e79b1506194e-cenc.mpd"
-      },
-      "drm_key": "a092534afbadca8220eb3ca93a8a5462:3cf352bbdfdb42b44ff4306a3d548dad"
     },
     {
       "match_id": "B0HPXW6LZS",
@@ -105,6 +91,34 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd"
       },
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
+    },
+    {
+      "match_id": "B0HPBXG43H",
+      "title": "Nov 10 - PTT Malibu Men",
+      "synopsis": "Nov 10 - PTT Malibu Men",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.03901bb3-9762-4d06-aa44-f4f81c53e150/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HPBXG43H",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a182live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprB0zmBhpq84ZmA2Zha2FtYWkCeChmaWQ6MDFhMWM3NDUtMDEzZS03NDA2LWE5ZGMtNzk2OTdjYTk0ZDgwGQE4oQWhAngzL3l0dnVxY3A1OGMvb3V0L3YxLzQ5NDU5ZTlhMzJkOTQzZGNhMjRlNTVjMmZmNDNkN2UzWCB1m1yaOr1C2Chh1dtGkogV78ztX3YcaM5_WPpDq0g5lg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ytvuqcp58c/out/v1/49459e9a32d943dca24e55c2ff43d7e3/f28c571c-a003-4ba6-b760-e79b1506194e-cenc.mpd"
+      },
+      "drm_key": "a092534afbadca8220eb3ca93a8a5462:3cf352bbdfdb42b44ff4306a3d548dad"
+    },
+    {
+      "match_id": "B0HP3Z72FN",
+      "title": "Nov 10 - PTT Oxford",
+      "synopsis": "Nov 10 - PTT Oxford",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7a885a9a-3c7f-47e3-8ab3-90203c2a3c83/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HP3Z72FN",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a162live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprBxSqBhpq804qA2Zha2FtYWkCeChmaWQ6MDFhMWM2NjktNTU4Zi03MjI3LWIxMmItYzhmMjI0MmY2ODJhGQE4oQWhAngzLzVxYTN3cXF1dWcvb3V0L3YxL2U5MDgxM2YxYWExNjRhNWRiMTVlYzY0YTE0MjU5ZmY4WCCOpr6CI1BpMlaxbZOAT3lv66J8m4QeRLFHI0fzNb91pg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/5qa3wqquug/out/v1/e90813f1aa164a5db15ec64a14259ff8/47c1fef6-3d6b-48e2-99bd-d49e4bdf6a69-cenc.mpd"
+      },
+      "drm_key": "00a93c635b67f55021bcc80993deb331:fa01833de57c57529d98cc1e0ddfb868"
     },
     {
       "match_id": "B0HFGVT8MB",
@@ -136,20 +150,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd"
       },
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
-    },
-    {
-      "match_id": "B0HP3Z72FN",
-      "title": "Nov 10 - PTT Oxford",
-      "synopsis": "Nov 10 - PTT Oxford",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7a885a9a-3c7f-47e3-8ab3-90203c2a3c83/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HP3Z72FN",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a162live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprBxSqBhpq804qA2Zha2FtYWkCeChmaWQ6MDFhMWM2NjktNTU4Zi03MjI3LWIxMmItYzhmMjI0MmY2ODJhGQE4oQWhAngzLzVxYTN3cXF1dWcvb3V0L3YxL2U5MDgxM2YxYWExNjRhNWRiMTVlYzY0YTE0MjU5ZmY4WCCOpr6CI1BpMlaxbZOAT3lv66J8m4QeRLFHI0fzNb91pg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/5qa3wqquug/out/v1/e90813f1aa164a5db15ec64a14259ff8/47c1fef6-3d6b-48e2-99bd-d49e4bdf6a69-cenc.mpd"
-      },
-      "drm_key": "00a93c635b67f55021bcc80993deb331:fa01833de57c57529d98cc1e0ddfb868"
     },
     {
       "match_id": "B0HJYLB1FQ",
