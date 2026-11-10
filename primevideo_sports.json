@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "10:02 PM 10-11-2026",
+    "LastUpdate": "10:32 PM 10-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -62,23 +62,6 @@
       "drm_key": "c86f21d47ee98bfb22dfd0284f42c25f:ed0504f6bc8dae781fcb2e4520e858a9"
     },
     {
-      "match_id": "B0HHQKGLKL",
-      "title": "Abu Dhabi T10 League 2026 - 9th Match - Yas Lions vs United Tigers",
-      "synopsis": "Abu Dhabi T10 League 2026 - 9th Match - Yas Lions vs United Tigers",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.b128d7c9-e3b4-4af4-9de8-33cd2dc1e986/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HHQKGLKL",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u4schwb5fb/out/v1/1ab73661445f40a79e25895de38190cd/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u4schwb5fb/out/v1/1ab73661445f40a79e25895de38190cd/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/u4schwb5fb/out/v1/1ab73661445f40a79e25895de38190cd/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/u4schwb5fb/out/v1/1ab73661445f40a79e25895de38190cd/cenc.mpd"
-      },
-      "drm_key": "0e36b3be8845c0685c6e1a7ce8b3a3e0:d0a6469a598e7159d22717e229e8c18d"
-    },
-    {
       "match_id": "B0HFGVT8MB",
       "title": "Nov 10 - PTT Boca Raton Men",
       "synopsis": "Nov 10 - PTT Boca Raton Men",
@@ -91,20 +74,6 @@
         "Original Server": "https://ABBIA2VAAAAAAAAME4QJE63SWYCI6.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprBviLBhpq8zILA2pjbG91ZGZyb250AngoZmlkOjAxYTFjNWZiLTdiMGItNzM5MS05MzhjLTFlMzAwYjJlYjM4ZBkBOKEFoQJ4My94dGloaXR3amJ5L291dC92MS85ZTdkNmY4YzBiNDU0ZWE0YjM0MGNjNDE0OTJjNTUwMFgg7KZJ4sRCfAmie4xx5aiCdzooqlu0mQTPuxw-MVK3Kss/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/xtihitwjby/out/v1/9e7d6f8c0b454ea4b340cc41492c5500/4553ea7f-b2b4-42a6-a3a5-a6c6dd09611e-cenc.mpd"
       },
       "drm_key": "c36aedf6eb3404a656e932199f72e986:e854525d842c62e0f0b863b9d5d8d3b7"
-    },
-    {
-      "match_id": "B0HPBKGYL9",
-      "title": "Nov 10 - PTT Carvoeiro",
-      "synopsis": "Nov 10 - PTT Carvoeiro",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6d460ca-fe2b-423d-9756-cff0db585bbd/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HPBKGYL9",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABDBSDDAAAAAAAAMDYB36QH7BIXXJ.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprBvGLBhpq8ysLA2pjbG91ZGZyb250AngoZmlkOjAxYTFjNWUwLTI1MjktNzFjZS05Y2JmLTc3YmMzM2UzMTkxNBkBOKEFoQJ4My9ianM4czZpOWhhL291dC92MS9hYzhmOWRlNGIwOWI0Y2MwYWEyNWVkNWJjZjRkMmFlOFggjuqOWApst4QKRn6BY9ZqamBMyvuux7SCgwnNxU6v-XQ/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/bjs8s6i9ha/out/v1/ac8f9de4b09b4cc0aa25ed5bcf4d2ae8/99de7a1b-665e-471c-a594-1d5fa226898f-cenc.mpd"
-      },
-      "drm_key": "f3522900cd2832d28ced005a8779b65b:e60b33a95c21fee31d46f8b4ebcc0b2c"
     }
   ]
 }
