@@ -1,15 +1,32 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "05:32 PM 10-11-2026",
+    "LastUpdate": "06:02 PM 10-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 9,
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HQJKKF24",
+      "title": "The Morning Drive",
+      "synopsis": "The Morning Drive",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.d111085c-2091-4914-944a-180af4d4e887/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HQJKKF24",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd"
+      },
+      "drm_key": "e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052"
+    },
     {
       "match_id": "B0HMY3341X",
       "title": "Triton Poker ONE Series Cyprus-$10K NLH 7-Handed",
@@ -79,20 +96,6 @@
       "drm_key": "7fecfb5bed7cce0cdc59d2994845c550:884386b71e0801635f4fa25175143ca7"
     },
     {
-      "match_id": "B0HPBKGYL9",
-      "title": "Nov 10 - PTT Carvoeiro",
-      "synopsis": "Nov 10 - PTT Carvoeiro",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6d460ca-fe2b-423d-9756-cff0db585bbd/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HPBKGYL9",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a115live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprBqQpBhpq8t2pA2Zha2FtYWkCeChmaWQ6MDFhMWM0YjEtZGViZS03MWIzLWIyMTItMTEzMWQzNjIzYTUzGQE4oQWhAngzL2RsbHNydWh1aGcvb3V0L3YxLzdmNDQwMTRhZGYwYjQyZTdiNGFlNWFiZWExNWZjNzYzWCCTUU9M0_HVae92g2dsnnuymd08publRLEuM5FfyEexPA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/dllsruhuhg/out/v1/7f44014adf0b42e7b4ae5abea15fc763/7296271f-7d72-4498-b2b4-f66b02b8ec6d-cenc.mpd"
-      },
-      "drm_key": "f3522900cd2832d28ced005a8779b65b:e60b33a95c21fee31d46f8b4ebcc0b2c"
-    },
-    {
       "match_id": "B0HKJV3KJQ",
       "title": "ACC Mens U19 Asia Cup 2026 - 11th Match - India U19 vs United Arab Emirates U19",
       "synopsis": "ACC Mens U19 Asia Cup 2026 - 11th Match - India U19 vs United Arab Emirates U19",
@@ -108,6 +111,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pujers2ihc/out/v1/cd417b73a773492ba79df2f9bb89a9f7/cenc.mpd"
       },
       "drm_key": "4c4bd1aa8c9559ae04dda485adb5a3b1:ce2f7e3a60ef59cdc20a666d64f35506"
+    },
+    {
+      "match_id": "B0HPBKGYL9",
+      "title": "Nov 10 - PTT Carvoeiro",
+      "synopsis": "Nov 10 - PTT Carvoeiro",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6d460ca-fe2b-423d-9756-cff0db585bbd/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HPBKGYL9",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a115live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprBqQpBhpq8t2pA2Zha2FtYWkCeChmaWQ6MDFhMWM0YjEtZGViZS03MWIzLWIyMTItMTEzMWQzNjIzYTUzGQE4oQWhAngzL2RsbHNydWh1aGcvb3V0L3YxLzdmNDQwMTRhZGYwYjQyZTdiNGFlNWFiZWExNWZjNzYzWCCTUU9M0_HVae92g2dsnnuymd08publRLEuM5FfyEexPA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/dllsruhuhg/out/v1/7f44014adf0b42e7b4ae5abea15fc763/7296271f-7d72-4498-b2b4-f66b02b8ec6d-cenc.mpd"
+      },
+      "drm_key": "f3522900cd2832d28ced005a8779b65b:e60b33a95c21fee31d46f8b4ebcc0b2c"
     },
     {
       "match_id": "B0HLVY22CY",
