@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "05:02 AM 11-11-2026",
+    "LastUpdate": "05:32 AM 11-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -25,23 +25,6 @@
       "drm_key": "72c30ce1b2f3afcb4bda73d25866c54f:d67e3b3dbe99e6693a56295e54d313e0"
     },
     {
-      "match_id": "B0HQFV89K1",
-      "title": "CIAA, Semifinal 2: Fayetteville State vs. Bowie State",
-      "synopsis": "CIAA, Semifinal 2: Fayetteville State vs. Bowie State",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.c913696d-7db4-4bc3-bdf4-5e46a7ff0ed6/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HQFV89K1",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd"
-      },
-      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
-    },
-    {
       "match_id": "B0H6K72GJ9",
       "title": "Gardner-Webb vs Elon - Women's Volleyball",
       "synopsis": "Gardner-Webb vs Elon - Women's Volleyball",
@@ -57,6 +40,23 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd"
       },
       "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
+    },
+    {
+      "match_id": "B0HQFV89K1",
+      "title": "CIAA, Semifinal 2: Fayetteville State vs. Bowie State",
+      "synopsis": "CIAA, Semifinal 2: Fayetteville State vs. Bowie State",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.c913696d-7db4-4bc3-bdf4-5e46a7ff0ed6/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HQFV89K1",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd"
+      },
+      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
     },
     {
       "match_id": "B0HPBXG43H",
@@ -87,20 +87,6 @@
       "drm_key": "08daaa47bb768b9e92a61a7e836db44c:475ef938ebbcb203db30ae32090c514b"
     },
     {
-      "match_id": "B0HFGVT8MB",
-      "title": "Nov 10 - PTT Boca Raton Men",
-      "synopsis": "Nov 10 - PTT Boca Raton Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5030fc56-86ab-42e3-8827-00dc06bf0d19/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFGVT8MB",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABBIA2VAAAAAAAAME4QJE63SWYCI6.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprBviLBhpq8zILA2pjbG91ZGZyb250AngoZmlkOjAxYTFjNWZiLTdiMGItNzM5MS05MzhjLTFlMzAwYjJlYjM4ZBkBOKEFoQJ4My94dGloaXR3amJ5L291dC92MS85ZTdkNmY4YzBiNDU0ZWE0YjM0MGNjNDE0OTJjNTUwMFgg7KZJ4sRCfAmie4xx5aiCdzooqlu0mQTPuxw-MVK3Kss/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/xtihitwjby/out/v1/9e7d6f8c0b454ea4b340cc41492c5500/4553ea7f-b2b4-42a6-a3a5-a6c6dd09611e-cenc.mpd"
-      },
-      "drm_key": "c36aedf6eb3404a656e932199f72e986:e854525d842c62e0f0b863b9d5d8d3b7"
-    },
-    {
       "match_id": "B0HP3Z72FN",
       "title": "Nov 10 - PTT Oxford",
       "synopsis": "Nov 10 - PTT Oxford",
@@ -113,6 +99,20 @@
         "Original Server": "https://a162live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprBxSqBhpq804qA2Zha2FtYWkCeChmaWQ6MDFhMWM2NjktNTU4Zi03MjI3LWIxMmItYzhmMjI0MmY2ODJhGQE4oQWhAngzLzVxYTN3cXF1dWcvb3V0L3YxL2U5MDgxM2YxYWExNjRhNWRiMTVlYzY0YTE0MjU5ZmY4WCCOpr6CI1BpMlaxbZOAT3lv66J8m4QeRLFHI0fzNb91pg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/5qa3wqquug/out/v1/e90813f1aa164a5db15ec64a14259ff8/47c1fef6-3d6b-48e2-99bd-d49e4bdf6a69-cenc.mpd"
       },
       "drm_key": "00a93c635b67f55021bcc80993deb331:fa01833de57c57529d98cc1e0ddfb868"
+    },
+    {
+      "match_id": "B0HFGVT8MB",
+      "title": "Nov 10 - PTT Boca Raton Men",
+      "synopsis": "Nov 10 - PTT Boca Raton Men",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5030fc56-86ab-42e3-8827-00dc06bf0d19/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFGVT8MB",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABBIA2VAAAAAAAAME4QJE63SWYCI6.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprBviLBhpq8zILA2pjbG91ZGZyb250AngoZmlkOjAxYTFjNWZiLTdiMGItNzM5MS05MzhjLTFlMzAwYjJlYjM4ZBkBOKEFoQJ4My94dGloaXR3amJ5L291dC92MS85ZTdkNmY4YzBiNDU0ZWE0YjM0MGNjNDE0OTJjNTUwMFgg7KZJ4sRCfAmie4xx5aiCdzooqlu0mQTPuxw-MVK3Kss/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/xtihitwjby/out/v1/9e7d6f8c0b454ea4b340cc41492c5500/4553ea7f-b2b4-42a6-a3a5-a6c6dd09611e-cenc.mpd"
+      },
+      "drm_key": "c36aedf6eb3404a656e932199f72e986:e854525d842c62e0f0b863b9d5d8d3b7"
     }
   ]
 }
