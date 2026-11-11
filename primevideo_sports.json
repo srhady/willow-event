@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "06:02 AM 11-11-2026",
+    "LastUpdate": "06:32 AM 11-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -25,6 +25,20 @@
       "drm_key": "72c30ce1b2f3afcb4bda73d25866c54f:d67e3b3dbe99e6693a56295e54d313e0"
     },
     {
+      "match_id": "B0HPBXG43H",
+      "title": "Nov 10 - PTT Malibu Men",
+      "synopsis": "Nov 10 - PTT Malibu Men",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.03901bb3-9762-4d06-aa44-f4f81c53e150/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HPBXG43H",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a182live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprB0zmBhpq84ZmA2Zha2FtYWkCeChmaWQ6MDFhMWM3NDUtMDEzZS03NDA2LWE5ZGMtNzk2OTdjYTk0ZDgwGQE4oQWhAngzL3l0dnVxY3A1OGMvb3V0L3YxLzQ5NDU5ZTlhMzJkOTQzZGNhMjRlNTVjMmZmNDNkN2UzWCB1m1yaOr1C2Chh1dtGkogV78ztX3YcaM5_WPpDq0g5lg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ytvuqcp58c/out/v1/49459e9a32d943dca24e55c2ff43d7e3/f28c571c-a003-4ba6-b760-e79b1506194e-cenc.mpd"
+      },
+      "drm_key": "a092534afbadca8220eb3ca93a8a5462:3cf352bbdfdb42b44ff4306a3d548dad"
+    },
+    {
       "match_id": "B0H6K72GJ9",
       "title": "Gardner-Webb vs Elon - Women's Volleyball",
       "synopsis": "Gardner-Webb vs Elon - Women's Volleyball",
@@ -40,20 +54,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd"
       },
       "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
-    },
-    {
-      "match_id": "B0HPBXG43H",
-      "title": "Nov 10 - PTT Malibu Men",
-      "synopsis": "Nov 10 - PTT Malibu Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.03901bb3-9762-4d06-aa44-f4f81c53e150/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HPBXG43H",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a182live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprB0zmBhpq84ZmA2Zha2FtYWkCeChmaWQ6MDFhMWM3NDUtMDEzZS03NDA2LWE5ZGMtNzk2OTdjYTk0ZDgwGQE4oQWhAngzL3l0dnVxY3A1OGMvb3V0L3YxLzQ5NDU5ZTlhMzJkOTQzZGNhMjRlNTVjMmZmNDNkN2UzWCB1m1yaOr1C2Chh1dtGkogV78ztX3YcaM5_WPpDq0g5lg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ytvuqcp58c/out/v1/49459e9a32d943dca24e55c2ff43d7e3/f28c571c-a003-4ba6-b760-e79b1506194e-cenc.mpd"
-      },
-      "drm_key": "a092534afbadca8220eb3ca93a8a5462:3cf352bbdfdb42b44ff4306a3d548dad"
     },
     {
       "match_id": "B0HP3Z72FN",
