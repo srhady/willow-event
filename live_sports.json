@@ -1,41 +1,23 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "06:02 PM 11-11-2026",
+    "LastUpdate": "07:02 PM 11-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 19
+    "LiveCount": 0,
+    "UpcomingCount": 20
   },
   "Matches": [
-    {
-      "match_id": "B0HLVY22CY",
-      "title": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka",
-      "synopsis": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka",
-      "status": "LIVE",
-      "time": "10 AM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c65dfbd7-e120-4b1a-ac5c-60c3981498b0/5/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLVY22CY?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
-      "is_free": false,
-      "stream_url_alpha": {
-        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd",
-        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd",
-        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd",
-        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd"
-      },
-      "drm_key": "d63d62ca6f2d1873d79971747a489b1b:6c6b047893630a19cb091bde4cd660f3"
-    },
     {
       "match_id": "B0HMKZKJRB",
       "title": "Abu Dhabi T10 League 2026 - 11th Match - Royal Desert Champions vs UAE Bulls",
       "synopsis": "Abu Dhabi T10 League 2026 - 11th Match - Royal Desert Champions vs UAE Bulls",
       "status": "UPCOMING",
-      "time": "Live at 7:45 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9f427b08-4bc4-4879-8330-9c2af53d7b8f/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HMKZKJRB?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
+      "time": "Live at 7:15 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9f427b08-4bc4-4879-8330-9c2af53d7b8f/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HMKZKJRB?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -47,7 +29,19 @@
       "status": "UPCOMING",
       "time": "Live at 10 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.363eb94d-8820-42f4-ace2-e0f4f2e563ec/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HPNLCP8R?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HPNLCP8R?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
+      "is_free": false,
+      "stream_url_alpha": "",
+      "drm_key": ""
+    },
+    {
+      "match_id": "B0HLVY22CY",
+      "title": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka",
+      "synopsis": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka",
+      "status": "UPCOMING",
+      "time": "Tomorrow 10 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c65dfbd7-e120-4b1a-ac5c-60c3981498b0/5/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLVY22CY?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
