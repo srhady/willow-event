@@ -1,15 +1,32 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "07:02 AM 11-11-2026",
+    "LastUpdate": "07:32 AM 11-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
-    "UpcomingCount": 1
+    "LiveCount": 3,
+    "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HPTGNJBL",
+      "title": "USHL Hockey: Fargo Force vs Sioux Falls Stampede",
+      "synopsis": "USHL Hockey: Fargo Force vs Sioux Falls Stampede",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.5f521b59-1874-4b2f-b53a-f88862297e58/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HPTGNJBL",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd"
+      },
+      "drm_key": "b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9"
+    },
     {
       "match_id": "B0HN5KK4XN",
       "title": "WPT Venetian Fall Championship Final Table",
@@ -25,23 +42,6 @@
       "drm_key": "72c30ce1b2f3afcb4bda73d25866c54f:d67e3b3dbe99e6693a56295e54d313e0"
     },
     {
-      "match_id": "B0H6K72GJ9",
-      "title": "Gardner-Webb vs Elon - Women's Volleyball",
-      "synopsis": "Gardner-Webb vs Elon - Women's Volleyball",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.1096a62a-e8d3-4c0a-b377-89fb2af671db/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H6K72GJ9",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd"
-      },
-      "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
-    },
-    {
       "match_id": "B0HPBXG43H",
       "title": "Nov 10 - PTT Malibu Men",
       "synopsis": "Nov 10 - PTT Malibu Men",
@@ -54,37 +54,6 @@
         "Original Server": "https://a182live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprB0zmBhpq84ZmA2Zha2FtYWkCeChmaWQ6MDFhMWM3NDUtMDEzZS03NDA2LWE5ZGMtNzk2OTdjYTk0ZDgwGQE4oQWhAngzL3l0dnVxY3A1OGMvb3V0L3YxLzQ5NDU5ZTlhMzJkOTQzZGNhMjRlNTVjMmZmNDNkN2UzWCB1m1yaOr1C2Chh1dtGkogV78ztX3YcaM5_WPpDq0g5lg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ytvuqcp58c/out/v1/49459e9a32d943dca24e55c2ff43d7e3/f28c571c-a003-4ba6-b760-e79b1506194e-cenc.mpd"
       },
       "drm_key": "a092534afbadca8220eb3ca93a8a5462:3cf352bbdfdb42b44ff4306a3d548dad"
-    },
-    {
-      "match_id": "B0HFGVT8MB",
-      "title": "Nov 10 - PTT Boca Raton Men",
-      "synopsis": "Nov 10 - PTT Boca Raton Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5030fc56-86ab-42e3-8827-00dc06bf0d19/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFGVT8MB",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABBIA2VAAAAAAAAME4QJE63SWYCI6.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprBviLBhpq8zILA2pjbG91ZGZyb250AngoZmlkOjAxYTFjNWZiLTdiMGItNzM5MS05MzhjLTFlMzAwYjJlYjM4ZBkBOKEFoQJ4My94dGloaXR3amJ5L291dC92MS85ZTdkNmY4YzBiNDU0ZWE0YjM0MGNjNDE0OTJjNTUwMFgg7KZJ4sRCfAmie4xx5aiCdzooqlu0mQTPuxw-MVK3Kss/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/xtihitwjby/out/v1/9e7d6f8c0b454ea4b340cc41492c5500/4553ea7f-b2b4-42a6-a3a5-a6c6dd09611e-cenc.mpd"
-      },
-      "drm_key": "c36aedf6eb3404a656e932199f72e986:e854525d842c62e0f0b863b9d5d8d3b7"
-    },
-    {
-      "match_id": "B0HPTGNJBL",
-      "title": "USHL Hockey: Fargo Force vs Sioux Falls Stampede",
-      "synopsis": "USHL Hockey: Fargo Force vs Sioux Falls Stampede",
-      "status": "UPCOMING",
-      "time": "Live at 7:05 AM BDT",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.5f521b59-1874-4b2f-b53a-f88862297e58/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HPTGNJBL",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd"
-      },
-      "drm_key": "b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9"
     }
   ]
 }
