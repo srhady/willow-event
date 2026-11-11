@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "05:32 AM 11-11-2026",
+    "LastUpdate": "06:02 AM 11-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 7,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -42,23 +42,6 @@
       "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
     },
     {
-      "match_id": "B0HQFV89K1",
-      "title": "CIAA, Semifinal 2: Fayetteville State vs. Bowie State",
-      "synopsis": "CIAA, Semifinal 2: Fayetteville State vs. Bowie State",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.c913696d-7db4-4bc3-bdf4-5e46a7ff0ed6/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HQFV89K1",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd"
-      },
-      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
-    },
-    {
       "match_id": "B0HPBXG43H",
       "title": "Nov 10 - PTT Malibu Men",
       "synopsis": "Nov 10 - PTT Malibu Men",
@@ -71,20 +54,6 @@
         "Original Server": "https://a182live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprB0zmBhpq84ZmA2Zha2FtYWkCeChmaWQ6MDFhMWM3NDUtMDEzZS03NDA2LWE5ZGMtNzk2OTdjYTk0ZDgwGQE4oQWhAngzL3l0dnVxY3A1OGMvb3V0L3YxLzQ5NDU5ZTlhMzJkOTQzZGNhMjRlNTVjMmZmNDNkN2UzWCB1m1yaOr1C2Chh1dtGkogV78ztX3YcaM5_WPpDq0g5lg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ytvuqcp58c/out/v1/49459e9a32d943dca24e55c2ff43d7e3/f28c571c-a003-4ba6-b760-e79b1506194e-cenc.mpd"
       },
       "drm_key": "a092534afbadca8220eb3ca93a8a5462:3cf352bbdfdb42b44ff4306a3d548dad"
-    },
-    {
-      "match_id": "B0HJYLB1FQ",
-      "title": "Nov 10 - PTT Houston Men",
-      "synopsis": "Nov 10 - PTT Houston Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5a6d2f7b-b060-4388-953f-18a88f43e827/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HJYLB1FQ",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprBzDIBhpq82pIA2ZmYXN0bHkCeChmaWQ6MDFhMWM2ZDctMjlkMS03NGMxLTk2MjctMWFkZTQyOTZhNTA0GQE4oQWhAngzLzdreXlsZHRmZHYvb3V0L3YxLzdmNTI2MjJjMzI5MDRhY2E4MjQ3YTcxZGJjMGU3YjFhWCAf4ePoS5OHBYhRdTah-UXLhSv24ZH2D_qmTYRy-5xMLw/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/7kyyldtfdv/out/v1/7f52622c32904aca8247a71dbc0e7b1a/9f069096-7a9d-414c-87e5-9400d9493e63-cenc.mpd"
-      },
-      "drm_key": "08daaa47bb768b9e92a61a7e836db44c:475ef938ebbcb203db30ae32090c514b"
     },
     {
       "match_id": "B0HP3Z72FN",
