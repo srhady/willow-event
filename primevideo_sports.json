@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "08:32 PM 11-11-2026",
+    "LastUpdate": "09:02 PM 11-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -77,6 +77,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/siet7wbiya/out/v1/a5482739bd194c0ca1cd0e7af78d402a/cenc.mpd"
       },
       "drm_key": "1e9def1e0c216818e8edc06ce10d25c9:4743d779da68303948a6e7e18fc77056"
+    },
+    {
+      "match_id": "B0HPDKB52K",
+      "title": "Nov 11 - PTT Boca Raton Men",
+      "synopsis": "Nov 11 - PTT Boca Raton Men",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ffb63bf4-e24f-4c6b-a1a0-31cb87555d88/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HPDKB52K",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprCEoJBhpq9IOJA2ZmYXN0bHkCeChmaWQ6MDFhMWNiMjEtZDAzNS03NzNkLWI3ZWQtZDA5NjIxMTcwM2Q5GQE4oQWhAngzL2RzbXVlM295N2Yvb3V0L3YxL2NkNTViNzhiZGU4ZTRmNWRiZjAyZmRkNGI1YmQ0OTgzWCCXn-OPBjyoqXKXXU9hh5BtSqDdvoIvu-bhLzzgVDJm0A/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/dsmue3oy7f/out/v1/cd55b78bde8e4f5dbf02fdd4b5bd4983/3306d761-8399-43b5-a4d1-b26588f07c9c-cenc.mpd"
+      },
+      "drm_key": "7100f9ea0a5b6369d94b5ffa9dc05b2c:52e5e800e0762e1d6b48d69555c3532f"
     }
   ]
 }
