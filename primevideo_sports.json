@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "03:32 AM 13-11-2026",
+    "LastUpdate": "04:02 AM 13-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -10,6 +10,23 @@
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HP86C59C",
+      "title": "Albania vs. Finland",
+      "synopsis": "Albania vs. Finland",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e54574f7-8f3a-4f79-b26d-d3582e99f73a/3/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HP86C59C",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd"
+      },
+      "drm_key": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681"
+    },
     {
       "match_id": "B0HQ6ZJ6TX",
       "title": "Triton Poker ONE Series Cyprus-$8K Main Event",
@@ -26,62 +43,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd"
       },
       "drm_key": "0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd"
-    },
-    {
-      "match_id": "B0HQ7PJKTQ",
-      "title": "Nov 12 - PTT Boca Raton Men",
-      "synopsis": "Nov 12 - PTT Boca Raton Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.999c6fcd-9fe3-40a4-a740-cf9ee44c32cf/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HQ7PJKTQ",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a103live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprCZuQBhpq9dUQA2Zha2FtYWkCeChmaWQ6MDFhMWQwNDgtNDZkMi03NjQ5LThhY2MtZjIxZGI2ZDkwYjQ1GQE4oQWhAngzL2EzbmJwZnFrdXUvb3V0L3YxLzJhZDYwNDZiYzE1NjQ5YTdiZmZmNjYxZWI4OTFmNTFiWCCVH0r_wEzEuA9U1TJbYDl1046kwLTs0cVbvv7-z3IVkA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/a3nbpfqkuu/out/v1/2ad6046bc15649a7bfff661eb891f51b/3a255574-9385-469e-b05f-cca9c3011ad2-cenc.mpd"
-      },
-      "drm_key": "8b3166be38371fcff282e9eef2d6ba91:1975f925f7c0d7857ea007a66289f238"
-    },
-    {
-      "match_id": "B0HPM9D7LC",
-      "title": "Nov 12 - PTT Oxford",
-      "synopsis": "Nov 12 - PTT Oxford",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.eccca7b1-10d6-4335-96f2-6e52b6135b22/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HPM9D7LC",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABBID6OAAAAAAAAMGC3HOPXB64BP2.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprCbenBhpq9fEnA2pjbG91ZGZyb250AngoZmlkOjAxYTFkMGI2LTAxOTMtNzE4ZS05MGRjLTYyMWE5MzIwYTMwNxkBOKEFoQJ4My9qZ3R4bmJrOW54L291dC92MS85ZjY1NThlYmY2ZmU0OTNiYjNiYmI5NmNjZGNkODM5Y1ggh8uO6qF-iGwJK4rwny6vs45lpugxVhZOfkO5VmEenIw/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/jgtxnbk9nx/out/v1/9f6558ebf6fe493bb3bbb96ccdcd839c/04b8940d-89e2-4358-90cd-a34acb7272cf-cenc.mpd"
-      },
-      "drm_key": "28499a96d5423b6bd1033555cd00925f:bc564723b39705f73263accc9606e056"
-    },
-    {
-      "match_id": "B0HNGDTCCT",
-      "title": "Nov 12 - PTT Houston",
-      "synopsis": "Nov 12 - PTT Houston",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9543cd83-f49c-4bad-8dfd-367abfb24e55/9/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HNGDTCCT",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABBID6OAAAAAAAAMHWUWCAT5NTZQD.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprCbemBhpq9fEmA2pjbG91ZGZyb250AngoZmlkOjAxYTFkMGI1LWZlNGMtNzc4Ny1hODFlLTJiNDFjNjI1MjUxMRkBOKEFoQJ4My8xcW9xZjQ0NnZwL291dC92MS9kMDRiYjQ3NjZmODY0NDUxYjFlMDU1ODRiYjNjZmQ2NVggwAE6sCS4N-pfndNKEZh5pDjzh3V0W99Th3S0Yet8YBk/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/1qoqf446vp/out/v1/d04bb4766f864451b1e05584bb3cfd65/41777c79-1740-443e-961d-d2c1caceec12-cenc.mpd"
-      },
-      "drm_key": "a129253aade225fbedf397341a47eff7:07978d93769d514d2c749da47957ea06"
-    },
-    {
-      "match_id": "B0HNXP6C7R",
-      "title": "Nov 12 - PTT Malibu Men",
-      "synopsis": "Nov 12 - PTT Malibu Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e785e915-6b8f-4199-aace-7df1708d1805/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HNXP6C7R",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a43live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprCdPGBhpq9g1GA2Zha2FtYWkCeChmaWQ6MDFhMWQxMjMtZGIwMS03NzUyLTk4MWQtN2JlOTNkMTE5MjQyGQE4oQWhAngzL2RicGVrbmtnbHMvb3V0L3YxL2UxMmIwOTQyMTM3NjQ3MDRhYTFiZDJmMzBmYzcwZjgwWCBfKYnuk8ahuqH3gIJdlyUgZGZC7egGFWIQs7MeqZeTgg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/dbpeknkgls/out/v1/e12b094213764704aa1bd2f30fc70f80/76998ff5-be25-4a1a-bfcd-353b6acd13aa-cenc.mpd"
-      },
-      "drm_key": "00f327d1aeb3fbd5b05abcec9b44797f:18725e6ab0250a1af1e378fee7ffd62e"
     },
     {
       "match_id": "B0HP69HR8B",
@@ -101,21 +62,60 @@
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
     },
     {
-      "match_id": "B0HP86C59C",
-      "title": "Albania vs. Finland",
-      "synopsis": "Albania vs. Finland",
+      "match_id": "B0HNXP6C7R",
+      "title": "Nov 12 - PTT Malibu Men",
+      "synopsis": "Nov 12 - PTT Malibu Men",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e54574f7-8f3a-4f79-b26d-d3582e99f73a/3/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HP86C59C",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e785e915-6b8f-4199-aace-7df1708d1805/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HNXP6C7R",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd"
+        "Original Server": "https://a43live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprCdPGBhpq9g1GA2Zha2FtYWkCeChmaWQ6MDFhMWQxMjMtZGIwMS03NzUyLTk4MWQtN2JlOTNkMTE5MjQyGQE4oQWhAngzL2RicGVrbmtnbHMvb3V0L3YxL2UxMmIwOTQyMTM3NjQ3MDRhYTFiZDJmMzBmYzcwZjgwWCBfKYnuk8ahuqH3gIJdlyUgZGZC7egGFWIQs7MeqZeTgg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/dbpeknkgls/out/v1/e12b094213764704aa1bd2f30fc70f80/76998ff5-be25-4a1a-bfcd-353b6acd13aa-cenc.mpd"
       },
-      "drm_key": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681"
+      "drm_key": "00f327d1aeb3fbd5b05abcec9b44797f:18725e6ab0250a1af1e378fee7ffd62e"
+    },
+    {
+      "match_id": "B0HQ7PJKTQ",
+      "title": "Nov 12 - PTT Boca Raton Men",
+      "synopsis": "Nov 12 - PTT Boca Raton Men",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.999c6fcd-9fe3-40a4-a740-cf9ee44c32cf/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HQ7PJKTQ",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a103live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprCZuQBhpq9dUQA2Zha2FtYWkCeChmaWQ6MDFhMWQwNDgtNDZkMi03NjQ5LThhY2MtZjIxZGI2ZDkwYjQ1GQE4oQWhAngzL2EzbmJwZnFrdXUvb3V0L3YxLzJhZDYwNDZiYzE1NjQ5YTdiZmZmNjYxZWI4OTFmNTFiWCCVH0r_wEzEuA9U1TJbYDl1046kwLTs0cVbvv7-z3IVkA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/a3nbpfqkuu/out/v1/2ad6046bc15649a7bfff661eb891f51b/3a255574-9385-469e-b05f-cca9c3011ad2-cenc.mpd"
+      },
+      "drm_key": "8b3166be38371fcff282e9eef2d6ba91:1975f925f7c0d7857ea007a66289f238"
+    },
+    {
+      "match_id": "B0HNGDTCCT",
+      "title": "Nov 12 - PTT Houston",
+      "synopsis": "Nov 12 - PTT Houston",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9543cd83-f49c-4bad-8dfd-367abfb24e55/9/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HNGDTCCT",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABBID6OAAAAAAAAMHWUWCAT5NTZQD.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprCbemBhpq9fEmA2pjbG91ZGZyb250AngoZmlkOjAxYTFkMGI1LWZlNGMtNzc4Ny1hODFlLTJiNDFjNjI1MjUxMRkBOKEFoQJ4My8xcW9xZjQ0NnZwL291dC92MS9kMDRiYjQ3NjZmODY0NDUxYjFlMDU1ODRiYjNjZmQ2NVggwAE6sCS4N-pfndNKEZh5pDjzh3V0W99Th3S0Yet8YBk/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/1qoqf446vp/out/v1/d04bb4766f864451b1e05584bb3cfd65/41777c79-1740-443e-961d-d2c1caceec12-cenc.mpd"
+      },
+      "drm_key": "a129253aade225fbedf397341a47eff7:07978d93769d514d2c749da47957ea06"
+    },
+    {
+      "match_id": "B0HPM9D7LC",
+      "title": "Nov 12 - PTT Oxford",
+      "synopsis": "Nov 12 - PTT Oxford",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.eccca7b1-10d6-4335-96f2-6e52b6135b22/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HPM9D7LC",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABBID6OAAAAAAAAMGC3HOPXB64BP2.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprCbenBhpq9fEnA2pjbG91ZGZyb250AngoZmlkOjAxYTFkMGI2LTAxOTMtNzE4ZS05MGRjLTYyMWE5MzIwYTMwNxkBOKEFoQJ4My9qZ3R4bmJrOW54L291dC92MS85ZjY1NThlYmY2ZmU0OTNiYjNiYmI5NmNjZGNkODM5Y1ggh8uO6qF-iGwJK4rwny6vs45lpugxVhZOfkO5VmEenIw/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/jgtxnbk9nx/out/v1/9f6558ebf6fe493bb3bbb96ccdcd839c/04b8940d-89e2-4358-90cd-a34acb7272cf-cenc.mpd"
+      },
+      "drm_key": "28499a96d5423b6bd1033555cd00925f:bc564723b39705f73263accc9606e056"
     }
   ]
 }
