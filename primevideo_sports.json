@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "07:02 AM 12-11-2026",
+    "LastUpdate": "07:32 AM 12-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -11,18 +11,21 @@
   },
   "Matches": [
     {
-      "match_id": "B0HPDKB52K",
-      "title": "Nov 11 - PTT Boca Raton Men",
-      "synopsis": "Nov 11 - PTT Boca Raton Men",
+      "match_id": "B0HQPCDXND",
+      "title": "Unknown Match",
+      "synopsis": "Unknown Match",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ffb63bf4-e24f-4c6b-a1a0-31cb87555d88/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HPDKB52K",
+      "cover_image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.8cc6291a-b95b-4685-b149-93b0cef1f706/2/CAROUSEL-BACKGROUND-8X3/en-US/3840x1440._UR3840,1440_SX2160_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HQPCDXND",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprCEoJBhpq9IOJA2ZmYXN0bHkCeChmaWQ6MDFhMWNiMjEtZDAzNS03NzNkLWI3ZWQtZDA5NjIxMTcwM2Q5GQE4oQWhAngzL2RzbXVlM295N2Yvb3V0L3YxL2NkNTViNzhiZGU4ZTRmNWRiZjAyZmRkNGI1YmQ0OTgzWCCXn-OPBjyoqXKXXU9hh5BtSqDdvoIvu-bhLzzgVDJm0A/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/dsmue3oy7f/out/v1/cd55b78bde8e4f5dbf02fdd4b5bd4983/3306d761-8399-43b5-a4d1-b26588f07c9c-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd"
       },
-      "drm_key": "7100f9ea0a5b6369d94b5ffa9dc05b2c:52e5e800e0762e1d6b48d69555c3532f"
+      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
     },
     {
       "match_id": "B0HNZKPB49",
@@ -53,18 +56,18 @@
       "drm_key": "5a4ef6a05545d9a3e5517a4cb0b3b6d3:90b9fb65848eca001eb03670217970d0"
     },
     {
-      "match_id": "B0HKK4YR8K",
-      "title": "Nov 11 - PTT Houston",
-      "synopsis": "Nov 11 - PTT Houston",
+      "match_id": "B0HPDKB52K",
+      "title": "Nov 11 - PTT Boca Raton Men",
+      "synopsis": "Nov 11 - PTT Boca Raton Men",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1606ec8e-7598-461e-96cc-f9f6e85d65b1/9/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKK4YR8K",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ffb63bf4-e24f-4c6b-a1a0-31cb87555d88/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HPDKB52K",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://ABBIHJUAAAAAAAAMLQZMHXZBBGNXD.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprCGYvBhpq9J-vA2pjbG91ZGZyb250AngoZmlkOjAxYTFjYjhmLWM0ODUtNzJlOC1hOTFlLWM0ZTViZmY1MGRhYRkBOKEFoQJ4My9yMmdvY25xdGRtL291dC92MS82NjdkZWYxY2RlMzM0ZDE3YmNiOWVkN2YzMWZmODZmZVggI5S18aExwAaBNjwOE6AKjBqPFiG-LjTRBREzNdPgCdY/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/r2gocnqtdm/out/v1/667def1cde334d17bcb9ed7f31ff86fe/aad44c94-edfa-4430-b178-b00ade6e43f4-cenc.mpd"
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprCEoJBhpq9IOJA2ZmYXN0bHkCeChmaWQ6MDFhMWNiMjEtZDAzNS03NzNkLWI3ZWQtZDA5NjIxMTcwM2Q5GQE4oQWhAngzL2RzbXVlM295N2Yvb3V0L3YxL2NkNTViNzhiZGU4ZTRmNWRiZjAyZmRkNGI1YmQ0OTgzWCCXn-OPBjyoqXKXXU9hh5BtSqDdvoIvu-bhLzzgVDJm0A/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/dsmue3oy7f/out/v1/cd55b78bde8e4f5dbf02fdd4b5bd4983/3306d761-8399-43b5-a4d1-b26588f07c9c-cenc.mpd"
       },
-      "drm_key": "372df3cab2baf875b7cac6ee5c60892d:f16f12e84fe3947cf0fb2f1d0e934eec"
+      "drm_key": "7100f9ea0a5b6369d94b5ffa9dc05b2c:52e5e800e0762e1d6b48d69555c3532f"
     }
   ]
 }
