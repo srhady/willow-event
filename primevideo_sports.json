@@ -1,32 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "11:02 AM 13-11-2026",
+    "LastUpdate": "11:32 AM 13-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HQ58F56B",
-      "title": "AHA Hockey: Bentley vs Air Force - Men's",
-      "synopsis": "AHA Hockey: Bentley vs Air Force - Men's",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.2a7d8be1-80f3-491e-b684-fabb3efe4163/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HQ58F56B",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd"
-      },
-      "drm_key": "b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9"
-    },
     {
       "match_id": "B0HR66GSJV",
       "title": "Australia vs. England",
@@ -94,20 +77,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dnip3gefsa/out/v1/d07a14d5030a4c119f2adb15588cb7e2/cenc.mpd"
       },
       "drm_key": "b21487d48dba161df1dbcb2709e78ac5:495d4dfd655791c39933461c3751bde3"
-    },
-    {
-      "match_id": "B0HNXP6C7R",
-      "title": "Nov 12 - PTT Malibu Men",
-      "synopsis": "Nov 12 - PTT Malibu Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e785e915-6b8f-4199-aace-7df1708d1805/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HNXP6C7R",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a43live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprCdPGBhpq9g1GA2Zha2FtYWkCeChmaWQ6MDFhMWQxMjMtZGIwMS03NzUyLTk4MWQtN2JlOTNkMTE5MjQyGQE4oQWhAngzL2RicGVrbmtnbHMvb3V0L3YxL2UxMmIwOTQyMTM3NjQ3MDRhYTFiZDJmMzBmYzcwZjgwWCBfKYnuk8ahuqH3gIJdlyUgZGZC7egGFWIQs7MeqZeTgg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/dbpeknkgls/out/v1/e12b094213764704aa1bd2f30fc70f80/76998ff5-be25-4a1a-bfcd-353b6acd13aa-cenc.mpd"
-      },
-      "drm_key": "00f327d1aeb3fbd5b05abcec9b44797f:18725e6ab0250a1af1e378fee7ffd62e"
     }
   ]
 }
