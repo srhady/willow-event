@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "11:02 PM 13-11-2026",
+    "LastUpdate": "11:32 PM 13-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -76,6 +76,20 @@
       "drm_key": "4517fccb8410135c0ccc7ec53e372bd9:19274c0b10a861a6f0b64e3814116af8"
     },
     {
+      "match_id": "B0HQ54L19B",
+      "title": "Nov 13 - PTT Oxford",
+      "synopsis": "Nov 13 - PTT Oxford",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.320edf58-4122-4cf0-8daf-89ce856113a6/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HQ54L19B",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a139live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprCwkxBhpq90KxA2Zha2FtYWkCeChmaWQ6MDFhMWQ1ZGMtODU5Mi03NjEwLTk5NzgtODc1NTZhY2I1NDZhGQE4oQWhAngzL2poYWJkemt3cWcvb3V0L3YxLzViYzY2MGY4M2FmYTQwNzM4NjBhNTg0Yzg5N2QyMzc4WCCFqOm928gfKw0_sy8b8ON7qWY3ue1SqurQLloC89KVhQ/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/jhabdzkwqg/out/v1/5bc660f83afa4073860a584c897d2378/18b163cf-ad3f-4b8e-87ef-88983bd24f89-cenc.mpd"
+      },
+      "drm_key": "3dba4d7493b64086840359013bddc8fd:80e59d7b455e1fb9a156f9fdfea280f7"
+    },
+    {
       "match_id": "B0HGS7DLHB",
       "title": "Nov 13 - PTT Houston",
       "synopsis": "Nov 13 - PTT Houston",
@@ -102,20 +116,6 @@
         "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprCpirBhpq9tIrA2ZmYXN0bHkCeChmaWQ6MDFhMWQ0MjQtZjhmYi03NTRhLWEzYmQtMGQ4MjUzODg4ZTI4GQE4oQWhAngzL3psdm9wMWNxcGEvb3V0L3YxL2UwZjRkN2MzMDgxOTRkODViZjAyNjdjM2JjM2I5NGFmWCAh7ADmN1a1mjAn3slVCbfrO2ceUGrSk__Ed8n31CS_Zg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/zlvop1cqpa/out/v1/e0f4d7c308194d85bf0267c3bc3b94af/2dd2b66b-59fc-4b2d-aaab-b1a598574ba1-cenc.mpd"
       },
       "drm_key": "b10a0204e29170628d1876f73dad71f8:d6d44c1c57ee040b96895e9dad56db00"
-    },
-    {
-      "match_id": "B0HQ54L19B",
-      "title": "Nov 13 - PTT Oxford",
-      "synopsis": "Nov 13 - PTT Oxford",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.320edf58-4122-4cf0-8daf-89ce856113a6/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HQ54L19B",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a139live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprCwkxBhpq90KxA2Zha2FtYWkCeChmaWQ6MDFhMWQ1ZGMtODU5Mi03NjEwLTk5NzgtODc1NTZhY2I1NDZhGQE4oQWhAngzL2poYWJkemt3cWcvb3V0L3YxLzViYzY2MGY4M2FmYTQwNzM4NjBhNTg0Yzg5N2QyMzc4WCCFqOm928gfKw0_sy8b8ON7qWY3ue1SqurQLloC89KVhQ/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/jhabdzkwqg/out/v1/5bc660f83afa4073860a584c897d2378/18b163cf-ad3f-4b8e-87ef-88983bd24f89-cenc.mpd"
-      },
-      "drm_key": "3dba4d7493b64086840359013bddc8fd:80e59d7b455e1fb9a156f9fdfea280f7"
     }
   ]
 }
