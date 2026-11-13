@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "06:02 AM 13-11-2026",
+    "LastUpdate": "06:32 AM 13-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -26,20 +26,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd"
       },
       "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
-    },
-    {
-      "match_id": "B0HQ7PJKTQ",
-      "title": "Nov 12 - PTT Boca Raton Men",
-      "synopsis": "Nov 12 - PTT Boca Raton Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.999c6fcd-9fe3-40a4-a740-cf9ee44c32cf/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HQ7PJKTQ",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a103live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprCZuQBhpq9dUQA2Zha2FtYWkCeChmaWQ6MDFhMWQwNDgtNDZkMi03NjQ5LThhY2MtZjIxZGI2ZDkwYjQ1GQE4oQWhAngzL2EzbmJwZnFrdXUvb3V0L3YxLzJhZDYwNDZiYzE1NjQ5YTdiZmZmNjYxZWI4OTFmNTFiWCCVH0r_wEzEuA9U1TJbYDl1046kwLTs0cVbvv7-z3IVkA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/a3nbpfqkuu/out/v1/2ad6046bc15649a7bfff661eb891f51b/3a255574-9385-469e-b05f-cca9c3011ad2-cenc.mpd"
-      },
-      "drm_key": "8b3166be38371fcff282e9eef2d6ba91:1975f925f7c0d7857ea007a66289f238"
     },
     {
       "match_id": "B0HJZSBL2M",
@@ -85,6 +71,20 @@
         "Original Server": "https://ABBID6OAAAAAAAAMHWUWCAT5NTZQD.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprCbemBhpq9fEmA2pjbG91ZGZyb250AngoZmlkOjAxYTFkMGI1LWZlNGMtNzc4Ny1hODFlLTJiNDFjNjI1MjUxMRkBOKEFoQJ4My8xcW9xZjQ0NnZwL291dC92MS9kMDRiYjQ3NjZmODY0NDUxYjFlMDU1ODRiYjNjZmQ2NVggwAE6sCS4N-pfndNKEZh5pDjzh3V0W99Th3S0Yet8YBk/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/1qoqf446vp/out/v1/d04bb4766f864451b1e05584bb3cfd65/41777c79-1740-443e-961d-d2c1caceec12-cenc.mpd"
       },
       "drm_key": "a129253aade225fbedf397341a47eff7:07978d93769d514d2c749da47957ea06"
+    },
+    {
+      "match_id": "B0HQ7PJKTQ",
+      "title": "Nov 12 - PTT Boca Raton Men",
+      "synopsis": "Nov 12 - PTT Boca Raton Men",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.999c6fcd-9fe3-40a4-a740-cf9ee44c32cf/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HQ7PJKTQ",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a103live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprCZuQBhpq9dUQA2Zha2FtYWkCeChmaWQ6MDFhMWQwNDgtNDZkMi03NjQ5LThhY2MtZjIxZGI2ZDkwYjQ1GQE4oQWhAngzL2EzbmJwZnFrdXUvb3V0L3YxLzJhZDYwNDZiYzE1NjQ5YTdiZmZmNjYxZWI4OTFmNTFiWCCVH0r_wEzEuA9U1TJbYDl1046kwLTs0cVbvv7-z3IVkA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/a3nbpfqkuu/out/v1/2ad6046bc15649a7bfff661eb891f51b/3a255574-9385-469e-b05f-cca9c3011ad2-cenc.mpd"
+      },
+      "drm_key": "8b3166be38371fcff282e9eef2d6ba91:1975f925f7c0d7857ea007a66289f238"
     }
   ]
 }
