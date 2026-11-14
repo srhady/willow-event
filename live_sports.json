@@ -1,38 +1,50 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "10:02 AM 14-11-2026",
+    "LastUpdate": "10:32 AM 14-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 0,
-    "UpcomingCount": 35
+    "LiveCount": 2,
+    "UpcomingCount": 33
   },
   "Matches": [
     {
       "match_id": "B0HMGJT9PV",
       "title": "Womens Big Bash League 2026 - 21st Match - Hobart Hurricanes Women vs Brisbane Heat Women",
       "synopsis": "Womens Big Bash League 2026 - 21st Match - Hobart Hurricanes Women vs Brisbane Heat Women",
-      "status": "UPCOMING",
-      "time": "Live at 10:40 AM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.74ef098f-88d3-421a-ba03-e79ab2515cda/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "10:15 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.74ef098f-88d3-421a-ba03-e79ab2515cda/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HMGJT9PV?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ikrdf6tcyz/out/v1/5acd8a40131447a69dcbf4bbd8ba39d3/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ikrdf6tcyz/out/v1/5acd8a40131447a69dcbf4bbd8ba39d3/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ikrdf6tcyz/out/v1/5acd8a40131447a69dcbf4bbd8ba39d3/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ikrdf6tcyz/out/v1/5acd8a40131447a69dcbf4bbd8ba39d3/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ikrdf6tcyz/out/v1/5acd8a40131447a69dcbf4bbd8ba39d3/cenc.mpd"
+      },
+      "drm_key": "f703fd09044cca52e2574b38fb30a6f9:35494900afade256b06dce9fbd4e3018"
     },
     {
       "match_id": "B0HPTVJM1M",
       "title": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19",
       "synopsis": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19",
-      "status": "UPCOMING",
-      "time": "Live at 11 AM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.904507c1-17ab-40ca-bb74-220df1e3d76e/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "10:30 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.904507c1-17ab-40ca-bb74-220df1e3d76e/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HPTVJM1M?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd"
+      },
+      "drm_key": "6d9898b922c715df238b810032f99e04:24ce2fd66d77c73540f129ae83c967d7"
     },
     {
       "match_id": "B0HP83ZWBB",
