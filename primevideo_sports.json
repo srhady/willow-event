@@ -1,15 +1,32 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "08:02 PM 15-11-2026",
+    "LastUpdate": "08:32 PM 15-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 11,
+    "LiveCount": 10,
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HKWWPQQJ",
+      "title": "West Ham United vs. Charlton Athletic",
+      "synopsis": "West Ham United vs. Charlton Athletic",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.7bd22d5d-1dbb-4a2e-b83c-7307dd5abce4/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKWWPQQJ",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd"
+      },
+      "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+    },
     {
       "match_id": "B0HNDBLGHT",
       "title": "Triton Poker ONE Series Cyprus-$15K High Roller",
@@ -45,40 +62,6 @@
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
     },
     {
-      "match_id": "B0HKWWPQQJ",
-      "title": "West Ham United vs. Charlton Athletic",
-      "synopsis": "West Ham United vs. Charlton Athletic",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.7bd22d5d-1dbb-4a2e-b83c-7307dd5abce4/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKWWPQQJ",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd"
-      },
-      "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
-    },
-    {
-      "match_id": "B0HRNBGJB1",
-      "title": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh",
-      "synopsis": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.3d3a187e-ae33-416b-bc6b-02cd63444282/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HRNBGJB1",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd"
-      },
-      "drm_key": "3d872367d3ff927c4abf0198dfeb01d2:47945393588cf479b728df327f3bef53"
-    },
-    {
       "match_id": "B0HR6MYBFS",
       "title": "Abu Dhabi T10 League 2026 - 19th Match - Royal Desert Champions vs Arabian Aces",
       "synopsis": "Abu Dhabi T10 League 2026 - 19th Match - Royal Desert Champions vs Arabian Aces",
@@ -96,32 +79,21 @@
       "drm_key": "0746588cbf8ac03b65207fb487d8a65d:01db21ef36ef2c010efc6c32b9ccf412"
     },
     {
-      "match_id": "B0HQGY1ZB9",
-      "title": "Nov 15 - PTT Boca Raton Men",
-      "synopsis": "Nov 15 - PTT Boca Raton Men",
+      "match_id": "B0HRNBGJB1",
+      "title": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh",
+      "synopsis": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3b37018a-15c7-4c25-86f0-0895d1538d33/8/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HQGY1ZB9",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.3d3a187e-ae33-416b-bc6b-02cd63444282/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HRNBGJB1",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://a44live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprDYH9Bhpq-bt9A2Zha2FtYWkCeChmaWQ6MDFhMWRmODQtNjNkZi03MzdmLTliYmItZjNiMjJhYWRkMGVkGQE4oQWhAngzLzlrbm9yMWlvOWQvb3V0L3YxLzY5YTcxZGVlNGY5MzRiODc4NjY4YjQxYWY2Y2JiZTg2WCBVdgJ68ZsKR6SR1rgNH9M35rC2oGJxHE3Nalp4ZTLMag/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/9knor1io9d/out/v1/69a71dee4f934b878668b41af6cbbe86/681eeea1-4e83-4371-91b3-b9edf79c51d8-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd"
       },
-      "drm_key": "c8ae324366bf19c30741a7ffe15ff3a0:e6a5361221d68ac2bdca1e666125e8a4"
-    },
-    {
-      "match_id": "B0HPM215Y9",
-      "title": "Nov 15 - PTT Carvoeiro",
-      "synopsis": "Nov 15 - PTT Carvoeiro",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2a19f682-40a7-4072-a9c3-5a036b51468d/11/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HPM215Y9",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprDTukBhpq-XUkA2ZmYXN0bHkCeChmaWQ6MDFhMWRlNzEtOTQ5OS03NjdiLThmOTUtYTIxZTlkMDBmMDFkGQE4oQWhAngzL3VhYWRvMHhvb3cvb3V0L3YxLzIwY2Y0Y2RkZDExNjQ1ZjA5MGE0YWRkZmQyNDA4NGUxWCD4WX2neNM9-pqR2cm8YM3ZsPNz0EhYA-aBH7cz7-p_SA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/uaado0xoow/out/v1/20cf4cddd11645f090a4addfd24084e1/e4610727-3589-40a3-8eb5-e735cb750b44-cenc.mpd"
-      },
-      "drm_key": "e825c50987f53f48f899811a8752d59d:9db9055eda372a25a1addadd1d39205f"
+      "drm_key": "3d872367d3ff927c4abf0198dfeb01d2:47945393588cf479b728df327f3bef53"
     },
     {
       "match_id": "B0HQTZCC6D",
@@ -158,21 +130,32 @@
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
-      "match_id": "B0HP83ZWBB",
-      "title": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe",
-      "synopsis": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe",
+      "match_id": "B0HPM215Y9",
+      "title": "Nov 15 - PTT Carvoeiro",
+      "synopsis": "Nov 15 - PTT Carvoeiro",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.c946453d-7025-4e95-9564-d2a336954242/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HP83ZWBB",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2a19f682-40a7-4072-a9c3-5a036b51468d/11/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HPM215Y9",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uhxc7ciui9/out/v1/3ecf1adf2ffc4f60a298027158f0d283/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uhxc7ciui9/out/v1/3ecf1adf2ffc4f60a298027158f0d283/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uhxc7ciui9/out/v1/3ecf1adf2ffc4f60a298027158f0d283/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uhxc7ciui9/out/v1/3ecf1adf2ffc4f60a298027158f0d283/cenc.mpd"
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprDTukBhpq-XUkA2ZmYXN0bHkCeChmaWQ6MDFhMWRlNzEtOTQ5OS03NjdiLThmOTUtYTIxZTlkMDBmMDFkGQE4oQWhAngzL3VhYWRvMHhvb3cvb3V0L3YxLzIwY2Y0Y2RkZDExNjQ1ZjA5MGE0YWRkZmQyNDA4NGUxWCD4WX2neNM9-pqR2cm8YM3ZsPNz0EhYA-aBH7cz7-p_SA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/uaado0xoow/out/v1/20cf4cddd11645f090a4addfd24084e1/e4610727-3589-40a3-8eb5-e735cb750b44-cenc.mpd"
       },
-      "drm_key": "5c58e89e55b6ca6b7155cc78c8e2300d:949c2c45b7bbfab1d09f7c9bb96e2e4c"
+      "drm_key": "e825c50987f53f48f899811a8752d59d:9db9055eda372a25a1addadd1d39205f"
+    },
+    {
+      "match_id": "B0HQGY1ZB9",
+      "title": "Nov 15 - PTT Boca Raton Men",
+      "synopsis": "Nov 15 - PTT Boca Raton Men",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3b37018a-15c7-4c25-86f0-0895d1538d33/8/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HQGY1ZB9",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a44live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprDYH9Bhpq-bt9A2Zha2FtYWkCeChmaWQ6MDFhMWRmODQtNjNkZi03MzdmLTliYmItZjNiMjJhYWRkMGVkGQE4oQWhAngzLzlrbm9yMWlvOWQvb3V0L3YxLzY5YTcxZGVlNGY5MzRiODc4NjY4YjQxYWY2Y2JiZTg2WCBVdgJ68ZsKR6SR1rgNH9M35rC2oGJxHE3Nalp4ZTLMag/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/9knor1io9d/out/v1/69a71dee4f934b878668b41af6cbbe86/681eeea1-4e83-4371-91b3-b9edf79c51d8-cenc.mpd"
+      },
+      "drm_key": "c8ae324366bf19c30741a7ffe15ff3a0:e6a5361221d68ac2bdca1e666125e8a4"
     },
     {
       "match_id": "B0HPSX4295",
