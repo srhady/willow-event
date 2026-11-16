@@ -1,32 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "09:02 PM 16-11-2026",
+    "LastUpdate": "09:32 PM 16-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 2,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HRDNT68X",
-      "title": "The Morning Drive",
-      "synopsis": "The Morning Drive",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.1a173108-2d2f-4817-b9a4-4d129ee9cf5f/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HRDNT68X",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd"
-      },
-      "drm_key": "e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052"
-    },
     {
       "match_id": "B0HPZWB8SG",
       "title": "Triton Poker Series Cyprus-$25K NLH Titi Poker",
@@ -60,51 +43,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ianwqwv9ok/out/v1/1a443090f90b4b9f8904ba0e6ad44e40/cenc.mpd"
       },
       "drm_key": "6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97"
-    },
-    {
-      "match_id": "B0HQSL9QP7",
-      "title": "Abu Dhabi T10 League 2026 - 22nd Match - Arabian Aces vs United Tigers",
-      "synopsis": "Abu Dhabi T10 League 2026 - 22nd Match - Arabian Aces vs United Tigers",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.6b13f3c3-fa67-4adc-b372-1bb215603e05/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HQSL9QP7",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd"
-      },
-      "drm_key": "8f6af65e6fd5fe9b2fa7510de69e492a:61921d1e73c2f0870d3f3e7d09f8bbb6"
-    },
-    {
-      "match_id": "B0HR5X5M2Y",
-      "title": "Nov 16 - PTT Miami",
-      "synopsis": "Nov 16 - PTT Miami",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ef4b790-e0fa-4bf3-831d-fb81dc200692/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HR5X5M2Y",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprDtN-Bhpq-wz-A2ZmYXN0bHkCeChmaWQ6MDFhMWU0YWEtYzMwYS03MzYwLTk1N2ItZThkOTYyYjMzMDIyGQE4oQWhAngzL3hzcWJua243ZWgvb3V0L3YxL2JmZjU5Njc4ZWY3NjRhZDY4OTY4Yzg1NTQ4NWNiMTlmWCCviMwuehqs3ws_pga8V9gcJ2kjt5zASAaZQpaBjVxPaQ/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/xsqbnkn7eh/out/v1/bff59678ef764ad68968c855485cb19f/6e92b93f-bf1f-4256-a958-2f408facb9fc-cenc.mpd"
-      },
-      "drm_key": "e70d499cbf9e563cd8ff4246201fef81:0c3188512e8849c38a2454f1d7a16bad"
-    },
-    {
-      "match_id": "B0HNMCX16B",
-      "title": "Nov 16 - PTT Carvoeiro",
-      "synopsis": "Nov 16 - PTT Carvoeiro",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4048c610-b79d-44ee-b60b-2c9f9fb759ce/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HNMCX16B",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a150live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprDo0wBhpq-sawA2Zha2FtYWkCeChmaWQ6MDFhMWUzOTgtMjI4OS03MzFjLTk3YTQtNjRjOWUzYWI2MTg3GQE4oQWhAngzL2U4emdybjZ2Yjgvb3V0L3YxL2FjOTY1NDNiM2FlZjRhMmE4YTI3MTgxOGMzZTE0YmY3WCDdr_3YGn1uTPLuSnrckcVxrfu-_w1Igbx-BhFgxcf1Qg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/e8zgrn6vb8/out/v1/ac96543b3aef4a2a8a271818c3e14bf7/c5217b8d-5340-44ac-a3a0-5affe883650f-cenc.mpd"
-      },
-      "drm_key": "26763ddccc65ca7ad4334d321bce6bee:6fddab1478d818fc7d3602877690f36d"
     }
   ]
 }
