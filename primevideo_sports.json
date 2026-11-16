@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "07:32 PM 16-11-2026",
+    "LastUpdate": "08:02 PM 16-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -28,23 +28,6 @@
       "drm_key": "e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052"
     },
     {
-      "match_id": "B0HRNBGJB1",
-      "title": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh",
-      "synopsis": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.3d3a187e-ae33-416b-bc6b-02cd63444282/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HRNBGJB1",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ianwqwv9ok/out/v1/1a443090f90b4b9f8904ba0e6ad44e40/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ianwqwv9ok/out/v1/1a443090f90b4b9f8904ba0e6ad44e40/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ianwqwv9ok/out/v1/1a443090f90b4b9f8904ba0e6ad44e40/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ianwqwv9ok/out/v1/1a443090f90b4b9f8904ba0e6ad44e40/cenc.mpd"
-      },
-      "drm_key": "6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97"
-    },
-    {
       "match_id": "B0HPZWB8SG",
       "title": "Triton Poker Series Cyprus-$25K NLH Titi Poker",
       "synopsis": "Triton Poker Series Cyprus-$25K NLH Titi Poker",
@@ -60,6 +43,23 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd"
       },
       "drm_key": "0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd"
+    },
+    {
+      "match_id": "B0HRNBGJB1",
+      "title": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh",
+      "synopsis": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.3d3a187e-ae33-416b-bc6b-02cd63444282/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HRNBGJB1",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ianwqwv9ok/out/v1/1a443090f90b4b9f8904ba0e6ad44e40/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ianwqwv9ok/out/v1/1a443090f90b4b9f8904ba0e6ad44e40/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ianwqwv9ok/out/v1/1a443090f90b4b9f8904ba0e6ad44e40/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ianwqwv9ok/out/v1/1a443090f90b4b9f8904ba0e6ad44e40/cenc.mpd"
+      },
+      "drm_key": "6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97"
     },
     {
       "match_id": "B0HQSL9QP7",
@@ -79,6 +79,20 @@
       "drm_key": "8f6af65e6fd5fe9b2fa7510de69e492a:61921d1e73c2f0870d3f3e7d09f8bbb6"
     },
     {
+      "match_id": "B0HR5X5M2Y",
+      "title": "Nov 16 - PTT Miami",
+      "synopsis": "Nov 16 - PTT Miami",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ef4b790-e0fa-4bf3-831d-fb81dc200692/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HR5X5M2Y",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprDtN-Bhpq-wz-A2ZmYXN0bHkCeChmaWQ6MDFhMWU0YWEtYzMwYS03MzYwLTk1N2ItZThkOTYyYjMzMDIyGQE4oQWhAngzL3hzcWJua243ZWgvb3V0L3YxL2JmZjU5Njc4ZWY3NjRhZDY4OTY4Yzg1NTQ4NWNiMTlmWCCviMwuehqs3ws_pga8V9gcJ2kjt5zASAaZQpaBjVxPaQ/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/xsqbnkn7eh/out/v1/bff59678ef764ad68968c855485cb19f/6e92b93f-bf1f-4256-a958-2f408facb9fc-cenc.mpd"
+      },
+      "drm_key": "e70d499cbf9e563cd8ff4246201fef81:0c3188512e8849c38a2454f1d7a16bad"
+    },
+    {
       "match_id": "B0HNMCX16B",
       "title": "Nov 16 - PTT Carvoeiro",
       "synopsis": "Nov 16 - PTT Carvoeiro",
@@ -91,23 +105,6 @@
         "Original Server": "https://a150live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprDo0wBhpq-sawA2Zha2FtYWkCeChmaWQ6MDFhMWUzOTgtMjI4OS03MzFjLTk3YTQtNjRjOWUzYWI2MTg3GQE4oQWhAngzL2U4emdybjZ2Yjgvb3V0L3YxL2FjOTY1NDNiM2FlZjRhMmE4YTI3MTgxOGMzZTE0YmY3WCDdr_3YGn1uTPLuSnrckcVxrfu-_w1Igbx-BhFgxcf1Qg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/e8zgrn6vb8/out/v1/ac96543b3aef4a2a8a271818c3e14bf7/c5217b8d-5340-44ac-a3a0-5affe883650f-cenc.mpd"
       },
       "drm_key": "26763ddccc65ca7ad4334d321bce6bee:6fddab1478d818fc7d3602877690f36d"
-    },
-    {
-      "match_id": "B0HP83ZWBB",
-      "title": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe",
-      "synopsis": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.c946453d-7025-4e95-9564-d2a336954242/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HP83ZWBB",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd"
-      },
-      "drm_key": "b6745cf86849992016a18fa701bbe4c7:1868048f6a964c749f14fb2fc26788f4"
     }
   ]
 }
