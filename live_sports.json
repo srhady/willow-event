@@ -1,40 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "06:02 PM 17-11-2026",
+    "LastUpdate": "06:32 PM 17-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 3,
-    "UpcomingCount": 32
+    "LiveCount": 2,
+    "UpcomingCount": 33
   },
   "Matches": [
-    {
-      "match_id": "B0HKZY847Z",
-      "title": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka",
-      "synopsis": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka",
-      "status": "LIVE",
-      "time": "10 AM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5d1b6f08-0201-4db4-96bd-f867f7348b30/6/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKZY847Z?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
-      "is_free": false,
-      "stream_url_alpha": {
-        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd",
-        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd",
-        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd",
-        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd"
-      },
-      "stream_url_bravo": {
-        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd",
-        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd",
-        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd",
-        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd"
-      },
-      "drm_key": "717e39c4207ef6bd6a1a495fb2e3b133:f9f666cac7de2e2d69bd42e8fcd06ad7"
-    },
     {
       "match_id": "B0HP83ZWBB",
       "title": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe",
@@ -42,7 +17,7 @@
       "status": "LIVE",
       "time": "11:30 AM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c946453d-7025-4e95-9564-d2a336954242/7/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HP83ZWBB?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HP83ZWBB?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
       "is_free": false,
       "stream_url_alpha": {
         "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd",
@@ -60,7 +35,7 @@
       "status": "LIVE",
       "time": "1:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3d3a187e-ae33-416b-bc6b-02cd63444282/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HRNBGJB1?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HRNBGJB1?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
       "is_free": false,
       "stream_url_alpha": {
         "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hprkqhtdlv/out/v1/7aa42b34cf6d4ec1b3fa841404c162d6/cenc.mpd",
@@ -78,7 +53,7 @@
       "status": "UPCOMING",
       "time": "Live at 7:45 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c5555a4e-f05d-4ef2-891a-646c93925620/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HN4YZC61?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HN4YZC61?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -90,7 +65,7 @@
       "status": "UPCOMING",
       "time": "Live at 10 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6a63c27-a438-4b01-a58e-153abafd8167/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLLR5WZX?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_5",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLLR5WZX?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -102,7 +77,19 @@
       "status": "UPCOMING",
       "time": "Tomorrow 9:30 AM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0b14e4df-575d-41da-b093-5d743d359eac/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HQ6HNHXB?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_6",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HQ6HNHXB?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_5",
+      "is_free": false,
+      "stream_url_alpha": "",
+      "drm_key": ""
+    },
+    {
+      "match_id": "B0HKZY847Z",
+      "title": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka",
+      "synopsis": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka",
+      "status": "UPCOMING",
+      "time": "Tomorrow 10 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5d1b6f08-0201-4db4-96bd-f867f7348b30/6/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKZY847Z?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_6",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""

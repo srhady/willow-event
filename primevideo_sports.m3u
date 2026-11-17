@@ -1,9 +1,9 @@
 #EXTM3U
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:06:02 PM 17-11-2026
+#LAST_UPDATE:06:32 PM 17-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:6
+#LIVE_COUNT:5
 #UPCOMING_COUNT:0
 
 #EXTINF:-1 tvg-id="B0HPZWB8SG" tvg-name="Triton Poker Series Cyprus-$25K NLH Titi Poker" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.52bd3e5a-937d-408e-9d9f-6a2bd46dcdfd/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Triton Poker Series Cyprus-$25K NLH Titi Poker
@@ -11,33 +11,26 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HRNBGJB1" tvg-name="Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.3d3a187e-ae33-416b-bc6b-02cd63444282/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hprkqhtdlv/out/v1/7aa42b34cf6d4ec1b3fa841404c162d6/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HPZN6W1P" tvg-name="Helsinki-ATP Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.2da80589-1a27-4e3f-bf0b-4f90cfeac0fb/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Helsinki-ATP Early Rounds
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HRNBGJB1" tvg-name="Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.3d3a187e-ae33-416b-bc6b-02cd63444282/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hprkqhtdlv/out/v1/7aa42b34cf6d4ec1b3fa841404c162d6/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HP83ZWBB" tvg-name="Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.c946453d-7025-4e95-9564-d2a336954242/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f780c2f1d5a79df25cbf84c3100ae9db:147c4e675e69a128ed783faf67a5b72c
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HKZY847Z" tvg-name="Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.5d1b6f08-0201-4db4-96bd-f867f7348b30/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=717e39c4207ef6bd6a1a495fb2e3b133:f9f666cac7de2e2d69bd42e8fcd06ad7
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd
 
