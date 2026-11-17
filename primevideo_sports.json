@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "09:32 PM 17-11-2026",
+    "LastUpdate": "10:02 PM 17-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 7,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -60,6 +60,23 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd"
       },
       "drm_key": "0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd"
+    },
+    {
+      "match_id": "B0HLLR5WZX",
+      "title": "Abu Dhabi T10 League 2026 - 25th Match - UAE Bulls vs Royal Desert Champions",
+      "synopsis": "Abu Dhabi T10 League 2026 - 25th Match - UAE Bulls vs Royal Desert Champions",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.e6a63c27-a438-4b01-a58e-153abafd8167/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLLR5WZX",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fehi3mxtqo/out/v1/c7ace340dfab4a1fa798cc693914ddbe/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fehi3mxtqo/out/v1/c7ace340dfab4a1fa798cc693914ddbe/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fehi3mxtqo/out/v1/c7ace340dfab4a1fa798cc693914ddbe/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fehi3mxtqo/out/v1/c7ace340dfab4a1fa798cc693914ddbe/cenc.mpd"
+      },
+      "drm_key": "d57defa12fc43c991a7f82fc57f8212f:915269b352069f2dfa826a64a0905681"
     },
     {
       "match_id": "B0HN4YZC61",
