@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "10:32 AM 17-11-2026",
+    "LastUpdate": "11:02 AM 17-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -10,20 +10,6 @@
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HR7GCTCM",
-      "title": "Nov 16 - PTT Newport Beach",
-      "synopsis": "Nov 16 - PTT Newport Beach",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3359928a-b2ab-4f9e-ab31-21617adddf7b/2/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HR7GCTCM",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprDxnFBhpq-1NFA2ZmYXN0bHkCeChmaWQ6MDFhMWU1YmQtNDY0ZS03MzQzLThkMWEtMmM3ZWExZTRmZWQyGQE4oQWhAngzLzhqandmenRtOHYvb3V0L3YxLzA0ZWI4Nzc5MTRhZjRmYTM5MzI4ODk5NzJhZDhkMjA5WCDFsF9rk1H5KMpDvDXdI4clbPGsHJiCcxmSSkJKOxUfHQ/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/8jjwfztm8v/out/v1/04eb877914af4fa3932889972ad8d209/b397346c-f83b-4f72-a811-55fa00405367-cenc.mpd"
-      },
-      "drm_key": "7232d7f94894ce44e4385cdd7a09314b:b178b4dcfdbb5102ba50d2c7f08029fc"
-    },
     {
       "match_id": "B0HKZY847Z",
       "title": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka",
@@ -40,6 +26,23 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd"
       },
       "drm_key": "717e39c4207ef6bd6a1a495fb2e3b133:f9f666cac7de2e2d69bd42e8fcd06ad7"
+    },
+    {
+      "match_id": "B0HPP7V89M",
+      "title": "Pakistan vs. Sri Lanka",
+      "synopsis": "Pakistan vs. Sri Lanka",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.90f589fa-0f6d-4da0-8502-8290e611c255/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HPP7V89M",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
+      },
+      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     }
   ]
 }
