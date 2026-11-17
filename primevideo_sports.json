@@ -1,32 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "04:02 AM 18-11-2026",
+    "LastUpdate": "04:32 AM 18-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 3,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HNS8499H",
-      "title": "Israel vs. Austria",
-      "synopsis": "Israel vs. Austria",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a81a5468-3e6e-48ba-be1f-4c7259229c3b/3/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HNS8499H",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd"
-      },
-      "drm_key": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681"
-    },
     {
       "match_id": "B0HPZWB8SG",
       "title": "Triton Poker Series Cyprus-$25K NLH Titi Poker",
@@ -74,20 +57,6 @@
         "Original Server": "https://ABAGKOSAAAAAAAAMBY3KMSS43SXZ7.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprEF02Bhpq_Ja2A2pjbG91ZGZyb250AngoZmlkOjAxYTFlYWFjLWI2ZTItNzQ2Ny1hZWZiLTMwMDZmYTFjZGEwNxkBOKEFoQJ4My91eXJ5aWpwbXFoL291dC92MS8wMmFkMjQ2OTBmY2E0MzExODE1MTg0Y2QxOTEwY2YyNlgg-gdwbylWPVeDJoPPMfRxFX3AaVaTrCeOM_zP8QJT9jU/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/uyryijpmqh/out/v1/02ad24690fca4311815184cd1910cf26/efb44ee9-c278-4fcb-b120-4f8e0dd8cd1d-cenc.mpd"
       },
       "drm_key": "8c36d3fe8f85db9c143a249b90912a33:e541013708eac38444356258468f2557"
-    },
-    {
-      "match_id": "B0HPPPS2MS",
-      "title": "Nov 17 - PTT Miami",
-      "synopsis": "Nov 17 - PTT Miami",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f3f66d6b-5cf2-4d39-b7b0-e61e91635136/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HPPPS2MS",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABBI47FAAAAAAAAME2ROLSC2RSLT4.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprEDMRBhpq_GyRA2pjbG91ZGZyb250AngoZmlkOjAxYTFlYTA4LTE5MzctNzFlZi05ZTQ1LWYyN2IyNDM2Y2Q1MhkBOKEFoQJ4My96MWQxcGRzcmVsL291dC92MS9hYTE4MTlmNTFjZDk0ODA2ODQ2OGYyMDZmNzVjYTkyZVggQIcgup-Ug5gmxjE1uDIHRWYImPa-eFQ31LzZWm6XJOA/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/z1d1pdsrel/out/v1/aa1819f51cd948068468f206f75ca92e/b8819794-2f1f-4e4d-9868-6e5e8045094a-cenc.mpd"
-      },
-      "drm_key": "cb7c3d3edc4ae30fb9eac49d6b700e9d:225ecd04fb64f165238ab90a506ff336"
     }
   ]
 }
