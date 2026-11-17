@@ -1,32 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "11:32 PM 17-11-2026",
+    "LastUpdate": "12:02 AM 18-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 6,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HNG5W996",
-      "title": "ECHL Hockey: Adirondack Thunder vs Reading Royals",
-      "synopsis": "ECHL Hockey: Adirondack Thunder vs Reading Royals",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.993500ba-07e1-4385-9d82-4f0a24c48ff5/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HNG5W996",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd"
-      },
-      "drm_key": "b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9"
-    },
     {
       "match_id": "B0HPZWB8SG",
       "title": "Triton Poker Series Cyprus-$25K NLH Titi Poker",
@@ -45,6 +28,23 @@
       "drm_key": "0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd"
     },
     {
+      "match_id": "B0HNG5W996",
+      "title": "ECHL Hockey: Adirondack Thunder vs Reading Royals",
+      "synopsis": "ECHL Hockey: Adirondack Thunder vs Reading Royals",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.993500ba-07e1-4385-9d82-4f0a24c48ff5/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HNG5W996",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd"
+      },
+      "drm_key": "b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9"
+    },
+    {
       "match_id": "B0HPZN6W1P",
       "title": "Helsinki-ATP Early Rounds",
       "synopsis": "Helsinki-ATP Early Rounds",
@@ -60,6 +60,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd"
       },
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
+    },
+    {
+      "match_id": "B0HP8L7K94",
+      "title": "Nov 17 - PTT Newport Beach",
+      "synopsis": "Nov 17 - PTT Newport Beach",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.595fef3e-504a-45df-85b1-618052f8db80/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HP8L7K94",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABAGKOSAAAAAAAAMBY3KMSS43SXZ7.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprEF02Bhpq_Ja2A2pjbG91ZGZyb250AngoZmlkOjAxYTFlYWFjLWI2ZTItNzQ2Ny1hZWZiLTMwMDZmYTFjZGEwNxkBOKEFoQJ4My91eXJ5aWpwbXFoL291dC92MS8wMmFkMjQ2OTBmY2E0MzExODE1MTg0Y2QxOTEwY2YyNlgg-gdwbylWPVeDJoPPMfRxFX3AaVaTrCeOM_zP8QJT9jU/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/uyryijpmqh/out/v1/02ad24690fca4311815184cd1910cf26/efb44ee9-c278-4fcb-b120-4f8e0dd8cd1d-cenc.mpd"
+      },
+      "drm_key": "8c36d3fe8f85db9c143a249b90912a33:e541013708eac38444356258468f2557"
     },
     {
       "match_id": "B0HLLR5WZX",
