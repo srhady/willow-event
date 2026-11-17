@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "03:32 PM 17-11-2026",
+    "LastUpdate": "04:02 PM 17-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -79,6 +79,20 @@
       "drm_key": "82ea980c6b72eb9d845d3bb239330c30:e205798bb1646f1e0ab0ee3459b084bf"
     },
     {
+      "match_id": "B0HR9JCRL2",
+      "title": "Nov 17 - PTT Carvoeiro",
+      "synopsis": "Nov 17 - PTT Carvoeiro",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.943d9e01-f784-4cb8-8343-d3611c4aabd0/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HR9JCRL2",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprD96qBhpq_BgqA2ZmYXN0bHkCeChmaWQ6MDFhMWU4YmUtNjYyMy03NjE3LThlNTktMTYzMGI3NTY4MTFiGQE4oQWhAngzL2F1dG8ybHh3aWEvb3V0L3YxLzY5YTY5YjUyZGNmZTRiNzZiMGM1NmUzNmFjNWVkNzBhWCAllZjUae2ohs-j23bt0r7OhJd9_vI8D84JUNssSJDqPw/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/auto2lxwia/out/v1/69a69b52dcfe4b76b0c56e36ac5ed70a/23ab0009-66fe-4225-ac32-3612c42c38ad-cenc.mpd"
+      },
+      "drm_key": "b0c4cd99f74b734e672c77cf0f30c12a:020b9405c49c71429f40b6c5a5014681"
+    },
+    {
       "match_id": "B0HP83ZWBB",
       "title": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe",
       "synopsis": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe",
@@ -94,20 +108,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd"
       },
       "drm_key": "f780c2f1d5a79df25cbf84c3100ae9db:147c4e675e69a128ed783faf67a5b72c"
-    },
-    {
-      "match_id": "B0HR9JCRL2",
-      "title": "Nov 17 - PTT Carvoeiro",
-      "synopsis": "Nov 17 - PTT Carvoeiro",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.943d9e01-f784-4cb8-8343-d3611c4aabd0/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HR9JCRL2",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprD96qBhpq_BgqA2ZmYXN0bHkCeChmaWQ6MDFhMWU4YmUtNjYyMy03NjE3LThlNTktMTYzMGI3NTY4MTFiGQE4oQWhAngzL2F1dG8ybHh3aWEvb3V0L3YxLzY5YTY5YjUyZGNmZTRiNzZiMGM1NmUzNmFjNWVkNzBhWCAllZjUae2ohs-j23bt0r7OhJd9_vI8D84JUNssSJDqPw/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/auto2lxwia/out/v1/69a69b52dcfe4b76b0c56e36ac5ed70a/23ab0009-66fe-4225-ac32-3612c42c38ad-cenc.mpd"
-      },
-      "drm_key": "b0c4cd99f74b734e672c77cf0f30c12a:020b9405c49c71429f40b6c5a5014681"
     }
   ]
 }
