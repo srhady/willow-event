@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "02:32 PM 18-11-2026",
+    "LastUpdate": "03:02 PM 18-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 3,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -60,6 +60,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w6dgdlcx03/out/v1/04ed50f3a2eb429b87ed5d70b737dd46/cenc.mpd"
       },
       "drm_key": "a368bc0596cc6975605701aa79d01f3c:d514a032036589c2a3e4ea2d958793a3"
+    },
+    {
+      "match_id": "B0HPB95BJB",
+      "title": "Nov 18 - PTT Carvoeiro",
+      "synopsis": "Nov 18 - PTT Carvoeiro",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d38f64df-3389-4d32-8aff-04c8f27c1296/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HPB95BJB",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprETAlBhpq_WmlA2ZmYXN0bHkCeChmaWQ6MDFhMWVkZTQtYWQyNC03NDBkLTg5Y2MtODZlMjFjNWUzMGM1GQE4oQWhAngzL2l6aDRxZWhwdjgvb3V0L3YxL2E2NmYyYTIyM2IzNzQ2YzNhYWFkMjk1OWRmNThiNzBlWCD5oE3T08aigk632gRy4Qp69fga5upnvK7CcBIrjrFFgg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/izh4qehpv8/out/v1/a66f2a223b3746c3aaad2959df58b70e/b8b3810d-9ad7-4a56-be66-134f9f887b23-cenc.mpd"
+      },
+      "drm_key": "c19856aab6ddf4c27c9fd42910ae5301:3c9e7201b1461a540c0010b52041fc0a"
     }
   ]
 }
