@@ -1,15 +1,32 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "04:32 PM 19-11-2026",
+    "LastUpdate": "05:02 PM 19-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 7,
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HR32C9YZ",
+      "title": "China Open, Day 1",
+      "synopsis": "China Open, Day 1",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.260d42c4-9939-4600-895a-32e85ef0ae21/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HR32C9YZ",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd"
+      },
+      "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
+    },
     {
       "match_id": "B0HG68HFDV",
       "title": "Brisbane Heat vs. Sydney Thunder",
@@ -28,21 +45,21 @@
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
-      "match_id": "B0HRNBGJB1",
-      "title": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh",
-      "synopsis": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh",
+      "match_id": "B0HQNL2P2K",
+      "title": "Abu Dhabi T10 League 2026 - 28th Match  - UAE Bulls vs Arabian Aces",
+      "synopsis": "Abu Dhabi T10 League 2026 - 28th Match  - UAE Bulls vs Arabian Aces",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.3d3a187e-ae33-416b-bc6b-02cd63444282/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HRNBGJB1",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.69a230be-4b99-4376-aeb2-5bcb4a081c3f/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HQNL2P2K",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sibenka6zx/out/v1/a813485385a34d57a9d1b60430370533/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sibenka6zx/out/v1/a813485385a34d57a9d1b60430370533/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/sibenka6zx/out/v1/a813485385a34d57a9d1b60430370533/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/sibenka6zx/out/v1/a813485385a34d57a9d1b60430370533/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oxdfwbm9bd/out/v1/58ee6ff8cf414cd0ac3bf08b8859d811/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oxdfwbm9bd/out/v1/58ee6ff8cf414cd0ac3bf08b8859d811/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oxdfwbm9bd/out/v1/58ee6ff8cf414cd0ac3bf08b8859d811/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oxdfwbm9bd/out/v1/58ee6ff8cf414cd0ac3bf08b8859d811/cenc.mpd"
       },
-      "drm_key": "ade0d3679d401d18ec4c96eb65344148:a7a659a01bf2ec21e1c406ae96dc5298"
+      "drm_key": "b51f981b4a44e1b874a7958276b765d6:bc42638f3ec4d015524143a6d40ebfd5"
     },
     {
       "match_id": "B0HKZY847Z",
