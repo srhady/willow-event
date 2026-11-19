@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "03:02 AM 20-11-2026",
+    "LastUpdate": "03:32 AM 20-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -79,6 +79,23 @@
       "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
     },
     {
+      "match_id": "B0HM4ZHT1F",
+      "title": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India",
+      "synopsis": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.04f62072-bc1e-42be-b0f9-2370ad69f513/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HM4ZHT1F",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd"
+      },
+      "drm_key": "766c7943cfc3e9d982ff49ca5e16bb90:f715c4b43971ca6990af7eff70f021b0"
+    },
+    {
       "match_id": "B0HQZGZPXY",
       "title": "PPA Tour: Daytona Beach Open-Round of 16",
       "synopsis": "PPA Tour: Daytona Beach Open-Round of 16",
@@ -122,20 +139,6 @@
         "Original Server": "https://ABBJKE5AAAAAAAAMDKWXQLOMCAHKE.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprEw5IBhpq_0fIA2pjbG91ZGZyb250AngoZmlkOjAxYTFmNTMwLTY3NjktNzIzMi04NmJlLWI1NWFhNDJmNmZlYhkBOKEFoQJ4My9oZHNhZXFzOTU4L291dC92MS9hMGIzNTdkZmM0NWQ0YWZmOGUwMzQ0NWNiN2U2MjEyMlgg6zJJFp0FAlF-04ztISZY7zx38ctAAeFyORdGrR5-TSY/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/hdsaeqs958/out/v1/a0b357dfc45d4aff8e03445cb7e62122/d9b386f6-f3f6-406f-b268-b4e5ffb7af8d-cenc.mpd"
       },
       "drm_key": "ddc07fe1c42d94df2cb848219c625bfa:a38b911535dbecaba54a96a5e32b43a5"
-    },
-    {
-      "match_id": "B0HKM8WCKB",
-      "title": "Nov 19 - PTT Carvoeiro",
-      "synopsis": "Nov 19 - PTT Carvoeiro",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9b12a77f-34ea-4f44-ba37-02c81b775168/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKM8WCKB",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprEoGsBhpq_rssA2ZmYXN0bHkCeChmaWQ6MDFhMWYzMGItMjQzYy03NGYzLTlkNWQtZmRlMmQwNjVhYTNkGQE4oQWhAngzL2Z1ZjE1a2pjZTAvb3V0L3YxLzBjMjAxNmQ0OTAxMjQwNmNhY2I2NGI3Y2U1MDY0ZjRkWCA4jEhaesaDQ2FmhPoNY7QwfWxP_CZsC2pGEqW3RgOp0g/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/fuf15kjce0/out/v1/0c2016d49012406cacb64b7ce5064f4d/5ece0b35-1bf1-495f-8ad7-5fc7781ddc59-cenc.mpd"
-      },
-      "drm_key": "73419abfc971a79f828bb9a976745f50:56b17106bbd81bf17be6928ddb26b93e"
     }
   ]
 }
