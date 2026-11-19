@@ -1,29 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "02:32 PM 19-11-2026",
+    "LastUpdate": "03:02 PM 19-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 7,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HKB1MGK8",
-      "title": "F1 Weekend Warm-Up",
-      "synopsis": "F1 Weekend Warm-Up",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.f89845de-d3dc-467a-a66d-70e174a2bae8/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKB1MGK8",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a65live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprEnqmBhpq_rQmA2Zha2FtYWkCeChmaWQ6MDFhMWYyZWYtYjYxZS03N2UwLThkZWQtZTI3YTE1Nzc1OGYxGQE4oQWhAngzL2Mzb3IwY2ZwZzUvb3V0L3YxLzgwZmM1ZTE1NTdiODRkMGNhYzU4MjA2M2IzZjY5ODIyWCA3PfxyaQlmhSM5igiN6Hq-qLK7BD3usa9Z1Ty-PnS1bw/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/c3or0cfpg5/out/v1/80fc5e1557b84d0cac582063b3f69822/8022310c-4d34-42cd-87b3-c49f9584493a-cenc.mpd"
-      },
-      "drm_key": "652da2eae8bbc3406f4e592500d3b441:47c0fff66150bb1c77b743b8f47271b1"
-    },
     {
       "match_id": "B0HKZY847Z",
       "title": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka",
@@ -40,6 +26,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/aswpco86fq/out/v1/4e6a45a7f0b14c7dad7c57d03b80b638/cenc.mpd"
       },
       "drm_key": "15bb136e7ac737c7f35172fe6703b695:8fa933ee92c1e8d1f5d2855152d784f2"
+    },
+    {
+      "match_id": "B0HKB1MGK8",
+      "title": "F1 Weekend Warm-Up",
+      "synopsis": "F1 Weekend Warm-Up",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.f89845de-d3dc-467a-a66d-70e174a2bae8/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKB1MGK8",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a65live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprEnqmBhpq_rQmA2Zha2FtYWkCeChmaWQ6MDFhMWYyZWYtYjYxZS03N2UwLThkZWQtZTI3YTE1Nzc1OGYxGQE4oQWhAngzL2Mzb3IwY2ZwZzUvb3V0L3YxLzgwZmM1ZTE1NTdiODRkMGNhYzU4MjA2M2IzZjY5ODIyWCA3PfxyaQlmhSM5igiN6Hq-qLK7BD3usa9Z1Ty-PnS1bw/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/c3or0cfpg5/out/v1/80fc5e1557b84d0cac582063b3f69822/8022310c-4d34-42cd-87b3-c49f9584493a-cenc.mpd"
+      },
+      "drm_key": "652da2eae8bbc3406f4e592500d3b441:47c0fff66150bb1c77b743b8f47271b1"
     },
     {
       "match_id": "B0HRNBGJB1",
@@ -91,6 +91,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ayg6j8yw1b/out/v1/e02856592bc44834b4edda32878b485a/cenc.mpd"
       },
       "drm_key": "b06dc5848ef623a1ed1bc7c2900007d9:d62ffeb4061bb0bd7f11164761ea694a"
+    },
+    {
+      "match_id": "B0HKM8WCKB",
+      "title": "Nov 19 - PTT Carvoeiro",
+      "synopsis": "Nov 19 - PTT Carvoeiro",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9b12a77f-34ea-4f44-ba37-02c81b775168/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKM8WCKB",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprEoGsBhpq_rssA2ZmYXN0bHkCeChmaWQ6MDFhMWYzMGItMjQzYy03NGYzLTlkNWQtZmRlMmQwNjVhYTNkGQE4oQWhAngzL2Z1ZjE1a2pjZTAvb3V0L3YxLzBjMjAxNmQ0OTAxMjQwNmNhY2I2NGI3Y2U1MDY0ZjRkWCA4jEhaesaDQ2FmhPoNY7QwfWxP_CZsC2pGEqW3RgOp0g/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/fuf15kjce0/out/v1/0c2016d49012406cacb64b7ce5064f4d/5ece0b35-1bf1-495f-8ad7-5fc7781ddc59-cenc.mpd"
+      },
+      "drm_key": "73419abfc971a79f828bb9a976745f50:56b17106bbd81bf17be6928ddb26b93e"
     },
     {
       "match_id": "B0HN8QF19X",
