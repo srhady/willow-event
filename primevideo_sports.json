@@ -1,32 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "02:32 PM 20-11-2026",
+    "LastUpdate": "03:02 PM 20-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HQK91B9K",
-      "title": "Pakistan Shaheens vs. United Arab Emirates",
-      "synopsis": "Pakistan Shaheens vs. United Arab Emirates",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.15656f07-ab48-4ea7-9b90-315c61484b3e/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HQK91B9K",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
-      },
-      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-    },
     {
       "match_id": "B0HPDG1B92",
       "title": "Adelaide Strikers vs. Melbourne Renegades",
@@ -43,6 +26,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
       },
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
+      "match_id": "B0HKWFGD39",
+      "title": "Repsol Grand Prix of Portugal, Free Practice 1",
+      "synopsis": "Repsol Grand Prix of Portugal, Free Practice 1",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.af071085-d836-42be-9c2a-1180d68895db/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKWFGD39",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a110live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprE9MlBhprAAylA2Zha2FtYWkCeChmaWQ6MDFhMWY4MzEtNjU2ZC03MDUxLWJhOGQtMmYyYmU1ZGEyMmEwGQE4oQWhAngzL2w1ZWNweXhveWMvb3V0L3YxLzgxOTdjOGUwNTVjOTRhODY4NjIzNjUzYWM1NWMxMGJmWCC5XbdnLDm9H34miEptgfc0mlAkfSYaJRNVcvdaVba2mA/IAD/ecb5167adc48418f9e275a06ed14a1f9/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_iad_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/l5ecpyxoyc/out/v1/8197c8e055c94a868623653ac55c10bf/acb23d4d-d8e6-4d85-a56e-96f38b7d2674-cenc.mpd?aws.sessionId=615255fd-20e0-474a-a8f5-84d4ff9ada4c"
+      },
+      "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
     },
     {
       "match_id": "B0HML8LTDL",
@@ -77,6 +74,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/7swiykissa/out/v1/c2fd1d13622f41d89738e5e52fa874df/cenc.mpd"
       },
       "drm_key": "4db2612086ed985ae029fe71a3b56439:a7e45930ba4fbcf51cb12522ac433ca1"
+    },
+    {
+      "match_id": "B0HR5XGB85",
+      "title": "Nov 20 - PTT Carvoeiro",
+      "synopsis": "Nov 20 - PTT Carvoeiro",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36831945-cd69-44a1-b936-fc2b87cf30ee/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HR5XGB85",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a99live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprE9MmBhprAAymA2Zha2FtYWkCeChmaWQ6MDFhMWY4MzEtNmExNy03NzJmLWIyZTYtYjZlYTQxNGY4NGYyGQE4oQWhAngzL3NmaHJwejV2bTcvb3V0L3YxLzg1MGQzZmMzZDhmYjQzNWNhNThjMmE1ZmU2YWQzZGMyWCCJwAWVxb0H-qPa6lJQv8xatHyMypCOeGUXpY4lFhRbrQ/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/sfhrpz5vm7/out/v1/850d3fc3d8fb435ca58c2a5fe6ad3dc2/931ae608-2ef6-467a-8450-1fecf64239e2-cenc.mpd"
+      },
+      "drm_key": "32a699e91dc255c470f2cdcb366b9843:5ac87a7752a12b3236d0bd7cf6580010"
     }
   ]
 }
