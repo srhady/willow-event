@@ -1,28 +1,31 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "07:32 AM 20-11-2026",
+    "LastUpdate": "08:02 AM 20-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 7,
+    "LiveCount": 6,
     "UpcomingCount": 0
   },
   "Matches": [
     {
-      "match_id": "B0HLTCJB9P",
-      "title": "Las Vegas: Practice 1",
-      "synopsis": "Las Vegas: Practice 1",
+      "match_id": "B0HM4ZHT1F",
+      "title": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India",
+      "synopsis": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.0a6f72b8-06d9-491e-bc02-856f1e9dc700/11/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLTCJB9P",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.04f62072-bc1e-42be-b0f9-2370ad69f513/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HM4ZHT1F",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://ABKZV6YAAAAAAAAMAV6XFCLC3QBLB.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprE1uiBhpq_5UiA2pjbG91ZGZyb250AngoZmlkOjAxYTFmNjVlLThkZDUtNzAyNS05MzA4LTE0ZWY0ZmNmYzg0ZRkBOKEFoQJ4My9wY25jenBwdW94L291dC92MS9mODVhOGZhNjA5NmY0MGFiOTViMWUzMjVkMDkxNDFiYlggeAojrrlzFdVRcfla1m8V4kfHtzB2Pci8uhymGOTsYQ4/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/pcnczppuox/out/v1/f85a8fa6096f40ab95b1e325d09141bb/c6b24e38-f921-4c40-8895-d9e031ca0b45-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd"
       },
-      "drm_key": "bfd1d7610474376e360797c2a512ea35:65d0685e8f31f2d5cfab6351aee5f700"
+      "drm_key": "766c7943cfc3e9d982ff49ca5e16bb90:f715c4b43971ca6990af7eff70f021b0"
     },
     {
       "match_id": "B0HLKBBZ6F",
@@ -42,35 +45,35 @@
       "drm_key": "b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9"
     },
     {
-      "match_id": "B0H86YHKJQ",
-      "title": "Las Vegas: Practice 1 (Sky Sports)",
-      "synopsis": "Las Vegas: Practice 1 (Sky Sports)",
+      "match_id": "B0HP1VHNK5",
+      "title": "Gonzaga at Washington State",
+      "synopsis": "Gonzaga at Washington State",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.f9b846e2-4cdd-4fdd-9ddf-986c62ec0926/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H86YHKJQ",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.5c331594-ea9e-496c-9378-5bcff10b0238/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HP1VHNK5",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprE1SWBhpq_44WA2ZmYXN0bHkCeChmaWQ6MDFhMWY2NDMtMDg3OC03MWU1LTlkZTItNmU3NjlmY2VjOWQxGQE4oQWhAngzL3Q1b3g4dHdkNDIvb3V0L3YxLzU3MDk2YTZjMGNhMTRjZjY4OTRkMTJmYzkyMmZhNDY3WCCluGzmoOY0U-YI5q2z_wKBTXYWm8JmwtlHM7umiLP0bw/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/t5ox8twd42/out/v1/57096a6c0ca14cf6894d12fc922fa467/21482492-6968-490c-a4b7-76eabcbbf785-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd"
       },
-      "drm_key": "4fa00240132d78dc3ea13d9eed72ee7a:d64dcd476e237783574f96b344f0e4ba"
+      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
     },
     {
-      "match_id": "B0HM4ZHT1F",
-      "title": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India",
-      "synopsis": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India",
+      "match_id": "B0HS5227B8",
+      "title": "F1 Academy-2026: Las Vegas, Practice",
+      "synopsis": "F1 Academy-2026: Las Vegas, Practice",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.04f62072-bc1e-42be-b0f9-2370ad69f513/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HM4ZHT1F",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.b52b8681-75ba-401c-90e8-65a12406fd8c/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HS5227B8",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd"
+        "Original Server": "https://ABBIUDPAAAAAAAAMCOT6WODVYOFEI.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprE3C5Bhpq_6o5A2pjbG91ZGZyb250AngoZmlkOjAxYTFmNmIwLWVmYWEtNzBmZS05NDRjLWFiZDYwODhkN2RhZBkBOKEFoQJ4My9naTAxc3dmZzhjL291dC92MS8wOTc3MzMzYzZmNmI0MmFlYjhkZjE4ZGUwOGY1NTg2Zlggu86LGT20EFH_bLwTAn5cqnQMNwXqTIBcKiilHPt-JDU/IAD/0f079559b0dd4beeaad6dcff84ba48fb/v1/dash/159325541587/imdb_amagi_amzn1_dv_live_csid_83a10cd1-8e37-4ec7-845f-bfa744c7c933_us-east-1_iad_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/gi01swfg8c/out/v1/0977333c6f6b42aeb8df18de08f5586f/cc32f158-1f97-4315-b64e-0c4d6409ec52-cenc.mpd?aws.sessionId=1fe29d4b-3726-414e-b05a-3fc11fb6864c"
       },
-      "drm_key": "766c7943cfc3e9d982ff49ca5e16bb90:f715c4b43971ca6990af7eff70f021b0"
+      "drm_key": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3"
     },
     {
       "match_id": "B0HKK6QFKF",
@@ -102,20 +105,6 @@
         "Original Server": "https://ABBJKE5AAAAAAAAMDKWXQLOMCAHKE.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprEw5IBhpq_0fIA2pjbG91ZGZyb250AngoZmlkOjAxYTFmNTMwLTY3NjktNzIzMi04NmJlLWI1NWFhNDJmNmZlYhkBOKEFoQJ4My9oZHNhZXFzOTU4L291dC92MS9hMGIzNTdkZmM0NWQ0YWZmOGUwMzQ0NWNiN2U2MjEyMlgg6zJJFp0FAlF-04ztISZY7zx38ctAAeFyORdGrR5-TSY/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/hdsaeqs958/out/v1/a0b357dfc45d4aff8e03445cb7e62122/d9b386f6-f3f6-406f-b268-b4e5ffb7af8d-cenc.mpd"
       },
       "drm_key": "ddc07fe1c42d94df2cb848219c625bfa:a38b911535dbecaba54a96a5e32b43a5"
-    },
-    {
-      "match_id": "B0HQX6LD4D",
-      "title": "Nov 19 - PTT Miami",
-      "synopsis": "Nov 19 - PTT Miami",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ed8eac37-e237-4248-891b-8510f2f10de1/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HQX6LD4D",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABAGKOSAAAAAAAAMH6Y5FGXXXNVD6.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprEsf4Bhpq_wF4A2pjbG91ZGZyb250AngoZmlkOjAxYTFmNDFkLWJlZmUtNzA2ZS05Y2NmLTViZjU4ZGI5MmMxMhkBOKEFoQJ4My96d2ZjdG16cDZhL291dC92MS8zZTZmOTZkNGM0NGE0ZjQ2YjM1ZDk4N2VjNzExYTlmYVggZpNbSmePydwwopqwEBvQVSPQXEgNbrrw5MMqkwy38Oo/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/zwfctmzp6a/out/v1/3e6f96d4c44a4f46b35d987ec711a9fa/40cd4716-b814-45b1-a317-1066919093b2-cenc.mpd"
-      },
-      "drm_key": "1b4b81f521050b59723ec3b848049954:379cd5baf46bfa8876fb5ea08fb3ecd9"
     }
   ]
 }
