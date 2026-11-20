@@ -1,32 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "05:02 AM 21-11-2026",
+    "LastUpdate": "05:32 AM 21-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HM4ZHT1F",
-      "title": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India",
-      "synopsis": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.04f62072-bc1e-42be-b0f9-2370ad69f513/9/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HM4ZHT1F",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/roxefgx3by/out/v1/626d780fa151471cab6d83b9fcb731e8/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/roxefgx3by/out/v1/626d780fa151471cab6d83b9fcb731e8/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/roxefgx3by/out/v1/626d780fa151471cab6d83b9fcb731e8/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/roxefgx3by/out/v1/626d780fa151471cab6d83b9fcb731e8/cenc.mpd"
-      },
-      "drm_key": "a478f5af8b826d44778571031c84e257:ceabaa285b51b50a60cf5240715a6f28"
-    },
     {
       "match_id": "B0HQQTY48K",
       "title": "Amari Jones vs. DeAundre Pettus",
@@ -62,6 +45,23 @@
       "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
     },
     {
+      "match_id": "B0HM4ZHT1F",
+      "title": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India",
+      "synopsis": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.04f62072-bc1e-42be-b0f9-2370ad69f513/9/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HM4ZHT1F",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/roxefgx3by/out/v1/626d780fa151471cab6d83b9fcb731e8/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/roxefgx3by/out/v1/626d780fa151471cab6d83b9fcb731e8/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/roxefgx3by/out/v1/626d780fa151471cab6d83b9fcb731e8/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/roxefgx3by/out/v1/626d780fa151471cab6d83b9fcb731e8/cenc.mpd"
+      },
+      "drm_key": "a478f5af8b826d44778571031c84e257:ceabaa285b51b50a60cf5240715a6f28"
+    },
+    {
       "match_id": "B0HJLCBWN4",
       "title": "PPA Tour: Daytona Beach Open-Quarterfinals",
       "synopsis": "PPA Tour: Daytona Beach Open-Quarterfinals",
@@ -91,20 +91,6 @@
         "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprFF_GBhprAJlGA2ZmYXN0bHkCeChmaWQ6MDFhMWZhNTYtYmE1Yi03NDA4LWI5ZDctOWJlMGNiZmMwZGE0GQE4oQWhAngzL3Y1dXd1MzczbnAvb3V0L3YxLzVjOTYyYzQwYWZmZjRlZDE4N2RhNWM1NGYzYjdjYmIzWCAdGvt5XGzEMAHEftX2meDHREg8rfEP8pcLV0cnNMpTIg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/v5uwu373np/out/v1/5c962c40afff4ed187da5c54f3b7cbb3/8bb764ea-393e-4d0c-9a7b-f3f39ebde4f3-cenc.mpd"
       },
       "drm_key": "6a08b7e0075dc04474b2f0c6be2bb75e:4ed87a2d21e92e98f7ec458ee496f8cf"
-    },
-    {
-      "match_id": "B0HRDJ7X81",
-      "title": "Nov 20 - PTT Miami",
-      "synopsis": "Nov 20 - PTT Miami",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5bd3aacb-7844-4b29-9a77-612920a500cc/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HRDJ7X81",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a146live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprFBl0BhprAFL0A2Zha2FtYWkCeChmaWQ6MDFhMWY5NDQtMDljNS03NjJhLWIwOGUtOTliODRiMzU3NGUxGQE4oQWhAngzL2FmdmN3bWl6dGEvb3V0L3YxLzIyZWI4OTJkZWNjZjQzZGNiYjczOGM1N2IwZjliZjJmWCDERqkE8scUCTQmWI7NMn4TPQpfFLGHEdaivPguTfSTXw/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/afvcwmizta/out/v1/22eb892deccf43dcbb738c57b0f9bf2f/a3af1ab2-5b91-4756-84b5-c3c493ba2bb7-cenc.mpd"
-      },
-      "drm_key": "3d4300e223fb6185be88e5b1f3b9d6ff:f285a3559948ae9bbfeaf18caef4423b"
     }
   ]
 }
