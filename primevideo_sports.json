@@ -1,15 +1,43 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "09:32 AM 20-11-2026",
+    "LastUpdate": "10:02 AM 20-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 3,
+    "LiveCount": 6,
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HLFW8PYG",
+      "title": "Las Vegas: Practice 2",
+      "synopsis": "Las Vegas: Practice 2",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.28a0cc00-6041-48dd-9f2a-b069ee3a749d/9/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLFW8PYG",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABAGKOSAAAAAAAAMGINA7JL2HYYEU.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprE4zeBhpq_8ZeA2pjbG91ZGZyb250AngoZmlkOjAxYTFmNzFlLWRmYzEtNzNiOC05Y2VjLThjMjkwNTYxYjAxZhkBOKEFoQJ4My96dDBpczF5YmY4L291dC92MS82MjY2NDk2MGExYTE0YTQ4YThhMDNkYWU4OWFjMWE2OVggBRE0bSNyhvdjrYNOWwmgRGii4Xj12z3otohCdky5_hM/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/zt0is1ybf8/out/v1/62664960a1a14a48a8a03dae89ac1a69/dff21685-4d40-450b-83a9-f7a6813effe7-cenc.mpd"
+      },
+      "drm_key": "3585d2da333bafbbef3b1dfc3e651f5b:ae3fd7032fa32b8dabf83b31376be161"
+    },
+    {
+      "match_id": "B0HFS3KPGQ",
+      "title": "Las Vegas: Practice 2 (Sky Sports)",
+      "synopsis": "Las Vegas: Practice 2 (Sky Sports)",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.df67f9fa-5aac-4ac7-b1a9-b53774d80db6/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFS3KPGQ",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprE4zeBhpq_8ZeA2ZmYXN0bHkCeChmaWQ6MDFhMWY3MWUtZTI0Zi03NTAyLTllOWMtOWJlMGY0NThiNzlkGQE4oQWhAngzL3lib2MyaGloNGEvb3V0L3YxLzAzNWViMDM5ZjA5NTQ4MTZhZDZlYmEzOTdkYzQyNjgxWCB3auswv5cTM7UTp08UMGphh8d9nNKYjxEXkxD16zREmg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/yboc2hih4a/out/v1/035eb039f0954816ad6eba397dc42681/eff6044d-d74d-47c8-bbf6-a13b9104e249-cenc.mpd"
+      },
+      "drm_key": "eae0e351bbf701756b7f493bd84d33a7:34abbba2c0d101a7d30635602cd69b3d"
+    },
     {
       "match_id": "B0HM4ZHT1F",
       "title": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India",
@@ -57,6 +85,23 @@
         "Original Server": "https://ABBJKE5AAAAAAAAMDKWXQLOMCAHKE.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprEw5IBhpq_0fIA2pjbG91ZGZyb250AngoZmlkOjAxYTFmNTMwLTY3NjktNzIzMi04NmJlLWI1NWFhNDJmNmZlYhkBOKEFoQJ4My9oZHNhZXFzOTU4L291dC92MS9hMGIzNTdkZmM0NWQ0YWZmOGUwMzQ0NWNiN2U2MjEyMlgg6zJJFp0FAlF-04ztISZY7zx38ctAAeFyORdGrR5-TSY/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/hdsaeqs958/out/v1/a0b357dfc45d4aff8e03445cb7e62122/d9b386f6-f3f6-406f-b268-b4e5ffb7af8d-cenc.mpd"
       },
       "drm_key": "ddc07fe1c42d94df2cb848219c625bfa:a38b911535dbecaba54a96a5e32b43a5"
+    },
+    {
+      "match_id": "B0HKZY847Z",
+      "title": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka",
+      "synopsis": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.5d1b6f08-0201-4db4-96bd-f867f7348b30/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKZY847Z",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pd55oxz1mc/out/v1/c546a7bbf34a4a5d8f10c9718ef5ea15/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pd55oxz1mc/out/v1/c546a7bbf34a4a5d8f10c9718ef5ea15/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pd55oxz1mc/out/v1/c546a7bbf34a4a5d8f10c9718ef5ea15/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pd55oxz1mc/out/v1/c546a7bbf34a4a5d8f10c9718ef5ea15/cenc.mpd"
+      },
+      "drm_key": "d129d1272d5a71f72a74839d021c46a6:b357d476f2f374c66dff8fa650df717b"
     }
   ]
 }
