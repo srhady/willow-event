@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "09:02 PM 20-11-2026",
+    "LastUpdate": "09:32 PM 20-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -26,6 +26,40 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/glqgccsvmt/out/v1/fe4f9d2a0a86421c8f497c1fefed9fea/cenc.mpd"
       },
       "drm_key": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d"
+    },
+    {
+      "match_id": "B0HPNXLKT1",
+      "title": "Triton Poker Series Cyprus-$200K Triton Invitational",
+      "synopsis": "Triton Poker Series Cyprus-$200K Triton Invitational",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.ad6cae6a-86ef-41af-b896-0cd39a632086/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HPNXLKT1",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd"
+      },
+      "drm_key": "0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd"
+    },
+    {
+      "match_id": "B0HRTVJ9BL",
+      "title": "Abu Dhabi T10 League 2026 - Final - Yas Lions vs TBC",
+      "synopsis": "Abu Dhabi T10 League 2026 - Final - Yas Lions vs TBC",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.35048a36-ebe1-483d-a608-13b991d2f753/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HRTVJ9BL",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ekkbhu8smy/out/v1/86d8291f825543f8ba6f2373474aac78/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ekkbhu8smy/out/v1/86d8291f825543f8ba6f2373474aac78/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ekkbhu8smy/out/v1/86d8291f825543f8ba6f2373474aac78/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ekkbhu8smy/out/v1/86d8291f825543f8ba6f2373474aac78/cenc.mpd"
+      },
+      "drm_key": "7e762ae016686583246f1959850eea6e:7ea4fb4356c76bf242b3189458ecea2e"
     },
     {
       "match_id": "B0HQJZ5ZZM",
@@ -62,37 +96,6 @@
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
     },
     {
-      "match_id": "B0HPNXLKT1",
-      "title": "Triton Poker Series Cyprus-$200K Triton Invitational",
-      "synopsis": "Triton Poker Series Cyprus-$200K Triton Invitational",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.ad6cae6a-86ef-41af-b896-0cd39a632086/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HPNXLKT1",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd"
-      },
-      "drm_key": "0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd"
-    },
-    {
-      "match_id": "B0HRBY9DQQ",
-      "title": "Repsol Grand Prix of Portugal, Practice",
-      "synopsis": "Repsol Grand Prix of Portugal, Practice",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.8b7fb58b-829b-4f91-a1ea-feb1f021a1d2/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HRBY9DQQ",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABAGKU5AAAAAAAAMGTQJ6SNBLMLLP.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprFBJ7BhprAEv7A2pjbG91ZGZyb250AngoZmlkOjAxYTFmOTI4LWNkZjYtNzAzOC1hMDljLWZkMmYyM2FjOGQzZRkBOKEFoQJ4My9ueWZsYm9lZzRiL291dC92MS84MTk3YzhlMDU1Yzk0YTg2ODYyMzY1M2FjNTVjMTBiZlgg5sirFH7Kwt9ScXvpLcJuESESxo1WVU25NfN-dnQA9Mg/CMH/c1018b7fd2574de2b5dbed71665bc922/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_cmh_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/nyflboeg4b/out/v1/8197c8e055c94a868623653ac55c10bf/a2e0d7ce-4d15-428d-8c88-b996cf1814be-cenc.mpd?aws.sessionId=ea60c5de-a1f0-4da9-a8ae-65bcddfa5b33"
-      },
-      "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
-    },
-    {
       "match_id": "B0HS2MVWXH",
       "title": "India A vs. Nepal",
       "synopsis": "India A vs. Nepal",
@@ -108,6 +111,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
       },
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
+      "match_id": "B0HRBY9DQQ",
+      "title": "Repsol Grand Prix of Portugal, Practice",
+      "synopsis": "Repsol Grand Prix of Portugal, Practice",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.8b7fb58b-829b-4f91-a1ea-feb1f021a1d2/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HRBY9DQQ",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABAGKU5AAAAAAAAMGTQJ6SNBLMLLP.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprFBJ7BhprAEv7A2pjbG91ZGZyb250AngoZmlkOjAxYTFmOTI4LWNkZjYtNzAzOC1hMDljLWZkMmYyM2FjOGQzZRkBOKEFoQJ4My9ueWZsYm9lZzRiL291dC92MS84MTk3YzhlMDU1Yzk0YTg2ODYyMzY1M2FjNTVjMTBiZlgg5sirFH7Kwt9ScXvpLcJuESESxo1WVU25NfN-dnQA9Mg/CMH/c1018b7fd2574de2b5dbed71665bc922/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_cmh_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/nyflboeg4b/out/v1/8197c8e055c94a868623653ac55c10bf/a2e0d7ce-4d15-428d-8c88-b996cf1814be-cenc.mpd?aws.sessionId=ea60c5de-a1f0-4da9-a8ae-65bcddfa5b33"
+      },
+      "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
     },
     {
       "match_id": "B0HS7B18QQ",
@@ -173,23 +190,6 @@
         "Original Server": "https://a146live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprFBl0BhprAFL0A2Zha2FtYWkCeChmaWQ6MDFhMWY5NDQtMDljNS03NjJhLWIwOGUtOTliODRiMzU3NGUxGQE4oQWhAngzL2FmdmN3bWl6dGEvb3V0L3YxLzIyZWI4OTJkZWNjZjQzZGNiYjczOGM1N2IwZjliZjJmWCDERqkE8scUCTQmWI7NMn4TPQpfFLGHEdaivPguTfSTXw/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/afvcwmizta/out/v1/22eb892deccf43dcbb738c57b0f9bf2f/a3af1ab2-5b91-4756-84b5-c3c493ba2bb7-cenc.mpd"
       },
       "drm_key": "3d4300e223fb6185be88e5b1f3b9d6ff:f285a3559948ae9bbfeaf18caef4423b"
-    },
-    {
-      "match_id": "B0HML8LTDL",
-      "title": "ACC Mens Asia Cup Rising Stars 2026 - 3rd Match - Pakistan A vs United Arab Emirates",
-      "synopsis": "ACC Mens Asia Cup Rising Stars 2026 - 3rd Match - Pakistan A vs United Arab Emirates",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.abffa862-1c81-49b4-bb69-6abb325298cc/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HML8LTDL",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yiibkf8ifo/out/v1/4f2e6d2fb906490e910c22a4dfbfbd82/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yiibkf8ifo/out/v1/4f2e6d2fb906490e910c22a4dfbfbd82/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yiibkf8ifo/out/v1/4f2e6d2fb906490e910c22a4dfbfbd82/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yiibkf8ifo/out/v1/4f2e6d2fb906490e910c22a4dfbfbd82/cenc.mpd"
-      },
-      "drm_key": "c180edac009ec2b3ddc9822f3ae814c3:b94d327fd81dd7a5a43a0a7bd737dd8a"
     },
     {
       "match_id": "B0HR5XGB85",
