@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "12:02 AM 21-11-2026",
+    "LastUpdate": "12:32 AM 21-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -45,23 +45,6 @@
       "drm_key": "2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72"
     },
     {
-      "match_id": "B0HRTVJ9BL",
-      "title": "Abu Dhabi T10 League 2026 - Final - Yas Lions vs UAE Bulls",
-      "synopsis": "Abu Dhabi T10 League 2026 - Final - Yas Lions vs UAE Bulls",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.35048a36-ebe1-483d-a608-13b991d2f753/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HRTVJ9BL",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ekkbhu8smy/out/v1/86d8291f825543f8ba6f2373474aac78/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ekkbhu8smy/out/v1/86d8291f825543f8ba6f2373474aac78/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ekkbhu8smy/out/v1/86d8291f825543f8ba6f2373474aac78/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ekkbhu8smy/out/v1/86d8291f825543f8ba6f2373474aac78/cenc.mpd"
-      },
-      "drm_key": "7e762ae016686583246f1959850eea6e:7ea4fb4356c76bf242b3189458ecea2e"
-    },
-    {
       "match_id": "B0HQZPHCDH",
       "title": "Challenger Tour Live: Helsinki-ATP Quarterfinals",
       "synopsis": "Challenger Tour Live: Helsinki-ATP Quarterfinals",
@@ -77,6 +60,23 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd"
       },
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
+    },
+    {
+      "match_id": "B0HRTVJ9BL",
+      "title": "Abu Dhabi T10 League 2026 - Final - Yas Lions vs UAE Bulls",
+      "synopsis": "Abu Dhabi T10 League 2026 - Final - Yas Lions vs UAE Bulls",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.35048a36-ebe1-483d-a608-13b991d2f753/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HRTVJ9BL",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ekkbhu8smy/out/v1/86d8291f825543f8ba6f2373474aac78/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ekkbhu8smy/out/v1/86d8291f825543f8ba6f2373474aac78/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ekkbhu8smy/out/v1/86d8291f825543f8ba6f2373474aac78/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ekkbhu8smy/out/v1/86d8291f825543f8ba6f2373474aac78/cenc.mpd"
+      },
+      "drm_key": "7e762ae016686583246f1959850eea6e:7ea4fb4356c76bf242b3189458ecea2e"
     },
     {
       "match_id": "B0HRBY9DQQ",
@@ -110,20 +110,6 @@
       "drm_key": "b523235faf497e1ce0967946ba01a9c3:1697e8dd99cd9cd940f463f4fdc7385f"
     },
     {
-      "match_id": "B0HRDJ7X81",
-      "title": "Nov 20 - PTT Miami",
-      "synopsis": "Nov 20 - PTT Miami",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5bd3aacb-7844-4b29-9a77-612920a500cc/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HRDJ7X81",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a146live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprFBl0BhprAFL0A2Zha2FtYWkCeChmaWQ6MDFhMWY5NDQtMDljNS03NjJhLWIwOGUtOTliODRiMzU3NGUxGQE4oQWhAngzL2FmdmN3bWl6dGEvb3V0L3YxLzIyZWI4OTJkZWNjZjQzZGNiYjczOGM1N2IwZjliZjJmWCDERqkE8scUCTQmWI7NMn4TPQpfFLGHEdaivPguTfSTXw/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/afvcwmizta/out/v1/22eb892deccf43dcbb738c57b0f9bf2f/a3af1ab2-5b91-4756-84b5-c3c493ba2bb7-cenc.mpd"
-      },
-      "drm_key": "3d4300e223fb6185be88e5b1f3b9d6ff:f285a3559948ae9bbfeaf18caef4423b"
-    },
-    {
       "match_id": "B0HHN8W74B",
       "title": "ACC Mens Asia Cup Rising Stars 2026 - 4th Match - India A vs Nepal",
       "synopsis": "ACC Mens Asia Cup Rising Stars 2026 - 4th Match - India A vs Nepal",
@@ -139,6 +125,20 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/myvotpnueo/out/v1/31f5a50cbd8041308c560355044e0b03/cenc.mpd"
       },
       "drm_key": "91ffd985da527c7d77ecc801128d11cc:3bb5d51b2fef3b50c43d0cc12455eaf7"
+    },
+    {
+      "match_id": "B0HRDJ7X81",
+      "title": "Nov 20 - PTT Miami",
+      "synopsis": "Nov 20 - PTT Miami",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5bd3aacb-7844-4b29-9a77-612920a500cc/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HRDJ7X81",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a146live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprFBl0BhprAFL0A2Zha2FtYWkCeChmaWQ6MDFhMWY5NDQtMDljNS03NjJhLWIwOGUtOTliODRiMzU3NGUxGQE4oQWhAngzL2FmdmN3bWl6dGEvb3V0L3YxLzIyZWI4OTJkZWNjZjQzZGNiYjczOGM1N2IwZjliZjJmWCDERqkE8scUCTQmWI7NMn4TPQpfFLGHEdaivPguTfSTXw/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/afvcwmizta/out/v1/22eb892deccf43dcbb738c57b0f9bf2f/a3af1ab2-5b91-4756-84b5-c3c493ba2bb7-cenc.mpd"
+      },
+      "drm_key": "3d4300e223fb6185be88e5b1f3b9d6ff:f285a3559948ae9bbfeaf18caef4423b"
     },
     {
       "match_id": "B0HR5XGB85",
