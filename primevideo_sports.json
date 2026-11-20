@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "08:32 PM 20-11-2026",
+    "LastUpdate": "09:02 PM 20-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -45,23 +45,6 @@
       "drm_key": "e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052"
     },
     {
-      "match_id": "B0HPNXLKT1",
-      "title": "Triton Poker Series Cyprus-$200K Triton Invitational",
-      "synopsis": "Triton Poker Series Cyprus-$200K Triton Invitational",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.ad6cae6a-86ef-41af-b896-0cd39a632086/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HPNXLKT1",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd"
-      },
-      "drm_key": "0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd"
-    },
-    {
       "match_id": "B0HQZPHCDH",
       "title": "Challenger Tour Live: Helsinki-ATP Quarterfinals",
       "synopsis": "Challenger Tour Live: Helsinki-ATP Quarterfinals",
@@ -77,6 +60,23 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd"
       },
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
+    },
+    {
+      "match_id": "B0HPNXLKT1",
+      "title": "Triton Poker Series Cyprus-$200K Triton Invitational",
+      "synopsis": "Triton Poker Series Cyprus-$200K Triton Invitational",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.ad6cae6a-86ef-41af-b896-0cd39a632086/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HPNXLKT1",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd"
+      },
+      "drm_key": "0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd"
     },
     {
       "match_id": "B0HRBY9DQQ",
@@ -161,6 +161,20 @@
       "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
     },
     {
+      "match_id": "B0HRDJ7X81",
+      "title": "Nov 20 - PTT Miami",
+      "synopsis": "Nov 20 - PTT Miami",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5bd3aacb-7844-4b29-9a77-612920a500cc/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HRDJ7X81",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a146live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprFBl0BhprAFL0A2Zha2FtYWkCeChmaWQ6MDFhMWY5NDQtMDljNS03NjJhLWIwOGUtOTliODRiMzU3NGUxGQE4oQWhAngzL2FmdmN3bWl6dGEvb3V0L3YxLzIyZWI4OTJkZWNjZjQzZGNiYjczOGM1N2IwZjliZjJmWCDERqkE8scUCTQmWI7NMn4TPQpfFLGHEdaivPguTfSTXw/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/afvcwmizta/out/v1/22eb892deccf43dcbb738c57b0f9bf2f/a3af1ab2-5b91-4756-84b5-c3c493ba2bb7-cenc.mpd"
+      },
+      "drm_key": "3d4300e223fb6185be88e5b1f3b9d6ff:f285a3559948ae9bbfeaf18caef4423b"
+    },
+    {
       "match_id": "B0HML8LTDL",
       "title": "ACC Mens Asia Cup Rising Stars 2026 - 3rd Match - Pakistan A vs United Arab Emirates",
       "synopsis": "ACC Mens Asia Cup Rising Stars 2026 - 3rd Match - Pakistan A vs United Arab Emirates",
@@ -190,20 +204,6 @@
         "Original Server": "https://a99live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprE9MmBhprAAymA2Zha2FtYWkCeChmaWQ6MDFhMWY4MzEtNmExNy03NzJmLWIyZTYtYjZlYTQxNGY4NGYyGQE4oQWhAngzL3NmaHJwejV2bTcvb3V0L3YxLzg1MGQzZmMzZDhmYjQzNWNhNThjMmE1ZmU2YWQzZGMyWCCJwAWVxb0H-qPa6lJQv8xatHyMypCOeGUXpY4lFhRbrQ/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/sfhrpz5vm7/out/v1/850d3fc3d8fb435ca58c2a5fe6ad3dc2/931ae608-2ef6-467a-8450-1fecf64239e2-cenc.mpd"
       },
       "drm_key": "32a699e91dc255c470f2cdcb366b9843:5ac87a7752a12b3236d0bd7cf6580010"
-    },
-    {
-      "match_id": "B0HRDJ7X81",
-      "title": "Nov 20 - PTT Miami",
-      "synopsis": "Nov 20 - PTT Miami",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5bd3aacb-7844-4b29-9a77-612920a500cc/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HRDJ7X81",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a146live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprFBl0BhprAFL0A2Zha2FtYWkCeChmaWQ6MDFhMWY5NDQtMDljNS03NjJhLWIwOGUtOTliODRiMzU3NGUxGQE4oQWhAngzL2FmdmN3bWl6dGEvb3V0L3YxLzIyZWI4OTJkZWNjZjQzZGNiYjczOGM1N2IwZjliZjJmWCDERqkE8scUCTQmWI7NMn4TPQpfFLGHEdaivPguTfSTXw/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/afvcwmizta/out/v1/22eb892deccf43dcbb738c57b0f9bf2f/a3af1ab2-5b91-4756-84b5-c3c493ba2bb7-cenc.mpd"
-      },
-      "drm_key": "3d4300e223fb6185be88e5b1f3b9d6ff:f285a3559948ae9bbfeaf18caef4423b"
     }
   ]
 }
