@@ -1,29 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "11:02 AM 21-11-2026",
+    "LastUpdate": "12:02 PM 21-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 9,
+    "LiveCount": 6,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HF41ZY8T",
-      "title": "Las Vegas: Qualifying",
-      "synopsis": "Las Vegas: Qualifying",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.dcea1c33-7277-49c7-8afd-7fa97acbc1f5/11/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HF41ZY8T",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprFNdQBhprARDQA2ZmYXN0bHkCeChmaWQ6MDFhMWZjMjktYWZjNy03N2MyLWFkMmYtNGI5NTIxOTRjZGFhGQE4oQWhAngzLzRua2dnamdubGkvb3V0L3YxLzNlNWE0ZmNiYzNmYzQxODRiYjlhMGEzOTRjNzUwMzZjWCBvpSB5rg6qovoUnzIYayUDAi_PLMx0bquofF46GPJ-Zg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/4nkggjgnli/out/v1/3e5a4fcbc3fc4184bb9a0a394c75036c/a1389400-5596-4e94-a41c-9234c0f10970-cenc.mpd"
-      },
-      "drm_key": "b83b2b244271f70e211a2c180d78dc6b:92814d98292012bbf335ea10505900a9"
-    },
     {
       "match_id": "B0HQZ93PZ3",
       "title": "BKFC Fight Night Myrtle Beach: Richardson vs. Oxendine",
@@ -57,20 +43,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd"
       },
       "drm_key": "b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9"
-    },
-    {
-      "match_id": "B0HLVYRZLV",
-      "title": "Las Vegas: Qualifying (Sky Sports)",
-      "synopsis": "Las Vegas: Qualifying (Sky Sports)",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.27b1c883-ea7e-46f0-a74f-7995b8d91dea/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLVYRZLV",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a74live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprFNBEBhprAQnEA2Zha2FtYWkCeChmaWQ6MDFhMWZjMGUtMjdjYS03MWQ2LThmM2EtNzM0MzhjNDVjZjY1GQE4oQWhAngzLzl6MjZtamR0bm0vb3V0L3YxLzQ3Yjc5ZWJiOWM1ZTQwZTlhYzYxMzNjYWJlNTU2Nzk1WCCtMebK78wnE53-lpGQGpNeB6wlmxpuYoVslVDFWtqjxg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/9z26mjdtnm/out/v1/47b79ebb9c5e40e9ac6133cabe556795/6b2be327-f116-433b-815a-8a0360ee52f8-cenc.mpd"
-      },
-      "drm_key": "34f14aa9fe1d1d566d117fe98b2deac7:75931c75e8d887b807f1bf338bf0440d"
     },
     {
       "match_id": "B0HPH34F51",
@@ -139,20 +111,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xzhvi2grfc/out/v1/0c7ba1d749ea465c8caac7e84fc34891/cenc.mpd"
       },
       "drm_key": "6012ce4af4cad526b730a7dc830bb35d:80280163cc6aad3985a22ebf2f082e76"
-    },
-    {
-      "match_id": "B0HQC4NFSY",
-      "title": "Nov 20 - PTT Newport Beach",
-      "synopsis": "Nov 20 - PTT Newport Beach",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d47cca33-c46a-448e-9460-ffa37118bf81/2/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HQC4NFSY",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprFF_GBhprAJlGA2ZmYXN0bHkCeChmaWQ6MDFhMWZhNTYtYmE1Yi03NDA4LWI5ZDctOWJlMGNiZmMwZGE0GQE4oQWhAngzL3Y1dXd1MzczbnAvb3V0L3YxLzVjOTYyYzQwYWZmZjRlZDE4N2RhNWM1NGYzYjdjYmIzWCAdGvt5XGzEMAHEftX2meDHREg8rfEP8pcLV0cnNMpTIg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/v5uwu373np/out/v1/5c962c40afff4ed187da5c54f3b7cbb3/8bb764ea-393e-4d0c-9a7b-f3f39ebde4f3-cenc.mpd"
-      },
-      "drm_key": "6a08b7e0075dc04474b2f0c6be2bb75e:4ed87a2d21e92e98f7ec458ee496f8cf"
     }
   ]
 }
