@@ -1,31 +1,31 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "02:02 AM 23-11-2026",
+    "LastUpdate": "02:32 AM 23-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 12,
+    "LiveCount": 13,
     "UpcomingCount": 0
   },
   "Matches": [
     {
-      "match_id": "B0HR7KGDMJ",
-      "title": "Duquesne vs. Wyoming",
-      "synopsis": "Duquesne vs. Wyoming",
+      "match_id": "B0HQP94TS3",
+      "title": "Nebraska-Kearney at Colorado-Colorado Springs",
+      "synopsis": "Nebraska-Kearney at Colorado-Colorado Springs",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cc043f36-5e28-4506-af13-25e3eeaee2b2/2/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HR7KGDMJ",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.1a090328-ac99-4a87-b9d8-e45c072f0b74/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HQP94TS3",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd"
       },
-      "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
+      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
     },
     {
       "match_id": "B0HP81Z714",
@@ -45,21 +45,49 @@
       "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
     },
     {
-      "match_id": "B0HQP94TS3",
-      "title": "Nebraska-Kearney at Colorado-Colorado Springs",
-      "synopsis": "Nebraska-Kearney at Colorado-Colorado Springs",
+      "match_id": "B0HR7KGDMJ",
+      "title": "Duquesne vs. Wyoming",
+      "synopsis": "Duquesne vs. Wyoming",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.1a090328-ac99-4a87-b9d8-e45c072f0b74/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HQP94TS3",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cc043f36-5e28-4506-af13-25e3eeaee2b2/2/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HR7KGDMJ",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd"
       },
-      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
+      "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
+    },
+    {
+      "match_id": "B0HNKD3FPH",
+      "title": "MLS Countdown",
+      "synopsis": "MLS Countdown",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.77d192fe-282a-437b-8b67-36f133c7d49c/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HNKD3FPH",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABBJOXNAAAAAAAAMHTWOJFOWYBE73.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprFxfcBhprA1FcA2pjbG91ZGZyb250AngoZmlkOjAxYTIwNGY1LWQwYjYtNzMwYi1hZWVmLTYzMWIwYjQxZGYxZhkBOKEFoQJ4My9kbnhnMnNvanplL291dC92MS83MzQ3ZDFjYmYzNDE0MDlkYmIwMzBjM2UwZGJlMDNkNVggEBSfFaF8pnMzmLdwITvOxr3ogCyqFUMITnI5iDR7CoM/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/dnxg2sojze/out/v1/7347d1cbf341409dbb030c3e0dbe03d5/09e52c8f-e6d3-4988-9d14-dbd6ee5bbcc1-cenc.mpd"
+      },
+      "drm_key": "ad34cbf75a7298533e87897210a374dc:e5b3db34116bdaf8c0121bfe17c9023c"
+    },
+    {
+      "match_id": "B0HQQS4RYJ",
+      "title": "MLS La Previa⁩",
+      "synopsis": "MLS La Previa⁩",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.9d70940b-b96f-4931-a6e4-6fff27a7d279/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HQQS4RYJ",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprFxfdBhprA1FdA2ZmYXN0bHkCeChmaWQ6MDFhMjA0ZjUtZDRjNy03MWE0LWFkN2EtYTMzYTNjZmFiNzMzGQE4oQWhAngzL3Bhbmx3c2VwZXEvb3V0L3YxLzk1MTExMjMyMTJiNzQ2MDM5MjNmYzNhZTY5NjY1NDhkWCAuqAF5qM4WSCO_F-752hF9neqaK0BQw6v06lBuVS4w8g/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/panlwsepeq/out/v1/9511123212b74603923fc3ae6966548d/a9e34970-f89b-47bd-b398-feab2df73015-cenc.mpd"
+      },
+      "drm_key": "1c58a97847474fd6e306ce930a673f0e:a56ad8e4b2e779068afb246fa5723ade"
     },
     {
       "match_id": "B0HP84SYPD",
@@ -132,7 +160,7 @@
       "synopsis": "Playoffs, Day 2: United States vs. Hungary",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.72ac67f4-e8f1-4a1a-a8b7-08eca8efda2a/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.72ac67f4-e8f1-4a1a-a8b7-08eca8efda2a/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HQK3PDFV",
       "is_free": false,
       "stream_url": {
@@ -187,20 +215,6 @@
         "Original Server": "https://a197live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprFrx_BhprAvX_A2Zha2FtYWkCeChmaWQ6MDFhMjAzOTAtZWM4OC03NzljLTlmYWMtNjQ5M2RhMzE3ZTUzGQE4oQWhAngzL2ZwMHZqcG1jZ2ovb3V0L3YxL2IwZDdlZTM0OTU5NzQ0Y2M4MDc4MWRlODY3ZTFhYmIxWCAqvSz2ajBNaumJAcbHBItZYTYH2_kPWkBJKXYvZ887JA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/fp0vjpmcgj/out/v1/b0d7ee34959744cc80781de867e1abb1/624ada4c-44d2-4e60-9abb-4b60214f362e-cenc.mpd"
       },
       "drm_key": "2818291a94115ea94510233fd0d4f7f7:5eba58d36f54acdc00b89dfc7aa7b63d"
-    },
-    {
-      "match_id": "B0HPPCMV76",
-      "title": "Nov 22 - PTT Carvoeiro",
-      "synopsis": "Nov 22 - PTT Carvoeiro",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9246efc8-f773-4a78-a73f-9eb673e8a48f/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HPPCMV76",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprFnYuBhprAq-uA2ZmYXN0bHkCeChmaWQ6MDFhMjAyN2UtNDBlMS03NjJmLTg3NDUtYmY2NzMxNGYxNjEzGQE4oQWhAngzL2x1NXNsZnE1aGovb3V0L3YxLzAxMjhmMWFhZTkzMjQzZmViZjczNTFmMzNhNGNmYzM1WCCro7ZoPp-3JBvxZ0QFrr-xkn47_YWoitMXt1XcUU1nPQ/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/lu5slfq5hj/out/v1/0128f1aae93243febf7351f33a4cfc35/1959f660-4cc7-41bd-bbe4-8b3fdbb2e5ce-cenc.mpd"
-      },
-      "drm_key": "bae01dd70e4080b157a27e453e84efd4:a0b126d39aa67862311a679e74127ee3"
     }
   ]
 }
