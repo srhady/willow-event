@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "12:32 PM 22-11-2026",
+    "LastUpdate": "02:02 PM 22-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 2,
-    "UpcomingCount": 33
+    "LiveCount": 4,
+    "UpcomingCount": 31
   },
   "Matches": [
     {
@@ -47,28 +47,54 @@
       "drm_key": "7341f16081ecb92ed172ef9df6f443ce:566b8cf0a31255d55785b24ade0a999c"
     },
     {
-      "match_id": "B0HKQ8LF47",
-      "title": "Womens Big Bash League 2026 - 32nd Match - Melbourne Stars Women vs Melbourne Renegades Women",
-      "synopsis": "Womens Big Bash League 2026 - 32nd Match - Melbourne Stars Women vs Melbourne Renegades Women",
-      "status": "UPCOMING",
-      "time": "Live at 2:10 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3493bcea-41c6-4747-942a-136b142a246b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKQ8LF47?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
-      "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
-    },
-    {
       "match_id": "B0HQMYSWV3",
       "title": "T20 Gold Clash 2026 - Team Footy vs Team Cricket",
       "synopsis": "T20 Gold Clash 2026 - Team Footy vs Team Cricket",
-      "status": "UPCOMING",
-      "time": "Live at 2:15 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.feb06812-bd54-4726-9fcd-334588d5645a/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HQMYSWV3?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
+      "status": "LIVE",
+      "time": "2 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.feb06812-bd54-4726-9fcd-334588d5645a/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HQMYSWV3?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xgfd9i7tfz/out/v1/1eaf54b1b8e94b54b0da8a41aeeee490/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xgfd9i7tfz/out/v1/1eaf54b1b8e94b54b0da8a41aeeee490/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/xgfd9i7tfz/out/v1/1eaf54b1b8e94b54b0da8a41aeeee490/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/xgfd9i7tfz/out/v1/1eaf54b1b8e94b54b0da8a41aeeee490/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/xgfd9i7tfz/out/v1/1eaf54b1b8e94b54b0da8a41aeeee490/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/e42ao0c11y/out/v1/a14cd4c1ab8a4e2f8339431c9766213a/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/e42ao0c11y/out/v1/a14cd4c1ab8a4e2f8339431c9766213a/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/e42ao0c11y/out/v1/a14cd4c1ab8a4e2f8339431c9766213a/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/e42ao0c11y/out/v1/a14cd4c1ab8a4e2f8339431c9766213a/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/e42ao0c11y/out/v1/a14cd4c1ab8a4e2f8339431c9766213a/cenc.mpd"
+      },
+      "drm_key": "fcf78c73ab89e0e6ef4ad2f5430d6bf8:a2aa49b85e6f40263207b06f18242ec9"
+    },
+    {
+      "match_id": "B0HKQ8LF47",
+      "title": "Womens Big Bash League 2026 - 32nd Match - Melbourne Stars Women vs Melbourne Renegades Women",
+      "synopsis": "Womens Big Bash League 2026 - 32nd Match - Melbourne Stars Women vs Melbourne Renegades Women",
+      "status": "LIVE",
+      "time": "2 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3493bcea-41c6-4747-942a-136b142a246b/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKQ8LF47?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
+      "is_free": false,
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/onfb54mf87/out/v1/b762565df6804407b8238a706b9106de/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/onfb54mf87/out/v1/b762565df6804407b8238a706b9106de/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/onfb54mf87/out/v1/b762565df6804407b8238a706b9106de/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/onfb54mf87/out/v1/b762565df6804407b8238a706b9106de/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/onfb54mf87/out/v1/b762565df6804407b8238a706b9106de/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mqm7na9fsn/out/v1/696722493a4f455289066cb152fe5f7b/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mqm7na9fsn/out/v1/696722493a4f455289066cb152fe5f7b/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/mqm7na9fsn/out/v1/696722493a4f455289066cb152fe5f7b/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/mqm7na9fsn/out/v1/696722493a4f455289066cb152fe5f7b/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/mqm7na9fsn/out/v1/696722493a4f455289066cb152fe5f7b/cenc.mpd"
+      },
+      "drm_key": "e929ffbf0190098c52fa2c689dd2311e:b499ea7a1c854eaddbf3021a7b3d40bc"
     },
     {
       "match_id": "B0HQV79TCV",
