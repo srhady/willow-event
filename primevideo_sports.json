@@ -1,15 +1,29 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "09:02 AM 22-11-2026",
+    "LastUpdate": "10:02 AM 22-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 8,
+    "LiveCount": 6,
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HLZRY4XV",
+      "title": "Las Vegas: Race",
+      "synopsis": "Las Vegas: Race",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.6d12955e-4edc-43b2-91bb-da84cb6eb802/11/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLZRY4XV",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABBJKLSAAAAAAAAMMWZQDEANJ7BAT.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprFiHEBhprAltEA2pjbG91ZGZyb250AngoZmlkOjAxYTIwMTM0LTg1NGItNzVjYy1hY2UwLWUyM2E5ODQ0YzRjMxkBOKEFoQJ4My8yNGl3ZXY5aGplL291dC92MS9iY2U1M2M2MjQ0ZDU0ZGI5YjAxOTkxMDhlMzgwYTRlMVggeZygIeUEeLn39dPB6t4YHcSlyy0lg7qnZpmix7kbrss/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/24iwev9hje/out/v1/bce53c6244d54db9b0199108e380a4e1/9860708f-fc28-4931-b846-327946b592e9-cenc.mpd"
+      },
+      "drm_key": "ae3d909eda42fc74cbf4c6d71c280984:dd8e4773980519b0618476db62d029f4"
+    },
     {
       "match_id": "B0HLVCS6MH",
       "title": "Las Vegas: Race (Sky Sports)",
@@ -42,20 +56,6 @@
       "drm_key": "1918ddf008413696077e06138983c5f9:2d66e0d80ca9ac6ad8b8c230a97f74b4"
     },
     {
-      "match_id": "B0HLZRY4XV",
-      "title": "Las Vegas: Race",
-      "synopsis": "Las Vegas: Race",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.6d12955e-4edc-43b2-91bb-da84cb6eb802/11/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLZRY4XV",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABBJKLSAAAAAAAAMMWZQDEANJ7BAT.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprFiHEBhprAltEA2pjbG91ZGZyb250AngoZmlkOjAxYTIwMTM0LTg1NGItNzVjYy1hY2UwLWUyM2E5ODQ0YzRjMxkBOKEFoQJ4My8yNGl3ZXY5aGplL291dC92MS9iY2U1M2M2MjQ0ZDU0ZGI5YjAxOTkxMDhlMzgwYTRlMVggeZygIeUEeLn39dPB6t4YHcSlyy0lg7qnZpmix7kbrss/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/24iwev9hje/out/v1/bce53c6244d54db9b0199108e380a4e1/9860708f-fc28-4931-b846-327946b592e9-cenc.mpd"
-      },
-      "drm_key": "ae3d909eda42fc74cbf4c6d71c280984:dd8e4773980519b0618476db62d029f4"
-    },
-    {
       "match_id": "B0HR1B7KDN",
       "title": "Queensland PGA Championship, Final Round",
       "synopsis": "Queensland PGA Championship, Final Round",
@@ -71,40 +71,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd"
       },
       "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
-    },
-    {
-      "match_id": "B0HQGXW152",
-      "title": "USHL Hockey: Green Bay Gamblers vs Chicago Steel",
-      "synopsis": "USHL Hockey: Green Bay Gamblers vs Chicago Steel",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.1d9ccc74-ac1a-41a6-a991-b30275f0ad5d/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HQGXW152",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd"
-      },
-      "drm_key": "b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9"
-    },
-    {
-      "match_id": "B0HQNJ3T4G",
-      "title": "Snowball Derby Preview at 5 Flags Speedway",
-      "synopsis": "Snowball Derby Preview at 5 Flags Speedway",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.7f3dac5a-51cf-4cac-aad2-310590a7229d/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HQNJ3T4G",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd"
-      },
-      "drm_key": "2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca"
     },
     {
       "match_id": "B0HM4ZHT1F",
