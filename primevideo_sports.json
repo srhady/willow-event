@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "11:02 PM 22-11-2026",
+    "LastUpdate": "11:32 PM 22-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -93,6 +93,20 @@
       "drm_key": "bc80c0b7f64185f59b3eb9129ea16f4d:625c429192608e209508a10c86780a7c"
     },
     {
+      "match_id": "B0HQDPHVQW",
+      "title": "Nov 22 - PTT Miami",
+      "synopsis": "Nov 22 - PTT Miami",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dd240d3b-21ce-4cf1-b764-7b41ab983fc9/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HQDPHVQW",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a197live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprFrx_BhprAvX_A2Zha2FtYWkCeChmaWQ6MDFhMjAzOTAtZWM4OC03NzljLTlmYWMtNjQ5M2RhMzE3ZTUzGQE4oQWhAngzL2ZwMHZqcG1jZ2ovb3V0L3YxL2IwZDdlZTM0OTU5NzQ0Y2M4MDc4MWRlODY3ZTFhYmIxWCAqvSz2ajBNaumJAcbHBItZYTYH2_kPWkBJKXYvZ887JA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/fp0vjpmcgj/out/v1/b0d7ee34959744cc80781de867e1abb1/624ada4c-44d2-4e60-9abb-4b60214f362e-cenc.mpd"
+      },
+      "drm_key": "2818291a94115ea94510233fd0d4f7f7:5eba58d36f54acdc00b89dfc7aa7b63d"
+    },
+    {
       "match_id": "B0HHJKDWF6",
       "title": "Dubai Capitals vs. Abu Dhabi Knight Riders",
       "synopsis": "Dubai Capitals vs. Abu Dhabi Knight Riders",
@@ -108,20 +122,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
       },
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-    },
-    {
-      "match_id": "B0HQDPHVQW",
-      "title": "Nov 22 - PTT Miami",
-      "synopsis": "Nov 22 - PTT Miami",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dd240d3b-21ce-4cf1-b764-7b41ab983fc9/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HQDPHVQW",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a197live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprFrx_BhprAvX_A2Zha2FtYWkCeChmaWQ6MDFhMjAzOTAtZWM4OC03NzljLTlmYWMtNjQ5M2RhMzE3ZTUzGQE4oQWhAngzL2ZwMHZqcG1jZ2ovb3V0L3YxL2IwZDdlZTM0OTU5NzQ0Y2M4MDc4MWRlODY3ZTFhYmIxWCAqvSz2ajBNaumJAcbHBItZYTYH2_kPWkBJKXYvZ887JA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/fp0vjpmcgj/out/v1/b0d7ee34959744cc80781de867e1abb1/624ada4c-44d2-4e60-9abb-4b60214f362e-cenc.mpd"
-      },
-      "drm_key": "2818291a94115ea94510233fd0d4f7f7:5eba58d36f54acdc00b89dfc7aa7b63d"
     },
     {
       "match_id": "B0HPPCMV76",
