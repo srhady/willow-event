@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "11:32 AM 22-11-2026",
+    "LastUpdate": "12:02 PM 22-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 2,
-    "UpcomingCount": 33
+    "LiveCount": 3,
+    "UpcomingCount": 32
   },
   "Matches": [
     {
@@ -50,13 +50,19 @@
       "match_id": "B0HR8QKWKL",
       "title": "ACC Mens Asia Cup Rising Stars 2026 - 7th Match - United Arab Emirates vs Nepal",
       "synopsis": "ACC Mens Asia Cup Rising Stars 2026 - 7th Match - United Arab Emirates vs Nepal",
-      "status": "UPCOMING",
-      "time": "Live at 12:00 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.87c723c7-0535-4196-8c99-d5472eca5403/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "11:35 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.87c723c7-0535-4196-8c99-d5472eca5403/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HR8QKWKL?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dav1vsvipu/out/v1/7811f403d7ea475d9b5b86b60ef4b677/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dav1vsvipu/out/v1/7811f403d7ea475d9b5b86b60ef4b677/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/dav1vsvipu/out/v1/7811f403d7ea475d9b5b86b60ef4b677/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dav1vsvipu/out/v1/7811f403d7ea475d9b5b86b60ef4b677/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dav1vsvipu/out/v1/7811f403d7ea475d9b5b86b60ef4b677/cenc.mpd"
+      },
+      "drm_key": "7341f16081ecb92ed172ef9df6f443ce:566b8cf0a31255d55785b24ade0a999c"
     },
     {
       "match_id": "B0HKQ8LF47",
