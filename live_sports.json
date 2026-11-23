@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "10:32 AM 23-11-2026",
+    "LastUpdate": "12:02 PM 23-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 34
+    "LiveCount": 2,
+    "UpcomingCount": 33
   },
   "Matches": [
     {
@@ -32,13 +32,19 @@
       "match_id": "B0HQZ9PFTK",
       "title": "ACC Mens Asia Cup Rising Stars 2026 - 9th Match - Afghanistan A vs Hong Kong, China",
       "synopsis": "ACC Mens Asia Cup Rising Stars 2026 - 9th Match - Afghanistan A vs Hong Kong, China",
-      "status": "UPCOMING",
-      "time": "Live at 12:00 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.321c7056-5818-4d33-a26f-bff5d75c8799/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "11:30 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.321c7056-5818-4d33-a26f-bff5d75c8799/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HQZ9PFTK?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pyotzmjtwf/out/v1/2b816c787d7f4b22b821549ac3789814/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pyotzmjtwf/out/v1/2b816c787d7f4b22b821549ac3789814/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pyotzmjtwf/out/v1/2b816c787d7f4b22b821549ac3789814/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pyotzmjtwf/out/v1/2b816c787d7f4b22b821549ac3789814/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pyotzmjtwf/out/v1/2b816c787d7f4b22b821549ac3789814/cenc.mpd"
+      },
+      "drm_key": "3968540132a25dff11a7aa9d1d25b82c:df967625371e49195245672740e152d8"
     },
     {
       "match_id": "B0HQPR4M9Q",
