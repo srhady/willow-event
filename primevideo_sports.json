@@ -1,22 +1,22 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "01:02 AM 24-11-2026",
+    "LastUpdate": "01:32 AM 24-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 6,
-    "UpcomingCount": 0
+    "LiveCount": 5,
+    "UpcomingCount": 1
   },
   "Matches": [
     {
       "match_id": "B0HSFDS233",
-      "title": "Unknown Match",
-      "synopsis": "Unknown Match",
+      "title": "Alcorn State vs. Michigan State",
+      "synopsis": "Alcorn State vs. Michigan State",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8b3db505-c8e2-4fb8-90a8-a8bbd1d5926c/2/CAROUSEL-BACKGROUND-8X3/en-US/3840x1440._UR3840,1440_SX2160_FMpng_.png",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8b3db505-c8e2-4fb8-90a8-a8bbd1d5926c/2/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HSFDS233",
       "is_free": false,
       "stream_url": {
@@ -62,23 +62,6 @@
       "drm_key": "2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca"
     },
     {
-      "match_id": "B0HLPZ7C1X",
-      "title": "Predator Pro Billiard Series: San Antonio",
-      "synopsis": "Predator Pro Billiard Series: San Antonio",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.5a89e94e-2991-4503-9c6b-3fc6334bcdc9/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLPZ7C1X",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd"
-      },
-      "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
-    },
-    {
       "match_id": "B0HKYDK54J",
       "title": "Nov 23 - PTT Buenos Aires",
       "synopsis": "Nov 23 - PTT Buenos Aires",
@@ -105,6 +88,23 @@
         "Original Server": "https://a179live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprF7maBhprA_MaA2Zha2FtYWkCeChmaWQ6MDFhMjA3NmQtYTA3NC03MzlhLThmNGMtYmU0YTA0MDNhZGVkGQE4oQWhAngzL3V0dHR3aG81Y2Uvb3V0L3YxL2ZiMzYxN2I4NTM3MzRiM2E5NjgzYmE5OWZiNzM2OTE4WCBFhFhSm8ai4A5ikBDiNjVkQYEBa3b5tOy-RZ454GONpw/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/utttwho5ce/out/v1/fb3617b853734b3a9683ba99fb736918/3c4d82bf-f158-4bae-ba95-f3a56157995d-cenc.mpd"
       },
       "drm_key": "0c25f766959f004de65ef2f3ad30ce23:068f40baad492122d530da13e0af5624"
+    },
+    {
+      "match_id": "B0HLPZ7C1X",
+      "title": "Predator Pro Billiard Series: San Antonio",
+      "synopsis": "Predator Pro Billiard Series: San Antonio",
+      "status": "UPCOMING",
+      "time": "Live at 2 AM BDT",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.5a89e94e-2991-4503-9c6b-3fc6334bcdc9/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLPZ7C1X",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd"
+      },
+      "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
     }
   ]
 }
