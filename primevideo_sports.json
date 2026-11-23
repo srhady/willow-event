@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "10:02 AM 23-11-2026",
+    "LastUpdate": "10:32 AM 23-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 2,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -43,34 +43,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3yznekgktt/out/v1/858249b12acb46b99a95fbfab5887011/cenc.mpd"
       },
       "drm_key": "a993ba0f7bf4b83d0ccb44a591e2a51c:2bd5e352dd929f561daa14de1fc1a7a1"
-    },
-    {
-      "match_id": "B0HR5FCGPT",
-      "title": "MLS Wrap-Up⁩",
-      "synopsis": "MLS Wrap-Up⁩",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.fd0318a9-e17b-4d57-9fbe-706df9d3baa5/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HR5FCGPT",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a180live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprF4FSBhprA7rSA2Zha2FtYWkCeChmaWQ6MDFhMjA2OTEtYzdkOS03MGQ5LWIzZWYtN2Q1OWRlZjM1ZjhiGQE4oQWhAngzL2oyd29ycWJvOXYvb3V0L3YxLzY4ZjM0MDRlYjA2OTRlZWY5NzBiYjA2MTViM2U5ZDRkWCBTJ41qlTOzTjplh2XpBl9_XTMPYATWyz3ynwiaUUigbA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/j2worqbo9v/out/v1/68f3404eb0694eef970bb0615b3e9d4d/c2991f25-cf3e-402d-8a28-e808d6f26de8-cenc.mpd"
-      },
-      "drm_key": "c6dc34ab1d02bd9d1bdfa8879440c872:a47e37e85ddc5ea8edf39dc1315ae69c"
-    },
-    {
-      "match_id": "B0HN6F2R5V",
-      "title": "MLS El Resumen⁩",
-      "synopsis": "MLS El Resumen⁩",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.68377b82-2f17-4671-9c64-7685815d183a/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HN6F2R5V",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a13live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprF4FTBhprA7rTA2Zha2FtYWkCeChmaWQ6MDFhMjA2OTEtY2I2ZC03MDkzLTkxOTMtZGQ4ODZkM2RiMzZlGQE4oQWhAngzLzRhamk1bXlya3Yvb3V0L3YxL2Q1MWEyYTE3MmNiYjQ3ZWRhMGI0OGNlNzI4MmMwMjI4WCAjD7RWXUR9WL1jyLH8clqSN9aMT9T3BbN4rwIKC5BdAQ/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/4aji5myrkv/out/v1/d51a2a172cbb47eda0b48ce7282c0228/f5ffa211-e983-48e9-b906-53187e481981-cenc.mpd"
-      },
-      "drm_key": "26598d85b460060b7f68cba321184f93:1fe721f953467f45b734cfae2eaf8461"
     }
   ]
 }
