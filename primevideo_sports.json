@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "07:32 AM 23-11-2026",
+    "LastUpdate": "08:32 AM 23-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 2,
+    "LiveCount": 1,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -26,20 +26,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3yznekgktt/out/v1/858249b12acb46b99a95fbfab5887011/cenc.mpd"
       },
       "drm_key": "a993ba0f7bf4b83d0ccb44a591e2a51c:2bd5e352dd929f561daa14de1fc1a7a1"
-    },
-    {
-      "match_id": "B0HQDPHVQW",
-      "title": "Nov 22 - PTT Miami",
-      "synopsis": "Nov 22 - PTT Miami",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dd240d3b-21ce-4cf1-b764-7b41ab983fc9/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HQDPHVQW",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABINCR3AAAAAAAAMA3EZHZH443N6Q.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprFyXwBhprA19wA2pjbG91ZGZyb250AngoZmlkOjAxYTIwNTJjLWNkNzgtNzQ5ZC05NzBhLTY5N2E3NzUzZjNlYxkBOKEFoQJ4My9mcDB2anBtY2dqL291dC92MS9iMGQ3ZWUzNDk1OTc0NGNjODA3ODFkZTg2N2UxYWJiMVggt83cVR_RE31DUdaDbnAV4PdqIn0R3ZBYuITzU9JMOPU/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/fp0vjpmcgj/out/v1/b0d7ee34959744cc80781de867e1abb1/624ada4c-44d2-4e60-9abb-4b60214f362e-cenc.mpd"
-      },
-      "drm_key": "2818291a94115ea94510233fd0d4f7f7:5eba58d36f54acdc00b89dfc7aa7b63d"
     }
   ]
 }
