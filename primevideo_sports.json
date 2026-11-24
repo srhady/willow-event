@@ -1,32 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "07:02 AM 24-11-2026",
+    "LastUpdate": "07:32 AM 24-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 3,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HQSR9N76",
-      "title": "Cameron at Colorado Christian",
-      "synopsis": "Cameron at Colorado Christian",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.b7ea83ed-636b-4069-b8a6-b5824f5eb8da/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HQSR9N76",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd"
-      },
-      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
-    },
     {
       "match_id": "B0HQN4TMXT",
       "title": "ECHL Hockey: South Carolina Stingrays vs Orlando Solar Bears",
@@ -45,6 +28,23 @@
       "drm_key": "b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9"
     },
     {
+      "match_id": "B0HQSR9N76",
+      "title": "Cameron at Colorado Christian",
+      "synopsis": "Cameron at Colorado Christian",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.b7ea83ed-636b-4069-b8a6-b5824f5eb8da/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HQSR9N76",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd"
+      },
+      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
+    },
+    {
       "match_id": "B0HLPZ7C1X",
       "title": "Predator Pro Billiard Series: San Antonio",
       "synopsis": "Predator Pro Billiard Series: San Antonio",
@@ -60,34 +60,6 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd"
       },
       "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
-    },
-    {
-      "match_id": "B0HR9FVJWC",
-      "title": "MLS Countdown",
-      "synopsis": "MLS Countdown",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.d1058741-a932-43be-8f48-4d5eba2dbed2/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HR9FVJWC",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a49live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprGKimBhprBOImA2Zha2FtYWkCeChmaWQ6MDFhMjBiMTMtNjY1OS03NzdmLTlhMGEtMjA0NTdiN2MyMmQwGQE4oQWhAngzL29nNDluaWE4emIvb3V0L3YxLzMyNDdjNzIxYjIwYTQ0NDg4ZTI4NGY3N2FlMGQyZTZlWCA1r90e9gpC1Wd3dg0JBSRXWHjJAbuLEmrDYy33VC5Jng/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/og49nia8zb/out/v1/3247c721b20a44488e284f77ae0d2e6e/b732dbce-f380-4ac1-b392-58bfc87d3607-cenc.mpd"
-      },
-      "drm_key": "5e91778e45c985908463e17f5454ba71:3e1650ca855dd1c2ac55e92ff12663cf"
-    },
-    {
-      "match_id": "B0HRFWJH6N",
-      "title": "MLS La Previa⁩",
-      "synopsis": "MLS La Previa⁩",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.f0c7be89-47b0-45e5-aad8-da09f7e5c6d2/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HRFWJH6N",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABDJ2KXAAAAAAAAMOOBUSC23LSQNM.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprGKinBhprBOInA2pjbG91ZGZyb250AngoZmlkOjAxYTIwYjEzLTZiMzItNzExZC1iZjJkLTdlYjNjNGVlZDJiNxkBOKEFoQJ4My9xanljdGV2M3R0L291dC92MS85OTVjNGI2MTk2NGU0YTJmOGMxZjc1OTFiMDI3MzI4OFggp3A2SrPgMfjF7QOrYC8OLmJnZZzv8hqw82Ho_zlhYHs/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/qjyctev3tt/out/v1/995c4b61964e4a2f8c1f7591b0273288/ba1edf30-2203-4941-b8c2-2c19ddd0f024-cenc.mpd"
-      },
-      "drm_key": "2081d90c46924818ab4501b0d20952a9:d95c7affb556e99465244cdb69c44a7e"
     }
   ]
 }
