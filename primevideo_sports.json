@@ -1,15 +1,32 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "09:32 AM 24-11-2026",
+    "LastUpdate": "10:02 AM 24-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 2,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HLPZ7C1X",
+      "title": "Predator Pro Billiard Series: San Antonio",
+      "synopsis": "Predator Pro Billiard Series: San Antonio",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.5a89e94e-2991-4503-9c6b-3fc6334bcdc9/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLPZ7C1X",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd"
+      },
+      "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
+    },
     {
       "match_id": "B0HS513GRJ",
       "title": "USAC NOS Energy Drink Midgets at Plaza Park Raceway",
@@ -28,21 +45,32 @@
       "drm_key": "2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca"
     },
     {
-      "match_id": "B0HLPZ7C1X",
-      "title": "Predator Pro Billiard Series: San Antonio",
-      "synopsis": "Predator Pro Billiard Series: San Antonio",
+      "match_id": "B0HNSV56YT",
+      "title": "MLS Wrap-Up⁩",
+      "synopsis": "MLS Wrap-Up⁩",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.5a89e94e-2991-4503-9c6b-3fc6334bcdc9/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLPZ7C1X",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.fc14554b-e48b-459d-af9b-58a423b7e335/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HNSV56YT",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd"
+        "Original Server": "https://ABBJKLCAAAAAAAAMFMD3U4VVJXHNK.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprGNLaBhprBQxaA2pjbG91ZGZyb250AngoZmlkOjAxYTIwYmI4LTQyZDctNzMwNi04YjhlLTU4YWYxNjhmZjBiMhkBOKEFoQJ4My9hZHBocmRja2R6L291dC92MS84YWZmM2Y1MDc4NGE0OWU0OWU4NTM3ZTMyYTNhZjUyNlgg7gO8_RoAzeA9vVctTWAyk7TOK9Ug864U9Efb7Lr6MkM/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/adphrdckdz/out/v1/8aff3f50784a49e49e8537e32a3af526/d93d0e21-14cd-4d1e-9091-50a3e431bb60-cenc.mpd"
       },
-      "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
+      "drm_key": "2e46525ecb2808ebbcd0d247cb8091c6:ba4c16691b296c96901c675b1289c60c"
+    },
+    {
+      "match_id": "B0HPBSS25B",
+      "title": "MLS El Resumen⁩",
+      "synopsis": "MLS El Resumen⁩",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.c6084bb0-8270-4286-addf-9c62d5b84c98/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HPBSS25B",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprGNLdBhprBQxdA2ZmYXN0bHkCeChmaWQ6MDFhMjBiYjgtNGI5NS03NzRmLWI1YTYtNWM4MWE4NzkxMDg5GQE4oQWhAngzL2lrbDBlaGtlZXcvb3V0L3YxL2UyOWMxNmUyZGNjNjQyZGJiMGY4OGExOTkwYmIyZmJjWCBdK7PThuIZKq47azCnI7M9lUMaWnVpeIJ9QV-mo2YfLA/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ikl0ehkeew/out/v1/e29c16e2dcc642dbb0f88a1990bb2fbc/8fee86ee-f194-4890-aa8d-4d1bca9fdb3f-cenc.mpd"
+      },
+      "drm_key": "50cd3d5f1d0772fedba04067b3f6dc1c:13bf7c001977af07dbcafd3bd8ba51a9"
     }
   ]
 }
