@@ -1,1 +1,166 @@
-
+{
+  "HeaderInfo": {
+    "PlaylistName": "Prime Video Free Sports",
+    "LastUpdate": "10:15 PM 24-11-2026",
+    "Telegram": "https://t.me/livesportsplay",
+    "Owner": "Md Sohanur Rahman Hady"
+  },
+  "Stats": {
+    "LiveCount": 7,
+    "UpcomingCount": 0
+  },
+  "Matches": [
+    {
+      "match_id": "amzn1.dv.gti.4943feea-b2e8-4a7b-9a72-ad286135ae0a",
+      "title": "Nov 24 - PTT Barcelona",
+      "synopsis": "Nov 24 - PTT Barcelona",
+      "status": "LIVE",
+      "time": "2 PM BDT",
+      "start_epoch": null,
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4943feea-b2e8-4a7b-9a72-ad286135ae0a/4/BOXART-16X9/en-US._UR1920,1080_.png",
+      "match_url": "https://www.primevideo.com/region/na/detail/0JHRCDPGWOBP768T46SA5P5SSQ?jic=8%7CEgNhbGw%3D&ref_=atv_hm_spo_c_10rJPH_2_2",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABKZS77AAAAAAAAMOKG5OEKJEKMDX.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprGX6JBhprBbgJA2pjbG91ZGZyb250AngoZmlkOjAxYTIwZTU2LWU2NDEtNzA3ZC05NjZhLWE3OGIzNTM2ZTkzYhkBOKEFoQJ4My9jeGxqdGJsbGFxL291dC92MS84NTE3NmQ2OGFmNTY0Zjg4YWMwOTQxMzA1MjgxZGMyYVggvcBtplB1KJ5-d5gHKanj6J5LhmpGOdnD-iEEc5Nee64/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/cxljtbllaq/out/v1/85176d68af564f88ac0941305281dc2a/e7247e58-28d2-4704-9b6f-50a648a08f78-cenc.mpd"
+      },
+      "stream_url_bravo": "",
+      "drm_key": "82aa0ba75025a49be0a956e6246f35ba:a77b2238c2f2d6b6e1491c3c4e9a8f9d"
+    },
+    {
+      "match_id": "amzn1.dv.gti.7c631a10-71e4-4b60-b8a2-b7ba3fb464ef",
+      "title": "The Morning Drive",
+      "synopsis": "The Morning Drive",
+      "status": "LIVE",
+      "time": "6 PM BDT",
+      "start_epoch": null,
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7c631a10-71e4-4b60-b8a2-b7ba3fb464ef/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_.jpeg",
+      "match_url": "https://www.primevideo.com/region/na/detail/0MIPPK2YKU5LBZQN8K8H4553AN?jic=8%7CEgNhbGw%3D&ref_=atv_hm_spo_c_10rJPH_2_4",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd"
+      },
+      "drm_key": "e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052"
+    },
+    {
+      "match_id": "amzn1.dv.gti.86d08357-690a-49e0-923b-4742c13af531",
+      "title": "Triton Poker Series Cyprus-$100K NLH Main Event",
+      "synopsis": "Triton Poker Series Cyprus-$100K NLH Main Event",
+      "status": "LIVE",
+      "time": "6 PM BDT",
+      "start_epoch": null,
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.86d08357-690a-49e0-923b-4742c13af531/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_.jpeg",
+      "match_url": "https://www.primevideo.com/region/na/detail/0N4XRJOXSIW9IKG3FNVQOCRM7L?jic=8%7CEgNhbGw%3D&ref_=atv_hm_spo_c_10rJPH_2_5",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ppzmljumfr/out/v1/25e29b9f67954e16badd296287c53359/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ppzmljumfr/out/v1/25e29b9f67954e16badd296287c53359/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ppzmljumfr/out/v1/25e29b9f67954e16badd296287c53359/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ppzmljumfr/out/v1/25e29b9f67954e16badd296287c53359/cenc.mpd"
+      },
+      "drm_key": "0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd"
+    },
+    {
+      "match_id": "amzn1.dv.gti.3d140746-95f4-46e7-9e75-15436d58aa85",
+      "title": "Nov 24 - PTT Buenos Aires",
+      "synopsis": "Nov 24 - PTT Buenos Aires",
+      "status": "LIVE",
+      "time": "7 PM BDT",
+      "start_epoch": null,
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3d140746-95f4-46e7-9e75-15436d58aa85/4/BOXART-16X9/en-US._UR1920,1080_.png",
+      "match_url": "https://www.primevideo.com/region/na/detail/0IRS91WJ5KJX4UPT0RFBALJ4HX?jic=8%7CEgNhbGw%3D&ref_=atv_hm_spo_c_10rJPH_2_6",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprGX6PBhprBbgPA2ZmYXN0bHkCeChmaWQ6MDFhMjBlNTYtZmE4MC03NDI3LWFmODgtNTVhOWIxMTA5MmI1GQE4oQWhAngzL2VxcXRqa2EwbHUvb3V0L3YxLzNkNDEyNjFhMDFlNzQ5MTQ5YTRkZDMzZTcyODYyNTMzWCDIwvn37TM8ghwmaIktI7-nL_o49p4Ubw1mqvkfTTwx9g/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/eqqtjka0lu/out/v1/3d41261a01e749149a4dd33e72862533/ebb5f780-9a7f-4dc2-a697-8c7d30f27575-cenc.mpd"
+      },
+      "stream_url_bravo": "",
+      "drm_key": "c7c26b9bf8b7d1f769737fe27fc47549:cae927345d129e4a6dd158bd7ecd1ee0"
+    },
+    {
+      "match_id": "amzn1.dv.gti.b57e4bbc-b114-420d-a73b-391053b43036",
+      "title": "Thor Mini O's at Gatorback Cycle Park",
+      "synopsis": "Thor Mini O's at Gatorback Cycle Park",
+      "status": "LIVE",
+      "time": "7 PM BDT",
+      "start_epoch": null,
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b57e4bbc-b114-420d-a73b-391053b43036/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_.jpeg",
+      "match_url": "https://www.primevideo.com/region/na/detail/0PWF9EX41GDMFJNHI7CLEKBP6E?jic=8%7CEgNhbGw%3D&ref_=atv_hm_spo_c_10rJPH_2_7",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd"
+      },
+      "drm_key": "2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca"
+    },
+    {
+      "match_id": "amzn1.dv.gti.86a0a633-444c-4252-b7bb-32ddc30cebc9",
+      "title": "Pakistan Shaheens vs. Nepal",
+      "synopsis": "Pakistan Shaheens vs. Nepal",
+      "status": "LIVE",
+      "time": "7:30 PM BDT",
+      "start_epoch": null,
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.86a0a633-444c-4252-b7bb-32ddc30cebc9/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_.jpeg",
+      "match_url": "https://www.primevideo.com/region/na/detail/0N4JF430ULK5QM67TBDBSIAUO9?jic=8%7CEgNhbGw%3D&ref_=atv_hm_spo_c_10rJPH_2_8",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
+      },
+      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
+      "match_id": "amzn1.dv.gti.5a89e94e-2991-4503-9c6b-3fc6334bcdc9",
+      "title": "Predator Pro Billiard Series: San Antonio",
+      "synopsis": "Predator Pro Billiard Series: San Antonio",
+      "status": "LIVE",
+      "time": "9 PM BDT",
+      "start_epoch": null,
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5a89e94e-2991-4503-9c6b-3fc6334bcdc9/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_.jpeg",
+      "match_url": "https://www.primevideo.com/region/na/detail/0KIKN9GKK3FJZDHN5ZYACHVBNT?jic=8%7CEgNhbGw%3D&ref_=atv_hm_spo_c_10rJPH_2_11",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd"
+      },
+      "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
+    }
+  ]
+}
