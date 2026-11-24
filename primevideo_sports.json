@@ -1,12 +1,12 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "07:02 PM 24-11-2026",
+    "LastUpdate": "07:32 PM 24-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 10,
+    "LiveCount": 11,
     "UpcomingCount": 0
   },
   "Matches": [
@@ -79,6 +79,23 @@
       "drm_key": "2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca"
     },
     {
+      "match_id": "B0H26QQY6J",
+      "title": "Pakistan Shaheens vs. Nepal",
+      "synopsis": "Pakistan Shaheens vs. Nepal",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.86a0a633-444c-4252-b7bb-32ddc30cebc9/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H26QQY6J",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
+      },
+      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
       "match_id": "B0HQPR4M9Q",
       "title": "Bangladesh tour of South Africa 2026 - 2nd Test - South Africa vs Bangladesh",
       "synopsis": "Bangladesh tour of South Africa 2026 - 2nd Test - South Africa vs Bangladesh",
@@ -113,20 +130,6 @@
       "drm_key": "ac685b471a4e1d6c4be3fe7429595d9d:db72f4347277225954d7170f0ec6992f"
     },
     {
-      "match_id": "B0HR959K59",
-      "title": "Nov 24 - PTT Buenos Aires",
-      "synopsis": "Nov 24 - PTT Buenos Aires",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3d140746-95f4-46e7-9e75-15436d58aa85/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HR959K59",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a14live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprGVFwBhprBYrwA2Zha2FtYWkCeChmaWQ6MDFhMjBkYTYtYmJjOC03MDgxLWIyMGYtODc3NTA3MTZlODUwGQE4oQWhAngzL2VxcXRqa2EwbHUvb3V0L3YxLzNkNDEyNjFhMDFlNzQ5MTQ5YTRkZDMzZTcyODYyNTMzWCBhKUTYbduyGWRjoikH2h8VzisB2TQOj6DRPUlNG2Ct_A/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/eqqtjka0lu/out/v1/3d41261a01e749149a4dd33e72862533/ebb5f780-9a7f-4dc2-a697-8c7d30f27575-cenc.mpd"
-      },
-      "drm_key": "c7c26b9bf8b7d1f769737fe27fc47549:cae927345d129e4a6dd158bd7ecd1ee0"
-    },
-    {
       "match_id": "B0HQPHCDC3",
       "title": "Nov 24 - PTT Barcelona",
       "synopsis": "Nov 24 - PTT Barcelona",
@@ -141,6 +144,37 @@
       "drm_key": "26ab3c95a373e009dda3c96028bcda1d:84fa265575142d15aa85cca5f08beea9"
     },
     {
+      "match_id": "B0HR94DVCJ",
+      "title": "Italia: Brescia Lions vs. Venice Livewires",
+      "synopsis": "Italia: Brescia Lions vs. Venice Livewires",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.12eac715-421f-4cd4-b625-12112b26d564/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HR94DVCJ",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd"
+      },
+      "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
+    },
+    {
+      "match_id": "B0HR959K59",
+      "title": "Nov 24 - PTT Buenos Aires",
+      "synopsis": "Nov 24 - PTT Buenos Aires",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3d140746-95f4-46e7-9e75-15436d58aa85/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HR959K59",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a14live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprGVFwBhprBYrwA2Zha2FtYWkCeChmaWQ6MDFhMjBkYTYtYmJjOC03MDgxLWIyMGYtODc3NTA3MTZlODUwGQE4oQWhAngzL2VxcXRqa2EwbHUvb3V0L3YxLzNkNDEyNjFhMDFlNzQ5MTQ5YTRkZDMzZTcyODYyNTMzWCBhKUTYbduyGWRjoikH2h8VzisB2TQOj6DRPUlNG2Ct_A/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/eqqtjka0lu/out/v1/3d41261a01e749149a4dd33e72862533/ebb5f780-9a7f-4dc2-a697-8c7d30f27575-cenc.mpd"
+      },
+      "drm_key": "c7c26b9bf8b7d1f769737fe27fc47549:cae927345d129e4a6dd158bd7ecd1ee0"
+    },
+    {
       "match_id": "B0HQZHVLMY",
       "title": "Nov 24 - PTT Gyor",
       "synopsis": "Nov 24 - PTT Gyor",
@@ -153,23 +187,6 @@
         "Original Server": "https://a184live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprGVFxBhprBYrxA2Zha2FtYWkCeChmaWQ6MDFhMjBkYTYtYmZkMy03N2NmLWFlYzMtNDg3YTFhOGM5YjEzGQE4oQWhAngzL2lvZmlob3VvZ2Ivb3V0L3YxL2NlMzdmYjI3YjI2ZTRlODZiYjJjZjRhNmMxNjA2MTcyWCCUrisMjfols9_vkSPmZECwahe4iufqWRaJo0KER4XnwQ/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/iofihouogb/out/v1/ce37fb27b26e4e86bb2cf4a6c1606172/60df567f-2f75-47d5-9eb5-33dd2977f770-cenc.mpd"
       },
       "drm_key": "cea392fa8ed712cb3c9f279ac6bbc1e4:335e1a0da14e18954748273053c4741b"
-    },
-    {
-      "match_id": "B0HRJDXZRK",
-      "title": "Italia: Milan Icons vs. Rome Gladiators",
-      "synopsis": "Italia: Milan Icons vs. Rome Gladiators",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.1a807e34-58e8-4c20-a036-daf9ea75904c/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HRJDXZRK",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd"
-      },
-      "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
     }
   ]
 }
