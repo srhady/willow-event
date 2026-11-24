@@ -1,9 +1,9 @@
 #EXTM3U
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:01:02 AM 25-11-2026
+#LAST_UPDATE:01:32 AM 25-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:13
+#LIVE_COUNT:12
 #UPCOMING_COUNT:0
 
 #EXTINF:-1 tvg-id="amzn1.dv.gti.86d08357-690a-49e0-923b-4742c13af531" tvg-name="Triton Poker Series Cyprus-$100K NLH Main Event" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.86d08357-690a-49e0-923b-4742c13af531/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_.jpeg" group-title="Prime Video Sports",Triton Poker Series Cyprus-$100K NLH Main Event
@@ -11,14 +11,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
-
-#EXTINF:-1 tvg-id="amzn1.dv.gti.5a89e94e-2991-4503-9c6b-3fc6334bcdc9" tvg-name="Predator Pro Billiard Series: San Antonio" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5a89e94e-2991-4503-9c6b-3fc6334bcdc9/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_.jpeg" group-title="Prime Video Sports",Predator Pro Billiard Series: San Antonio
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
 
 #EXTINF:-1 tvg-id="amzn1.dv.gti.7a3d7323-e511-470d-bbfb-71b85571f70f" tvg-name="Galatasaray vs. Aston Villa" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7a3d7323-e511-470d-bbfb-71b85571f70f/4/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/vixplusus/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1210,924,631,78_kve605cd1a6788e0aa1b8de638dc6e2d8b_.png" group-title="Prime Video Sports",Galatasaray vs. Aston Villa
 #KODIPROP:inputstream=inputstream.adaptive
@@ -39,7 +32,7 @@ https://a91live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZj
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd
 
 #EXTINF:-1 tvg-id="amzn1.dv.gti.6791c90a-44ec-4aff-9efe-eb46083b35cf" tvg-name="The Golazo Show" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6791c90a-44ec-4aff-9efe-eb46083b35cf/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/cbsaacf/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1346,885,495,117_kv4600e6e6b6650a7b1b1d469e8b864fb4_.jpeg" group-title="Prime Video Sports",The Golazo Show
 #KODIPROP:inputstream=inputstream.adaptive
@@ -48,7 +41,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/
 #KODIPROP:inputstream.adaptive.license_key=acf65afa1e6e1c2fb808dc3e9e737659:ae35255a282fa1645f25e8e9e92d2ae2
 https://a121live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprGaLeBhprBdxeA2Zha2FtYWkCeChmaWQ6MDFhMjBlZTQtZDIxZi03Mzg5LWI2M2QtNGY0NjBmM2QzMmU3GQE4oQWhAngzL29hNHZrcGNuZW8vb3V0L3YxLzJlMGM1ZTNhYmNmMDQ3MzE5MDExODdhN2M5YjM3NjdiWCCXbQ_KBWm4WhJ9a5EA0mYyxx3Z5P7xDy4fYvHC54_i4A/IAD/b02a829dcf96446497e1578b998d890e/v1/dash/746463508834/paramount_aha_amzn1_dv_live_csid_56f960c3-2230-4fee-977c-d5b23824de9e_us-east-1_iad_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-iad-prod/enc/oa4vkpcneo/out/v1/2e0c5e3abcf04731901187a7c9b3767b/fb50644b-69a3-4c23-b2cd-654fe9458681-cenc.mpd?aws.sessionId=b398afe5-1b42-4796-ba1f-3ff47924af96
 
-#EXTINF:-1 tvg-id="amzn1.dv.gti.12f12f17-a1f8-4684-9348-7b48784f5476" tvg-name="Calcio Como 1907 vs. AEK Athens" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.12f12f17-a1f8-4684-9348-7b48784f5476/3/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/vixplusus/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1210,924,631,78_kve605cd1a6788e0aa1b8de638dc6e2d8b_.png" group-title="Prime Video Sports",Calcio Como 1907 vs. AEK Athens
+#EXTINF:-1 tvg-id="amzn1.dv.gti.12f12f17-a1f8-4684-9348-7b48784f5476" tvg-name="Calcio Como 1907 vs. AEK Athens" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.12f12f17-a1f8-4684-9348-7b48784f5476/4/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/vixplusus/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1210,924,631,78_kve605cd1a6788e0aa1b8de638dc6e2d8b_.png" group-title="Prime Video Sports",Calcio Como 1907 vs. AEK Athens
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -76,7 +69,7 @@ https://a99live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZj
 #KODIPROP:inputstream.adaptive.license_key=5884bb5909efeb5f5d1a6021da2f2be3:cfbd0eb6bd9a9328b965df81e867e12b
 https://a161live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprGaLdBhprBdxdA2Zha2FtYWkCeChmaWQ6MDFhMjBlZTQtY2JiNS03MjM5LTk3YjctNTY4NjkyZWNlODY4GQE4oQWhAngzL29kNXM2MWk0ZWwvb3V0L3YxLzhkYWQyNjE4OWJkOTRiMjRiYzViZDYzMWViMmRhM2IwWCDSh0uUCnWRlR9vKbKJPRklvGqrEG_p3s4p_kp4WhWTcQ/IAD/943f54c3d4f14fcaba181d50f754f4cf/v1/dash/746463508834/paramount_aha_amzn1_dv_live_csid_f71a5dc2-0c36-4b7c-8ef4-7007816170db_us-east-1_iad_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-iad-prod/enc/od5s61i4el/out/v1/8dad26189bd94b24bc5bd631eb2da3b0/05e0d647-2f95-400a-9d49-807abbbc6ff4-cenc.mpd?aws.sessionId=8a939c4a-dd43-450f-ac50-e98dafe5fce7
 
-#EXTINF:-1 tvg-id="amzn1.dv.gti.15f7fb5f-e8f8-4a19-b340-5b03a5fe99e0" tvg-name="Arsenal vs. Dortmund" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.15f7fb5f-e8f8-4a19-b340-5b03a5fe99e0/6/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/vixplusus/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1210,924,631,78_kve605cd1a6788e0aa1b8de638dc6e2d8b_.png" group-title="Prime Video Sports",Arsenal vs. Dortmund
+#EXTINF:-1 tvg-id="amzn1.dv.gti.15f7fb5f-e8f8-4a19-b340-5b03a5fe99e0" tvg-name="Arsenal vs. Dortmund" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.15f7fb5f-e8f8-4a19-b340-5b03a5fe99e0/7/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/vixplusus/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1210,924,631,78_kve605cd1a6788e0aa1b8de638dc6e2d8b_.png" group-title="Prime Video Sports",Arsenal vs. Dortmund
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
