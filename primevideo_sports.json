@@ -1,31 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "11:32 PM 24-11-2026",
+    "LastUpdate": "12:02 AM 25-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 7,
-    "UpcomingCount": 1
+    "LiveCount": 6,
+    "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "amzn1.dv.gti.4943feea-b2e8-4a7b-9a72-ad286135ae0a",
-      "title": "Nov 24 - PTT Barcelona",
-      "synopsis": "Nov 24 - PTT Barcelona",
-      "status": "LIVE",
-      "time": "2 PM BDT",
-      "start_epoch": null,
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4943feea-b2e8-4a7b-9a72-ad286135ae0a/4/BOXART-16X9/en-US._UR1920,1080_.png",
-      "match_url": "https://www.primevideo.com/region/na/detail/0JHRCDPGWOBP768T46SA5P5SSQ?jic=8%7CEgNhbGw%3D&ref_=atv_hm_spo_c_10rJPH_2_1",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABKZS77AAAAAAAAMOKG5OEKJEKMDX.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprGX6JBhprBbgJA2pjbG91ZGZyb250AngoZmlkOjAxYTIwZTU2LWU2NDEtNzA3ZC05NjZhLWE3OGIzNTM2ZTkzYhkBOKEFoQJ4My9jeGxqdGJsbGFxL291dC92MS84NTE3NmQ2OGFmNTY0Zjg4YWMwOTQxMzA1MjgxZGMyYVggvcBtplB1KJ5-d5gHKanj6J5LhmpGOdnD-iEEc5Nee64/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/cxljtbllaq/out/v1/85176d68af564f88ac0941305281dc2a/e7247e58-28d2-4704-9b6f-50a648a08f78-cenc.mpd"
-      },
-      "stream_url_bravo": "",
-      "drm_key": "82aa0ba75025a49be0a956e6246f35ba:a77b2238c2f2d6b6e1491c3c4e9a8f9d"
-    },
     {
       "match_id": "amzn1.dv.gti.86d08357-690a-49e0-923b-4742c13af531",
       "title": "Triton Poker Series Cyprus-$100K NLH Main Event",
@@ -34,7 +18,7 @@
       "time": "6 PM BDT",
       "start_epoch": null,
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.86d08357-690a-49e0-923b-4742c13af531/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_.jpeg",
-      "match_url": "https://www.primevideo.com/region/na/detail/0N4XRJOXSIW9IKG3FNVQOCRM7L?jic=8%7CEgNhbGw%3D&ref_=atv_hm_spo_c_10rJPH_2_2",
+      "match_url": "https://www.primevideo.com/region/na/detail/0N4XRJOXSIW9IKG3FNVQOCRM7L?jic=8%7CEgNhbGw%3D&ref_=atv_hm_spo_c_10rJPH_2_1",
       "is_free": false,
       "stream_url": {
         "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd",
@@ -58,37 +42,13 @@
       "time": "7 PM BDT",
       "start_epoch": null,
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3d140746-95f4-46e7-9e75-15436d58aa85/4/BOXART-16X9/en-US._UR1920,1080_.png",
-      "match_url": "https://www.primevideo.com/region/na/detail/0IRS91WJ5KJX4UPT0RFBALJ4HX?jic=8%7CEgNhbGw%3D&ref_=atv_hm_spo_c_10rJPH_2_3",
+      "match_url": "https://www.primevideo.com/region/na/detail/0IRS91WJ5KJX4UPT0RFBALJ4HX?jic=8%7CEgNhbGw%3D&ref_=atv_hm_spo_c_10rJPH_2_2",
       "is_free": false,
       "stream_url": {
         "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprGX6PBhprBbgPA2ZmYXN0bHkCeChmaWQ6MDFhMjBlNTYtZmE4MC03NDI3LWFmODgtNTVhOWIxMTA5MmI1GQE4oQWhAngzL2VxcXRqa2EwbHUvb3V0L3YxLzNkNDEyNjFhMDFlNzQ5MTQ5YTRkZDMzZTcyODYyNTMzWCDIwvn37TM8ghwmaIktI7-nL_o49p4Ubw1mqvkfTTwx9g/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/eqqtjka0lu/out/v1/3d41261a01e749149a4dd33e72862533/ebb5f780-9a7f-4dc2-a697-8c7d30f27575-cenc.mpd"
       },
       "stream_url_bravo": "",
       "drm_key": "c7c26b9bf8b7d1f769737fe27fc47549:cae927345d129e4a6dd158bd7ecd1ee0"
-    },
-    {
-      "match_id": "amzn1.dv.gti.86a0a633-444c-4252-b7bb-32ddc30cebc9",
-      "title": "Pakistan Shaheens vs. Nepal",
-      "synopsis": "Pakistan Shaheens vs. Nepal",
-      "status": "LIVE",
-      "time": "7:30 PM BDT",
-      "start_epoch": null,
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.86a0a633-444c-4252-b7bb-32ddc30cebc9/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_.jpeg",
-      "match_url": "https://www.primevideo.com/region/na/detail/0N4JF430ULK5QM67TBDBSIAUO9?jic=8%7CEgNhbGw%3D&ref_=atv_hm_spo_c_10rJPH_2_4",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
-      },
-      "stream_url_bravo": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
-      },
-      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
       "match_id": "amzn1.dv.gti.5a89e94e-2991-4503-9c6b-3fc6334bcdc9",
@@ -98,7 +58,7 @@
       "time": "9 PM BDT",
       "start_epoch": null,
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5a89e94e-2991-4503-9c6b-3fc6334bcdc9/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_.jpeg",
-      "match_url": "https://www.primevideo.com/region/na/detail/0KIKN9GKK3FJZDHN5ZYACHVBNT?jic=8%7CEgNhbGw%3D&ref_=atv_hm_spo_c_10rJPH_2_7",
+      "match_url": "https://www.primevideo.com/region/na/detail/0KIKN9GKK3FJZDHN5ZYACHVBNT?jic=8%7CEgNhbGw%3D&ref_=atv_hm_spo_c_10rJPH_2_4",
       "is_free": false,
       "stream_url": {
         "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd",
@@ -122,7 +82,7 @@
       "time": "10:55 PM BDT",
       "start_epoch": null,
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7a3d7323-e511-470d-bbfb-71b85571f70f/4/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/vixplusus/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1210,924,631,78_kve605cd1a6788e0aa1b8de638dc6e2d8b_.png",
-      "match_url": "https://www.primevideo.com/region/na/detail/0ME4Z0CCOCUTTLKJC2GRG3JV2N?jic=8%7CEgNhbGw%3D&ref_=atv_hm_spo_c_10rJPH_2_11",
+      "match_url": "https://www.primevideo.com/region/na/detail/0ME4Z0CCOCUTTLKJC2GRG3JV2N?jic=8%7CEgNhbGw%3D&ref_=atv_hm_spo_c_10rJPH_2_7",
       "is_free": false,
       "stream_url": {
         "Original Server": "https://ABKZLCWAAAAAAAAMG2VD4L57RSHHG.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprGYKfBhprBbwfA2pjbG91ZGZyb250AngoZmlkOjAxYTIwZTY2LWRhOWUtNzY5Ni1iMDMxLTVjNmM0ZjUwMzZjYhkBOKEFoQJ4My90aWlwNTRleWhiL291dC92MS8xNDg5MTM4MjFlZjk0MzI2YTBiYWRjMTg1ZmQ5ZTY5NVggsKImcr0_SOFPRJZ00VBo5XLTk-oa37b9tPrGA_fWT-E/IAD/149e804df0ba43a0a9f9d6f6b0fadcb4/v1/dash/746463508834/paramount_aha_amzn1_dv_live_csid_ba31cd4d-45ee-4e0c-8102-813d4559ee23_us-east-1_iad_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-iad-prod/enc/tiip54eyhb/out/v1/148913821ef94326a0badc185fd9e695/5cfe0f4f-993a-4e3c-b801-99030341809d-cenc.mpd?aws.sessionId=6cc61caa-e331-4497-8f3d-07f38af47a78"
@@ -134,11 +94,11 @@
       "match_id": "amzn1.dv.gti.1d7aedca-bb23-49bc-aae9-9ddf88b2a29c",
       "title": "Bodø/Glimt vs. LASK",
       "synopsis": "Bodø/Glimt vs. LASK",
-      "status": "UPCOMING",
-      "time": "Live at 11:45 PM BDT",
+      "status": "LIVE",
+      "time": "11:45 PM BDT",
       "start_epoch": null,
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1d7aedca-bb23-49bc-aae9-9ddf88b2a29c/7/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_.png",
-      "match_url": "https://www.primevideo.com/region/na/detail/0GWFUKLEFA4L8MSQ55D30ZPJMK?jic=8%7CEgNhbGw%3D&ref_=atv_hm_spo_c_10rJPH_2_12",
+      "match_url": "https://www.primevideo.com/region/na/detail/0GWFUKLEFA4L8MSQ55D30ZPJMK?jic=8%7CEgNhbGw%3D&ref_=atv_hm_spo_c_10rJPH_2_8",
       "is_free": false,
       "stream_url": {
         "Original Server": "https://live-emt-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprGZCsBhprBcosA2ZmYXN0bHkCeChmaWQ6MDFhMjBlOWQtYmVlMi03Mjk2LThkZGQtNTVlOTUyMGI4MTE0GQE4oQWhAngzL2t1NDNhZXUyN3gvb3V0L3YxLzFhNGRkZmFhOWJjYjRlYzM5ODJmODVmOTNmYTBlNGNjWCBhIT8vbyxYHF7wI3AMlIui0U118Pwx0TH-1f4X4_FR0A/CMH/08c1316cb639415bb0e828c5415277ce/v1/dash/746463508834/paramount_aha_amzn1_dv_live_csid_3fc3f65f-f975-4f94-a2a0-27da89d9a265_us-east-1_cmh_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-iad-prod/enc/ku43aeu27x/out/v1/1a4ddfaa9bcb4ec3982f85f93fa0e4cc/a6a376d4-bd65-44b7-97f7-50802ff8ce4b-cenc.mpd?aws.sessionId=1d3659ca-d66f-4dd7-938a-81cb2d18f434"
@@ -154,7 +114,7 @@
       "time": "11:30 PM BDT",
       "start_epoch": null,
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69ed4ad1-d25c-4a39-bd19-5e6a662c72fa/2/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_.png",
-      "match_url": "https://www.primevideo.com/region/na/detail/0LFDBROKPFETGFIDTFIZF1N7JU?jic=8%7CEgNhbGw%3D&ref_=atv_hm_spo_c_10rJPH_2_14",
+      "match_url": "https://www.primevideo.com/region/na/detail/0LFDBROKPFETGFIDTFIZF1N7JU?jic=8%7CEgNhbGw%3D&ref_=atv_hm_spo_c_10rJPH_2_10",
       "is_free": false,
       "stream_url": {
         "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd",
