@@ -1,7 +1,7 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "07:02 PM 26-11-2026",
+    "LastUpdate": "07:32 PM 26-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
@@ -62,18 +62,35 @@
       "drm_key": "0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd"
     },
     {
-      "match_id": "B0HR9251YV",
-      "title": "Nov 26 - PTT Buenos Aires",
-      "synopsis": "Nov 26 - PTT Buenos Aires",
+      "match_id": "B0HP1436RK",
+      "title": "Italia: Super Four Game Four",
+      "synopsis": "Italia: Super Four Game Four",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6526a72-f718-4d2d-8b3a-91a45f9928dc/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HR9251YV",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.91660024-858e-4d94-b419-ed386a9c1a09/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HP1436RK",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprG_RoBhprCC3oA2ZmYXN0bHkCeChmaWQ6MDFhMjE3ZjMtNTM2My03NWYwLThhMWQtZDgzNGZmZWUyMDA0GQE4oQWhAngzL3pocjR0YXAzOWQvb3V0L3YxLzJkZWE1M2U3NTg5YTQ3Njg5ZTIzYmJiYjBmODJiNTFmWCDlBqI2v8xhuiZS-X5pCkcNIMW0HZJ-04GnwbpxqphV1g/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/zhr4tap39d/out/v1/2dea53e7589a47689e23bbbb0f82b51f/d77d1b93-2026-4a4b-9b9d-50b5e0e54dba-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd"
       },
-      "drm_key": "0b6d98cb6cfaf97a67812414a96f6fee:835044e090cd29896f8fe673b74690ce"
+      "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
+    },
+    {
+      "match_id": "B0HS3W4888",
+      "title": "Nov 26 - PTT Barcelona",
+      "synopsis": "Nov 26 - PTT Barcelona",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.58c4d8a3-dade-4ca0-81b1-16e5e9524f35/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HS3W4888",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a72live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprG64iBhprB-eiA2Zha2FtYWkCeChmaWQ6MDFhMjE2ZTAtZDJlNS03NmZhLTllMGMtZTdkNWI0YzU2NDk3GQE4oQWhAngzL2wxcmNxdDVjamQvb3V0L3YxL2QxZjhhMjdlYzNhNDQwNmZhMzE2ZjY5MjczMTJiMDRjWCD5Z2A4Io-cIkNBNOf6-uP6ThdL1yTehPvtDe5Qpujs2g/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/l1rcqt5cjd/out/v1/d1f8a27ec3a4406fa316f6927312b04c/72e30546-10c3-4944-a09f-7a2a4a390291-cenc.mpd"
+      },
+      "drm_key": "ec992e348b4e83f8c36f39d44a52082b:cf3fa4236d108f7d654111256602a65b"
     },
     {
       "match_id": "B0HRYV17V7",
@@ -104,35 +121,18 @@
       "drm_key": "9ee180f5a504110b9d8393abd932b529:bea6a08284f30d99ad9526e8d9a224b2"
     },
     {
-      "match_id": "B0HS3W4888",
-      "title": "Nov 26 - PTT Barcelona",
-      "synopsis": "Nov 26 - PTT Barcelona",
+      "match_id": "B0HR9251YV",
+      "title": "Nov 26 - PTT Buenos Aires",
+      "synopsis": "Nov 26 - PTT Buenos Aires",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.58c4d8a3-dade-4ca0-81b1-16e5e9524f35/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HS3W4888",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e6526a72-f718-4d2d-8b3a-91a45f9928dc/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HR9251YV",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://a72live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprG64iBhprB-eiA2Zha2FtYWkCeChmaWQ6MDFhMjE2ZTAtZDJlNS03NmZhLTllMGMtZTdkNWI0YzU2NDk3GQE4oQWhAngzL2wxcmNxdDVjamQvb3V0L3YxL2QxZjhhMjdlYzNhNDQwNmZhMzE2ZjY5MjczMTJiMDRjWCD5Z2A4Io-cIkNBNOf6-uP6ThdL1yTehPvtDe5Qpujs2g/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/l1rcqt5cjd/out/v1/d1f8a27ec3a4406fa316f6927312b04c/72e30546-10c3-4944-a09f-7a2a4a390291-cenc.mpd"
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprG_RoBhprCC3oA2ZmYXN0bHkCeChmaWQ6MDFhMjE3ZjMtNTM2My03NWYwLThhMWQtZDgzNGZmZWUyMDA0GQE4oQWhAngzL3pocjR0YXAzOWQvb3V0L3YxLzJkZWE1M2U3NTg5YTQ3Njg5ZTIzYmJiYjBmODJiNTFmWCDlBqI2v8xhuiZS-X5pCkcNIMW0HZJ-04GnwbpxqphV1g/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/zhr4tap39d/out/v1/2dea53e7589a47689e23bbbb0f82b51f/d77d1b93-2026-4a4b-9b9d-50b5e0e54dba-cenc.mpd"
       },
-      "drm_key": "ec992e348b4e83f8c36f39d44a52082b:cf3fa4236d108f7d654111256602a65b"
-    },
-    {
-      "match_id": "B0HR4LKK5S",
-      "title": "Italia: Super Four Game Three",
-      "synopsis": "Italia: Super Four Game Three",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.131c2c38-f7c2-4a0b-88ed-367b2ec66ebe/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HR4LKK5S",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd"
-      },
-      "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
+      "drm_key": "0b6d98cb6cfaf97a67812414a96f6fee:835044e090cd29896f8fe673b74690ce"
     }
   ]
 }
