@@ -1,26 +1,32 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "10:02 AM 26-11-2026",
+    "LastUpdate": "10:46 AM 26-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 0,
-    "UpcomingCount": 20
+    "LiveCount": 1,
+    "UpcomingCount": 19
   },
   "Matches": [
     {
       "match_id": "B0HN5TK1Q2",
       "title": "Womens Big Bash League 2026 - 34th Match - Sydney Thunder Women vs Adelaide Strikers Women",
       "synopsis": "Womens Big Bash League 2026 - 34th Match - Sydney Thunder Women vs Adelaide Strikers Women",
-      "status": "UPCOMING",
-      "time": "Live at 10:40 AM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c2944926-df27-4eab-a989-41d34998cdec/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "10:25 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c2944926-df27-4eab-a989-41d34998cdec/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HN5TK1Q2?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v2yxukjfq7/out/v1/d093cf88ecf4409bb4826370dd3a6ae1/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v2yxukjfq7/out/v1/d093cf88ecf4409bb4826370dd3a6ae1/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/v2yxukjfq7/out/v1/d093cf88ecf4409bb4826370dd3a6ae1/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/v2yxukjfq7/out/v1/d093cf88ecf4409bb4826370dd3a6ae1/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/v2yxukjfq7/out/v1/d093cf88ecf4409bb4826370dd3a6ae1/cenc.mpd"
+      },
+      "drm_key": "3f5ea90db87fe08afdd98d45ed35b738:bb6170ee6b9e08576c32f534ee44c3e2"
     },
     {
       "match_id": "B0HMKWT91B",
