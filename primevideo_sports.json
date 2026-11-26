@@ -1,23 +1,37 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "02:02 PM 26-11-2026",
+    "LastUpdate": "02:32 PM 26-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
     {
-      "match_id": "B0HF9XVN3G",
-      "title": "Sydney Thunder vs. Adelaide Strikers",
-      "synopsis": "Sydney Thunder vs. Adelaide Strikers",
+      "match_id": "B0HRYV17V7",
+      "title": "FIM MiniGP-2026 FIM MotoMini World Final",
+      "synopsis": "FIM MiniGP-2026 FIM MotoMini World Final",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.0851e17e-a67f-4b04-8b3f-562d5579056d/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HF9XVN3G",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.ce9d91cf-6d10-4956-8831-788bc7a0f961/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HRYV17V7",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABAGKU5AAAAAAAAMIGIPU4HPZISNN.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprG64hBhprB-ehA2pjbG91ZGZyb250AngoZmlkOjAxYTIxNmUwLWNjZWEtNzA3Yi04MWRlLWJmM2ZmNjVjZDM5NxkBOKEFoQJ4My9saW55ZjFwenphL291dC92MS84MTk3YzhlMDU1Yzk0YTg2ODYyMzY1M2FjNTVjMTBiZlgg648sK7uX2DpG6SkaHjxCaoj6Sfdvb5LFcsXoPIJcRrk/CMH/c1018b7fd2574de2b5dbed71665bc922/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_cmh_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/linyf1pzza/out/v1/8197c8e055c94a868623653ac55c10bf/ee26dd47-ad21-4262-aeec-3f7a130265f1-cenc.mpd?aws.sessionId=6f5cc550-0986-4ffe-b556-db678eb71bce"
+      },
+      "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
+    },
+    {
+      "match_id": "B0HKL77CBC",
+      "title": "Sydney Sixers vs. Melbourne Stars",
+      "synopsis": "Sydney Sixers vs. Melbourne Stars",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.e2e24507-7e49-4de5-bb95-ff3f56c8cec9/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKL77CBC",
       "is_free": false,
       "stream_url": {
         "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
@@ -45,34 +59,6 @@
       "drm_key": "41901192b980eddd911c8cd7e5c516df:fabf22ee583ee08d1638dc18578d5174"
     },
     {
-      "match_id": "B0HRYV17V7",
-      "title": "FIM MiniGP-2026 FIM MotoMini World Final",
-      "synopsis": "FIM MiniGP-2026 FIM MotoMini World Final",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.ce9d91cf-6d10-4956-8831-788bc7a0f961/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HRYV17V7",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABAGKU5AAAAAAAAMIGIPU4HPZISNN.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprG64hBhprB-ehA2pjbG91ZGZyb250AngoZmlkOjAxYTIxNmUwLWNjZWEtNzA3Yi04MWRlLWJmM2ZmNjVjZDM5NxkBOKEFoQJ4My9saW55ZjFwenphL291dC92MS84MTk3YzhlMDU1Yzk0YTg2ODYyMzY1M2FjNTVjMTBiZlgg648sK7uX2DpG6SkaHjxCaoj6Sfdvb5LFcsXoPIJcRrk/CMH/c1018b7fd2574de2b5dbed71665bc922/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_cmh_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/linyf1pzza/out/v1/8197c8e055c94a868623653ac55c10bf/ee26dd47-ad21-4262-aeec-3f7a130265f1-cenc.mpd?aws.sessionId=6f5cc550-0986-4ffe-b556-db678eb71bce"
-      },
-      "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
-    },
-    {
-      "match_id": "B0HS3W4888",
-      "title": "Nov 26 - PTT Barcelona",
-      "synopsis": "Nov 26 - PTT Barcelona",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.58c4d8a3-dade-4ca0-81b1-16e5e9524f35/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HS3W4888",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a72live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprG64iBhprB-eiA2Zha2FtYWkCeChmaWQ6MDFhMjE2ZTAtZDJlNS03NmZhLTllMGMtZTdkNWI0YzU2NDk3GQE4oQWhAngzL2wxcmNxdDVjamQvb3V0L3YxL2QxZjhhMjdlYzNhNDQwNmZhMzE2ZjY5MjczMTJiMDRjWCD5Z2A4Io-cIkNBNOf6-uP6ThdL1yTehPvtDe5Qpujs2g/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/l1rcqt5cjd/out/v1/d1f8a27ec3a4406fa316f6927312b04c/72e30546-10c3-4944-a09f-7a2a4a390291-cenc.mpd"
-      },
-      "drm_key": "ec992e348b4e83f8c36f39d44a52082b:cf3fa4236d108f7d654111256602a65b"
-    },
-    {
       "match_id": "B0HRSGGJF6",
       "title": "Nov 26 - PTT Gyor",
       "synopsis": "Nov 26 - PTT Gyor",
@@ -87,21 +73,18 @@
       "drm_key": "9ee180f5a504110b9d8393abd932b529:bea6a08284f30d99ad9526e8d9a224b2"
     },
     {
-      "match_id": "B0HN5TK1Q2",
-      "title": "Womens Big Bash League 2026 - 34th Match - Sydney Thunder Women vs Adelaide Strikers Women",
-      "synopsis": "Womens Big Bash League 2026 - 34th Match - Sydney Thunder Women vs Adelaide Strikers Women",
+      "match_id": "B0HS3W4888",
+      "title": "Nov 26 - PTT Barcelona",
+      "synopsis": "Nov 26 - PTT Barcelona",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.c2944926-df27-4eab-a989-41d34998cdec/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HN5TK1Q2",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.58c4d8a3-dade-4ca0-81b1-16e5e9524f35/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HS3W4888",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v2yxukjfq7/out/v1/d093cf88ecf4409bb4826370dd3a6ae1/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v2yxukjfq7/out/v1/d093cf88ecf4409bb4826370dd3a6ae1/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/v2yxukjfq7/out/v1/d093cf88ecf4409bb4826370dd3a6ae1/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/v2yxukjfq7/out/v1/d093cf88ecf4409bb4826370dd3a6ae1/cenc.mpd"
+        "Original Server": "https://a72live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprG64iBhprB-eiA2Zha2FtYWkCeChmaWQ6MDFhMjE2ZTAtZDJlNS03NmZhLTllMGMtZTdkNWI0YzU2NDk3GQE4oQWhAngzL2wxcmNxdDVjamQvb3V0L3YxL2QxZjhhMjdlYzNhNDQwNmZhMzE2ZjY5MjczMTJiMDRjWCD5Z2A4Io-cIkNBNOf6-uP6ThdL1yTehPvtDe5Qpujs2g/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/l1rcqt5cjd/out/v1/d1f8a27ec3a4406fa316f6927312b04c/72e30546-10c3-4944-a09f-7a2a4a390291-cenc.mpd"
       },
-      "drm_key": "3f5ea90db87fe08afdd98d45ed35b738:bb6170ee6b9e08576c32f534ee44c3e2"
+      "drm_key": "ec992e348b4e83f8c36f39d44a52082b:cf3fa4236d108f7d654111256602a65b"
     }
   ]
 }
