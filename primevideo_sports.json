@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "11:32 PM 27-11-2026",
+    "LastUpdate": "12:02 AM 28-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 13,
-    "UpcomingCount": 0
+    "LiveCount": 12,
+    "UpcomingCount": 1
   },
   "Matches": [
     {
@@ -23,6 +23,37 @@
         "Original Server": "https://a42live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprHVsFBhprCZSFA2Zha2FtYWkCeChmaWQ6MDFhMjFkNmMtMjk3Yi03NWQ1LTkxYzItOTQ5OTFmMWIzNGRhGQE4oQWhAngzL3RldXRvb21ldXIvb3V0L3YxLzQ0NGRjNDAwOWM3ZDRlMTU4NzAwY2Y4YTk5YjA0ZGYxWCBOlbeF8G5y-xQ-pn31nuNvN53I2qQ4yXHwOCifHSXFrQ/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/teutoomeur/out/v1/444dc4009c7d4e158700cf8a99b04df1/7c816e1d-b02c-4235-91af-861059839a5c-cenc.mpd"
       },
       "drm_key": "46bd9f3ce17eb88f69726f1a594a965d:6950113934ae3657ef747ba3123aeb19"
+    },
+    {
+      "match_id": "B0GH7DNSZX",
+      "title": "Unknown Match",
+      "synopsis": "Unknown Match",
+      "status": "UPCOMING",
+      "time": "Live at 12:30 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/sonata-images-prod/US_SVOD_TNF26_1127_LiveToday/09b8948e-d4e8-4593-8bfc-4c4c96cc1c1a._UR3840,1440_SX2160_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0GH7DNSZX",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABDJH7DAAAAAAAAMFZV74IP6JOEUI.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprHYw5BhprCcW5A2pjbG91ZGZyb250AngoZmlkOjAxYTIxZTJjLTVkMzEtNzc0MS05NjgzLTBiNWY0Mjc5YTQ4YRkBOKEFoQJ4My9ncW1hc2JwcXZhL291dC92MS82MjQzNGE0MzE2YzQ0NmRiOGUwZDE0NGM0NzM0NWNkNlgg9UnIYEg8fTyC7IhWIwgqJhoGID71tWqCpwaQ-6p89A4/PDX/4a232dd16b634b44ad339a8f4ed17dd6/v1/dash/396202602859/tnf_amzn1_dv_live_csid_8bec13d5-c5c4-4866-a09c-82c212a1a273_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/gqmasbpqva/out/v1/62434a4316c446db8e0d144c47345cd6/f3b57dcf-5832-4ff7-8f96-69595bb6a78e-cenc.mpd?aws.sessionId=8d669d63-f71b-4c6f-8026-1ae0d6ab6627"
+      },
+      "drm_key": "b9212ad98a1838045e31115f3535633b:54970af54043cdb9b4d26d5087bb664c"
+    },
+    {
+      "match_id": "B0HSY2LHVR",
+      "title": "LIVE: BWP 1 Dubai",
+      "synopsis": "LIVE: BWP 1 Dubai",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.52f1d4fe-59e6-49fd-8b46-a4e12f10f542/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HSY2LHVR",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lbgomzfdel/out/v1/99687c04728943498f884d9bf6a0c837/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lbgomzfdel/out/v1/99687c04728943498f884d9bf6a0c837/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lbgomzfdel/out/v1/99687c04728943498f884d9bf6a0c837/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lbgomzfdel/out/v1/99687c04728943498f884d9bf6a0c837/cenc.mpd"
+      },
+      "drm_key": "1918ddf008413696077e06138983c5f9:2d66e0d80ca9ac6ad8b8c230a97f74b4"
     },
     {
       "match_id": "B0HLPZ7C1X",
@@ -42,38 +73,18 @@
       "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
     },
     {
-      "match_id": "B0HRS279TZ",
-      "title": "Auburn vs. Syracuse",
-      "synopsis": "Auburn vs. Syracuse",
+      "match_id": "B0HL9JFSKY",
+      "title": "Qatar: Practice 2",
+      "synopsis": "Qatar: Practice 2",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.57cfa2bc-9d36-4583-a6ab-19fc6f4f2be1/2/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HRS279TZ",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.81639b1d-653b-4165-8f24-87a15a6c02ba/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HL9JFSKY",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd"
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprHYUwBhprCb6wA2ZmYXN0bHkCeChmaWQ6MDFhMjFlMTAtZTFkNi03NGU5LWJkNDktY2ExNDBjOGFhZmYxGQE4oQWhAngzL2EwcTczdHJkZmwvb3V0L3YxL2MwOTU0YzM5N2RjMzRmN2ZiNjUzNzBmZTM2MGJjYzMyWCByTQbjSfAh-XTK4ogMs3IhTfw4BQmQz0Y5XQ3zf-y9Bw/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/a0q73trdfl/out/v1/c0954c397dc34f7fb65370fe360bcc32/0778f3ce-7884-4353-a2b9-b13ee2069458-cenc.mpd"
       },
-      "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
-    },
-    {
-      "match_id": "B0HSY2LHVR",
-      "title": "LIVE: BWP 1 Dubai",
-      "synopsis": "LIVE: BWP 1 Dubai",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.52f1d4fe-59e6-49fd-8b46-a4e12f10f542/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HSY2LHVR",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lbgomzfdel/out/v1/99687c04728943498f884d9bf6a0c837/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lbgomzfdel/out/v1/99687c04728943498f884d9bf6a0c837/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lbgomzfdel/out/v1/99687c04728943498f884d9bf6a0c837/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lbgomzfdel/out/v1/99687c04728943498f884d9bf6a0c837/cenc.mpd"
-      },
-      "drm_key": "1918ddf008413696077e06138983c5f9:2d66e0d80ca9ac6ad8b8c230a97f74b4"
+      "drm_key": "9c5b92baaa6f930e230c27483ac6024d:ec280f75ffd1daaf89a5e0a80f58f72e"
     },
     {
       "match_id": "B0HLYYZKND",
@@ -141,18 +152,18 @@
       "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
     },
     {
-      "match_id": "B0HL9JFSKY",
-      "title": "Qatar: Practice 2",
-      "synopsis": "Qatar: Practice 2",
+      "match_id": "B0HS738Y6B",
+      "title": "Nov 27 - PTT Buenos Aires",
+      "synopsis": "Nov 27 - PTT Buenos Aires",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.81639b1d-653b-4165-8f24-87a15a6c02ba/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HL9JFSKY",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f2ee3e74-92af-4ec6-b3ef-bbe97fcbf2f4/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HS738Y6B",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprHYUwBhprCb6wA2ZmYXN0bHkCeChmaWQ6MDFhMjFlMTAtZTFkNi03NGU5LWJkNDktY2ExNDBjOGFhZmYxGQE4oQWhAngzL2EwcTczdHJkZmwvb3V0L3YxL2MwOTU0YzM5N2RjMzRmN2ZiNjUzNzBmZTM2MGJjYzMyWCByTQbjSfAh-XTK4ogMs3IhTfw4BQmQz0Y5XQ3zf-y9Bw/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/a0q73trdfl/out/v1/c0954c397dc34f7fb65370fe360bcc32/0778f3ce-7884-4353-a2b9-b13ee2069458-cenc.mpd"
+        "Original Server": "https://a45live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprHUXrBhprCX9rA2Zha2FtYWkCeChmaWQ6MDFhMjFkMTktYmJjNC03NWJjLWEyZDQtNDEwNTliYjAyZTMzGQE4oQWhAngzL3dlYXM4d3FmYmEvb3V0L3YxLzk5ZWI2YmY5YzliZDQwNTlhYjVhZjlhZTc4OGY4OTZlWCCrBMNFYKUOfLB6KCU7YeI14y-L6N0XNw_eiNGiil0lQg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/weas8wqfba/out/v1/99eb6bf9c9bd4059ab5af9ae788f896e/d7f1accd-b302-42f5-82c6-1ec3a378b102-cenc.mpd"
       },
-      "drm_key": "9c5b92baaa6f930e230c27483ac6024d:ec280f75ffd1daaf89a5e0a80f58f72e"
+      "drm_key": "71f698f6c9b147aa75fe5c57e4b637ba:1901f9e6d3cb797dfdd82d90c332f02d"
     },
     {
       "match_id": "B0HS5C8K7K",
@@ -172,23 +183,6 @@
       "drm_key": "76c58ac4712177bfd921342e3ff02a5e:343e96a54fc9a8649ab4448993ebad54"
     },
     {
-      "match_id": "B0HRF7RPH4",
-      "title": "Semifinal 2: TBA vs. TBA",
-      "synopsis": "Semifinal 2: TBA vs. TBA",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.2472b363-6551-454c-ab68-4f1c370ce8e1/9/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HRF7RPH4",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
-      },
-      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-    },
-    {
       "match_id": "B0HF8SZPDP",
       "title": "ACC Mens Asia Cup Rising Stars 2026 - 2nd Semi-Final - Pakistan A vs Bangladesh A",
       "synopsis": "ACC Mens Asia Cup Rising Stars 2026 - 2nd Semi-Final - Pakistan A vs Bangladesh A",
@@ -206,18 +200,18 @@
       "drm_key": "24dea51a9817383c884a175a7bc74549:86e7bd926119ff53f5eda7457afd8ee3"
     },
     {
-      "match_id": "B0HS738Y6B",
-      "title": "Nov 27 - PTT Buenos Aires",
-      "synopsis": "Nov 27 - PTT Buenos Aires",
+      "match_id": "B0HS3PNFXJ",
+      "title": "Nov 27 - PTT Barcelona",
+      "synopsis": "Nov 27 - PTT Barcelona",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f2ee3e74-92af-4ec6-b3ef-bbe97fcbf2f4/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HS738Y6B",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.379b3524-c8a8-4505-83c3-d5651fcbac49/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HS3PNFXJ",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://a45live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprHUXrBhprCX9rA2Zha2FtYWkCeChmaWQ6MDFhMjFkMTktYmJjNC03NWJjLWEyZDQtNDEwNTliYjAyZTMzGQE4oQWhAngzL3dlYXM4d3FmYmEvb3V0L3YxLzk5ZWI2YmY5YzliZDQwNTlhYjVhZjlhZTc4OGY4OTZlWCCrBMNFYKUOfLB6KCU7YeI14y-L6N0XNw_eiNGiil0lQg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/weas8wqfba/out/v1/99eb6bf9c9bd4059ab5af9ae788f896e/d7f1accd-b302-42f5-82c6-1ec3a378b102-cenc.mpd"
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprHYw6BhprCcW6A2ZmYXN0bHkCeChmaWQ6MDFhMjFlMmMtNjBjZC03NmQ4LThkY2EtYzQ5MDk2YjIyOTQ5GQE4oQWhAngzL3EzeTZtdnhkMmgvb3V0L3YxLzQ0MDljOWI4NmYzNzQ5N2Y5Y2Y0NDM0ZDZkNTZkZTMwWCDTUbxFtqoERSYeVK6qPPUuEHbau_cWAt_F0ndzfxtjhA/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/q3y6mvxd2h/out/v1/4409c9b86f37497f9cf4434d6d56de30/50828d7c-4bd4-491e-9122-85b92bdc02bf-cenc.mpd"
       },
-      "drm_key": "71f698f6c9b147aa75fe5c57e4b637ba:1901f9e6d3cb797dfdd82d90c332f02d"
+      "drm_key": "4e38d0a0e52d83e83843aea4bd1a7274:9b41814aff187cb096883f3db780cec4"
     }
   ]
 }
