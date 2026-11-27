@@ -1,31 +1,45 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "01:32 PM 27-11-2026",
+    "LastUpdate": "02:17 PM 27-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 2,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
     {
-      "match_id": "B0HRP91JNY",
-      "title": "LIVE: BMW Australian PGA Championship Day 2",
-      "synopsis": "LIVE: BMW Australian PGA Championship Day 2",
+      "match_id": "B0HQP28SSV",
+      "title": "Motul Grand Prix of Valencia, Free Practice 1",
+      "synopsis": "Motul Grand Prix of Valencia, Free Practice 1",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.d75e0c88-ee0f-4517-9de6-415fb2c766cd/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HRP91JNY",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.bd1c1423-bdf4-4bc5-80d7-061a0491a3db/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HQP28SSV",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd"
+        "Original Server": "https://ABBIOOGAAAAAAAAMAZ4MDG4IFUU2A.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprHQMwBhprCTywA2pjbG91ZGZyb250AngoZmlkOjAxYTIxYzE1LTExNzYtNzU1NC1iMTRlLTc5Njc2MmUyNTVlZBkBOKEFoQJ4My95bzJrNWRicG5zL291dC92MS84MTk3YzhlMDU1Yzk0YTg2ODYyMzY1M2FjNTVjMTBiZlggQ0lWzZYd7wsT9lp5BGRO2_ZsETCVh1QRiFJM3cz0KI0/CMH/c1018b7fd2574de2b5dbed71665bc922/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_cmh_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/yo2k5dbpns/out/v1/8197c8e055c94a868623653ac55c10bf/ba663a5e-7b93-4512-b3e5-7bad7ba4a73d-cenc.mpd?aws.sessionId=6117442b-3a1c-4e38-af0f-6f7d7e931614"
       },
-      "drm_key": "9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb"
+      "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
+    },
+    {
+      "match_id": "B0HJBQ33QT",
+      "title": "England tour of Australia 2026 - 3rd T20I - Australia vs England",
+      "synopsis": "England tour of Australia 2026 - 3rd T20I - Australia vs England",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.ddbe8abb-af5d-461b-b53d-2777ef05c33d/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJBQ33QT",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ihqh5jfdov/out/v1/77912028521b4e1eaf700aa1f1d57cb2/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ihqh5jfdov/out/v1/77912028521b4e1eaf700aa1f1d57cb2/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ihqh5jfdov/out/v1/77912028521b4e1eaf700aa1f1d57cb2/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ihqh5jfdov/out/v1/77912028521b4e1eaf700aa1f1d57cb2/cenc.mpd"
+      },
+      "drm_key": "74042336c8b0ea8aec8cfff587323e45:a0b6920e1735c7245036a2c53067fd49"
     },
     {
       "match_id": "B0HQ8GKLVN",
@@ -40,6 +54,20 @@
         "Original Server": "https://a26live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprHPiLBhprCTILA2Zha2FtYWkCeChmaWQ6MDFhMjFiZWItN2U1My03NDlkLThiMDktYzMwYjQ3YTMwZDZiGQE4oQWhAngzL3hxNXhmamhwa2cvb3V0L3YxLzQ4NjIxM2M1ZGU4MDRkODliNjAzNzQ1OGFlYWY0ZjY5WCBCsi2FYjoABVi2Jbete1XRg99DBlpL2_z1A6Mm5W2lKg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/xq5xfjhpkg/out/v1/486213c5de804d89b6037458aeaf4f69/53e4f1e1-b2c6-444c-a1bb-97abff1425ae-cenc.mpd"
       },
       "drm_key": "7635c03b7190d3cb86459177a1062e9b:5711047062fbebf7a46b0a7b9dbdf43b"
+    },
+    {
+      "match_id": "B0HS3PNFXJ",
+      "title": "Nov 27 - PTT Barcelona",
+      "synopsis": "Nov 27 - PTT Barcelona",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.379b3524-c8a8-4505-83c3-d5651fcbac49/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HS3PNFXJ",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABBIOOGAAAAAAAAMO5LPSU5YZGC22.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprHQM0BhprCTy0A2pjbG91ZGZyb250AngoZmlkOjAxYTIxYzE1LTFmZWQtNzJjZC05MTZiLTcxM2ViNTY1Mzk2MRkBOKEFoQJ4My9zbHdpdDJtaWltL291dC92MS9lMTMxMGFjZTJkY2Q0ZDA0OTA1NDhlYmU0NWVmOGJhYVggeWe_3D4quSfKreOLa892sQHIQzCwC5W9kTLcCASJBTQ/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/slwit2miim/out/v1/e1310ace2dcd4d0490548ebe45ef8baa/f9e09187-2522-41e5-8a36-c99d3429f048-cenc.mpd"
+      },
+      "drm_key": "4e38d0a0e52d83e83843aea4bd1a7274:9b41814aff187cb096883f3db780cec4"
     }
   ]
 }
