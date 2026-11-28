@@ -1,29 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "12:02 PM 28-11-2026",
+    "LastUpdate": "12:32 PM 28-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 7,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HNTNLLD5",
-      "title": "Lakers vs. Spurs",
-      "synopsis": "Lakers vs. Spurs",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7e0682ba-5890-43da-ba73-6c2ecf12f76c/11/BOXART-16X9/en-US/1920x1080._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HNTNLLD5",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a55live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprHhHOBhprCktOA2Zha2FtYWkCeChmaWQ6MDFhMjIwMzYtMmJjNy03MTRlLTg5YWMtMDMzYzBjNmE4ZDBjGQE4oQWhAngzLzFtcnJteXN1Z3Evb3V0L3YxL2VmMGU5ZjM0NDJhOTRhNjQ4ODdmMTVjOGIxYjlkN2ZkWCBh9jJ6BEhdnAbsZWo2ohpWweiINl7mF90VoMUpmOAiJA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/1mrrmysugq/out/v1/ef0e9f3442a94a64887f15c8b1b9d7fd/c51688ab-39e6-4aa4-a6f8-69ba61edf3a7-cenc.mpd"
-      },
-      "drm_key": "cff9d1d284a70d5fa027ac0804007543:c8c294cd059103a40c1db8f75ec71655"
-    },
     {
       "match_id": "B0HS7JZ7Y2",
       "title": "Hong Kong",
@@ -42,51 +28,6 @@
       "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
     },
     {
-      "match_id": "B0HMC669H2",
-      "title": "India tour of New Zealand 2026 - 2nd Test - New Zealand vs India",
-      "synopsis": "India tour of New Zealand 2026 - 2nd Test - New Zealand vs India",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.19313f89-c5fa-4a9c-9365-3678c06bba58/9/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HMC669H2",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/utkibvcc9z/out/v1/31b17c839ec64da6a802d79ec5dd4f77/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/utkibvcc9z/out/v1/31b17c839ec64da6a802d79ec5dd4f77/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/utkibvcc9z/out/v1/31b17c839ec64da6a802d79ec5dd4f77/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/utkibvcc9z/out/v1/31b17c839ec64da6a802d79ec5dd4f77/cenc.mpd"
-      },
-      "drm_key": "3a03ae3c3066640296a041f319d528b8:b757a6777c811bd3744a7cb4a722116b"
-    },
-    {
-      "match_id": "B0HR5Q45GF",
-      "title": "MLS El Resumen⁩",
-      "synopsis": "MLS El Resumen⁩",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.449cdf97-0d36-467c-892c-1abb422bb8ed/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HR5Q45GF",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprHjT1BhprCm51A2ZmYXN0bHkCeChmaWQ6MDFhMjIwYmYtN2FjNi03NjYzLWE2NWItZWEzMDQzMjY3YmRkGQE4oQWhAngzL3BvODU0cnl0eGovb3V0L3YxL2I0ODI5NTVkYWRhYTQ0N2FiOTNmNDAzMGY2ZDBiZjAxWCAmlWw-bbAp3frm47JEa72FEH86BeC6coz0JEFk8Pv0Ig/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/po854rytxj/out/v1/b482955dadaa447ab93f4030f6d0bf01/fdab6198-f233-4426-ab94-5d00c4d9f1ca-cenc.mpd"
-      },
-      "drm_key": "e7ef7e035feda31a08742e87934b1c0c:63bc235cc4c06d16f6d5ed2395648f94"
-    },
-    {
-      "match_id": "B0HN3BFJTB",
-      "title": "MLS Wrap-Up⁩",
-      "synopsis": "MLS Wrap-Up⁩",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.59560c63-b37f-46ee-b067-ef88ae57ca23/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HN3BFJTB",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABBI3NCAAAAAAAAMOB6J37GPF4USF.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprHjT2BhprCm52A2pjbG91ZGZyb250AngoZmlkOjAxYTIyMGJmLTdkOWYtNzYwNy1iYjRkLWZkZTQ5MzYyYTRhYhkBOKEFoQJ4My93YWtxaGJnNnM5L291dC92MS81MTU1YjdlNWEwMTk0MDA5OThmNTk2NmMxNmQ0NTRkZFggLBzlGfj1RG-XPaQS96C_7vb6b1_WgldfzWx9fLHnFrc/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/wakqhbg6s9/out/v1/5155b7e5a019400998f5966c16d454dd/1731b6ef-6857-4a97-a004-301dc5e88519-cenc.mpd"
-      },
-      "drm_key": "0363b6523c905779b7670f39e103b774:8886cd9d8abe5306f31086e6c61dff9b"
-    },
-    {
       "match_id": "B0HPP3B552",
       "title": "Melbourne Renegades vs. Melbourne Stars",
       "synopsis": "Melbourne Renegades vs. Melbourne Stars",
@@ -102,6 +43,23 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
       },
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
+      "match_id": "B0HMC669H2",
+      "title": "India tour of New Zealand 2026 - 2nd Test - New Zealand vs India",
+      "synopsis": "India tour of New Zealand 2026 - 2nd Test - New Zealand vs India",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.19313f89-c5fa-4a9c-9365-3678c06bba58/9/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HMC669H2",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/utkibvcc9z/out/v1/31b17c839ec64da6a802d79ec5dd4f77/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/utkibvcc9z/out/v1/31b17c839ec64da6a802d79ec5dd4f77/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/utkibvcc9z/out/v1/31b17c839ec64da6a802d79ec5dd4f77/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/utkibvcc9z/out/v1/31b17c839ec64da6a802d79ec5dd4f77/cenc.mpd"
+      },
+      "drm_key": "3a03ae3c3066640296a041f319d528b8:b757a6777c811bd3744a7cb4a722116b"
     },
     {
       "match_id": "B0HL52VQCV",
